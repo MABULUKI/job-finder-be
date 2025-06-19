@@ -1,0 +1,1001 @@
+seeker_id,name,skills,industry,education,location,experience_years,salary_expectation
+230d0a2c-6aa1-45ac-8a5c-757180f08f0b,Kevin Martinez,Tax|Special Needs|Tour Guiding|Hotel Management|Customer Service|Logistics,Tourism,Bachelor - University of Dodoma,Zanzibar,7,11506760
+d34cd69e-9aed-4814-91c9-731657ab8ad2,Luis Taylor,Nursing|Patient Care|Travel Planning|Clinical Research|AutoCAD,Healthcare,PhD - Sokoine University,Dodoma,4,16940465
+6fb1263f-e557-4d46-bbd7-31218c440a3e,Seth Cooke,Special Needs|Hotel Management|eLearning|Accounting|Teaching,Education,Diploma - Ardhi University,Zanzibar,14,12047639
+f1651fd2-bb27-4806-ba5b-6b02adfc7508,James Hess,Safety Compliance|Tax|Nursing|Civil Engineering|AutoCAD,Construction,Bachelor - Nelson Mandela Institute,Mwanza,12,16311884
+70432db0-6bae-4576-adf2-68708047ab7d,Richard Wilson,Patient Care|Site Management|Energy Auditing|Surveying|AutoCAD,Construction,Bachelor - Mzumbe University,Kilimanjaro,2,8441839
+3a10c79c-ba14-4bff-88be-32c5e2acf00a,Tara Goodman,Site Management|SQL|Lab Work|Surveying|AutoCAD,Construction,Bachelor - St. Augustine University,Kilimanjaro,9,10450405
+70c34067-f86b-4c55-a163-8cc6d8f57e69,Donald Austin,Nursing|Patient Care|Public Health,Healthcare,Diploma - Ardhi University,Arusha,15,10007581
+1bd47923-1026-40a8-bc55-0403a98153e6,Anne Jones,Tour Guiding|Public Health|Customer Service|Financial Analysis|Event Planning|Fleet Management,Tourism,Certificate - Muhimbili University,Kilimanjaro,10,10254056
+cb33dd48-8301-408c-a359-e096515cfd05,Casey Spencer,Curriculum Design|Counseling|Grid Management|Teaching,Education,PhD - University of Dodoma,Dodoma,13,13521855
+251353c1-e188-459d-8fb0-6eefdd6a5509,Scott Rowe,Special Needs|Tour Guiding|Excel|Auditing|Financial Analysis,Finance,Bachelor - Ardhi University,Arusha,4,10916190
+1521f1c6-c0d6-4c0f-a44b-c0ef238e2682,David Ramirez,Travel Planning|Hotel Management|AutoCAD|Linux|Event Planning,Tourism,Certificate - University of Dar es Salaam,Morogoro,6,10305877
+72f0125f-f9f8-4f21-b927-fa184223ee46,Ryan Jensen,Safety Compliance|Irrigation|Soil Science|Financial Analysis|Crop Science,Agriculture,Master - Muhimbili University,Arusha,7,9657887
+5c4f757a-6078-4da1-9cdb-9c3abbc6dd82,Samantha Snyder,Safety Compliance|Site Management|Public Health|Civil Engineering|Event Planning,Construction,Bachelor - University of Dar es Salaam,Mwanza,11,12396522
+6f797208-02f4-4656-b29d-03958c016114,Philip Campbell,Travel Planning|Customer Service|Event Planning,Tourism,Bachelor - Sokoine University,Kilimanjaro,10,4303222
+620c2c62-f521-4310-aefa-483561d27992,Kevin Lewis,Site Management|Irrigation|Electrical Engineering|Agribusiness|Crop Science,Agriculture,Diploma - Sokoine University,Zanzibar,11,11897764
+4cc4cf18-e994-41eb-9592-3547dfc18494,Kevin Brown,Livestock|Agribusiness|Irrigation|Crop Science,Agriculture,Diploma - Mzumbe University,Dar es Salaam,6,15181476
+62b54cb1-9d72-4b81-9ee3-a66c192154a1,Alexandra Wallace,Soil Science|Livestock|Agribusiness,Agriculture,Certificate - Mzumbe University,Dodoma,10,3376123
+e9407815-72f8-4411-aae7-614d4e2ef541,Dana Hill,Irrigation|Lab Work|Counseling|Teaching|Curriculum Design,Education,Master - University of Dar es Salaam,Arusha,15,15324275
+c2adeae7-43b4-46af-b0df-ac7af54bb9ca,Isaac Mata,Energy Auditing|Maintenance|Grid Management|Public Health,Energy,Diploma - Muhimbili University,Mbeya,2,3480524
+89af0461-885c-447a-9585-a9f871529fe3,Alexandra Pena,Cloud|Flutter|Django,ICT,Master - University of Dar es Salaam,Zanzibar,2,13891166
+800085d8-c480-4fd2-b1eb-65d3cd041c55,Claire Diaz,Patient Care|Lab Work|Irrigation|Public Health,Healthcare,Diploma - Muhimbili University,Mbeya,2,3363973
+7e126f7d-7f6a-4990-9f11-3a432e884fce,Paul Craig,Driving|Route Planning|AutoCAD|Fleet Management,Transport,Bachelor - Muhimbili University,Tanga,9,17975241
+6a5103dd-9406-4d22-8844-5dd6c5d7603d,Heidi Carrillo,SQL|Lab Work|Flutter|Soil Science|Dispatch|Android,ICT,Certificate - Muhimbili University,Morogoro,1,4221730
+7ee56dd3-01e2-440b-a1ac-55572915385f,Jessica Cooper,Agribusiness|Irrigation|Crop Science,Agriculture,Diploma - University of Dar es Salaam,Arusha,9,5971297
+09afa5a9-c76d-405d-83bc-962d948498cf,Jonathan Bond,Electrical Engineering|Energy Auditing|AutoCAD|Maintenance,Energy,Bachelor - Ardhi University,Moshi,4,9269314
+47f37d76-7f4b-4ff8-a944-307c705975db,Keith Knight,SQL|Customer Service|Django|Python,ICT,Certificate - University of Dodoma,Moshi,1,11868142
+681f34c4-6406-46df-aac8-0bde74296bc0,Jesus Walker,Cloud|Python|Android,ICT,Bachelor - St. Augustine University,Kilimanjaro,11,14738443
+a61e6c01-b205-4856-9292-b9b7b2de2041,Alexander Lang,Route Planning|Soil Science|Driving|Livestock|Fleet Management,Transport,Diploma - Muhimbili University,Dodoma,8,11294085
+68bb9395-a932-4315-affc-86a4012af253,Mr. Perry Richards MD,Travel Planning|Tour Guiding|Energy Auditing|Soil Science|Clinical Research|Event Planning,Tourism,Certificate - University of Dar es Salaam,Dar es Salaam,13,4367627
+b5599b76-9145-4d67-b12a-8b332db2c274,William Bowman,Soil Science|Irrigation|Crop Science,Agriculture,Certificate - University of Dar es Salaam,Arusha,11,13609191
+e11893c2-3ef5-4ca9-8e87-760154779a4a,Tracy David,Nursing|Patient Care|Clinical Research,Healthcare,Certificate - Muhimbili University,Tanga,14,8739302
+9b329de1-f350-4906-b3e7-917a3de737e7,Brenda Jones,Networking|Cloud|Flutter|Surveying,ICT,Bachelor - Sokoine University,Dodoma,1,14791307
+cea30c7a-e8c0-4a27-b143-dd6b373b93f4,Hannah Wagner,Site Management|Travel Planning|Surveying|AutoCAD|Grid Management|Crop Science,Construction,Bachelor - Sokoine University,Mbeya,10,15070195
+806dcd94-c9b2-48ea-bcb8-1ded59f6fccb,Crystal Floyd,Clinical Research|Nursing|Django|Public Health,Healthcare,Certificate - University of Dar es Salaam,Zanzibar,2,3512455
+67677f8c-a526-47e6-a1ac-8492d82cbda2,Rodney Ibarra,Special Needs|Irrigation|Soil Science|Agribusiness|Maintenance,Agriculture,Bachelor - St. Augustine University,Kilimanjaro,0,9339648
+35be0e6d-ea35-4676-8810-ccd430612554,Natalie Hughes,Tax|Lab Work|Surveying|Excel|Auditing|Financial Analysis,Finance,Master - Ardhi University,Zanzibar,15,11757576
+7c50eaae-5118-44e4-bd24-1b1e35d588c6,Logan Massey,Soil Science|Driving|Dispatch|Agribusiness|Livestock|Crop Science,Agriculture,Certificate - Sokoine University,Tanga,14,9804051
+98ba1cd6-af51-4b8b-b6e9-3607c36e2e7e,Monique Holmes,Tax|Nursing|Lab Work|Clinical Research,Healthcare,Certificate - Ardhi University,Mwanza,0,5446075
+a00005a3-57b3-4277-86ac-5c679f75dd72,Brittany Clark,Grid Management|Energy Auditing|Soil Science|Maintenance,Energy,Bachelor - Sokoine University,Kilimanjaro,1,11029670
+1b8ccd5c-0b43-40dc-90c9-76a618503b56,Shannon Pace,Safety Compliance|Site Management|SQL|Soil Science|Cloud|Civil Engineering,Construction,Master - Mzumbe University,Mwanza,3,6418077
+3c863f0a-52ac-4163-853a-95803a1eaa5c,Renee Hicks,Irrigation|Soil Science|Dispatch|Agribusiness|Android,Agriculture,Certificate - Ardhi University,Mwanza,7,8163122
+aeb581bd-2a0e-4d13-b099-6014fdfc59c1,Emily Graham,Python|Tour Guiding|Irrigation|Renewables|Livestock|Crop Science,Agriculture,Certificate - Ardhi University,Morogoro,0,10083671
+9f358fba-4624-431e-b65e-b9c036389d83,Allison Farley,Livestock|Soil Science|Crop Science,Agriculture,Diploma - St. Augustine University,Tanga,4,5769194
+33421411-e5c9-478b-90d5-70320ca1fb80,Karen Lawrence,Tax|Auditing|Excel,Finance,PhD - University of Dodoma,Kilimanjaro,6,16489408
+4ca8677f-94d7-47d7-adb1-d2e9d37bc17e,Danny Stewart,Logistics|Cloud|Django|React,ICT,Diploma - University of Dar es Salaam,Kilimanjaro,8,9491448
+15dfc172-2bd9-45aa-a93b-a3b1f1f040a2,Kendra Freeman,Nursing|SQL|Lab Work|Renewables|Django|Android,ICT,Certificate - Sokoine University,Mbeya,7,12154492
+36aded03-6696-45fd-88fd-767229d45a57,Alfred Murray,Electrical Engineering|Renewables|Energy Auditing,Energy,Diploma - University of Dar es Salaam,Dar es Salaam,3,6385276
+cf912246-388e-4a8e-b4c9-534d01461740,Jeanne Marquez,Driving|Route Planning|React|Dispatch,Transport,Diploma - Sokoine University,Zanzibar,5,4047819
+b2ff63bb-69c9-4156-8e39-1909d71e3828,Linda Jones,Nursing|Surveying|Customer Service|Renewables|Civil Engineering|AutoCAD,Construction,Bachelor - Muhimbili University,Arusha,14,17306930
+d0c8844a-2de7-46da-b407-9ef8e8490b8d,Kevin Lee,Nursing|Patient Care|Lab Work|Customer Service|Driving|Dispatch,Healthcare,Bachelor - Ardhi University,Zanzibar,7,10373301
+7164f497-0766-4e94-966a-49f2f1557836,Kimberly Church,Networking|Django|Dispatch|Android,ICT,Diploma - Sokoine University,Mwanza,1,11327610
+b6c317a6-dd42-489b-92ff-0d3c7b8b7d48,Susan Hill,Agribusiness|Livestock|Irrigation,Agriculture,Certificate - Mzumbe University,Arusha,6,5351543
+024848f3-8fc9-415d-a32e-63ce313e58fe,Joseph Jackson,Curriculum Design|Special Needs|Counseling,Education,Bachelor - Muhimbili University,Kilimanjaro,4,7535568
+bb4b9bcc-be9e-4e04-9bec-5932200341ed,Keith Huber Jr.,Soil Science|Livestock|Agribusiness,Agriculture,Bachelor - University of Dar es Salaam,Mbeya,7,7263582
+3ef24bc5-ec65-48d2-a88d-ea7ff6bb71a3,Frank Garrett,Driving|Route Planning|Nursing|Fleet Management,Transport,PhD - University of Dar es Salaam,Mwanza,4,12863427
+3a9d6f54-b31b-4e6d-ae0e-e45c835d1a5c,Wayne Hill,Electrical Engineering|Surveying|Renewables|Maintenance|Financial Analysis|Cloud,Energy,Bachelor - University of Dodoma,Tanga,1,6029472
+db2a6cc8-b709-46c2-bac7-cb480fdc30d2,Valerie Mccoy,Livestock|Soil Science|Irrigation,Agriculture,Master - Muhimbili University,Dodoma,9,5549146
+621d2566-94cf-48a2-94a5-a6ea2061c28d,Kimberly Garcia,Irrigation|Electrical Engineering|Energy Auditing|Surveying|Maintenance|Grid Management,Energy,Bachelor - Muhimbili University,Moshi,10,13933443
+673059a8-9891-4156-8faa-671c4c224589,Nicholas Yoder,Safety Compliance|Linux|Civil Engineering|AutoCAD,Construction,Bachelor - Nelson Mandela Institute,Kilimanjaro,2,6524035
+b5a75d73-5ef0-4b6e-ae20-16e95225232e,Dr. Taylor Cruz,Python|Surveying|React|Driving|Django,ICT,Diploma - Sokoine University,Tanga,2,15313886
+aafc7d94-a091-427e-ad3d-d07cb89b48ff,Dana Mitchell,Clinical Research|Renewables|Counseling|Maintenance|Grid Management,Energy,Diploma - Sokoine University,Morogoro,13,16849919
+8d695e06-eb87-4724-ac6c-8ad37deaba58,Phillip Johnson,Nursing|Site Management|Public Health|Soil Science|Clinical Research|Android,Healthcare,Diploma - St. Augustine University,Zanzibar,10,17903861
+735b7d79-4a2c-4848-8fb9-e1c6fdf86b0c,Megan Levy,Route Planning|Public Health|Customer Service|Dispatch|Logistics,Transport,Certificate - Mzumbe University,Zanzibar,0,9140607
+ed9ab688-135e-4a86-ad33-d52270e4aba3,Alyssa Davis,Irrigation|SQL|Soil Science|Cloud|Crop Science,Agriculture,Certificate - University of Dar es Salaam,Zanzibar,10,13803983
+38d91b60-9120-4dcb-bbd9-aa2e7b99787f,Robin Kennedy,Safety Compliance|Site Management|Electrical Engineering|Soil Science|AutoCAD|Grid Management,Construction,Diploma - Ardhi University,Mbeya,9,7248890
+1e9045be-612a-4cd2-bf7a-a6fb5877c6b4,Lauren Hobbs,Dispatch|Route Planning|Driving,Transport,Certificate - St. Augustine University,Dodoma,14,11545769
+e59df0de-a8ed-4b75-a97f-f1a96ec8aa5a,James Mayer,Linux|Cloud|SQL|Excel,ICT,Certificate - Ardhi University,Mbeya,8,6904392
+2bdc3f2b-ac0c-452d-a960-15b05796b9b9,Jordan Delgado,Soil Science|Agribusiness|Crop Science,Agriculture,Certificate - University of Dar es Salaam,Moshi,15,7547618
+bf4244e6-ee3b-4eef-a1ed-aa23801261ce,Sheila Kennedy,Travel Planning|Customer Service|Tour Guiding,Tourism,Diploma - Mzumbe University,Mbeya,10,4272349
+b9723438-befb-4a45-ac24-4ac02bfcd2da,John Gutierrez,Networking|Cloud|Customer Service|Django,ICT,Master - St. Augustine University,Dar es Salaam,11,11499422
+7aedcaae-9a8f-471d-bc98-753a4fdbbeda,Kim Flores,Site Management|Travel Planning|SQL|Surveying|AutoCAD,Construction,Certificate - St. Augustine University,Zanzibar,12,14755925
+d2b97717-3776-4a37-9741-0a15643bb780,Teresa Barrett,SQL|Energy Auditing|Driving|Renewables|Maintenance|Teaching,Energy,Diploma - Mzumbe University,Dar es Salaam,7,8473147
+341ea321-7cf5-4447-9dc1-21253d0fd8dd,Ricardo Mills,Special Needs|Site Management|eLearning|Financial Analysis|Auditing|Curriculum Design,Education,Certificate - Ardhi University,Kilimanjaro,1,5859472
+5fc86aa4-c014-4975-9198-ef52838e4fed,Rachael Russell,Safety Compliance|Patient Care|Site Management|Surveying|Civil Engineering,Construction,Diploma - University of Dar es Salaam,Moshi,7,13804740
+fb144ef4-2b5b-49db-b4e7-410f6fc5934e,Justin Howard,Nursing|Counseling|Teaching|Curriculum Design|Event Planning|Livestock,Education,Diploma - University of Dodoma,Moshi,15,3081552
+1f6c581c-1ad5-4383-9905-bda8f98bbf8e,Charles Davis,eLearning|Curriculum Design|Special Needs,Education,Bachelor - Mzumbe University,Morogoro,8,7742300
+27edb6bf-1f71-49c0-884a-1063967d573a,Daniel Hughes,SQL|Energy Auditing|Soil Science|React|Android,ICT,Bachelor - University of Dodoma,Moshi,3,6948047
+e3ff4ad5-56bb-43fa-84c2-a601505cd93c,Mackenzie Trevino,Networking|Agribusiness|Counseling|Teaching|Curriculum Design,Education,Certificate - St. Augustine University,Moshi,7,5396233
+eea2788c-02cd-4262-a1b3-3f7cbae7ec1d,Penny Taylor,Grid Management|Electrical Engineering|Event Planning|Maintenance,Energy,Diploma - University of Dar es Salaam,Zanzibar,15,14420975
+dbee4be5-5d3f-4073-9e7a-a1aca2db29c6,Tina Shannon,Special Needs|Hotel Management|SQL|Counseling|Agribusiness|Curriculum Design,Education,Diploma - St. Augustine University,Kilimanjaro,0,12515249
+fee92f9c-93b7-4a04-982d-16374299b5bc,Jeffery Jenkins,Public Health|Excel|Auditing|Financial Analysis|Linux|AutoCAD,Finance,Bachelor - Ardhi University,Arusha,5,3412130
+ca5af3bd-6f4a-4401-8726-bdb941bc4883,Adam Mercer,Patient Care|Lab Work|Excel|Clinical Research|Civil Engineering|Grid Management,Healthcare,Certificate - Muhimbili University,Dodoma,0,10914492
+8094e6f8-4011-4b36-acd7-f207db7a7318,Bryan Miller,Safety Compliance|Lab Work|React|Cloud|Django|Android,ICT,Master - Sokoine University,Dar es Salaam,15,17958693
+f6d8d4e0-d114-4a26-92a7-8bd5006e44a4,Michael Rosales,Special Needs|Electrical Engineering|Energy Auditing|Renewables|Grid Management|Android,Energy,Diploma - University of Dodoma,Zanzibar,5,14989157
+536b0ece-b9d9-4e97-bd49-906301aa32f2,Jacqueline Roberts,Accounting|Excel|Agribusiness|Event Planning|Livestock|Crop Science,Agriculture,PhD - Sokoine University,Mbeya,12,11319456
+680ce1e2-d547-428c-8385-117951de4846,Robert Long,Surveying|Civil Engineering|AutoCAD|Fleet Management,Construction,Bachelor - St. Augustine University,Zanzibar,8,4228995
+4bb3178b-aadb-40ea-bd68-2abe40784b79,Courtney Sanchez,SQL|Linux|React|Hotel Management,ICT,Bachelor - Mzumbe University,Tanga,8,16553103
+0170bf58-0ab1-485f-89c2-5343ac55b18c,Ian Hernandez,Networking|Irrigation|Renewables|Agribusiness|Maintenance|Crop Science,Agriculture,Diploma - Muhimbili University,Dar es Salaam,2,11697436
+6fec46be-0235-4f3a-a63a-97188a61a4c3,Sarah Powell,Site Management|AutoCAD|Civil Engineering,Construction,Bachelor - Nelson Mandela Institute,Mbeya,0,5549542
+b05fa950-d6b5-4071-8394-c5eea827083d,Jeffrey Stewart,Safety Compliance|Surveying|Excel|Clinical Research|AutoCAD,Construction,Certificate - Sokoine University,Tanga,12,9934758
+fbe1a804-c4e1-4be0-a9a1-f857e5b45012,John Strong,Nursing|Tour Guiding|Lab Work|Clinical Research|Civil Engineering,Healthcare,Certificate - Nelson Mandela Institute,Zanzibar,11,10390815
+edbe4a35-a32e-4f89-b380-117d5cfc8ebc,Brian Rhodes,Civil Engineering|Soil Science|Livestock|Agribusiness,Agriculture,Master - Mzumbe University,Zanzibar,4,7922511
+d50ac912-bfc1-4fb6-af7c-ece8830e253e,Marc Scott,Cloud|React|Android,ICT,Diploma - University of Dodoma,Arusha,13,16969374
+41a1528c-629a-42bd-af21-c8b889d46861,Steven Ortiz,Soil Science|Irrigation|Crop Science,Agriculture,Diploma - St. Augustine University,Moshi,11,12384459
+30cd9db2-6a1d-433d-9eb2-3e1c0bf4cd19,Ryan Patterson,Python|Renewables|Linux|Cloud|Android,ICT,Bachelor - Mzumbe University,Kilimanjaro,11,11250134
+a226e7f0-1bd9-405b-8abf-3968142aba8d,Manuel Mccarty,Agribusiness|Livestock|Soil Science,Agriculture,Master - University of Dodoma,Kilimanjaro,2,6343689
+7f3900db-937b-4806-ab66-81b22687eb82,Shannon Olson,Special Needs|Travel Planning|Irrigation|Tour Guiding|Hotel Management|React,Tourism,Certificate - Muhimbili University,Mwanza,4,17261718
+40c232ec-a2c3-4f14-b063-990752123fdd,Angela Hernandez,eLearning|Curriculum Design|Auditing|Teaching,Education,Diploma - Ardhi University,Zanzibar,8,14002040
+50cbe0aa-79fa-40f3-aacd-d731f63c88ea,Trevor Peterson,Special Needs|eLearning|Teaching|Cloud|Event Planning|Django,Education,Diploma - University of Dodoma,Mwanza,1,16596836
+642a4b57-cb06-4a4b-9dd9-80513eb67877,Dan Porter,eLearning|Counseling|Teaching,Education,Master - Ardhi University,Mwanza,1,3218360
+2cc191e7-9300-4427-8c86-e303058a3cae,Marcus Hall,Special Needs|eLearning|SQL|Counseling|Financial Analysis,Education,Certificate - St. Augustine University,Zanzibar,10,13338715
+c35c54cb-c092-48fb-a2a0-8fc21ae3d1d6,Courtney Wood,Networking|Python|Flutter|Customer Service|Linux,ICT,Bachelor - St. Augustine University,Dar es Salaam,9,15955493
+f5b5ac9d-775c-4492-9883-13cbd035ffbd,Joshua Wells,Dispatch|Logistics|Fleet Management|Public Health,Transport,Bachelor - Mzumbe University,Kilimanjaro,8,8896873
+fccdd3f0-cd3a-48dc-b474-b1a5e1644faf,Kimberly Duncan,Electrical Engineering|Renewables|Energy Auditing|Irrigation,Energy,Certificate - Ardhi University,Arusha,4,10049552
+deed5866-afd2-426b-969f-fd4c8a809c60,Karla Reeves,Safety Compliance|Travel Planning|Tour Guiding|Electrical Engineering|Event Planning|Django,Tourism,PhD - Sokoine University,Dodoma,3,9500823
+e3ad1c20-ba2c-4ce6-b401-250587bf7cf1,Michelle Davis,Dispatch|Logistics|Fleet Management,Transport,Diploma - Sokoine University,Arusha,3,10002426
+a2e8c8a5-b176-4c68-9c67-c033d78cbc7e,Elizabeth Mcguire,eLearning|Counseling|Teaching,Education,Bachelor - St. Augustine University,Tanga,15,4458591
+3e0b5eb8-d330-4d66-ae57-b86187a6778b,Wendy Saunders,Electrical Engineering|Nursing|Energy Auditing|Maintenance,Energy,Certificate - University of Dodoma,Zanzibar,13,13358461
+16e9dc7b-a1a3-4a60-9d19-b5884673791b,Matthew Hansen,Electrical Engineering|Renewables|Grid Management|Android,Energy,Certificate - Nelson Mandela Institute,Tanga,15,7899599
+46cd0616-b1a5-4671-9dd1-22cd8d077990,John Burke,Tax|Patient Care|SQL|Lab Work|Clinical Research,Healthcare,Certificate - Mzumbe University,Dodoma,10,5169624
+1071447b-02ef-4a2f-9899-03d18f90cd2a,Pamela Brown,Dispatch|Route Planning|Fleet Management,Transport,Diploma - Muhimbili University,Zanzibar,9,13460680
+7b1e9db5-cbe8-4438-b8b1-7f77cb6bfa23,Michelle Taylor,Nursing|Patient Care|Public Health|Excel|Django|Android,Healthcare,Bachelor - Ardhi University,Mwanza,6,11611314
+dd4c7a18-9d74-4e64-a8bb-b88b59f8b50d,Kyle Burke,Networking|Android|Counseling|Cloud|Crop Science,ICT,Certificate - St. Augustine University,Kilimanjaro,6,10647769
+07948070-0228-42f8-a835-793e9c7c65e2,Arthur Todd,eLearning|Counseling|Teaching|Curriculum Design|Cloud,Education,Diploma - St. Augustine University,Mbeya,5,13121595
+675d2b05-8fd9-4a40-b737-395668a227b0,Samantha Parker,Site Management|Accounting|Clinical Research|Auditing|Financial Analysis|AutoCAD,Finance,Bachelor - Nelson Mandela Institute,Moshi,13,10276588
+502ba052-03cc-48ae-bf26-b4bd8bc6b905,Timothy Nelson,eLearning|Curriculum Design|Teaching,Education,Bachelor - Ardhi University,Mbeya,6,5315637
+58e696bf-706b-4821-9c7c-123372652de0,Jeffrey Martinez,Grid Management|SQL|Energy Auditing|Renewables|AutoCAD|Fleet Management,Energy,Bachelor - University of Dodoma,Dar es Salaam,3,4440562
+ce60ebf7-f7ac-4b5d-b9c0-547ba57d9d45,Tammy Smith,eLearning|Electrical Engineering|Surveying|Counseling|Curriculum Design,Education,PhD - University of Dar es Salaam,Arusha,5,5288664
+dc82f209-9c23-492d-8f9e-b5ea8bf46a43,Nathan Romero,Customer Service|Soil Science|Irrigation|Crop Science,Agriculture,Bachelor - Mzumbe University,Mwanza,2,17116690
+e9648035-10d1-4bc6-a58f-1ab2d4c87996,Holly Henry DVM,Tax|Accounting|Excel,Finance,Diploma - St. Augustine University,Morogoro,13,12398757
+d273bedc-91c1-4c7a-acd1-886e511ce8e9,Adam Anderson,Special Needs|Surveying|Teaching|Curriculum Design|Civil Engineering,Education,Diploma - Nelson Mandela Institute,Morogoro,11,12515334
+6d5a0a68-45c7-4e48-ad19-27367edb0c8a,Corey Hoffman,Tax|Soil Science|Agribusiness|Fleet Management|Crop Science,Agriculture,Certificate - University of Dar es Salaam,Mbeya,8,11809602
+916443ff-3d04-460c-adab-79d629b148cc,Jeffrey Hernandez,Site Management|Surveying|AutoCAD,Construction,Bachelor - Mzumbe University,Mbeya,7,16873015
+c8e86ab2-e836-47b6-a7f7-65ed652fb9c5,Jill Hensley,Networking|Accounting|Lab Work|Excel|Financial Analysis,Finance,Bachelor - University of Dar es Salaam,Arusha,9,6726357
+5f560b87-a473-4aa1-b4f2-4d996d91dd04,Heather Young,Safety Compliance|Surveying|Renewables|AutoCAD|Crop Science,Construction,Diploma - Muhimbili University,Mwanza,11,5505517
+00f2b71e-d9c2-404b-9d99-587b3b068762,Kenneth Bond DVM,Networking|Logistics|Flutter|React,ICT,PhD - Nelson Mandela Institute,Morogoro,6,5612561
+d15d2e3a-534e-4d6d-9d0a-f31cc5b9793d,Michele Burns,Tax|Public Health|Excel|Agribusiness|Financial Analysis|Event Planning,Finance,Certificate - Mzumbe University,Zanzibar,3,10849439
+e396369f-9657-4f7e-a128-3dbfc2296f36,Stacey Ortiz,Electrical Engineering|Energy Auditing|Dispatch|Clinical Research|Grid Management,Energy,Bachelor - University of Dar es Salaam,Mbeya,7,12948602
+6c17798b-ed6e-4a3d-84c9-bfc8c2eb4be7,Nicole Fletcher,Tax|Financial Analysis|Excel,Finance,PhD - Nelson Mandela Institute,Mbeya,11,5524793
+6b5eb1d5-980a-47ab-b0c3-99d58ce63bea,Tanya Anderson,Patient Care|Public Health|Lab Work|Financial Analysis|Linux|Event Planning,Healthcare,Bachelor - Mzumbe University,Tanga,11,5201148
+881d400a-8814-481b-b54a-059f521c184f,Heather Perkins,Public Health|Accounting|Excel|Clinical Research|Auditing,Finance,Bachelor - Sokoine University,Zanzibar,8,7721247
+68ce2a98-dede-4611-8f21-3e05ec6a005d,Rachel Casey,Tax|Patient Care|Special Needs|Excel|Financial Analysis|Grid Management,Finance,Certificate - University of Dar es Salaam,Moshi,7,7632498
+63da58f4-1c19-48c1-8ae5-99c8bf8050a4,Shannon Mcconnell,Python|Accounting|Electrical Engineering|Flutter|Linux|Cloud,ICT,Certificate - Muhimbili University,Mwanza,3,7728883
+926ba7d7-ed83-410d-bafa-758469c2bedf,Joseph Fields,Nursing|Public Health|Excel|Clinical Research|Counseling,Healthcare,Bachelor - University of Dodoma,Dodoma,9,15379560
+0cae8393-492c-46bc-a26d-4fab03bc778c,Kenneth King,Hotel Management|Lab Work|Customer Service|Renewables|Event Planning,Tourism,PhD - Muhimbili University,Mwanza,9,7820901
+00982688-a2e8-4555-ab60-f00ae5f930f2,Christopher Hernandez,Clinical Research|Nursing|Lab Work,Healthcare,Certificate - University of Dodoma,Tanga,5,4948041
+6bb27ec1-e214-48ce-bbef-03c69043d3bb,Janice Mitchell,Grid Management|Energy Auditing|Counseling|Maintenance,Energy,Bachelor - Muhimbili University,Kilimanjaro,9,7041358
+7951992d-cc29-4590-919d-b8b1626b0238,Laura Hunt,Dispatch|Driving|Fleet Management,Transport,Bachelor - University of Dar es Salaam,Zanzibar,13,14739609
+eacd3eae-2f3e-47ac-9a4b-1ff3b50965d3,Ashley York,Agribusiness|Livestock|Irrigation,Agriculture,Bachelor - Mzumbe University,Kilimanjaro,7,10764532
+b2fb56f3-99b4-444c-b655-1715a4e8af56,Dr. Kara Clark,Safety Compliance|Python|Flutter|Grid Management|Android,ICT,Certificate - Mzumbe University,Dodoma,15,10233981
+2d9d45e7-99d4-42fc-8058-bcfac478af87,Michelle Davis,Safety Compliance|Excel|Agribusiness|Auditing|Financial Analysis,Finance,Certificate - Muhimbili University,Dar es Salaam,5,13183979
+355736b5-6a0d-4b7e-8a92-2aa34c4e59f0,Thomas Bishop,Special Needs|SQL|Electrical Engineering|React|Maintenance|Django,ICT,Diploma - Mzumbe University,Dodoma,6,4388412
+a187fc9f-882f-47c3-beb1-7f391aee7584,Sophia Harris,Safety Compliance|Electrical Engineering|SQL|Renewables|Linux|Grid Management,Energy,Bachelor - University of Dodoma,Zanzibar,0,16195466
+78e265f7-cd87-4609-9243-2bdb75fd44a4,Christopher Clark,SQL|React|Python,ICT,Diploma - Muhimbili University,Dodoma,9,4941983
+80aec431-0045-4927-8812-74d332f4c84d,Michael Baker,Safety Compliance|Civil Engineering|Surveying,Construction,PhD - University of Dodoma,Zanzibar,0,5960010
+8c45fcf0-bd87-4406-8505-8357975a8104,Gregory Smith,SQL|Flutter|Android,ICT,Certificate - Mzumbe University,Dodoma,15,6192173
+caa7880a-6c24-4438-8f0e-ca81b4d84405,Kenneth Stephens,Safety Compliance|Cloud|Site Management|AutoCAD,Construction,Bachelor - Ardhi University,Arusha,15,17352680
+38ca8a77-4146-4851-a263-7aa364955771,Ronnie Williams,Accounting|Special Needs|Financial Analysis|Excel,Finance,PhD - University of Dar es Salaam,Kilimanjaro,2,4513734
+75b9fa9f-1477-4829-932b-c383dddc98c6,Debbie Robinson,Clinical Research|Nursing|Flutter|Public Health,Healthcare,Diploma - Muhimbili University,Moshi,11,16472674
+a22be54e-83b3-476a-809a-65fb92229d0b,Krystal Cohen,Patient Care|Site Management|Electrical Engineering|Energy Auditing|Renewables|Grid Management,Energy,Bachelor - Muhimbili University,Morogoro,12,14567344
+832a95e1-e770-46d3-a226-2169f9793d9f,Sheri Webster,Travel Planning|Electrical Engineering|Renewables|Maintenance|Civil Engineering|Grid Management,Energy,Diploma - St. Augustine University,Morogoro,11,5531866
+f503bfd1-fba7-48fa-a438-e0505fe4fc1b,Paul Garcia,SQL|Cloud|Python,ICT,Diploma - Nelson Mandela Institute,Dodoma,3,6770178
+ba992ec8-9649-4cbd-abe9-7c9fefe36000,Penny Salas,Route Planning|Patient Care|Tour Guiding|Hotel Management|Accounting|Event Planning,Tourism,PhD - University of Dar es Salaam,Dodoma,4,13037023
+19c64f38-1181-442f-b5c3-451f3c33dcf1,Justin Anthony,Safety Compliance|Site Management|AutoCAD|Excel,Construction,Certificate - Muhimbili University,Zanzibar,13,14716565
+50c5d34e-87d3-4c9d-a315-6131a7443ae9,Jasmine Shaw,Nursing|Electrical Engineering|Auditing|Maintenance|Civil Engineering|Grid Management,Energy,Bachelor - Muhimbili University,Morogoro,5,6014227
+1cb857e5-159d-4b47-aa91-0af91637ba89,Chelsey Dyer,Special Needs|eLearning|Teaching|Curriculum Design|Event Planning,Education,Bachelor - Mzumbe University,Tanga,14,6475189
+bf80e587-2d31-4269-ab9c-79efa340dbf1,Nathan James,Python|eLearning|SQL|Excel|Auditing|Financial Analysis,Finance,Master - University of Dar es Salaam,Moshi,13,11560101
+5b9f71b6-3e29-424a-a80f-057ad86d31a0,William Larson,Special Needs|Public Health|Electrical Engineering|Teaching|Curriculum Design|Linux,Education,Certificate - University of Dodoma,Arusha,9,13086311
+54202f6b-8db0-4da5-9873-685cdb26e470,Dr. Matthew Reynolds,Safety Compliance|Site Management|Hotel Management|Maintenance|Civil Engineering,Construction,Diploma - Nelson Mandela Institute,Kilimanjaro,8,4608129
+42c1e1d8-92d1-443b-b3b5-96c2c597e604,Tabitha Mcclain,Patient Care|Irrigation|Agribusiness|Linux|Livestock,Agriculture,Diploma - St. Augustine University,Morogoro,5,17112577
+641da185-712e-42e2-95ec-521d0e8f53ac,Michael Mejia,Tax|Route Planning|Safety Compliance|Excel|Financial Analysis|Django,Finance,Diploma - Muhimbili University,Dodoma,0,8032771
+6d505019-58a8-4ed6-b354-7228fa99723c,Jason Kennedy,Electrical Engineering|Renewables|Maintenance,Energy,Bachelor - Ardhi University,Tanga,3,13997974
+66282c19-57d2-4ee1-bc31-5f1642a41f1b,Gary Perez,Safety Compliance|Clinical Research|Linux|Civil Engineering|AutoCAD,Construction,Bachelor - Ardhi University,Zanzibar,5,5297516
+3f63c044-c181-42bf-98d3-9de7f7d6b7dc,Helen Ryan,Nursing|Public Health|Lab Work|Flutter|Driving|Grid Management,Healthcare,Master - Sokoine University,Tanga,13,3061466
+245b4bda-982e-415a-be26-c7088e46bb8a,John Torres,Nursing|Lab Work|Clinical Research|Financial Analysis|Fleet Management,Healthcare,Certificate - St. Augustine University,Moshi,9,15319202
+fc48f45f-6e7c-468f-b74e-bd5a1a7828b2,Lori Curtis,Python|Electrical Engineering|Energy Auditing|Maintenance|Teaching|Livestock,Energy,Diploma - Mzumbe University,Mwanza,5,15788953
+0d492523-4d47-46cf-b699-63b19cbbf6bc,Laura Walsh,Linux|Event Planning|Customer Service|Tour Guiding,Tourism,Bachelor - Mzumbe University,Mbeya,13,11500858
+6c70b471-1af5-4a43-abb7-a222c0633a11,Jaime Riley,Lab Work|Energy Auditing|Renewables|Maintenance|Android,Energy,Master - University of Dodoma,Kilimanjaro,14,17641275
+c3ab0d48-6d6c-40b7-a7d0-3ca005165ce0,Sharon Sims,Accounting|Financial Analysis|Excel,Finance,Certificate - Muhimbili University,Dodoma,1,6968413
+3387ca02-6453-4d95-82b3-a2cb15bc468b,Alyssa Weaver,Networking|Tax|Special Needs|eLearning|Curriculum Design|Django,Education,Diploma - Muhimbili University,Mwanza,4,17352915
+21e9b52c-988c-4569-9578-9f142b6ac45f,Mary Phillips,Electrical Engineering|Civil Engineering|Surveying|AutoCAD,Construction,Diploma - Nelson Mandela Institute,Tanga,10,13789255
+3678a290-75b8-4c1d-94f3-bca773e5d84d,Heidi Myers,Electrical Engineering|Maintenance|Grid Management,Energy,Bachelor - Ardhi University,Zanzibar,8,14157714
+554a1d4d-c6b2-4cec-a03a-0d6ab8174d1a,Courtney Roth,Irrigation|eLearning|SQL|Flutter|Linux,ICT,Diploma - St. Augustine University,Moshi,7,7496462
+01b35fa8-1874-43a5-9426-496811a7c955,Stacey Hawkins,Surveying|Renewables|Maintenance|Grid Management|Android,Energy,Bachelor - University of Dodoma,Kilimanjaro,0,11976083
+284953d7-e9be-4156-8fcf-39bd149bec2c,Nicholas Drake,Electrical Engineering|Renewables|Energy Auditing|Public Health,Energy,Certificate - Sokoine University,Mbeya,9,17017185
+915a4aa1-6950-471a-8a16-9ca1fc989937,Sarah Howe,Site Management|Irrigation|Agribusiness|Event Planning|Livestock,Agriculture,PhD - Sokoine University,Mbeya,8,3293637
+c20d1978-c69e-4219-9520-f61b7d074dae,Paige Hall,Safety Compliance|SQL|Civil Engineering|AutoCAD,Construction,Bachelor - University of Dodoma,Mwanza,9,10470761
+56f5d870-9495-4915-99d2-3c0ddba156fd,Renee Lee,Safety Compliance|Site Management|Surveying,Construction,Diploma - Mzumbe University,Dar es Salaam,7,12018640
+1181e869-f175-4d18-950a-333fdbdbac30,Lynn Perry,SQL|Linux|Android,ICT,Bachelor - Mzumbe University,Morogoro,11,6188410
+43d0cb23-ae93-4b6c-832e-85360c2d0065,Jonathan Stanton,Networking|Python|Tour Guiding|Dispatch|Logistics|Fleet Management,Transport,Diploma - Mzumbe University,Moshi,7,12690982
+507e1b1c-fcc0-41cf-bf72-5105a3b705f7,Jessica Moyer,Tax|Soil Science|Excel|Counseling|Auditing|Grid Management,Finance,Certificate - Sokoine University,Tanga,14,9571885
+b8ff224e-e072-4a56-8007-37fb2b546d5f,Jose Chambers,Nursing|Special Needs|Tour Guiding|Python|Counseling|Curriculum Design,Education,Bachelor - University of Dar es Salaam,Mbeya,5,9719972
+55592650-6d10-4493-a911-3274765239dc,Bryan Davis,Safety Compliance|Site Management|Surveying|Excel,Construction,Master - St. Augustine University,Zanzibar,7,11208107
+5f1073ed-cdc2-475b-96d1-8c859dea0fae,Howard Morgan,Hotel Management|Livestock|Soil Science|Crop Science,Agriculture,Bachelor - University of Dar es Salaam,Mwanza,1,14864142
+c32e479e-0718-4bc4-8cd4-98165a8b07bc,Jillian Beard,Irrigation|Soil Science|Event Planning|Livestock|Crop Science,Agriculture,Certificate - Ardhi University,Morogoro,0,15791302
+78eab691-8170-4ca8-95fa-cf51a8e1c6a6,Ricardo Dunn,Tax|Route Planning|Accounting|Dispatch|Fleet Management,Transport,Certificate - University of Dodoma,Dar es Salaam,6,4711789
+a13866e7-39dc-470f-b5a6-b169cc06e634,Brenda Green,eLearning|Special Needs|Django|Teaching,Education,Bachelor - Mzumbe University,Moshi,11,15591211
+ce4fa248-8e52-46e8-84df-6496e65dbd03,John Allen,eLearning|Curriculum Design|Counseling,Education,Diploma - Nelson Mandela Institute,Dar es Salaam,0,16160478
+459b08e9-2a8d-4d27-a9c0-b44f0330ac2e,Robert Stewart,Route Planning|Travel Planning|Customer Service|Dispatch|Logistics,Transport,Bachelor - Sokoine University,Dodoma,5,8448622
+966b9efe-faf9-4afc-ae89-63ba0bf06b37,Brooke Adams,Electrical Engineering|Renewables|Energy Auditing|Event Planning,Energy,Certificate - Nelson Mandela Institute,Tanga,10,15912649
+5108ac37-b379-4945-81d4-5e3c10d59dec,Rebecca Williams,Driving|Nursing|Logistics|Fleet Management,Transport,Bachelor - Sokoine University,Kilimanjaro,6,8791226
+34582e64-2196-47e6-bfd8-05d4cdd4482c,James Cooper,Accounting|Energy Auditing|React|Excel|Counseling|Financial Analysis,Finance,Bachelor - St. Augustine University,Arusha,5,17573674
+d2428b29-bacf-406b-a4e5-de7f0989c9a7,Bobby Gibson,Irrigation|eLearning|Civil Engineering|Livestock|Crop Science,Agriculture,Diploma - Sokoine University,Morogoro,9,8044800
+c92c8c23-a966-4c55-b5f3-d47d22cdbf0a,Denise Schwartz,Tax|Flutter|Excel|Auditing|Cloud,Finance,Diploma - University of Dar es Salaam,Dar es Salaam,1,3382048
+8a455f3b-d80b-4cae-b4d6-d0901dabd4d5,Holly Frazier,Public Health|Driving|Dispatch|Financial Analysis|Fleet Management,Transport,Diploma - Sokoine University,Mbeya,13,9195031
+2654fae1-74d6-462e-922a-6dbd0ee162ba,Andrew Huffman,Soil Science|Excel|Driving|Agribusiness|Livestock,Agriculture,Diploma - University of Dodoma,Dar es Salaam,4,8245996
+374f6303-6b30-4542-bf9c-021aab0647d4,Cynthia Khan,Livestock|Agribusiness|Crop Science,Agriculture,Certificate - University of Dar es Salaam,Zanzibar,14,5289965
+29751339-66d5-44a4-840f-dc755220d1ed,Erika Hernandez,Irrigation|Soil Science|Renewables|Agribusiness|Counseling,Agriculture,Certificate - St. Augustine University,Mwanza,11,7709730
+bb10a08f-a013-4f2a-b7ac-ac8105ad510b,Amanda Byrd,eLearning|Curriculum Design|Special Needs|Civil Engineering,Education,Certificate - University of Dodoma,Mwanza,12,15491164
+0765ec19-333b-45b9-bc4a-379bfa9cf4b7,Stephanie Montgomery,Patient Care|Nursing|Public Health|Lab Work|Agribusiness,Healthcare,Diploma - Sokoine University,Tanga,9,13697252
+7fda1132-3c6a-43ac-ad4d-fe9e92ddd8c3,Joshua Lamb,Tax|Auditing|Excel,Finance,Certificate - University of Dar es Salaam,Kilimanjaro,12,8758195
+69f188bb-f66c-4c51-9f22-094050068801,Alyssa Hancock,Curriculum Design|Special Needs|Counseling|Android,Education,Bachelor - St. Augustine University,Mbeya,1,10187232
+439b07dd-ecc7-4a23-ad65-d63f85e710db,Miguel Perez,SQL|Flutter|Python,ICT,Bachelor - University of Dar es Salaam,Mbeya,7,17799827
+3833485a-b464-4878-a399-6c27588c9a7e,Cassie Miller,Clinical Research|Nursing|Travel Planning|Public Health,Healthcare,Diploma - Mzumbe University,Tanga,10,4172600
+1742c760-3bf3-4ad2-be01-f53659153810,Heather Christian,Irrigation|Lab Work|Counseling|Agribusiness|Crop Science,Agriculture,Diploma - St. Augustine University,Dar es Salaam,14,11488822
+12bf72ff-f2e3-40d1-856f-f0629ed2f358,Lucas Blackburn,Patient Care|Public Health|Lab Work|Teaching|Logistics|Grid Management,Healthcare,Diploma - Muhimbili University,Moshi,6,13582821
+e125ad6c-d2b6-48f4-aa7e-709ac0b63c4b,Grant Brown,Site Management|Python|eLearning|Driving|Logistics|Fleet Management,Transport,Certificate - St. Augustine University,Mwanza,11,14453984
+5447c1fc-5d10-4d95-9056-d2ae739fa4ca,Douglas Chen,Site Management|Special Needs|Irrigation|eLearning|React|Counseling,Education,Certificate - University of Dar es Salaam,Arusha,12,6674405
+52d2469a-f062-4ec0-ac91-f2871358b4ba,Christine Powell,Electrical Engineering|Energy Auditing|Grid Management|Excel,Energy,Diploma - Ardhi University,Dodoma,8,15127774
+d05f1a32-2173-49ea-b6ca-38d82687eae9,Maria Baird,Event Planning|Customer Service|Tour Guiding,Tourism,Certificate - Muhimbili University,Arusha,9,12920270
+db41ab3b-73ad-4adb-90fe-8e6ae210aa93,Chloe Martinez,Grid Management|Energy Auditing|Maintenance,Energy,Diploma - Mzumbe University,Dodoma,15,14388513
+41362fcc-7e34-4271-a0ae-7b8df83bbac1,Elizabeth Khan,Networking|SQL|Python|Crop Science,ICT,Bachelor - Mzumbe University,Morogoro,2,6887456
+5fffed76-e8ee-4dfb-bba2-0f74293e92f3,Aaron Coffey,Special Needs|Energy Auditing|Surveying|Renewables|Maintenance|Grid Management,Energy,Bachelor - Sokoine University,Mbeya,9,7022717
+d7a38688-260d-4742-82a2-c7e4a0c2e0e9,Brandy Fox,Linux|React|Python,ICT,Diploma - Muhimbili University,Arusha,1,6308144
+e7c32636-7600-4adf-947e-2d8d48dddcdd,Roy Huff,Soil Science|Clinical Research|Agribusiness|Civil Engineering|Livestock,Agriculture,Diploma - Mzumbe University,Mwanza,2,3858655
+37434857-fa2e-481f-9289-baf0451f5e4b,Angel Hoover,Tax|Nursing|SQL|Auditing|Financial Analysis,Finance,Diploma - St. Augustine University,Dodoma,0,17707003
+47ed6af9-2151-47ce-bed4-89343e01e5e9,Joseph Glass,Driving|Auditing|Fleet Management|Dispatch,Transport,Master - St. Augustine University,Moshi,14,10676873
+7bca440d-2264-487d-bdb6-8afc4d46a958,John Owens,Python|Hotel Management|Customer Service|Soil Science|Event Planning,Tourism,Bachelor - Ardhi University,Mwanza,4,10387715
+fc3861b1-a51e-4752-913e-d605c629a569,Thomas Sosa,Patient Care|Nursing|Public Health|Excel|Django|Fleet Management,Healthcare,PhD - Sokoine University,Dodoma,6,14327724
+454e4b9c-ed2b-43cd-8fcd-e88b6d918d0e,Robert Allen,Agribusiness|Soil Science|Crop Science,Agriculture,Bachelor - Sokoine University,Mwanza,11,11744207
+2f77db6c-fa41-44a2-b796-f496a670d072,Jacob Vargas,Site Management|Surveying|React|Energy Auditing|Civil Engineering,Construction,Certificate - Ardhi University,Tanga,2,5799423
+afc596c3-e3f3-4ca9-9e95-ed068a8560e3,Cody Goodman,Networking|Route Planning|SQL|Dispatch|Logistics|AutoCAD,Transport,Bachelor - Ardhi University,Moshi,2,6575574
+8f1662ab-36bb-4506-8062-877064c77afc,Ian Sutton,Site Management|Special Needs|eLearning|Counseling|Curriculum Design,Education,Bachelor - University of Dar es Salaam,Arusha,3,4826458
+f1c37e99-263e-43ec-952c-a0e5102a05aa,Brenda Gray,Special Needs|Python|Irrigation|Soil Science|Livestock,Agriculture,Bachelor - University of Dar es Salaam,Morogoro,7,4715184
+522272f0-2692-4bc4-9feb-84916d3768d0,Gregory Gonzalez,Lab Work|Excel|Counseling|Teaching|Curriculum Design|Fleet Management,Education,Diploma - St. Augustine University,Kilimanjaro,12,7074326
+6411ebc9-53b8-4582-9fc7-51c995b572e8,Jamie Walters,Safety Compliance|Special Needs|Auditing|Counseling|Teaching|Civil Engineering,Education,Diploma - Sokoine University,Tanga,10,12116575
+c5b7f186-3411-4d9d-8b1a-9bee4745eaac,Diana Richmond,Nursing|Patient Care|Public Health|Lab Work|Agribusiness|Android,Healthcare,Bachelor - Mzumbe University,Dodoma,0,11139150
+cb62ddd0-bd80-40e0-9d5c-fcf1bf7f4a26,Tammy Becker,Tax|Accounting|Excel,Finance,Bachelor - Ardhi University,Dodoma,13,13898407
+8b4f33fc-8093-4cd1-889d-8b28f2988505,Christine Andrews,Special Needs|eLearning|Surveying|Energy Auditing|Counseling|Curriculum Design,Education,Diploma - Sokoine University,Dar es Salaam,11,12927131
+598d1138-e666-47a2-92a8-7c3b8a5aecbe,Kristin Leblanc,Site Management|Clinical Research|Curriculum Design|Civil Engineering|AutoCAD,Construction,Certificate - University of Dodoma,Tanga,3,11829604
+5089d131-a3e8-481c-b508-ed59efa9fc10,Andrew Morris,Energy Auditing|Site Management|Surveying|Civil Engineering,Construction,Bachelor - Nelson Mandela Institute,Zanzibar,4,9033409
+2c4e786f-8ca2-4b8a-a563-9f0f58a600b5,Robin Guerrero,Route Planning|Logistics|Fleet Management,Transport,Bachelor - St. Augustine University,Tanga,7,14619530
+e6e2341e-675c-49b9-b4a6-ff733cd5f892,Kelly Webb,Special Needs|eLearning|Soil Science|Curriculum Design|Livestock,Education,Master - St. Augustine University,Dodoma,6,15273074
+9d288578-9908-4253-bd7f-238a957c5905,Angela Johnson,Accounting|Excel|Financial Analysis|Cloud|Crop Science,Finance,Certificate - University of Dodoma,Dodoma,9,7935604
+95c368df-32ce-4c4e-b1e5-45c470732f9f,Robert Ryan,Flutter|Maintenance|Linux|Cloud|Event Planning|Crop Science,ICT,Bachelor - University of Dodoma,Arusha,9,13229621
+03eaf3e5-db64-464a-bdd9-c5bdce6d23ac,Dawn Browning,Safety Compliance|Site Management|Hotel Management|Renewables|Civil Engineering,Construction,Bachelor - Ardhi University,Tanga,14,9845995
+68575653-2c08-4e15-9fc8-11a5dc8ef000,Cindy Taylor,Renewables|Energy Auditing|Grid Management,Energy,Bachelor - University of Dodoma,Morogoro,13,14687861
+9d8f7639-8532-4310-9ef2-4984793caa42,Sonya Shaffer,Electrical Engineering|Maintenance|Grid Management,Energy,Certificate - Muhimbili University,Mwanza,2,17047742
+39a454f4-8c56-42ac-b464-3254811307e4,Crystal Jenkins,eLearning|Flutter|Driving|Counseling|Teaching,Education,PhD - Ardhi University,Arusha,1,10310411
+0e338cfd-17da-4576-8b10-cf433afb5dd2,Kristen Walker,Safety Compliance|Patient Care|Site Management|Python|Curriculum Design|Civil Engineering,Construction,Diploma - Muhimbili University,Zanzibar,9,4428133
+6d064b9e-9906-4fa9-90f5-34d5a2cf6372,Xavier Soto,Safety Compliance|Civil Engineering|AutoCAD,Construction,Bachelor - University of Dar es Salaam,Arusha,10,13045040
+05545b0a-ffae-48fb-8cb5-530af8eba41e,Paul Cain,Hotel Management|Soil Science|Irrigation|Crop Science,Agriculture,Bachelor - Muhimbili University,Moshi,2,3407080
+8ccced6d-3502-4523-92ed-7f4ba4c82bfd,James Hill,Networking|Route Planning|Energy Auditing|Renewables|AutoCAD|Grid Management,Energy,Certificate - University of Dar es Salaam,Dar es Salaam,14,12169793
+346628e2-02fa-4b4f-9dd3-b936fb7f3252,Gregory Johnson,Safety Compliance|Accounting|Site Management|Surveying,Construction,Diploma - Ardhi University,Tanga,15,16415060
+243f08b9-1b16-4ff0-a80f-e4d53e35df64,Bryan Lewis,Nursing|Travel Planning|Tour Guiding|Excel|Civil Engineering|Event Planning,Tourism,Bachelor - University of Dar es Salaam,Arusha,6,12649174
+aa398b1d-29a2-46ab-98c0-42536d420ed2,Kelly Reese,eLearning|Curriculum Design|Special Needs,Education,Bachelor - Ardhi University,Arusha,7,14495568
+aa03e81a-d083-4df8-a418-c3d123c397d1,James Mclean,Safety Compliance|Site Management|Energy Auditing|Cloud|AutoCAD|Livestock,Construction,Diploma - Muhimbili University,Kilimanjaro,9,8725830
+a80e8fbc-83de-4ff9-a3d7-286de31f8621,Sandra Ortiz,Surveying|Civil Engineering|AutoCAD,Construction,Bachelor - Muhimbili University,Dar es Salaam,11,11331766
+0be28aba-8167-468e-a537-582feb9141ac,Jessica Richard,Patient Care|Nursing|Public Health,Healthcare,Diploma - Muhimbili University,Arusha,12,16589353
+f5dc5cf3-f9a9-442a-9bed-fecbceac7668,Austin Vaughn,Networking|Cloud|React,ICT,Certificate - Nelson Mandela Institute,Mwanza,12,14671105
+f93dcb81-bc65-473a-81da-bf544c096e5b,Eric Burgess,Civil Engineering|Soil Science|Irrigation|Crop Science,Agriculture,Diploma - Ardhi University,Mwanza,3,13994900
+85c5cd6e-2213-4cb5-8ff9-083b520f806e,Alexis Pope DVM,eLearning|Curriculum Design|Teaching,Education,Bachelor - Sokoine University,Arusha,4,16023396
+200d1dff-ab9c-493e-ae69-ee3c523c2056,Pamela Harrington,Tour Guiding|Agribusiness|Irrigation|Crop Science,Agriculture,Bachelor - Muhimbili University,Morogoro,10,12367199
+9827056a-c330-48a3-b010-d956c9114f12,Joshua Johns,Livestock|Irrigation|Crop Science,Agriculture,Diploma - University of Dar es Salaam,Arusha,4,17224317
+89508130-cc36-426f-810f-6de9d90d95d7,Laurie Golden,Flutter|Customer Service|Financial Analysis|Cloud|Django|Crop Science,ICT,Diploma - St. Augustine University,Morogoro,4,10576278
+416878a8-939d-4699-827f-2d5c9c31080c,Nicholas Smith,Patient Care|Electrical Engineering|Agribusiness|Livestock|Crop Science,Agriculture,Bachelor - Nelson Mandela Institute,Zanzibar,6,11777692
+79608253-de10-4f37-bc75-d89bd179b38d,David Powers,Dispatch|Route Planning|Fleet Management,Transport,Bachelor - University of Dar es Salaam,Mwanza,13,14894759
+a92a8f6c-b6f8-4eb9-9fae-21361ee8cf07,Gregory Velazquez,Civil Engineering|Surveying|AutoCAD,Construction,Bachelor - University of Dodoma,Dar es Salaam,0,4068540
+372c1604-1bd1-4530-aa48-8c6010b396c7,Marcus Green,SQL|Event Planning|Customer Service|Tour Guiding,Tourism,Bachelor - University of Dar es Salaam,Zanzibar,6,7301717
+8b683807-f09d-4896-9e91-de3d621a3781,Sherry Powell,Driving|Dispatch|Agribusiness|Financial Analysis|Fleet Management,Transport,Certificate - Nelson Mandela Institute,Tanga,4,17620910
+259ab0b2-b065-418a-b830-01f309a2adcf,Joshua Williams,Hotel Management|Surveying|Excel|Auditing|Financial Analysis|Curriculum Design,Finance,Diploma - University of Dodoma,Moshi,8,13332182
+8f0db7bc-455b-437d-ac4a-0753cb0bec83,Marcus Clark,SQL|Dispatch|Financial Analysis|Logistics|Fleet Management,Transport,Bachelor - Ardhi University,Kilimanjaro,4,11949797
+0075d2e2-0e57-4bed-8059-9132d796814f,Amber Martinez,Dispatch|Logistics|Fleet Management|Irrigation,Transport,PhD - St. Augustine University,Kilimanjaro,15,7435487
+785afc42-9d3e-44a9-aa51-20084db06006,Jodi Wilson,Agribusiness|Soil Science|Irrigation,Agriculture,Bachelor - University of Dar es Salaam,Mwanza,4,12311887
+e8ee919c-f580-4ac5-af8d-d5371aae9e7d,Christopher Wright,eLearning|Curriculum Design|Teaching,Education,Bachelor - Muhimbili University,Mwanza,1,16268837
+eda27973-913c-4f39-87a8-131d23698143,Latoya Wilson,Site Management|Civil Engineering|AutoCAD|Teaching,Construction,Certificate - Nelson Mandela Institute,Dar es Salaam,13,13480348
+ae496f34-bb06-4625-b3a8-52e7664f7652,Brittany Rodriguez,Tour Guiding|Irrigation|Electrical Engineering|Customer Service|Counseling|Event Planning,Tourism,Diploma - St. Augustine University,Arusha,10,17113706
+67467be6-be24-4912-8ded-8b01706b82e9,Emma Simon,Irrigation|Accounting|Soil Science|Dispatch|Curriculum Design|Livestock,Agriculture,Bachelor - University of Dar es Salaam,Kilimanjaro,4,3029171
+58389c35-1f83-457c-90ac-5a942f15351f,Julie Ramos,eLearning|Accounting|Excel|Renewables|Financial Analysis|Logistics,Finance,Bachelor - Muhimbili University,Arusha,6,11824237
+355b91f1-a528-44aa-9608-ded327ac6e92,Jill Long,Special Needs|React|Maintenance|Teaching|Curriculum Design,Education,Certificate - St. Augustine University,Dar es Salaam,1,17159530
+c71d8a02-4cde-4373-b454-a741d8f77b41,Lisa Higgins,Agribusiness|Electrical Engineering|Soil Science|Crop Science,Agriculture,Bachelor - University of Dar es Salaam,Mwanza,2,17493833
+fa6b0c1c-cce0-4334-8dc7-8070f39e1a3f,Andrea Hernandez,Safety Compliance|Civil Engineering|AutoCAD|Customer Service,Construction,Bachelor - Sokoine University,Mwanza,15,5364733
+d2253c70-41ae-4917-9f6e-8cd37c01b6f4,Timothy Mason,Dispatch|Driving|Fleet Management|Hotel Management,Transport,Bachelor - University of Dodoma,Zanzibar,0,12044310
+2304cb99-fb84-43e6-aec1-deab48c3e119,John Eaton,Renewables|Energy Auditing|Maintenance,Energy,Bachelor - St. Augustine University,Arusha,3,10208864
+865efb7e-c7f7-45e1-82bd-d59064a6361f,Jessica Mejia,Maintenance|Livestock|Agribusiness|Irrigation,Agriculture,Bachelor - Nelson Mandela Institute,Tanga,3,3629146
+649877c7-7317-4e6a-9d86-ba434ee47728,Jonathan Thompson,Driving|Logistics|Dispatch,Transport,Certificate - University of Dar es Salaam,Morogoro,15,15682404
+e7f74613-79f0-42b3-9e41-6c113c3d792c,Luke Brooks,SQL|Travel Planning|Event Planning|Hotel Management,Tourism,Diploma - Nelson Mandela Institute,Arusha,13,10806486
+4e06a94d-c6dd-4486-9763-ebfe512fb895,Madison Hubbard,Route Planning|Travel Planning|Tour Guiding|Hotel Management|Cloud,Tourism,Diploma - St. Augustine University,Kilimanjaro,10,4329412
+a47674fc-80e1-4148-ae91-ddd3c2fb82bf,Heather Dixon,Site Management|Special Needs|Tour Guiding|Surveying|Dispatch|AutoCAD,Construction,PhD - Sokoine University,Mbeya,13,4272606
+43dc81d0-a885-49ce-bd72-f40b23d41a22,James Noble,Patient Care|Public Health|Lab Work|Teaching|Fleet Management,Healthcare,Bachelor - University of Dar es Salaam,Dar es Salaam,7,5066311
+cf0a7182-140e-4c95-a242-083991587ef8,Nancy Johnston,Dispatch|Route Planning|Fleet Management|Crop Science,Transport,Certificate - University of Dodoma,Tanga,10,3158404
+0a925d44-7eeb-40b3-a24e-3660d6de59e6,Grace James,Patient Care|Nursing|Python|eLearning|Lab Work|Clinical Research,Healthcare,Master - Muhimbili University,Mwanza,11,5177141
+528fc90b-522a-4709-b4df-54d7caad8dfe,Christopher Miller,Agribusiness|Irrigation|Crop Science,Agriculture,Master - University of Dodoma,Dar es Salaam,4,13869418
+aaf91958-a448-4f5b-97d6-12d4b14dd4e5,Katherine Mcdonald,Nursing|Travel Planning|Renewables|Maintenance|Teaching|Grid Management,Energy,PhD - Ardhi University,Tanga,9,3406113
+9eb62d98-b618-4c5f-8e0e-3cd541d4a3e0,Brandon Wood,Networking|Route Planning|Tour Guiding|Dispatch|Logistics,Transport,Certificate - Mzumbe University,Moshi,0,11319121
+485e7ab7-b1c7-44eb-9ad9-ff214eaa75b0,Shannon Brown,Safety Compliance|Nursing|Irrigation|Agribusiness|Livestock|Crop Science,Agriculture,PhD - Nelson Mandela Institute,Moshi,11,12823942
+22069305-466f-4a47-af48-29285a37570b,Stephanie Green,Travel Planning|Event Planning|Tour Guiding,Tourism,Certificate - Mzumbe University,Moshi,14,11178604
+224e1d60-3f6b-49a9-9f5a-367c21f73f05,Steven Jones,Route Planning|Energy Auditing|Driving|Dispatch|Logistics|Android,Transport,Diploma - University of Dodoma,Dar es Salaam,12,4873083
+9a1156fd-4628-4cfa-b990-73f786aebbcc,Scott Larson,Tax|Flutter|Auditing|Financial Analysis|Civil Engineering,Finance,Bachelor - University of Dar es Salaam,Arusha,1,16449668
+d178eba0-bf15-4a7f-9f5a-d2e05d45d2c9,Bryan Davis,Tax|Financial Analysis|Excel|Public Health,Finance,Diploma - Muhimbili University,Dodoma,5,10183912
+72d9f3f6-14a9-46d0-b717-f126a1ea61b4,April Ward,Cloud|Customer Service|Tour Guiding|Hotel Management,Tourism,Diploma - Nelson Mandela Institute,Moshi,10,11731927
+6a57f25a-00da-4598-8eff-3a8537450343,Jack Rojas,Patient Care|eLearning|Accounting|Counseling|Teaching|Curriculum Design,Education,Bachelor - St. Augustine University,Zanzibar,3,16807401
+7b9d49cb-78c2-435d-a162-53bc7b99c97b,Charles Morales,Driving|Logistics|Fleet Management,Transport,Bachelor - St. Augustine University,Mbeya,14,11169889
+1cb932f5-01fd-457c-8574-7b93d5b80b4d,John Roberts,Tax|Financial Analysis|eLearning|Auditing,Finance,Master - University of Dar es Salaam,Dar es Salaam,6,12347131
+c29ed3d0-71b5-4d53-81a1-d5ab3ff42248,David Edwards,Safety Compliance|Nursing|Patient Care|Special Needs|Counseling|Teaching,Education,Diploma - University of Dar es Salaam,Mwanza,4,17104715
+d13923fc-679b-4351-a4ed-1c123399d069,Rhonda Burke,Nursing|Lab Work|Irrigation|Public Health,Healthcare,Bachelor - Nelson Mandela Institute,Zanzibar,7,11824330
+528f916f-3e8e-492a-83c2-cb4803cc7208,Jeffrey Pace,Networking|Energy Auditing|Renewables|Maintenance|Financial Analysis,Energy,Diploma - Nelson Mandela Institute,Arusha,9,5561941
+64f00975-6260-49a1-96d4-aa525c758cc1,David Martinez,Patient Care|Irrigation|Public Health|Lab Work|Crop Science,Healthcare,Diploma - Sokoine University,Mwanza,13,16392786
+08ba6ea6-0702-40bc-a227-527e77489209,Barbara Anderson,Python|Irrigation|Lab Work|Soil Science|Crop Science,Agriculture,Bachelor - Sokoine University,Mbeya,6,9778626
+9b2bda5c-e17f-446d-9e29-d8a8c532a4dd,Gregory Manning,Safety Compliance|Route Planning|Surveying|Dispatch|Financial Analysis|Fleet Management,Transport,Master - Mzumbe University,Arusha,12,5309210
+fe9e9044-60bd-42f9-880f-fa6a6e2b7dfd,Ashley Parrish,Public Health|Energy Auditing|Soil Science|Excel|Agribusiness|Livestock,Agriculture,Master - Ardhi University,Dodoma,8,5080158
+4a2f8e72-4c9c-49a0-9137-0c7431da291f,Jacob Orr,Patient Care|Public Health|Electrical Engineering|Lab Work|Driving,Healthcare,Certificate - Muhimbili University,Moshi,2,7728332
+c0bbe0f1-56af-482b-9fbe-7fdeb6e34304,Rachel Bradshaw,Tour Guiding|Hotel Management|eLearning|Customer Service|AutoCAD,Tourism,Certificate - Sokoine University,Arusha,5,4137719
+6d1221ac-d55a-4d23-adb5-fd8528eb5c35,Stephen Hansen,Tax|Accounting|Civil Engineering|Auditing,Finance,Diploma - Ardhi University,Dodoma,15,14764264
+d0eede0d-4341-447e-8696-7f65eda1085f,Patricia Ross,Surveying|Civil Engineering|AutoCAD,Construction,Certificate - Muhimbili University,Arusha,5,5114545
+0d837fc5-8d12-4e4e-9339-c1e2f3efafd4,Kyle Davis,eLearning|Special Needs|Fleet Management|Teaching,Education,Certificate - Muhimbili University,Kilimanjaro,4,6152726
+9c8f5bfe-af61-4405-a30d-131b18536db6,Kristy Hall,Irrigation|Soil Science|Agribusiness|Teaching|AutoCAD,Agriculture,Diploma - Nelson Mandela Institute,Kilimanjaro,1,13320640
+b14d830d-e8e7-4084-b560-085e41cf1a86,Hunter Bryan,eLearning|Clinical Research|Patient Care|Public Health,Healthcare,Diploma - Sokoine University,Mbeya,12,7451685
+12ddbd03-65c9-40d0-a6d6-d2e24bcaba01,Amy Maynard,Nursing|SQL|Flutter|Financial Analysis|Livestock|Android,ICT,PhD - University of Dodoma,Tanga,4,15054635
+d34ac95d-f8a6-4f3c-8166-3056105410cf,Suzanne Warren,Patient Care|Lab Work|Public Health,Healthcare,Diploma - St. Augustine University,Mwanza,15,6600157
+97db5368-d4e6-4782-8008-cc8b2085c750,Erin Kelly,Soil Science|Livestock|Irrigation,Agriculture,Bachelor - University of Dodoma,Kilimanjaro,4,13399484
+1a7df54b-9106-4c0f-aff1-28a7d7cc49cb,Karla Matthews,eLearning|Energy Auditing|Surveying|Counseling|Curriculum Design|Linux,Education,Certificate - Sokoine University,Mwanza,6,10928142
+a3c3f71f-69df-4b36-bddf-836c238d5785,Sarah Sherman,Dispatch|Route Planning|Electrical Engineering|Fleet Management,Transport,Certificate - Ardhi University,Tanga,6,3410068
+773733e4-9427-419d-9d2a-1176e5c294ec,Nicholas Smith,Accounting|Cloud|Auditing|Excel,Finance,Certificate - Nelson Mandela Institute,Zanzibar,9,11355183
+2233421e-ce6b-4eb5-b771-16785a1d0c9d,Nicholas Butler,Special Needs|Clinical Research|Counseling|Teaching|Event Planning,Education,Certificate - University of Dodoma,Arusha,5,7803833
+88de6b76-4150-4df1-9a8d-ff4fed77031e,Jeffrey Wilkerson,Renewables|Livestock|Soil Science|Irrigation,Agriculture,Bachelor - Mzumbe University,Kilimanjaro,13,11925866
+1df109f1-9da5-43cb-8aa7-2d4f5db83e76,William Arnold,Driving|Route Planning|Fleet Management,Transport,Certificate - Muhimbili University,Kilimanjaro,11,13137639
+65a25e9f-2941-468d-bf06-f34470e1ab92,Anna Kent MD,Safety Compliance|Site Management|Surveying,Construction,Diploma - Nelson Mandela Institute,Kilimanjaro,3,15505905
+9f5064cf-4ca5-4286-b50b-05944f40372f,Lisa Johnson,Route Planning|Public Health|Dispatch|Driving|Cloud|AutoCAD,Transport,Master - University of Dodoma,Dar es Salaam,11,5581366
+8318b194-6ef1-462e-b60b-3f9d539fb227,Krystal Martinez,Site Management|AutoCAD|Civil Engineering|Android,Construction,Bachelor - Nelson Mandela Institute,Dar es Salaam,10,4990010
+3c76e084-2f91-4359-abad-4ae9c779c2bd,Mary Lane,Event Planning|Customer Service|Tour Guiding,Tourism,Bachelor - Nelson Mandela Institute,Mwanza,8,8089155
+8139293f-93af-4c1c-8067-73db20ad1b11,Jeremy Wheeler,Special Needs|Customer Service|Excel|Teaching|Curriculum Design|Linux,Education,Bachelor - University of Dodoma,Moshi,5,8154640
+0a2fedf7-7afb-4331-990b-2e29a0f99c27,Richard Collins,Tax|Accounting|Energy Auditing|Financial Analysis|Cloud,Finance,Bachelor - St. Augustine University,Moshi,11,12251306
+755b7823-5ab0-4ecd-a449-89070712c9f1,John Cannon,Networking|Patient Care|Flutter|Financial Analysis|Teaching|Linux,ICT,Bachelor - Ardhi University,Moshi,3,10745088
+ad8233c9-b697-4726-9071-54dbbe5a28c6,David Chung,Tour Guiding|Customer Service|Event Planning,Tourism,Bachelor - University of Dodoma,Dodoma,10,14119024
+6952c85f-70f1-4b76-9df2-e076c2bfe2fd,Steven Coleman,Grid Management|Clinical Research|Energy Auditing|Maintenance,Energy,Bachelor - University of Dar es Salaam,Mwanza,10,13160955
+8bc35213-4d60-4628-b676-c52d598acb19,Elizabeth Thompson,Financial Analysis|Auditing|Accounting,Finance,Master - University of Dodoma,Dar es Salaam,13,15918410
+720b0872-c3df-4adc-b154-e5bec90f704f,Amanda Brown,eLearning|Curriculum Design|Teaching,Education,Bachelor - University of Dodoma,Tanga,6,13860496
+dfb63128-606b-4919-985b-561a853c8063,Douglas Smith,Safety Compliance|Surveying|AutoCAD,Construction,Master - St. Augustine University,Kilimanjaro,4,7884148
+3c013a71-fe6a-4d7d-a572-b7ff4aace837,Kathryn Ross,Tax|Accounting|Event Planning|Auditing,Finance,Bachelor - Sokoine University,Arusha,9,7174049
+bbaa7338-e96f-45bc-9987-3897b05ac874,Mr. Anthony Barron,Special Needs|Energy Auditing|Linux|Counseling|Curriculum Design|Logistics,Education,Diploma - University of Dar es Salaam,Moshi,4,16302467
+dcdad704-ffd1-4a58-9969-68ca3ee7b45d,Christine Patterson,Special Needs|Irrigation|Agribusiness|Auditing|Cloud|Crop Science,Agriculture,Diploma - Mzumbe University,Dar es Salaam,13,7455624
+b30b6317-82a8-4d6f-8515-1d0a209c9de9,Jennifer Hurst,Clinical Research|Lab Work|Nursing,Healthcare,Bachelor - Ardhi University,Tanga,13,11233998
+e1c29944-296e-4146-9920-6d657bca3d47,Jeremy Wilson,Tax|Accounting|Flutter|React|Financial Analysis|Django,Finance,Bachelor - Muhimbili University,Morogoro,4,8440836
+473ca86b-62d2-4682-b18d-4b04cdfd1fef,Richard Ashley,Networking|Energy Auditing|Renewables|Maintenance|Cloud|Android,Energy,Master - University of Dar es Salaam,Dar es Salaam,7,13652584
+03976fc8-4e4d-495f-987e-85b83fceb367,Kenneth Johnson,Flutter|Surveying|Renewables|Maintenance|Teaching|Grid Management,Energy,Bachelor - St. Augustine University,Morogoro,2,16449830
+9b5a719b-600c-4d14-9845-d2a8a69c421a,Mary Cunningham,Python|Hotel Management|Lab Work|Flutter|React|Curriculum Design,ICT,Certificate - St. Augustine University,Arusha,11,14606871
+fe39c47a-d604-44d1-9bfa-84806ce8a8f8,Tyler Johnson,Clinical Research|Nursing|Cloud|Patient Care,Healthcare,Diploma - University of Dar es Salaam,Dar es Salaam,3,15988889
+5e262a0e-5877-4f0d-86d3-71ba04da974b,Michael Jennings,Safety Compliance|Irrigation|Electrical Engineering|Flutter|Agribusiness|Crop Science,Agriculture,Bachelor - Mzumbe University,Moshi,11,14781030
+2422b493-77c1-498f-8b5c-812dfdd0dae6,Jennifer Parks,Accounting|SQL|React|Python,ICT,Diploma - University of Dodoma,Zanzibar,11,16240774
+a8cd2341-9725-4035-a23a-1f8a32203ef4,Zachary Galvan,Driving|Logistics|Dispatch,Transport,Bachelor - Mzumbe University,Tanga,7,7169276
+7def8f28-acd6-40cc-b3d1-6408adbc2cd2,Michael Hall,Clinical Research|Nursing|Lab Work,Healthcare,Master - St. Augustine University,Mwanza,1,17448324
+51cb0a50-f820-4e94-a45c-4b628b5c095a,Christopher Levy,Site Management|Public Health|Accounting|Customer Service|Civil Engineering|AutoCAD,Construction,PhD - Mzumbe University,Kilimanjaro,9,9214292
+fd774446-bf0f-4f13-8856-6d3c2a85a1e0,Steven Williamson,Tour Guiding|Hotel Management|Irrigation|Accounting|Customer Service|Curriculum Design,Tourism,Bachelor - Nelson Mandela Institute,Morogoro,0,5474190
+fcf47a0a-2c5b-4ee1-ba30-809b952a000d,Jason Meyers,eLearning|Maintenance|Teaching|Curriculum Design|Civil Engineering,Education,Diploma - University of Dodoma,Morogoro,9,14159370
+16fb1258-936d-4138-8aeb-83f6b8a658ce,Matthew Archer,SQL|Surveying|Dispatch|Curriculum Design|Logistics|Fleet Management,Transport,Bachelor - St. Augustine University,Zanzibar,2,6116370
+85da399d-2559-49b2-86b4-aee3d70606d6,Rachel Patterson,Driving|Fleet Management|Dispatch,Transport,Diploma - University of Dar es Salaam,Arusha,0,9822044
+b34c223b-4d6f-4463-b97c-dda8b1e38d01,Cheryl Davis,Curriculum Design|Special Needs|Counseling|Teaching,Education,Diploma - St. Augustine University,Mwanza,12,8026101
+e2cc0d8c-9ab8-4643-968c-4ab12c3302c4,Stacy Campbell,Electrical Engineering|Energy Auditing|React|Renewables|Logistics|Livestock,Energy,Master - St. Augustine University,Mbeya,7,13674035
+c98ef08f-7546-44a4-97f2-b61fdc0904bd,Justin Green,Driving|Logistics|Fleet Management,Transport,Bachelor - Nelson Mandela Institute,Dar es Salaam,0,15826072
+a88a72d4-b138-430b-bc65-0ed2ee1bcfb2,Elizabeth Roy,Electrical Engineering|Renewables|Logistics|Grid Management,Energy,Certificate - Ardhi University,Dodoma,5,3318984
+bc207c5e-783c-4a32-9953-ccc89b21d899,Jessica Evans,Safety Compliance|Patient Care|Site Management|Surveying|Customer Service,Construction,Bachelor - St. Augustine University,Mbeya,6,12505323
+6f17b1f0-4c82-472d-9189-a60722bbb6f7,Rebecca Lang,Dispatch|Driving|Fleet Management,Transport,PhD - University of Dar es Salaam,Zanzibar,3,14367311
+20d62993-3479-42f6-a419-89f84d099c72,Sean Harris,Tax|Grid Management|Accounting|Financial Analysis|Event Planning|Fleet Management,Finance,Diploma - Nelson Mandela Institute,Dodoma,15,12232828
+978931ed-3a91-4ac1-b6d9-55322d5f62de,Jonathan Moreno,Site Management|Travel Planning|Tour Guiding|Hotel Management,Tourism,PhD - University of Dar es Salaam,Tanga,1,11675524
+408ce386-710e-4999-beed-7dce904da268,Jessica Maynard,Special Needs|eLearning|SQL|Curriculum Design|Event Planning,Education,Certificate - Sokoine University,Mwanza,5,8477131
+588ae932-23f7-4f4c-b313-f4090b4219c5,Margaret Walker,eLearning|Special Needs|Teaching,Education,Diploma - Ardhi University,Mwanza,15,6723807
+5585a002-9b7e-425e-9f22-6b8fcd5a7026,Michael Watson,Driving|Linux|Logistics|Fleet Management,Transport,Diploma - University of Dar es Salaam,Dodoma,11,5093836
+b6dd11d5-b275-4cbb-a48d-8a50ee6f8023,Mary Zimmerman,Route Planning|Nursing|Patient Care|Public Health|Dispatch,Healthcare,Master - University of Dar es Salaam,Tanga,4,6872129
+fb644bac-a847-4fde-9ab7-0e9b7e7356e2,Pamela Horton,Nursing|Patient Care|Tour Guiding|Public Health|Customer Service,Healthcare,Diploma - Mzumbe University,Arusha,5,7918872
+8275af84-2444-487c-b035-7654f14aba54,Jesus Arnold,eLearning|Excel|Agribusiness|Teaching|Curriculum Design,Education,Certificate - Ardhi University,Zanzibar,2,11669895
+db57ef0e-8b6a-4def-b2d7-d3dd90df7be8,Matthew Flores,Site Management|Surveying|Civil Engineering,Construction,Bachelor - Nelson Mandela Institute,Zanzibar,3,9041916
+c963af85-02dd-4089-b581-30bbd58f448c,Richard Willis,Site Management|Electrical Engineering|Energy Auditing|Maintenance|Django|Android,Energy,Diploma - St. Augustine University,Kilimanjaro,0,15892915
+f5c6b45b-b67d-4409-8dc7-52f54fc8aadc,Sharon Jackson,Counseling|Soil Science|Livestock|Agribusiness,Agriculture,Bachelor - Mzumbe University,Morogoro,14,7714085
+24db6c3e-e3b9-4c1d-b0b8-e18e2ab68aa6,Carolyn Brown MD,Financial Analysis|AutoCAD|Auditing|Excel,Finance,Certificate - Mzumbe University,Morogoro,7,3096105
+35698950-8800-46c4-9e48-8d8a376dc435,April Davis,eLearning|Curriculum Design|Counseling,Education,Diploma - Muhimbili University,Mwanza,3,6064474
+241d6193-67c2-4fa6-8a92-d1f157374586,Donald Smith,Irrigation|Lab Work|Soil Science|Curriculum Design|Crop Science,Agriculture,PhD - St. Augustine University,Tanga,4,4019341
+31124774-7f46-4c43-8004-18d029a183e4,Cory Montgomery,eLearning|Curriculum Design|Teaching,Education,Diploma - University of Dodoma,Arusha,9,12338742
+bc45ad91-d536-4dc0-97b1-2d7016f685e5,Mark Miller,Travel Planning|Event Planning|Tour Guiding,Tourism,Certificate - Muhimbili University,Arusha,11,12707269
+f3306c49-a5d1-40ad-b1e1-06fbf313e729,Kelly Chaney,Clinical Research|Nursing|Android|Patient Care,Healthcare,Bachelor - Sokoine University,Mbeya,2,13808262
+caf9c160-7124-49f3-af66-c5917f4514f5,Victoria Bentley,Tax|Accounting|Excel|Renewables|AutoCAD,Finance,Certificate - University of Dodoma,Morogoro,5,9920558
+c134e09a-cdb6-4ce0-8f53-44623d4e25a2,Lindsay Zimmerman,Hotel Management|React|Python|Android,ICT,Bachelor - Ardhi University,Zanzibar,9,12306122
+48b34739-6b70-42bf-bfe5-4402e71653f1,Glenn Perry,Flutter|AutoCAD|Django|React,ICT,Bachelor - Muhimbili University,Mwanza,2,7394084
+5134f7fd-e101-47d5-a754-a1b88001e011,Thomas Moore,Special Needs|Site Management|Lab Work|Teaching|Curriculum Design,Education,Bachelor - Sokoine University,Dar es Salaam,8,10896501
+4a522dc7-7733-4e36-b001-a434b877204d,Clayton Mccormick,SQL|Agribusiness|Irrigation|Crop Science,Agriculture,Certificate - Ardhi University,Morogoro,15,13964559
+49ab1e63-cc14-44c2-ae6c-e2e7ae59ae3c,Gregory Leonard,Nursing|Patient Care|Lab Work|Excel|Fleet Management,Healthcare,Diploma - University of Dar es Salaam,Arusha,11,15095440
+695a785d-abb7-4adf-a508-945562c97fb4,Leah Wilcox,Special Needs|Electrical Engineering|Energy Auditing|React|Clinical Research|Maintenance,Energy,Diploma - St. Augustine University,Morogoro,9,6032875
+f6b923fd-1c03-40bc-9da8-a3fc6938d258,Ms. Hannah Hall MD,Dispatch|Logistics|Customer Service|Driving,Transport,Bachelor - University of Dodoma,Dodoma,11,15179731
+b2d7f851-ac0a-46ca-b409-640667e81cbd,Carol Rivera,Site Management|Travel Planning|Surveying|Linux|AutoCAD|Crop Science,Construction,Master - University of Dar es Salaam,Mbeya,9,10864665
+579914cb-abd5-4e14-a21d-c9cda6e04827,John Green,Soil Science|Clinical Research|Counseling|Teaching|Curriculum Design|AutoCAD,Education,Diploma - Muhimbili University,Arusha,7,8011553
+84aa59e8-8944-41be-a35c-d7caceb80050,Alex Cook,Safety Compliance|SQL|Site Management|Civil Engineering,Construction,Diploma - Sokoine University,Morogoro,15,6457474
+160fe463-7687-4d00-bff5-ebd5940ed392,Darren Morgan,Safety Compliance|Event Planning|Tour Guiding|Hotel Management,Tourism,Bachelor - Ardhi University,Mwanza,13,15026724
+10ea607c-0a4c-4613-bce7-37a4e3c1ffb8,Joseph Duran,Tax|Travel Planning|Public Health|Electrical Engineering|Energy Auditing|Maintenance,Energy,Bachelor - Sokoine University,Arusha,9,6216157
+ceb57249-8cc7-4041-8442-c4c4a63a10a0,Christopher Richardson,Dispatch|Route Planning|Fleet Management,Transport,Master - Muhimbili University,Dar es Salaam,15,16624628
+ed5bb3a9-eda9-4079-a8c6-aeca7424dcd6,Blake Johnson,Electrical Engineering|Energy Auditing|Maintenance,Energy,Diploma - Mzumbe University,Kilimanjaro,14,10511652
+1579838c-6dde-4b2c-91cc-a82c75dca44c,Amanda Graham,Safety Compliance|Surveying|AutoCAD,Construction,Bachelor - St. Augustine University,Dodoma,14,17252493
+5d0c5afe-5b8f-415a-8735-d63fed31771b,Robin Moore,Linux|Django|React,ICT,Diploma - University of Dodoma,Moshi,6,7077748
+a339e76d-a739-4e97-9be7-7bb5e3e5e4b1,Stephen Stone,Tax|Financial Analysis|Excel,Finance,Bachelor - University of Dar es Salaam,Moshi,4,14811293
+c8a91dea-98aa-42d8-9d8a-14dd9f536f63,Christopher Rios,Driving|Route Planning|Fleet Management,Transport,Certificate - University of Dodoma,Kilimanjaro,10,8946976
+bd412bd4-05f4-43d7-9f4b-a2ee72c4dce2,Peter Stewart,Site Management|Irrigation|Civil Engineering|AutoCAD|Android,Construction,Master - St. Augustine University,Morogoro,4,6519937
+77ca71b1-1d63-4d69-a545-1ad6bf9a48dc,Michael Bernard,Tax|Flutter|React|Excel|Auditing,Finance,Bachelor - Sokoine University,Zanzibar,1,4124359
+02271f7c-761a-4b76-be84-0921403c6f08,Casey Stewart,Safety Compliance|Nursing|Site Management|Electrical Engineering|Energy Auditing|AutoCAD,Construction,Diploma - University of Dar es Salaam,Dodoma,2,5077038
+e0066123-bcc6-454e-a718-a2d188023a1e,Heather Stevenson,Safety Compliance|Tax|Flutter|Surveying|AutoCAD,Construction,Certificate - St. Augustine University,Arusha,11,13062697
+b15b270c-a2b6-4bb1-a396-6dc044e0b6e8,Emily Mccarthy,Django|Livestock|Agribusiness|Irrigation,Agriculture,Bachelor - University of Dodoma,Mbeya,7,12171675
+068de87e-90a1-4ccb-9505-9dfa538fe10d,David White MD,Route Planning|Travel Planning|Driving|Cloud|Logistics|Livestock,Transport,Bachelor - Mzumbe University,Mbeya,0,4970877
+9dc1d6ea-c20a-40c1-9258-5d5fd71f1df8,Alison Lee,Public Health|eLearning|Dispatch|Counseling|Teaching|Financial Analysis,Education,Diploma - Nelson Mandela Institute,Dar es Salaam,12,15710189
+3a5026e8-619b-4013-af57-2437e156b6cc,Christina Edwards,Curriculum Design|Counseling|Teaching,Education,Master - Muhimbili University,Dar es Salaam,4,13573971
+9f8ea644-4b55-4311-bee5-639cfb0ca35d,David Smith,Python|Event Planning|Tour Guiding|Hotel Management,Tourism,Certificate - St. Augustine University,Tanga,11,3158268
+d7ae430f-8749-4913-9e54-681162f19107,Michelle Sanchez,Route Planning|Public Health|Driving|Dispatch|Financial Analysis|Event Planning,Transport,Certificate - Ardhi University,Tanga,1,10137902
+0a58bf64-4f0f-4c9a-9875-bdb238ef02c2,Jessica Anderson,Safety Compliance|Site Management|Surveying,Construction,Certificate - Muhimbili University,Morogoro,10,11102475
+079d72d0-c89d-4023-8364-428644dfb9dd,Melissa Hernandez,Tour Guiding|Python|Surveying|Agribusiness|Livestock|Crop Science,Agriculture,Bachelor - University of Dar es Salaam,Moshi,0,11615813
+722c34be-f805-44a8-838c-2baf1c573a70,Tyler Allen,Safety Compliance|Site Management|AutoCAD,Construction,Diploma - University of Dar es Salaam,Dodoma,6,11823152
+536f9a96-91eb-498c-82c0-a50748915e24,Christine Anderson,Nursing|Driving|Dispatch|Logistics|Livestock,Transport,Bachelor - Mzumbe University,Mbeya,12,8251597
+af7b5ff3-4969-4aa5-a719-79a4fcded514,Robert Jenkins,Nursing|Lab Work|Android|Public Health,Healthcare,Certificate - Muhimbili University,Kilimanjaro,4,13213718
+f893f5ad-9ea4-4d7f-9499-77b1bd5978c0,Diana Allen,SQL|Django|React,ICT,Diploma - Nelson Mandela Institute,Morogoro,14,6259563
+011188e2-e556-416a-8b66-e9cfda0c6d64,Colleen Carroll,Irrigation|Soil Science|Dispatch|Livestock|Crop Science,Agriculture,Certificate - University of Dodoma,Mbeya,14,7632358
+3b07e364-6518-4bf1-812f-02c37b297692,Amy Mcbride,Patient Care|Irrigation|Public Health|Lab Work|Clinical Research,Healthcare,Certificate - Sokoine University,Arusha,13,7921465
+16e6858d-6750-49d7-be65-5d25f22be120,Jared Atkinson,Special Needs|Energy Auditing|Teaching|Curriculum Design|Crop Science,Education,Bachelor - Nelson Mandela Institute,Tanga,15,9313727
+737b2519-2a46-4aea-887a-90691a567753,Heather Lyons,Tax|Travel Planning|Tour Guiding|Customer Service|Soil Science|Civil Engineering,Tourism,Diploma - Ardhi University,Dar es Salaam,2,16156951
+f337b67f-6a8d-4ea2-8b76-cc47a26b59f1,Laurie White,Tax|Travel Planning|Accounting|Soil Science|Excel|Financial Analysis,Finance,Diploma - Muhimbili University,Moshi,6,13506587
+f32d4885-53e7-45f7-9983-db132eddef3c,Ralph Wood,Lab Work|Flutter|Soil Science|Agribusiness|Crop Science,Agriculture,Certificate - Mzumbe University,Morogoro,6,14715620
+bf4e4509-b06e-47e9-b2fa-0f6fa88faace,Shelley Fuller,SQL|Logistics|Flutter|Django,ICT,Bachelor - Muhimbili University,Arusha,2,8750546
+e366c1d3-d763-4d35-ae00-c7f9988533d1,Cody Carroll,Customer Service|Tour Guiding|Hotel Management,Tourism,Diploma - St. Augustine University,Mbeya,12,3606436
+8c1f6898-d719-406a-a799-e4f6db25f6b0,Andrew Hinton,Tour Guiding|Python|Customer Service|Auditing|Logistics|Event Planning,Tourism,Certificate - University of Dodoma,Dar es Salaam,13,10204617
+87718455-d34f-480e-aa56-22e8d45f0680,Jack Marks,Livestock|Irrigation|Crop Science,Agriculture,Diploma - St. Augustine University,Mbeya,10,12070965
+27966b6d-273f-4ee4-ad4f-674474ef2503,Cynthia Meyer,Driving|Fleet Management|Dispatch,Transport,Bachelor - Nelson Mandela Institute,Dodoma,3,13619587
+b06b634c-8a48-4624-9646-23da26de5136,Emily Ryan,Safety Compliance|Special Needs|Renewables|Maintenance|Livestock|Grid Management,Energy,Bachelor - University of Dar es Salaam,Mwanza,11,8739978
+afbe8cb5-732a-4b0f-809f-1fc3e698ce4f,Ricky Zavala,Accounting|Auditing|Excel,Finance,Diploma - University of Dodoma,Mwanza,5,10840901
+0969c9df-0071-41cf-b760-e7214516a9d6,Carly Gomez,Nursing|Patient Care|Livestock|Public Health,Healthcare,Bachelor - Mzumbe University,Tanga,8,10323920
+43fbe4ef-6aba-4e39-9d1a-2dee1ecd5349,Hannah Mcdonald,Python|React|Auditing|Maintenance|Linux,ICT,Certificate - Sokoine University,Dar es Salaam,3,3304124
+8ce64c31-e217-46d8-be55-5e73349573af,Trevor King,Agribusiness|Soil Science|Crop Science,Agriculture,PhD - St. Augustine University,Kilimanjaro,9,5235469
+56cc4034-8606-4a74-adc3-264eeb4804ad,John Decker,Safety Compliance|Surveying|AutoCAD,Construction,Diploma - Muhimbili University,Tanga,7,8886510
+483e8118-87b3-42f5-b432-f3be75b1eb90,Renee Andrews,Route Planning|Travel Planning|Driving|Teaching|Fleet Management|Android,Transport,Diploma - St. Augustine University,Moshi,14,10619418
+8acf2e25-cdeb-4c09-8c68-7d705c0bd0e7,Robert Gardner,Clinical Research|Nursing|Public Health,Healthcare,Certificate - Ardhi University,Kilimanjaro,6,15241946
+9a88111d-8b30-4c7b-b29b-c9669528795c,Marie Hoffman,Curriculum Design|Special Needs|Counseling|Auditing,Education,Master - Muhimbili University,Kilimanjaro,0,10939018
+bd0bbdcf-2c41-42eb-818b-bd71ae4c3719,William Thomas,Irrigation|Soil Science|Driving|Counseling|Agribusiness|Livestock,Agriculture,Diploma - Muhimbili University,Kilimanjaro,0,16544601
+682ce662-50f4-4e09-a0f0-ec9bd85bcbe5,Brian Lucas,Driving|Logistics|Soil Science|Fleet Management,Transport,Master - Ardhi University,Dodoma,11,4127054
+69478122-9fd1-4d49-bf69-32b1cfd0efb1,Aaron Beck,Tour Guiding|Hotel Management|Lab Work|React|Maintenance|Event Planning,Tourism,Certificate - University of Dar es Salaam,Moshi,10,9110604
+290865bf-80ce-44d0-8e18-21bbdb302f20,Alyssa Brown,Soil Science|Agribusiness|Irrigation,Agriculture,Bachelor - Muhimbili University,Moshi,6,7703168
+7592d659-fad3-4942-a6f2-346f288f5b57,Nicole Graham,Networking|SQL|Flutter|Curriculum Design,ICT,Diploma - Nelson Mandela Institute,Dar es Salaam,5,5434364
+21d09567-d95c-4c37-b13e-9bab4ddc7203,Elizabeth Young,Safety Compliance|Nursing|Lab Work|Clinical Research|AutoCAD,Healthcare,Bachelor - University of Dodoma,Kilimanjaro,11,3645341
+c678d7cf-dd72-4efa-b859-98f408d212f1,Janet Grimes,Travel Planning|Tour Guiding|Soil Science|Event Planning|Crop Science,Tourism,Bachelor - University of Dar es Salaam,Dar es Salaam,9,11571638
+c5028547-fd48-4caf-881c-8764e10e3e9e,Tyler Morales,Networking|Travel Planning|Electrical Engineering|Energy Auditing|Renewables|Linux,Energy,Diploma - Ardhi University,Mwanza,2,5593278
+df76a920-7c14-40f2-8958-ad621ae20f5d,Jonathan West,Networking|Cloud|Python,ICT,Bachelor - University of Dodoma,Moshi,13,5615216
+d5393961-a769-4ffc-872c-d36ad5054518,Susan Cooper,Route Planning|Logistics|Auditing|Fleet Management,Transport,Diploma - Sokoine University,Zanzibar,13,14326123
+eecec18d-fd72-4682-ac81-32495c6f2680,Cassandra White,Site Management|Public Health|Lab Work|React|Soil Science|Clinical Research,Healthcare,Certificate - Ardhi University,Kilimanjaro,7,5691582
+72286c9b-0aea-45cd-90d2-8d08e67fcc20,Michael Morris,Safety Compliance|Route Planning|Site Management|Energy Auditing|Linux|AutoCAD,Construction,Diploma - Nelson Mandela Institute,Dar es Salaam,6,5484350
+816098ca-bd28-42a2-908d-9b30a1362b80,Amber Miller,Financial Analysis|Cloud|Auditing|Accounting,Finance,Diploma - Muhimbili University,Kilimanjaro,4,16630347
+739b2184-184e-4110-b8b0-3c589cfb5473,Christopher Bishop,Curriculum Design|Special Needs|Counseling|Auditing,Education,Certificate - University of Dar es Salaam,Kilimanjaro,6,16623575
+c3f10fcc-9c47-44d1-b841-6019c469c5a5,Gregory Jones,Special Needs|Tour Guiding|Irrigation|Soil Science|Cloud|Livestock,Agriculture,Master - Muhimbili University,Mwanza,10,7887295
+f598c41f-3032-44ce-8cc4-8cbbbaa62ed6,Angela Stanton,Accounting|Electrical Engineering|Dispatch|Auditing|Financial Analysis,Finance,Bachelor - St. Augustine University,Dar es Salaam,7,15349667
+904a0499-876b-439b-9a42-b9cc52da3781,Matthew Moreno,Dispatch|Logistics|Driving,Transport,Bachelor - Sokoine University,Zanzibar,9,8145556
+1f1f9210-f403-4a4e-ac6c-a7cb0b2583cc,Lauren Ramirez,Nursing|Maintenance|Energy Auditing|Grid Management,Energy,Bachelor - University of Dodoma,Dodoma,1,15676800
+958d6769-1a39-4126-b6b4-3d998198b23b,Linda Phillips,Dispatch|Route Planning|Fleet Management,Transport,Bachelor - St. Augustine University,Kilimanjaro,11,11005466
+6712406b-757b-4ead-a8ad-2409766c67f8,Heather Mckee,Electrical Engineering|SQL|Energy Auditing|Customer Service|Renewables|Maintenance,Energy,PhD - Muhimbili University,Dodoma,8,11611404
+9d72c377-2518-4ed6-9797-041d3e2da0f4,Andrew Smith,Energy Auditing|Soil Science|Counseling|Teaching|Curriculum Design,Education,Certificate - Mzumbe University,Morogoro,3,6207984
+c3db5c51-c091-4147-9d97-cb92d57a0d2b,Emily Hester,Safety Compliance|Linux|Civil Engineering|AutoCAD|Crop Science,Construction,Certificate - Mzumbe University,Moshi,13,8652856
+004f8ae1-a530-4be9-aed0-c7724511eed4,James Graves,Safety Compliance|Tax|Surveying|Civil Engineering|Django,Construction,Diploma - Mzumbe University,Arusha,1,9425344
+6acf8404-58dc-45a0-83e7-47ff02130c43,Aaron Thomas,Renewables|Energy Auditing|Grid Management,Energy,Master - University of Dar es Salaam,Kilimanjaro,9,5456015
+97216869-30c1-4561-a445-567e20b253ea,Deborah Wolfe,Site Management|Special Needs|eLearning|Customer Service|Counseling,Education,Master - Sokoine University,Moshi,9,12520111
+fd607d03-9ea9-410a-8fdb-3ae4bdc0f6f3,Angela Brown,Route Planning|Driving|Cloud|Event Planning|Fleet Management,Transport,Diploma - Mzumbe University,Tanga,10,12134414
+086859d7-a427-4a71-a428-ae3134e13382,Paula Murphy,Tax|Accounting|Energy Auditing|Excel,Finance,Diploma - Ardhi University,Mwanza,12,9512478
+d4853ffe-f5c1-4c7a-b814-7a07871186c2,Daniel Aguirre,Safety Compliance|Site Management|Surveying|Teaching|Livestock,Construction,Master - Nelson Mandela Institute,Morogoro,13,13083194
+43982114-29dc-4c40-90c1-9ab5d935e426,Jennifer Mckay,Special Needs|Travel Planning|Irrigation|Public Health|Soil Science|Crop Science,Agriculture,Diploma - University of Dodoma,Kilimanjaro,10,6748377
+d323022a-8e1b-4d28-ace6-0d1328bb8113,Catherine Hinton,Tax|Auditing|Excel,Finance,Bachelor - Ardhi University,Mbeya,13,3745855
+4ebf3a5d-b536-4156-a4d9-2fb1c1d09e5a,Manuel Miller,eLearning|Curriculum Design|Counseling,Education,Bachelor - Mzumbe University,Mwanza,13,6478671
+330d9f44-6e1c-443c-aa8c-dcda491e9035,Eric Bell,Special Needs|SQL|Curriculum Design|Cloud|Django|Grid Management,ICT,Bachelor - Muhimbili University,Kilimanjaro,8,14855125
+4c9da063-9922-470a-94e0-f9d9d709d7d8,Deborah Harrison,Special Needs|Counseling|Teaching,Education,Diploma - Mzumbe University,Arusha,2,17623013
+5a67895c-5f94-412c-beda-ccb06c4f281e,Jasmine Garcia,eLearning|Accounting|Dispatch|Counseling|Teaching|Crop Science,Education,Master - St. Augustine University,Tanga,3,8524330
+3b280422-aa23-4bfe-8395-5fb84a685c76,Catherine Williams,Public Health|Electrical Engineering|Driving|Dispatch|Auditing|Fleet Management,Transport,PhD - Muhimbili University,Moshi,11,9642823
+9924c08b-e9d7-4577-8222-0cb94ec70cd8,Michael Parker,Nursing|Lab Work|Public Health,Healthcare,Master - St. Augustine University,Mbeya,14,5245901
+3b2033e5-4570-44fc-ad16-2fd6a77ef3ec,Heather Aguirre,Soil Science|Crop Science|Maintenance|Livestock|Android,Agriculture,Bachelor - Nelson Mandela Institute,Dar es Salaam,4,9682573
+40197e81-6e14-44df-9220-f2ea08bf2be3,Sophia Davis,Tax|Financial Analysis|Customer Service|Excel,Finance,Bachelor - University of Dodoma,Mwanza,2,15671946
+131a7760-2701-4c29-a4d8-1d7ac599a98d,Richard Scott,Clinical Research|Lab Work|Auditing|Public Health,Healthcare,Bachelor - Muhimbili University,Arusha,12,4978074
+e3235646-42a1-4385-b6c0-543c7d6fbd7b,Allison Harrell,Site Management|Surveying|Civil Engineering,Construction,Master - Ardhi University,Zanzibar,15,3774204
+dc37ad05-7e6a-427b-a944-8068d5b0801b,Donald Diaz,Dispatch|Logistics|Driving,Transport,Certificate - Sokoine University,Morogoro,10,3131730
+f0567667-98aa-46bf-b48b-557f615c9f8e,Matthew Padilla,Lab Work|Soil Science|Livestock|Crop Science,Agriculture,Diploma - Muhimbili University,Mwanza,6,13316558
+a5d215d0-3cd6-4484-83ba-5ae3be6470a6,Martin Bond,Accounting|SQL|Excel|Cloud|Django,ICT,PhD - Muhimbili University,Mwanza,4,9713816
+5c1f4e40-a342-462e-9a3f-da9b87ff4c9c,Gina Trevino,Nursing|Public Health|Lab Work|Soil Science|Clinical Research,Healthcare,Master - University of Dodoma,Dar es Salaam,13,10392480
+cf8c3a7b-b0dd-440e-9aea-9bb9c177760f,Bryan Combs,Patient Care|eLearning|Counseling|Teaching|Cloud,Education,Bachelor - St. Augustine University,Kilimanjaro,3,8030151
+9a3a9b2b-66df-4554-aaf5-d5a59d72657a,Sherri Soto,Special Needs|Dispatch|Renewables|Teaching|Logistics|Fleet Management,Transport,Bachelor - Nelson Mandela Institute,Arusha,3,13287708
+72c8e7e5-b9d2-4cdf-aafc-d67b7c6ae352,Michael Mckinney,Route Planning|Irrigation|Energy Auditing|Renewables|Maintenance,Energy,Bachelor - University of Dar es Salaam,Kilimanjaro,0,12593256
+b01a502b-ca0e-472a-aaf4-0e33d9d65123,Leah Dennis,Tax|Excel|Clinical Research|Financial Analysis|Cloud,Finance,Diploma - University of Dodoma,Tanga,13,3084772
+1f721756-dcfa-4957-9040-6c4de92ee3fd,Sydney Garner,Tour Guiding|Hotel Management|Customer Service|Driving|Event Planning|Fleet Management,Tourism,Diploma - Mzumbe University,Arusha,10,7854382
+cb599a9b-faee-4086-acdb-82950ccfceda,Derrick Flowers,Safety Compliance|Civil Engineering|AutoCAD,Construction,Bachelor - Nelson Mandela Institute,Mbeya,4,16422454
+770e2952-ebad-4565-9d9c-28343985e92d,Melissa Taylor,eLearning|Travel Planning|Counseling|Teaching,Education,Master - St. Augustine University,Morogoro,7,8538754
+98376981-d986-423c-a3ac-b536fae42fbd,Laura Jimenez,Travel Planning|Customer Service|Tour Guiding,Tourism,Bachelor - St. Augustine University,Moshi,12,10644316
+c9c1c0bf-e72c-4c22-81c5-d5e15c614852,David Fowler,Networking|Site Management|Flutter|Cloud|Event Planning|Android,ICT,Diploma - Ardhi University,Tanga,8,11849947
+997b0899-a7c1-4a08-a63e-fafb66d7825d,Teresa Johnson,Safety Compliance|Site Management|Energy Auditing|React|Event Planning|AutoCAD,Construction,Bachelor - University of Dar es Salaam,Tanga,2,13765863
+58bd1bbc-aa51-46a4-b157-fd2234c583dc,Victoria Jones,Livestock|Irrigation|Crop Science,Agriculture,Bachelor - Mzumbe University,Mwanza,15,8850186
+073d476c-c573-4de9-9692-4675028f0b10,Rebecca Price,Site Management|Civil Engineering|Surveying,Construction,Diploma - University of Dar es Salaam,Tanga,13,9275995
+35e6ff22-9b0f-45f1-9916-a28866b92bca,Jodi York PhD,Curriculum Design|Special Needs|Counseling|Teaching,Education,Certificate - University of Dar es Salaam,Dar es Salaam,15,3198163
+31d2d6d3-bbfd-46c2-bb12-86ec70636cc0,Kim Bell,Electrical Engineering|Renewables|Maintenance,Energy,Bachelor - University of Dar es Salaam,Arusha,6,10091490
+5212f08d-39b5-4ef7-a895-291adbaba5ce,Donna Smith,Safety Compliance|Route Planning|Site Management|Surveying|Grid Management,Construction,Master - Nelson Mandela Institute,Kilimanjaro,8,13004247
+56613937-51d4-42e0-9cec-641d18cd58f3,Daniel Taylor,Networking|SQL|React,ICT,Bachelor - University of Dar es Salaam,Mbeya,3,16700959
+e23c4c7b-e2a0-459d-a487-225f1dbfd17a,James Walsh,Safety Compliance|Tour Guiding|Hotel Management|Customer Service|Soil Science|Crop Science,Tourism,Bachelor - Ardhi University,Morogoro,9,15527881
+79cb3925-8190-48c5-a451-8bfc1b172900,Chelsea Mitchell,Tax|eLearning|Accounting|Excel|Event Planning,Finance,Certificate - Ardhi University,Dodoma,2,17924669
+e495bb78-2c6f-4b06-a938-5a44cc5078ee,Melissa Wells,Nursing|Patient Care|Tour Guiding|Hotel Management|Lab Work|Linux,Healthcare,Diploma - Mzumbe University,Mbeya,9,14223388
+e9ce73df-8891-451f-9fd0-c3218b225e38,Dominique Carpenter,Python|Surveying|React|Civil Engineering|AutoCAD,Construction,Diploma - Nelson Mandela Institute,Zanzibar,13,4915472
+adbd994e-f8c9-4b00-b18b-b58560eaabce,Vanessa Harris,Python|Hotel Management|Soil Science|Linux|Cloud,ICT,Master - University of Dodoma,Morogoro,2,6298091
+2bdc7a75-8362-45d8-b59a-f1eb3cd14913,Melissa Figueroa,SQL|Cloud|Livestock|Python,ICT,Master - University of Dar es Salaam,Zanzibar,8,10172294
+9e652da3-9289-407c-bf6a-a4c71dba9fec,Joseph Brooks,Site Management|Civil Engineering|AutoCAD,Construction,Diploma - Ardhi University,Dodoma,2,12731897
+fa69ae79-cf62-45d4-a186-461d4d180766,Michael Cole,Networking|Patient Care|Electrical Engineering|Energy Auditing|Maintenance|Curriculum Design,Energy,Bachelor - University of Dodoma,Dodoma,9,8586912
+44db7bf6-d780-4afb-9419-74c0e3395317,Anna Stein,Agribusiness|Livestock|Soil Science,Agriculture,Diploma - St. Augustine University,Morogoro,0,12057570
+8ccc25b4-c5e3-4212-9f77-af9f753eb00a,Justin Lyons,SQL|Customer Service|Soil Science|Linux|Cloud,ICT,Certificate - University of Dodoma,Mbeya,11,7639846
+5fbed7db-1650-4b87-b05c-1b1f6af8827a,Megan Coleman,Travel Planning|Python|Hotel Management|Customer Service|Linux|Cloud,Tourism,Bachelor - University of Dar es Salaam,Arusha,9,6494534
+ddfc8c7a-803b-485a-aaaa-90beeae4aa69,Tammy Leonard,Tax|Python|Accounting|Electrical Engineering|Excel,Finance,Bachelor - Ardhi University,Tanga,11,10920753
+3f820824-f803-448c-bee5-1d4cedc77ca6,Chloe Ramsey,Travel Planning|Tour Guiding|Customer Service|React|Agribusiness,Tourism,Bachelor - University of Dodoma,Mbeya,8,11502685
+1c5e751c-ce11-4e11-9aea-840b9d4b2ce9,Joanne Decker,Linux|Energy Auditing|React|Python,ICT,Bachelor - Muhimbili University,Zanzibar,12,6914695
+813eda36-8289-48ee-bbfe-5c4bb9593185,Jose Watson,Travel Planning|Tour Guiding|Surveying|Customer Service|Event Planning,Tourism,Diploma - Muhimbili University,Dodoma,5,4382311
+d05a6833-9dd7-4f64-95c6-b676349826c4,Donna Matthews,eLearning|Electrical Engineering|Energy Auditing|Clinical Research|Maintenance|AutoCAD,Energy,Bachelor - Muhimbili University,Morogoro,15,7734995
+e93c5956-7077-47c5-b114-176aba5b0244,Felicia Horn,eLearning|Curriculum Design|Counseling,Education,Bachelor - University of Dar es Salaam,Dar es Salaam,9,6566466
+8c44df55-1c0c-4121-93f8-77c71d9fc0b6,Tricia Freeman,Special Needs|Renewables|Counseling|Teaching|Civil Engineering,Education,Diploma - Muhimbili University,Dodoma,10,4463653
+7a45458c-a5ef-4bd5-9afb-3d281ff1cb99,Sean Campbell,Soil Science|Livestock|Irrigation|Hotel Management,Agriculture,Diploma - University of Dar es Salaam,Mbeya,11,14619881
+1fdeabe0-57d2-4e03-aded-6eb7599200a0,Virginia Mejia,Nursing|Patient Care|Dispatch|Logistics|Fleet Management,Transport,Bachelor - Muhimbili University,Moshi,12,12080626
+5299fe79-ac0f-4ea7-8162-9997488a8391,Bradley Long,Irrigation|React|Dispatch|Agribusiness|Livestock,Agriculture,Diploma - Nelson Mandela Institute,Mwanza,7,13755707
+37973c71-387f-4b53-a602-a55d34c0e5b0,Jimmy Sims,eLearning|Curriculum Design|Travel Planning|Teaching,Education,Bachelor - Mzumbe University,Mbeya,12,6066428
+6c995378-a8e5-4313-90ac-33ebf83010f7,Edwin Alvarado,Accounting|Financial Analysis|Auditing,Finance,Diploma - Mzumbe University,Mbeya,13,5604422
+8adb2600-3167-47e5-a068-0d5caf26d003,Lacey Woods,Livestock|Agribusiness|Irrigation,Agriculture,Certificate - Mzumbe University,Mbeya,0,14904756
+ea9815f9-9e59-423c-898f-a1582631a4b5,Jeff Johnson,Curriculum Design|Special Needs|Teaching,Education,Diploma - Mzumbe University,Moshi,0,14966518
+9ceff553-9704-44ca-938d-111ded637d8b,Tina Jones,Curriculum Design|Counseling|Teaching,Education,Master - Muhimbili University,Dodoma,15,4937628
+8ef241b2-950b-4489-9db3-733300f32f0a,Morgan Ball,Tax|Flutter|Auditing|Excel,Finance,Master - St. Augustine University,Mbeya,12,7585638
+53fc9c74-9a85-4993-9ac9-e870b93401a2,Savannah Howard,Safety Compliance|Livestock|Irrigation|Crop Science,Agriculture,Diploma - Mzumbe University,Moshi,14,15713740
+018d78dc-7640-42c7-bac4-620d5b587597,Tyler White,Electrical Engineering|Soil Science|Auditing|Maintenance|Curriculum Design|Grid Management,Energy,Bachelor - Sokoine University,Zanzibar,14,10224359
+260ac2a4-cd7c-4fc3-80f8-ffc37b206228,Todd Carson,Networking|Route Planning|Dispatch|Driving|Maintenance|Fleet Management,Transport,Certificate - Sokoine University,Mbeya,10,8667402
+b236f998-c181-48ee-ad61-f5996f9e74dd,Richard Black,Dispatch|Route Planning|Django|Driving,Transport,Certificate - Nelson Mandela Institute,Tanga,12,3871389
+40557434-409e-46c5-ad3e-1c2ee8406ab6,Tyler Green,Special Needs|Electrical Engineering|SQL|Linux|Android,ICT,Bachelor - Mzumbe University,Mwanza,0,11688976
+8f453d9b-5dd8-4bd4-b5a2-b0a23a23f3b0,Melissa Martinez,Tax|Excel|Counseling|Auditing|Cloud,Finance,Certificate - St. Augustine University,Zanzibar,3,8227520
+47c9570c-80bb-4f07-9cbd-042b3270ddc1,Brianna Simpson,Electrical Engineering|Fleet Management|Maintenance|Logistics|Grid Management,Energy,Master - University of Dar es Salaam,Dodoma,12,13479502
+5cf532cf-d42c-4f2d-947f-b815cf542348,David Scott,Electrical Engineering|Renewables|Grid Management,Energy,Bachelor - Mzumbe University,Kilimanjaro,9,4350952
+043a9d30-f00c-4c83-a2b0-0bf620990f85,Stacey Yang,Irrigation|Public Health|Electrical Engineering|Livestock|Crop Science,Agriculture,Bachelor - Muhimbili University,Zanzibar,4,13225133
+88a79616-1aab-415d-9a4e-8b872e7967d2,Thomas Gomez,Nursing|Patient Care|Python|Lab Work|Surveying,Healthcare,Certificate - Sokoine University,Kilimanjaro,2,17152391
+8f1abb49-f5bf-4d57-aa7c-4fd5b24ae114,Carol Cook,Safety Compliance|Site Management|Python|Hotel Management|Linux|Civil Engineering,Construction,Bachelor - University of Dodoma,Tanga,8,3424977
+d3d9eeaf-e957-4b7d-a89d-078a398b8a90,Katherine Archer,Electrical Engineering|Driving|Logistics|Livestock|Fleet Management,Transport,Bachelor - St. Augustine University,Mbeya,14,10918761
+f57066b9-f796-42f4-aa13-4561a4d16d33,Courtney Reyes,Lab Work|Driving|Dispatch|Renewables|Teaching|Logistics,Transport,Bachelor - Muhimbili University,Mwanza,3,14538014
+861d27f4-8571-4c07-98cb-70fe1f7b28e8,Kenneth Hernandez,Travel Planning|Customer Service|Financial Analysis|Civil Engineering|Event Planning|Android,Tourism,Diploma - St. Augustine University,Moshi,15,4996478
+3f0c393d-7b71-4219-bf3e-52a3e77e64b4,Nathan Joseph,Patient Care|Public Health|Electrical Engineering|Lab Work|Flutter|React,Healthcare,Bachelor - Ardhi University,Dar es Salaam,2,15159076
+258c52ca-ebc1-4774-a5c1-004212c6a3af,Cindy Gates,Safety Compliance|Networking|Site Management|Tour Guiding|SQL|Surveying,Construction,Bachelor - University of Dar es Salaam,Kilimanjaro,9,5909592
+05cf8c08-874b-49ab-90ac-f08d718e9cd1,Dana Evans,Nursing|Electrical Engineering|Energy Auditing|Dispatch|Maintenance,Energy,Bachelor - University of Dodoma,Zanzibar,1,3363214
+df88b6ba-693c-4d98-911d-5fd1680ff42e,Benjamin White,Site Management|SQL|Curriculum Design|Cloud|Android,ICT,Certificate - Mzumbe University,Mbeya,9,12417037
+e77b2910-9b3a-4497-a2b1-55bfd7733fe4,Ethan Acosta III,Safety Compliance|Route Planning|Site Management|Surveying|Dispatch|Civil Engineering,Construction,Bachelor - Sokoine University,Mwanza,3,10358275
+84aaa524-0b41-4b7f-b6dd-29de19ecafca,Jaime Jordan,Energy Auditing|Excel|Renewables|Maintenance|Logistics,Energy,Bachelor - University of Dodoma,Moshi,10,3053664
+e0267abe-2260-4a5a-990f-6ad73b983d19,Carol Davis,Tax|Curriculum Design|Auditing|Excel,Finance,Bachelor - Nelson Mandela Institute,Zanzibar,12,14997903
+a1a947b4-bb75-4f57-9566-3ff91c1e80c6,Ronald Martinez,Travel Planning|Tour Guiding|Hotel Management|Maintenance|Linux|Event Planning,Tourism,Bachelor - Ardhi University,Dar es Salaam,15,5018446
+72a66432-1694-41fe-b19d-e8b1a26fe802,Mr. William Brown Jr.,Grid Management|Electrical Engineering|Maintenance,Energy,Bachelor - Mzumbe University,Tanga,9,17137258
+9a4bd723-b4af-4035-a436-0addb572530d,David Mccormick,Electrical Engineering|Renewables|Energy Auditing|Curriculum Design,Energy,Diploma - Sokoine University,Kilimanjaro,15,13181738
+5309012f-d3d6-4834-94cd-4502a3e1433d,Joe Williams,Networking|Linux|AutoCAD|React,ICT,Certificate - University of Dar es Salaam,Zanzibar,4,8824212
+18f4348b-785b-435b-b984-a0e8fb0f5709,Ryan Long,Dispatch|Route Planning|Event Planning|Fleet Management,Transport,Bachelor - University of Dar es Salaam,Kilimanjaro,10,10521335
+a25b8572-a1e0-4292-8271-b8fa7878005b,Cynthia Jennings,Tax|Accounting|Financial Analysis|Cloud|Civil Engineering,Finance,Certificate - University of Dar es Salaam,Zanzibar,12,4544681
+529a03ff-a238-42d8-be13-7a458b00aba4,Mr. Jim Sanders,Driving|Clinical Research|Nursing|Public Health,Healthcare,Diploma - Nelson Mandela Institute,Dar es Salaam,7,15943063
+9afef755-38a8-4590-9b64-94cc84dedad0,Eric Levine,Energy Auditing|Excel|Renewables|Maintenance|Grid Management|Android,Energy,Diploma - Mzumbe University,Kilimanjaro,1,11121884
+c5b77a2f-af5b-418b-826a-8bae976b0b47,Brian Daniels,eLearning|Curriculum Design|Teaching,Education,Bachelor - St. Augustine University,Dodoma,2,17724739
+957bda64-b95b-411d-bf0c-e274859aae3c,Maureen Smith,Site Management|Accounting|Excel|Financial Analysis|Fleet Management,Finance,Master - University of Dar es Salaam,Arusha,13,6974639
+770286df-78a4-4d8a-a03c-a8e0a5b14393,Jesse Burke,Safety Compliance|Site Management|Civil Engineering|eLearning,Construction,Bachelor - Ardhi University,Zanzibar,11,16126451
+cefa3680-3d5b-48f3-b15e-aecebd2147dd,Katrina Wilson,Tax|Flutter|Dispatch|Driving|Logistics,Transport,Bachelor - Mzumbe University,Kilimanjaro,0,9718589
+eba80714-8837-43bb-9a5b-170529ee191c,Jeffery Hayes,Python|Flutter|React|Civil Engineering|Grid Management,ICT,Certificate - Sokoine University,Moshi,7,13720320
+a70439ff-5c3d-4a5c-9481-4fd7246d3a38,Jordan Robbins,Patient Care|Nursing|Teaching|Public Health,Healthcare,Diploma - St. Augustine University,Dar es Salaam,5,8075392
+cadc3fc9-0ba4-4eb1-afbf-2ebae46630f2,Jonathan Bell,Networking|SQL|Flutter|Curriculum Design,ICT,Bachelor - University of Dodoma,Arusha,14,14212540
+3ba9a4fb-6a70-4bbe-897a-f07da1f32bd9,Timothy Harris,Clinical Research|Patient Care|Lab Work,Healthcare,Certificate - University of Dodoma,Zanzibar,7,5307670
+44d69fca-7d87-4cbf-9faa-0f7b0d33cd1e,Lindsay Haynes,Tax|Financial Analysis|Accounting,Finance,PhD - University of Dodoma,Morogoro,2,13277720
+01ccfbe1-5e8d-4fbe-b3a2-c7cf3fcd1b6f,Jeremy Frank,Travel Planning|Soil Science|Renewables|Agribusiness|Livestock,Agriculture,Bachelor - Mzumbe University,Mbeya,10,14684458
+0fe2f7ac-6b41-4403-a768-2c8d3e29ae08,Rebecca Robertson,Route Planning|Logistics|Energy Auditing|Fleet Management,Transport,Certificate - University of Dodoma,Morogoro,10,16719388
+0cccf47d-6e7d-4828-ba4d-728b8990d116,Jose Pierce,Dispatch|Logistics|eLearning|Fleet Management,Transport,Bachelor - University of Dar es Salaam,Morogoro,0,5346125
+3b5da1a7-caa8-4c2c-8b0e-68c7c132f1ef,Shannon Carr,eLearning|Special Needs|Tax|Teaching,Education,Diploma - Ardhi University,Mwanza,10,10997011
+36611fe6-78aa-4572-ac88-7df3f4125283,Allison Williams,Tax|Accounting|Auditing|Fleet Management|Android,Finance,Diploma - St. Augustine University,Tanga,4,14643310
+54e5c5cf-4cd4-4f78-9a08-79b8fe495f06,Ross Kaiser,Special Needs|Counseling|Teaching,Education,Diploma - Sokoine University,Dar es Salaam,10,6187279
+1e9aade7-c60d-46d7-b006-f71be392ceb5,Kelly Obrien,Safety Compliance|Surveying|AutoCAD,Construction,Certificate - Mzumbe University,Mbeya,11,9087050
+bf2c6d14-5cf1-4c1d-960c-8225820bd03e,Tara Bautista,Curriculum Design|Agribusiness|Teaching|Financial Analysis|Livestock|Crop Science,Agriculture,Bachelor - University of Dar es Salaam,Zanzibar,13,17471237
+493de466-3aab-4a28-8fba-21b0123742e6,Brian Morton,SQL|Clinical Research|Linux|Event Planning|Android,ICT,Bachelor - Mzumbe University,Tanga,6,11006442
+8a150d67-9192-4e0d-b0cc-581b383009f7,Christopher Christian,Irrigation|Accounting|Clinical Research|Agribusiness|Logistics|Crop Science,Agriculture,Bachelor - Muhimbili University,Mbeya,15,10006731
+47235bcf-1d56-49eb-b7b6-ad5de52457bc,Charles Hayes II,Tax|Nursing|React|Excel|Financial Analysis|AutoCAD,Finance,Certificate - Ardhi University,Morogoro,9,8305274
+e436dd18-a4f2-42d9-8a02-9fb0fc227312,Amanda Medina,Agribusiness|Patient Care|Livestock|Irrigation,Agriculture,Diploma - Sokoine University,Tanga,11,9117019
+07d25b6a-f42c-47a8-b069-2f4dfff98846,Jason Savage,Safety Compliance|Nursing|Patient Care|Public Health|Linux,Healthcare,Bachelor - Sokoine University,Morogoro,1,7830677
+9d0dec27-f3e6-4a34-b549-c3787fcdf06f,Debbie Gillespie,Clinical Research|Nursing|Fleet Management|Public Health,Healthcare,Diploma - Muhimbili University,Zanzibar,14,15849397
+f4a4312e-b33e-45c9-ac33-b3ffa82ac02a,Kyle Phillips,Lab Work|Soil Science|Livestock|Agribusiness,Agriculture,PhD - Mzumbe University,Morogoro,9,3410353
+09db1a84-a74f-43d0-b98e-66020ccf6022,Anthony Peterson,eLearning|Customer Service|Soil Science|Livestock|Crop Science,Agriculture,Diploma - University of Dar es Salaam,Mwanza,10,11423209
+492ffea9-a73a-4675-b9ec-78b163c059c5,James Sullivan,Site Management|SQL|Agribusiness|Cloud|Django|Android,ICT,Certificate - Nelson Mandela Institute,Tanga,14,12512527
+a7e29790-e261-4b98-9726-403bb4648433,Jordan Rodriguez,Travel Planning|Irrigation|eLearning|Agribusiness|Crop Science,Agriculture,Bachelor - Nelson Mandela Institute,Dar es Salaam,5,5202306
+255c5179-95b2-4fef-91d6-4770dea3c5ad,Deborah Ellis,Clinical Research|Nursing|Public Health,Healthcare,Diploma - University of Dodoma,Tanga,4,7626776
+838bf4bd-60b0-4acc-b06a-2a9840596b94,Jason Barr,Networking|React|Linux|Cloud|Android,ICT,Bachelor - Muhimbili University,Zanzibar,3,13985560
+66bdfeb4-a7d5-4369-b497-70233e8d7d5a,Sarah Rodriguez,Electrical Engineering|Lab Work|Soil Science|Maintenance|Grid Management,Energy,Bachelor - University of Dodoma,Dodoma,11,5621000
+e1139544-7aaa-4bbd-8348-a2a4f31cefb6,Janet Solomon,Special Needs|Electrical Engineering|Lab Work|Maintenance|Grid Management,Energy,Certificate - Muhimbili University,Morogoro,5,12466216
+4ecd5481-95a8-48a2-94c2-d51e7bb037e2,Kayla Curtis,Tour Guiding|Hotel Management|Accounting|Financial Analysis|Event Planning,Tourism,PhD - Sokoine University,Zanzibar,12,9612488
+578c0b17-3177-48b2-95e0-a555bc1d4f14,Robert Sanchez,Electrical Engineering|Energy Auditing|Grid Management|Teaching,Energy,Master - St. Augustine University,Dar es Salaam,6,7580755
+0c5aa169-0c97-41c9-9955-262cb36831a2,Rebekah Foster,Networking|Linux|Python,ICT,Master - Muhimbili University,Dar es Salaam,15,11126222
+f479032f-add0-42c6-85c9-a316c4732212,Laura Richardson,Safety Compliance|Site Management|AutoCAD|Crop Science,Construction,Bachelor - Mzumbe University,Morogoro,1,15211980
+aa101eab-f70c-4e22-86fe-ea78105ef3ff,Kathleen Cherry,Grid Management|Travel Planning|Tour Guiding|Hotel Management,Tourism,Bachelor - Sokoine University,Tanga,9,15880085
+e950d348-7902-44cb-a8f2-c82e6270070c,Jeremy Tucker,Accounting|Auditing|Excel,Finance,Master - Mzumbe University,Dar es Salaam,1,4790998
+a771b2f9-0226-4d4d-bbda-e607d76b37b1,Mary Cole,Route Planning|Electrical Engineering|Energy Auditing|Customer Service|React|Grid Management,Energy,Diploma - Nelson Mandela Institute,Mwanza,5,13431129
+af077a24-7a78-40e3-bc23-3f0bc0789753,Christopher Martinez,Driving|Route Planning|Logistics|eLearning,Transport,Diploma - University of Dodoma,Zanzibar,7,14751555
+6b01dabd-940f-45ac-aefa-50addfc418ed,Albert Tapia,Python|Accounting|Excel|Teaching|Financial Analysis,Finance,Diploma - University of Dar es Salaam,Mbeya,13,8521703
+2aca73e5-67ca-4a18-b12d-065f30259a99,Amber Reynolds,Linux|Event Planning|Travel Planning|Tour Guiding,Tourism,Diploma - Ardhi University,Zanzibar,2,8768014
+4b349e98-195b-4f6d-aaf4-569a8d7946f4,Dr. Jonathan Jones,Safety Compliance|Livestock|Agribusiness|Crop Science,Agriculture,Certificate - Nelson Mandela Institute,Morogoro,3,6005764
+d5b48fdd-4d9d-4ba3-a713-075623ef8903,Andrew Phelps,Irrigation|Lab Work|Agribusiness|Maintenance|Curriculum Design|Crop Science,Agriculture,Diploma - University of Dodoma,Moshi,8,11982468
+b5732c8b-6ff7-4ad4-bf25-c13b8a621db0,John Wells,Tax|Python|SQL|Flutter|Agribusiness|Logistics,ICT,Bachelor - University of Dar es Salaam,Dodoma,6,7113196
+1a74aeef-9413-45cd-bb48-bf81c5970e88,Jamie Turner,Hotel Management|eLearning|Driving|Logistics|Fleet Management|Crop Science,Transport,Diploma - University of Dodoma,Dodoma,7,3640417
+e93ef2b3-6ff1-4916-b601-338d73a3f169,Mary Snyder,Dispatch|Driving|Clinical Research|Cloud|Logistics|Grid Management,Transport,Bachelor - Nelson Mandela Institute,Dodoma,11,14210773
+fdd68dc8-3b81-43c7-bf54-4cd9fbc295ab,Jeff Turner,Special Needs|Python|Irrigation|eLearning|Renewables|Curriculum Design,Education,Diploma - St. Augustine University,Dar es Salaam,10,6251118
+6538711b-5b4d-40e9-84a2-c403b6f30492,Olivia Gross,Nursing|Accounting|Lab Work|Clinical Research|Crop Science,Healthcare,Bachelor - Mzumbe University,Moshi,15,9642822
+92743c94-2350-4743-b75e-033824bafd32,Carolyn Miller,Renewables|Energy Auditing|Grid Management,Energy,Certificate - Muhimbili University,Kilimanjaro,8,8331361
+1dc82d2f-6138-42ba-af16-dc83b7e2fc79,Antonio Walker,Electrical Engineering|Renewables|Energy Auditing,Energy,Bachelor - Mzumbe University,Tanga,5,13147645
+d9d058e2-48fd-4bb9-bb32-a9c10a96c5bc,Randall Swanson,Tax|Excel|Renewables|Auditing|Curriculum Design|Grid Management,Finance,Bachelor - St. Augustine University,Zanzibar,14,13685792
+cf79d66d-7570-4874-83d0-8b443eb47376,Michael Sanders,Driving|Event Planning|Customer Service|Hotel Management,Tourism,Diploma - Muhimbili University,Tanga,2,15296095
+300f479d-1c52-4912-acce-2cc203536e25,Jo Barnes,Route Planning|Cloud|Logistics|Fleet Management,Transport,Bachelor - Ardhi University,Kilimanjaro,9,9063131
+dddbd05c-c0c8-48b7-b1c8-e4f69eae144f,James Scott,Networking|Clinical Research|Lab Work|Public Health,Healthcare,Diploma - University of Dar es Salaam,Zanzibar,5,3673315
+1da83cdb-263d-40a3-80ee-8e49ca365729,James Perez,Driving|Route Planning|Logistics|Fleet Management,Transport,Diploma - Muhimbili University,Mwanza,0,3400652
+d944549f-7839-44b0-9c52-700a7402f61a,Erin Ellis,Hotel Management|eLearning|Teaching|Curriculum Design|Linux|Crop Science,Education,Bachelor - University of Dodoma,Arusha,11,3541947
+9b38e281-2707-4d65-8f01-5fa16e460610,Ian Bernard,Tax|Financial Analysis|eLearning|Accounting,Finance,Diploma - Ardhi University,Arusha,6,5779917
+0f1fe943-b00c-4a56-98c8-b2d6cca99f38,Travis Lin,Travel Planning|Event Planning|Customer Service,Tourism,Master - Mzumbe University,Zanzibar,10,4694066
+a8009f84-ef96-4e18-9e89-bef0c3aece70,Christopher Holt,Driving|Route Planning|Fleet Management,Transport,Bachelor - University of Dar es Salaam,Arusha,12,3207599
+9f135d1f-79d1-41a2-bc94-ae46e970b6cb,Rebecca Lee,Tour Guiding|Hotel Management|Cloud|Event Planning|Crop Science,Tourism,Master - Sokoine University,Dar es Salaam,15,5148156
+0aa8437f-7614-4286-b5b8-2e218ad585d9,Emily Pearson,Python|Accounting|Flutter|Maintenance|Cloud|AutoCAD,ICT,Bachelor - University of Dodoma,Morogoro,13,11515737
+187f72bd-553e-4cf5-9ebf-7fab8e5b70b4,Carolyn Maxwell,Route Planning|Patient Care|Public Health|Accounting|Clinical Research,Healthcare,Bachelor - Muhimbili University,Dodoma,14,13122044
+c7e71d04-a821-41eb-bb31-cfcce67786b6,Elizabeth Mueller,Safety Compliance|Site Management|AutoCAD|Teaching,Construction,Certificate - Nelson Mandela Institute,Kilimanjaro,2,3800367
+92c56340-64c3-4a89-9249-cc40bccf0b93,Nathan Gonzalez,Electrical Engineering|Renewables|Energy Auditing,Energy,Diploma - University of Dodoma,Kilimanjaro,7,11955877
+4411f751-1f54-4214-968d-b69432e3b5c1,Catherine Lewis,Electrical Engineering|Renewables|Grid Management|Android,Energy,Diploma - University of Dodoma,Morogoro,4,8569727
+94b0b7a9-5942-438f-ac3a-8e26910806b7,Trevor Sampson,Clinical Research|Nursing|Lab Work,Healthcare,Bachelor - University of Dodoma,Kilimanjaro,1,6638571
+946516b7-b60d-4c7e-b196-4d170a2d021c,James Love,Safety Compliance|Clinical Research|Agribusiness|Financial Analysis|Livestock|Crop Science,Agriculture,Bachelor - University of Dodoma,Mbeya,15,16643478
+7844e1d1-3d5d-4f6a-9a93-31f405dcccf7,Victoria Hall,Clinical Research|Patient Care|Public Health,Healthcare,Bachelor - Nelson Mandela Institute,Morogoro,1,17059997
+52fed065-f04e-44d1-bb2d-e20a43ebe2a5,Robin Wade,Route Planning|Nursing|Travel Planning|Tour Guiding|AutoCAD|Event Planning,Tourism,Diploma - Nelson Mandela Institute,Mbeya,8,12125644
+716570aa-3e85-485a-a39b-6953518bff0e,Crystal Oneill,Grid Management|Electrical Engineering|Maintenance,Energy,Bachelor - Sokoine University,Arusha,5,13339079
+e5c7d586-0c25-45c9-aed6-0867a7dc9ce3,Ashley Weiss,Safety Compliance|Travel Planning|Tour Guiding|SQL|Customer Service|Financial Analysis,Tourism,Certificate - Nelson Mandela Institute,Mbeya,10,10891195
+0dd5322d-72c7-4416-ad65-41b2564e19c9,George Torres,Civil Engineering|Surveying|AutoCAD|Django,Construction,Diploma - University of Dar es Salaam,Mbeya,9,16506907
+3b5eb21b-9144-42ed-b5b8-192efa2973bc,John Mayer,Linux|Django|Python,ICT,Certificate - Ardhi University,Dar es Salaam,7,13443509
+678927ff-1d52-4f26-8f4f-e439e1e8f4e0,James Ford,Dispatch|Route Planning|Logistics,Transport,Certificate - Nelson Mandela Institute,Zanzibar,15,15672909
+e6074f8e-24fe-4569-8c07-9bdde6fa2d46,Kristen Nelson,Electrical Engineering|Energy Auditing|AutoCAD|Grid Management,Energy,Diploma - University of Dar es Salaam,Zanzibar,14,12027166
+02b2cdf9-8486-4247-a195-67cfac7f5fa9,Holly Flores,Agribusiness|Clinical Research|Soil Science|Livestock,Agriculture,Diploma - Ardhi University,Mwanza,6,10297456
+965fdfbf-3b65-4269-9d04-d0d85e1646fb,Abigail Reese,Tax|Financial Analysis|Accounting|Networking,Finance,Certificate - St. Augustine University,Morogoro,7,11527157
+04dfe01c-0b4b-4405-ad16-afca4ec2d445,Craig Blackwell,Patient Care|Public Health|Lab Work|Renewables|Teaching|Financial Analysis,Healthcare,PhD - Ardhi University,Dar es Salaam,14,16414834
+5148277c-f821-4c08-a788-b3c6b784a835,Chase Charles,Electrical Engineering|Energy Auditing|Counseling|Maintenance,Energy,Master - Ardhi University,Arusha,14,15009721
+25d1d433-f8d6-47cf-a1cd-5eff5520c5a8,James Jackson,eLearning|Site Management|Surveying|AutoCAD,Construction,Certificate - St. Augustine University,Tanga,1,6739584
+26a1f41a-c523-4bac-8b34-ea462bf61724,Mark Mendoza,Nursing|Soil Science|Agribusiness|Fleet Management|Crop Science,Agriculture,Bachelor - University of Dodoma,Dar es Salaam,1,10023152
+bd4e9c28-becb-4254-a30d-53647ed01b21,Natalie Patterson,Patient Care|Nursing|Public Health|Lab Work|Auditing,Healthcare,Diploma - Sokoine University,Tanga,2,17049935
+a4ff95d0-7c10-4df6-8704-1ec4022fbf47,Jasmine Schmidt,Safety Compliance|Site Management|Travel Planning|Hotel Management|Civil Engineering|Django,Construction,Bachelor - University of Dodoma,Tanga,5,16521458
+c999dbe0-29aa-472e-8896-598395fe0b48,Scott Young,Networking|Flutter|Django|Android,ICT,Diploma - Nelson Mandela Institute,Kilimanjaro,0,4293236
+ea0239ae-2719-4fca-b629-21800c914b83,Dylan Nguyen,Networking|Django|Android,ICT,Bachelor - Sokoine University,Dodoma,8,9281726
+186f4b30-c0d1-4ceb-974c-f32adfafd69c,Luis Odom,Route Planning|Dispatch|Financial Analysis|Cloud|Fleet Management,Transport,Bachelor - Muhimbili University,Moshi,3,10603454
+09314503-472a-4f92-bfd2-00c69586c0b4,Angela Burns,Irrigation|Public Health|Soil Science|Dispatch|Agribusiness,Agriculture,Diploma - Ardhi University,Arusha,10,5403488
+7780890a-b8cd-4954-8b71-2dff09a58968,Brian Ryan,Tax|Patient Care|Public Health|Lab Work|Fleet Management,Healthcare,Diploma - Ardhi University,Dar es Salaam,13,7423908
+d83803ce-0c4a-4875-a34c-3beab86dc296,Doris Rodriguez,Nursing|Python|Flutter|Curriculum Design|Django,ICT,Bachelor - Muhimbili University,Kilimanjaro,8,6270535
+003a4c11-7c95-421d-9637-0a384919250a,Julie Keith,Special Needs|Tour Guiding|Hotel Management|Electrical Engineering|Customer Service|Soil Science,Tourism,Bachelor - Mzumbe University,Morogoro,5,8335985
+3a97beb7-b48c-4abd-8b00-040d656208f7,Megan Grimes,SQL|Driving|Agribusiness|Logistics|Fleet Management,Transport,Certificate - Ardhi University,Arusha,14,11542923
+24efa59e-cd93-49da-b57f-205052142be3,Rick Dean,Site Management|Soil Science|Agribusiness|Maintenance|Livestock,Agriculture,Bachelor - Sokoine University,Dar es Salaam,14,10228096
+86a8d646-06d1-4cff-bc31-8ea49390d155,Yvonne Gibson,Safety Compliance|Site Management|AutoCAD|Counseling,Construction,Diploma - Sokoine University,Kilimanjaro,8,9203299
+b227fbfb-f1fc-44fb-83a1-8221753737e4,Robin Gamble,Grid Management|Lab Work|Energy Auditing|Maintenance,Energy,Diploma - Muhimbili University,Mbeya,5,17130878
+315d66e6-252a-4380-92b0-88d1f13555df,Dana Jones,Curriculum Design|Travel Planning|Event Planning|Hotel Management,Tourism,Bachelor - Ardhi University,Dar es Salaam,6,7689136
+c30b7fe8-2bfb-464b-bfc9-c32d96f3b216,Joshua Bowers,Event Planning|Customer Service|Tour Guiding,Tourism,Certificate - Mzumbe University,Arusha,14,9357974
+ffff8a9a-ced3-48da-bc75-93da1d1c0335,Jesse Juarez,Curriculum Design|Counseling|Teaching,Education,PhD - University of Dar es Salaam,Tanga,2,13486084
+4b880cf3-3b11-4387-a830-d66c69a86243,Sandra Young,Site Management|Dispatch|Curriculum Design|Logistics|Fleet Management,Transport,Diploma - Nelson Mandela Institute,Arusha,2,3358513
+1938b48f-df2f-45d7-b28c-440700e72166,Raymond Copeland Jr.,Special Needs|Irrigation|Electrical Engineering|Flutter|Energy Auditing|Grid Management,Energy,Diploma - Mzumbe University,Mbeya,6,10824564
+7bedcfb2-8493-422a-bed6-506389992a35,Andrew Alvarez,eLearning|Curriculum Design|Clinical Research|Special Needs,Education,Bachelor - Nelson Mandela Institute,Dar es Salaam,11,13843685
+b7a84b7c-5773-49b1-a935-4f1e3687b4fb,Steven Alexander,Safety Compliance|Surveying|Auditing|Cloud|AutoCAD,Construction,PhD - Sokoine University,Mbeya,15,4969898
+90d6b216-bba9-4e88-beab-71f7b03cb811,Daniel Olson,Safety Compliance|Site Management|AutoCAD,Construction,Bachelor - Muhimbili University,Zanzibar,5,13481642
+67c1f2c2-ce99-4e7c-a256-e0ed69cae430,Anne Lane,Tax|Financial Analysis|Electrical Engineering|Excel,Finance,Certificate - University of Dar es Salaam,Kilimanjaro,10,17479823
+8bae37b5-62d8-4c3e-a2ef-e4b8bdb5adb0,Melissa Williams,eLearning|Special Needs|Teaching,Education,Certificate - Mzumbe University,Zanzibar,0,12155664
+d9470984-1eaf-47f0-8129-ba24f22a2793,Ashley Sexton,Agribusiness|Electrical Engineering|Livestock|Crop Science,Agriculture,Certificate - Ardhi University,Zanzibar,15,8024680
+d0a60fc9-682c-44bf-9a89-5511130ba4cf,Brandi Martin,SQL|Flutter|Django,ICT,Diploma - Sokoine University,Tanga,13,11727461
+b55c4127-3907-4c42-b1a2-b15a4dfb2660,Harold Bauer,Networking|Flutter|Event Planning|Django,ICT,Diploma - Mzumbe University,Kilimanjaro,5,4345573
+e9b0b7df-e433-4aa3-a4bc-aeb6c29142e3,Patricia Wang,Safety Compliance|Site Management|AutoCAD|Fleet Management,Construction,Bachelor - Sokoine University,Kilimanjaro,12,5100787
+0ac926df-c084-4d56-ac6d-09104e7cc6d1,Michael Patton,Event Planning|Customer Service|Tour Guiding,Tourism,Diploma - Mzumbe University,Mwanza,4,13257095
+fc612d2a-ae1a-42dc-b231-7250ae30145a,Christopher Oliver,Travel Planning|Customer Service|Tour Guiding,Tourism,Master - St. Augustine University,Mwanza,4,17292740
+3f393862-e1d0-4249-9685-75e627f8db18,Emily Waller,Route Planning|Accounting|Driving|Dispatch|Curriculum Design|Crop Science,Transport,Bachelor - Sokoine University,Moshi,13,11093937
+b0174cdb-fa1f-41f2-9d70-290b2daddb59,Julie Thompson,Route Planning|Irrigation|Lab Work|Agribusiness|Cloud|Crop Science,Agriculture,Diploma - St. Augustine University,Arusha,4,16925228
+d13e467b-0573-481b-bfd8-e6f0d0d9d3f0,Henry Taylor,Networking|Route Planning|Site Management|Customer Service|Driving|Fleet Management,Transport,Diploma - St. Augustine University,Kilimanjaro,10,9494338
+ee720510-344e-4f1a-8df3-6830d5f21bba,Elizabeth Newton,eLearning|Curriculum Design|Nursing|Special Needs,Education,Bachelor - Muhimbili University,Morogoro,2,5206690
+14a8a262-9159-41a4-9e9d-c5d2c92d9cef,Beth Pennington,Networking|Linux|Django|Safety Compliance,ICT,Bachelor - Muhimbili University,Morogoro,3,17631028
+cd1ddecc-d275-43bd-b9bd-ba68e9deb506,Paul Smith,Route Planning|Electrical Engineering|Flutter|Dispatch|Logistics|Event Planning,Transport,Diploma - Sokoine University,Mbeya,1,12611307
+320443fa-e6a0-4c36-a073-a10b72a018ba,Melissa Lynch,Route Planning|Site Management|Python|Lab Work|Logistics|Fleet Management,Transport,Certificate - Ardhi University,Dodoma,0,14020681
+b1e34fbd-b2c4-4ea8-8388-a0336235dbe3,Paul Munoz,eLearning|Counseling|Teaching,Education,Diploma - University of Dodoma,Morogoro,3,17063024
+362987fc-6db3-4128-9c66-7f0e52fa8786,Daniel Jordan,Maintenance|Energy Auditing|Grid Management|Android,Energy,Bachelor - University of Dodoma,Zanzibar,5,16437562
+7f619087-cf42-453c-a1b9-f445300a44aa,Daniel Williams,Safety Compliance|Soil Science|Surveying|AutoCAD,Construction,Bachelor - Nelson Mandela Institute,Kilimanjaro,15,17806073
+7bc3a6ab-1467-432f-8454-52f4f415b061,Meghan Nunez,Clinical Research|Lab Work|Accounting|Public Health,Healthcare,PhD - Ardhi University,Dodoma,8,5881731
+653d020a-f8da-4045-b634-b496f66fa9af,Michael Larson,Tax|Financial Analysis|Auditing,Finance,Diploma - St. Augustine University,Zanzibar,3,14359036
+4b88b2b0-31cd-447e-af6f-d4c490c888f0,Steven Jones,Safety Compliance|Site Management|Civil Engineering,Construction,Diploma - University of Dodoma,Zanzibar,8,6247344
+2d51d143-6a8f-47d0-85b1-3160ab22b005,Anthony Brooks,Site Management|SQL|Maintenance|Civil Engineering|AutoCAD,Construction,Diploma - Muhimbili University,Mbeya,2,7805602
+b70e637b-80b5-479e-87f0-fb29597afaf2,Andrew Sims,Python|Lab Work|React|Teaching|Cloud|Android,ICT,Bachelor - University of Dar es Salaam,Moshi,11,16179218
+25a07d2d-7a8d-4f6c-b629-c74b382223ca,Jennifer Ortiz,eLearning|Curriculum Design|Counseling,Education,Bachelor - University of Dodoma,Zanzibar,0,5420202
+61feb376-225a-4582-9be5-ec2509ffc0b5,Donald Edwards,Nursing|Patient Care|Clinical Research|Event Planning|Livestock,Healthcare,Diploma - Nelson Mandela Institute,Kilimanjaro,5,8541724
+24630bff-ae86-4340-a36f-5970d4d1382b,Robert Barrett,Linux|Agribusiness|Python|Android,ICT,Bachelor - Mzumbe University,Kilimanjaro,5,6542368
+051573d5-479d-4610-bd81-5b0f3f152541,Lisa Gibson,Site Management|Civil Engineering|AutoCAD,Construction,Certificate - Sokoine University,Mwanza,13,14895875
+c0b83e62-a604-491b-95cb-76a589f2eac0,Anthony Juarez,Route Planning|Accounting|Electrical Engineering|Excel|Dispatch|Logistics,Transport,Master - Sokoine University,Dodoma,0,7801379
+8a133422-592b-4dcf-9f97-bf32806c0a4e,Cassandra Reese,Tax|Financial Analysis|Logistics|Auditing,Finance,Bachelor - Muhimbili University,Mbeya,14,3458652
+ce84f17e-8a4e-4ca3-8412-491a97d324e7,Adam Williams,Networking|Irrigation|Soil Science|Dispatch|Crop Science,Agriculture,Bachelor - Mzumbe University,Zanzibar,4,10095725
+034ffa26-442d-4250-bcd9-e4f828f829a8,William Maddox,Special Needs|Travel Planning|Irrigation|Surveying|Soil Science|Crop Science,Agriculture,Diploma - University of Dodoma,Dodoma,2,4453244
+a97e2a2f-30bf-44cc-88ef-2fda77fcee7f,Mark Bradley,Travel Planning|Event Planning|Tour Guiding,Tourism,Diploma - St. Augustine University,Moshi,4,9279328
+27bf36e2-c2fc-4267-83ec-9481275e76be,Victoria Martinez,Nursing|Patient Care|Surveying|Lab Work,Healthcare,Diploma - Muhimbili University,Zanzibar,14,12344963
+8facd658-d84a-4794-a790-130f0a7dfb34,Hannah Ho,Energy Auditing|Soil Science|Renewables|Maintenance|Curriculum Design|Livestock,Energy,Bachelor - Ardhi University,Tanga,11,13506427
+d4a921f9-f8e3-4aff-a35e-cb6cd9d0b224,Rachel Brown,Linux|Cloud|Android,ICT,Diploma - Nelson Mandela Institute,Dar es Salaam,12,11493718
+1da1ebbb-a9bd-48ec-8ed9-49006717cc62,Patricia Pena,Driving|Logistics|Fleet Management|Irrigation,Transport,Diploma - Nelson Mandela Institute,Mwanza,13,14421872
+33e2380c-73bc-47d8-8e1b-54e06aaa5006,Sharon Anderson,Nursing|Patient Care|Public Health,Healthcare,Bachelor - Nelson Mandela Institute,Mwanza,9,8360559
+0dc490f5-9b6f-49d5-91bc-cb901e56e028,David Price,Irrigation|Hotel Management|Accounting|Excel|Financial Analysis,Finance,Certificate - University of Dodoma,Tanga,8,4716134
+834ebad2-3a23-492e-b94b-e5f855e9fee2,Brady Jones,eLearning|Renewables|Auditing|Agribusiness|Livestock|Crop Science,Agriculture,Bachelor - Ardhi University,Morogoro,13,3683755
+43e3df38-9a23-4d3e-82be-e8d911ba6f14,April Williams,Site Management|Special Needs|Irrigation|React|Livestock|Crop Science,Agriculture,PhD - University of Dar es Salaam,Moshi,2,8383899
+4a35305c-2597-43bf-b401-0ccc29fb9995,James Lopez,Patient Care|Irrigation|Soil Science|Clinical Research|Livestock|Grid Management,Agriculture,Diploma - Nelson Mandela Institute,Zanzibar,4,14364975
+39fec133-21cb-4766-8110-c5bb4d5ae7ca,Kurt Mcdonald,Tour Guiding|Travel Planning|Event Planning|Crop Science,Tourism,Diploma - Mzumbe University,Tanga,9,17534166
+2aa58e4d-f94a-4eaf-96c9-d11eab89e2ca,Kevin Bates,Grid Management|Electrical Engineering|Customer Service|Maintenance,Energy,Certificate - University of Dodoma,Mbeya,12,14692602
+ba221aa1-d1a5-4379-8195-7f508ccec76b,Cory Sanders,Special Needs|Electrical Engineering|Energy Auditing|Maintenance|Grid Management,Energy,Bachelor - University of Dodoma,Mwanza,1,11817168
+d62f9957-0453-4ce7-9320-f914387cb1bb,Kyle Perez,Tax|Financial Analysis|Maintenance|Excel,Finance,Master - Ardhi University,Zanzibar,10,14614174
+3051c06e-c4c2-42a1-8d7f-59b70a1d5e55,Jared Morrison,Safety Compliance|Tax|Surveying|Auditing|Financial Analysis|Civil Engineering,Construction,Bachelor - St. Augustine University,Dodoma,12,9909736
+34744b5f-1999-40f2-be6c-e5f2dfebf32d,Molly Wood,Tax|Electrical Engineering|Clinical Research|Renewables|Event Planning|Grid Management,Energy,Certificate - University of Dodoma,Dar es Salaam,13,13635063
+3c143ec3-04b9-45cf-ac40-86669e3f703c,Robert Harrell,Electrical Engineering|Excel|Renewables|Maintenance|Cloud,Energy,Diploma - University of Dar es Salaam,Dar es Salaam,13,11278868
+17b012ed-3545-4ca8-a56a-34b4a9842eaf,Melinda Schwartz,Nursing|Patient Care|Irrigation|Electrical Engineering|Lab Work|Linux,Healthcare,Bachelor - University of Dodoma,Mwanza,10,16677636
+af570502-054f-48ef-a8c8-e0af7967efc7,Donna Holt,Surveying|Energy Auditing|Site Management|AutoCAD,Construction,Diploma - University of Dar es Salaam,Kilimanjaro,14,11198168
+90d288cb-0cb4-41c8-8ee3-6a80cb4e5de0,Kevin Jarvis,Site Management|Irrigation|Excel|Civil Engineering|AutoCAD,Construction,PhD - University of Dar es Salaam,Morogoro,12,3702200
+4d985854-6ccd-4250-99c7-2965522848a7,Mr. Kevin Osborne,Safety Compliance|Civil Engineering|AutoCAD,Construction,Bachelor - Mzumbe University,Moshi,4,7893690
+49db3d0e-cec6-4caf-932e-3d9f166b2343,Steven Mcdowell,Electrical Engineering|Renewables|Energy Auditing,Energy,Bachelor - St. Augustine University,Dodoma,1,4622142
+f34620f7-ea2e-421f-a618-8422c33b2209,Denise Romero,Agribusiness|Soil Science|Crop Science,Agriculture,Certificate - Sokoine University,Mwanza,12,6453180
+ab5f6474-a833-4d88-a750-3993f5a407b0,Brian Cooley,Curriculum Design|Counseling|Teaching,Education,PhD - Muhimbili University,Zanzibar,9,8598186
+6743db69-c23b-415e-a800-007b8309e055,Jessica Pham,Python|Event Planning|Travel Planning|Tour Guiding,Tourism,Certificate - Nelson Mandela Institute,Tanga,4,15986729
+24b63060-86cb-40b5-8aea-075f2c15a003,Corey Williams,Driving|Logistics|Dispatch,Transport,Certificate - Muhimbili University,Moshi,9,9358638
+133f9075-dcd8-494a-a99e-1bfe827c2d51,Kathy Nunez,Soil Science|Agribusiness|Teaching|Linux|Livestock,Agriculture,Bachelor - Sokoine University,Morogoro,8,5983808
+d6908dad-e434-4e53-bfc2-9c923da0c0f8,Vanessa Stewart,Travel Planning|Python|Customer Service|Renewables|Event Planning,Tourism,Certificate - Sokoine University,Kilimanjaro,15,16409146
+020dd599-7a1e-4de4-9071-bdc15d297cef,Carol Johnson,Tour Guiding|Hotel Management|Customer Service|React|Linux,Tourism,Master - St. Augustine University,Morogoro,13,12879618
+eac64b70-7c15-4779-bbf5-d5dc3bb66def,Kim Thompson,Safety Compliance|Nursing|Site Management|Surveying|Counseling,Construction,Diploma - Mzumbe University,Tanga,9,13693122
+d6a47465-c5d7-420f-8f81-37af60bf85ad,Paula Rodriguez,Patient Care|Accounting|Electrical Engineering|Excel|Auditing|Financial Analysis,Finance,Bachelor - University of Dodoma,Arusha,3,15275855
+195ee9a4-2903-4b12-b506-14fe9a956941,Stuart Berry,Safety Compliance|Route Planning|Energy Auditing|Maintenance|Grid Management,Energy,Certificate - University of Dar es Salaam,Moshi,11,9050472
+41d692a1-9c68-41f4-a0e1-8e9f844370e0,Michelle Henry,Safety Compliance|Civil Engineering|AutoCAD,Construction,Bachelor - St. Augustine University,Dar es Salaam,13,12228538
+8085249e-51d6-4676-83ce-9cfd9a0258e9,Dr. Linda Gardner,Surveying|Maintenance|Civil Engineering|AutoCAD|Android,Construction,Diploma - Sokoine University,Dar es Salaam,9,17787021
+cab2df06-c0f1-4d5b-9d93-c1c7b0279b48,Jennifer Wilson,Dispatch|Surveying|Site Management|AutoCAD,Construction,PhD - University of Dodoma,Mbeya,9,4372964
+14c9f739-5feb-42d2-9249-2eea4faf8850,Raymond Huffman,Nursing|Patient Care|eLearning|Lab Work|Excel,Healthcare,Certificate - St. Augustine University,Zanzibar,1,4111288
+4846f8df-b9fc-4c76-b409-fc3d26b351ed,Paula Cervantes,Agribusiness|Curriculum Design|Special Needs|Counseling,Education,Bachelor - Sokoine University,Tanga,14,5373249
+5ca5d607-f422-47ae-8c67-1bb61ad75865,Christopher Ramirez,Travel Planning|eLearning|Energy Auditing|Customer Service|Event Planning,Tourism,Bachelor - St. Augustine University,Zanzibar,11,17592642
+7bfb6dc2-5654-45a2-9fcf-eba1aac5e330,Carlos Brown,Clinical Research|Nursing|Patient Care,Healthcare,Bachelor - Muhimbili University,Dodoma,3,5162707
+4b9f8dc6-f525-446d-82bb-b2d7da7e4587,Lawrence Clark,Tax|Accounting|Surveying|Excel,Finance,Diploma - Mzumbe University,Mwanza,4,9908969
+3e426e53-ea15-4886-aefd-bf48c77435fd,Theresa Hart,Linux|Cloud|Django|React,ICT,Bachelor - Ardhi University,Morogoro,8,5640971
+fae7e6fd-7785-4dfe-b6dc-0d2ec7c04407,Kaitlyn Martinez,Networking|Clinical Research|Lab Work|Nursing,Healthcare,Bachelor - Mzumbe University,Moshi,12,5745064
+9b36d1c3-95ac-4109-adbd-41b051b6b8ca,Ronald Bryan DVM,Patient Care|Nursing|Public Health|SQL|Surveying,Healthcare,Bachelor - Nelson Mandela Institute,Dodoma,2,3387433
+b4750cfd-853d-4fd1-9b11-85fcbdc04788,Joyce Lynch,Travel Planning|Customer Service|Tour Guiding|Teaching,Tourism,Diploma - Nelson Mandela Institute,Arusha,5,16677092
+527ceaea-3276-4421-b58a-10f06440444a,Katherine Martinez,Agribusiness|Soil Science|Irrigation,Agriculture,Master - University of Dar es Salaam,Dar es Salaam,15,10840347
+225cebfd-0d51-4721-b85b-3d07f4866924,Julie Gray,Dispatch|Route Planning|Fleet Management,Transport,Bachelor - St. Augustine University,Dodoma,12,9239673
+16ab7db4-487d-4930-aba8-591d470afab5,Susan Keith,Travel Planning|Tour Guiding|Soil Science|Financial Analysis|Event Planning,Tourism,Diploma - Sokoine University,Arusha,8,6349246
+b848316e-d08b-4ea3-be4c-80f7a85af05d,Brenda Bentley,Electrical Engineering|Fleet Management|React|Maintenance|Linux|Grid Management,Energy,Diploma - Mzumbe University,Arusha,3,13348093
+993fc810-c32f-43ed-8d53-6d26c443a886,Harold Terrell,Tax|Nursing|Electrical Engineering|Auditing|Financial Analysis|Cloud,Finance,Diploma - St. Augustine University,Mwanza,13,16211088
+2e39866c-1662-46c7-84a3-7f3707722c49,Madison Cummings,Irrigation|Electrical Engineering|Soil Science|Financial Analysis|AutoCAD|Crop Science,Agriculture,PhD - Sokoine University,Dodoma,10,5328047
+3c0c96c5-c59e-46ce-80aa-c6e5f1e12517,Meghan Sullivan,Patient Care|Lab Work|Public Health,Healthcare,Bachelor - Sokoine University,Kilimanjaro,14,5452905
+ba026f2a-c034-4d71-861c-7056d4c731df,Jeremy Peterson,Safety Compliance|Civil Engineering|AutoCAD,Construction,Bachelor - Sokoine University,Arusha,12,14782296
+b11c9a28-5782-485f-9db6-950d6e037801,John Horn,Grid Management|Travel Planning|Tour Guiding|Hotel Management,Tourism,Certificate - Sokoine University,Mbeya,9,4732325
+a9050f0f-1ec6-40bc-a3a2-cf37b74e0f10,David Morris,Networking|Cloud|Special Needs|Python,ICT,Diploma - Ardhi University,Zanzibar,15,3998880
+32ce1490-995f-4378-aa7b-9177789d6dd7,Jacqueline Palmer,Electrical Engineering|Renewables|Logistics|Energy Auditing,Energy,Diploma - Muhimbili University,Tanga,11,15102692
+410afab1-370e-41cd-84e0-5a6cdf54f23c,Travis Cooper,Tax|Financial Analysis|AutoCAD|Accounting,Finance,Certificate - Mzumbe University,Tanga,8,17263548
+120a27e9-401e-4aa2-81d3-201151dd9970,Cynthia Diaz,Tax|Irrigation|Accounting|Auditing|AutoCAD|Django,Finance,Diploma - St. Augustine University,Mbeya,6,13320142
+e192100a-36f9-4b27-abee-e3395b66a3df,Johnny Bush,Livestock|Agribusiness|Irrigation,Agriculture,Diploma - University of Dodoma,Mbeya,3,8518216
+f55335e7-64fc-48c7-b37d-a05e70e3a6e4,Michael White,Safety Compliance|Civil Engineering|AutoCAD,Construction,Certificate - Sokoine University,Kilimanjaro,12,4869529
+079103c9-c86d-40d0-a331-56801d6b6c1f,Rachel Reese,Livestock|Soil Science|Irrigation|Crop Science,Agriculture,Diploma - Nelson Mandela Institute,Morogoro,3,4915203
+f01d58d2-6c27-4812-8d1c-1c190fad67a1,Christine Simmons,Financial Analysis|Auditing|Excel,Finance,Bachelor - University of Dodoma,Morogoro,4,9365526
+19a12bcc-fc39-4ff5-9acf-db214a65c12c,Ellen Jackson,Accounting|SQL|React|Excel|Clinical Research|Auditing,Finance,Bachelor - Nelson Mandela Institute,Zanzibar,7,6411391
+0514eb8b-1c7b-4568-9aa7-f41aa9c57d81,Laura Graves,Special Needs|Accounting|Counseling|Teaching|Crop Science,Education,Bachelor - Ardhi University,Zanzibar,2,6934693
+e52551cf-8a37-46ab-96f1-cfbc0a5cb4cd,Nicole Hickman,Safety Compliance|Tax|Site Management|AutoCAD|Fleet Management,Construction,Bachelor - Muhimbili University,Dar es Salaam,5,14049895
+51a4bf2b-95ea-456a-bcd4-5f6d0e34503d,Kathleen Hill,Safety Compliance|Route Planning|Site Management|Public Health|Maintenance|Civil Engineering,Construction,Master - University of Dodoma,Arusha,7,15254103
+03e1724d-4a2c-4d63-8fce-4bcfa064e126,Michael Harding,Nursing|Electrical Engineering|Energy Auditing|Maintenance|Civil Engineering|Django,Energy,Master - St. Augustine University,Moshi,12,3055012
+88fb05b8-91d5-496f-a0a1-4009876c37db,David Adams,Safety Compliance|Site Management|AutoCAD|React,Construction,Bachelor - Sokoine University,Tanga,4,16464464
+2a8ac613-8bbe-49ce-b967-3c770d30da43,Sabrina James,Route Planning|Tour Guiding|Driving|Curriculum Design|Fleet Management,Transport,Master - Muhimbili University,Dodoma,11,8314253
+795123c3-529e-4df2-bca8-e60783a7eb41,Diana Bender,eLearning|Lab Work|Dispatch|Counseling|Teaching|Fleet Management,Education,Diploma - Nelson Mandela Institute,Morogoro,3,4376637
+e27f708c-565c-49dc-bfc7-d7ecf929fe5d,Arthur Watson,Safety Compliance|Nursing|Patient Care|Python|Driving|Clinical Research,Healthcare,Bachelor - Mzumbe University,Zanzibar,12,15705383
+3a7c8e7b-b5a2-468b-a2a5-f590daa46b7c,Michael Wilson,Safety Compliance|Site Management|Electrical Engineering|Lab Work|Civil Engineering,Construction,Bachelor - University of Dodoma,Dar es Salaam,7,12678000
+e08f6be1-895e-49f2-a3b6-a1516f0970b5,William Mccoy,Linux|Renewables|Energy Auditing|Maintenance,Energy,Diploma - Muhimbili University,Dodoma,13,9232199
+11e802bf-e983-4dbb-997a-7ac2dd7d8c1b,Benjamin Davis,Clinical Research|Nursing|Public Health,Healthcare,Bachelor - St. Augustine University,Zanzibar,2,12075242
+de026f50-2742-4935-bbf2-893a08d8b5cb,Gary Bowen,Travel Planning|Customer Service|Event Planning,Tourism,Diploma - Muhimbili University,Arusha,9,9302749
+91bdb464-d33f-4ef8-ad5d-af5ed41c93b0,Rebecca Padilla,eLearning|Curriculum Design|Counseling,Education,Diploma - Mzumbe University,Tanga,2,4095464
+89ad7111-e0d9-4a56-bb31-de01cb9467e4,Tara Reyes,Safety Compliance|Surveying|Customer Service|Driving|Civil Engineering|AutoCAD,Construction,Certificate - Mzumbe University,Dodoma,11,11417800
+aeb019f8-aff2-41dc-aa3c-7bbe3d5bd0a5,Anna Stokes,eLearning|Energy Auditing|Soil Science|Linux|Livestock|Crop Science,Agriculture,Diploma - Mzumbe University,Mwanza,14,16150108
+b54348b6-ce26-40c7-8b14-3b3c5b3be805,Matthew Lambert,Route Planning|Logistics|Fleet Management,Transport,Master - St. Augustine University,Mwanza,7,17769717
+3fce44f8-7480-40bc-a9cb-fdeb52ee4262,Ashley Martin,Clinical Research|Nursing|Surveying|Public Health,Healthcare,Diploma - Sokoine University,Dodoma,9,10534744
+49a28f7d-1473-44a6-bcc9-8d6ac555acb7,Stephen Cobb,Irrigation|eLearning|Agribusiness|AutoCAD|Livestock,Agriculture,Diploma - Muhimbili University,Morogoro,12,10166879
+62be17b9-65b4-404c-af2b-d7e2b4d687f0,Thomas Carpenter,Dispatch|Route Planning|Energy Auditing|Fleet Management,Transport,Bachelor - St. Augustine University,Dar es Salaam,15,3974560
+818d9d7b-0363-4f1e-a3e3-a6c87dfd5c73,Dr. Crystal Craig,Tax|Accounting|Electrical Engineering|Excel,Finance,Bachelor - Muhimbili University,Tanga,13,5192200
+6f25e107-c220-415d-8694-adc2d1118d30,Angel Gaines,Irrigation|Driving|Clinical Research|Logistics|Django|Fleet Management,Transport,Certificate - Mzumbe University,Morogoro,6,3611403
+0158f964-96cf-4ba2-8cb5-d8be949772fa,Walter Richards,Clinical Research|Nursing|Grid Management|Patient Care,Healthcare,Master - Mzumbe University,Morogoro,12,13177629
+25f645f5-a914-4ecb-825c-855a64291da2,Brent King,Tax|Auditing|Excel,Finance,Diploma - Mzumbe University,Dodoma,13,5494730
+9eb09251-cf45-497a-822b-076ff3190424,Danielle Wilkinson DVM,Safety Compliance|Site Management|Irrigation|Counseling|AutoCAD,Construction,Diploma - Ardhi University,Zanzibar,2,14211091
+15cc074b-36bf-46b8-8932-08a8ffbedbd8,Timothy Valdez,Route Planning|Surveying|Dispatch|Logistics|Crop Science,Transport,Bachelor - St. Augustine University,Morogoro,8,12059710
+74bcf438-a9e6-4e4b-bc61-d871b96f2a4e,Joshua Wagner,Networking|Django|Dispatch|Linux|Curriculum Design|Crop Science,ICT,Diploma - Ardhi University,Morogoro,13,6054990
+56f78f9d-124e-47d4-877d-e39f71349d38,Jerry Rodriguez,Route Planning|Site Management|SQL|Surveying|Dispatch|AutoCAD,Construction,Bachelor - Nelson Mandela Institute,Dar es Salaam,2,16643520
+8a898698-1ce3-4110-a66b-c05711a87370,Tammy Harper,Tax|Accounting|Financial Analysis|Excel,Finance,PhD - St. Augustine University,Morogoro,4,17178361
+e1de3637-764b-4603-8f44-754cc7bf1b36,Amy Smith,Soil Science|Agribusiness|Irrigation,Agriculture,Bachelor - Muhimbili University,Kilimanjaro,14,13097849
+7b8abbcd-85fa-4fc3-9017-f75824e2a2f7,Shannon Anderson,Special Needs|Python|Surveying|React|Counseling|Curriculum Design,Education,Certificate - Nelson Mandela Institute,Arusha,13,12857495
+76146480-ea21-415d-9415-5ec48d86c0dc,Rita Romero,Public Health|Flutter|Agribusiness|Livestock|Crop Science,Agriculture,Bachelor - Mzumbe University,Kilimanjaro,7,14596787
+9b793ce0-f5a5-458f-bb17-41c510184439,Alexis Graham,Curriculum Design|Special Needs|Counseling,Education,Diploma - Ardhi University,Kilimanjaro,9,10867194
+0efecd35-8bee-409c-8b7d-8325975d2eb8,Jeffrey Vang,Tour Guiding|Hotel Management|Surveying|Clinical Research|Renewables|Event Planning,Tourism,Bachelor - University of Dodoma,Morogoro,8,7604898
+29bdecf7-f271-4e7c-bab0-d173c172693e,Stephanie Smith,Electrical Engineering|Maintenance|Energy Auditing|Grid Management,Energy,Diploma - St. Augustine University,Arusha,15,11989760
+d3d5d90d-b089-4cdc-910a-5a60a7188018,Jeremy Thompson,SQL|Cloud|Maintenance|Android,ICT,Diploma - Ardhi University,Tanga,6,17398433
+95f60688-5931-449a-9b23-3180e1bd61b0,Crystal Burton,Python|Flutter|Dispatch|Driving|Android,ICT,Diploma - Sokoine University,Mwanza,15,8377150
+435159fe-647e-4835-8b1c-a6c777513450,John Mitchell,React|Financial Analysis|Cloud|Django|Fleet Management,ICT,Certificate - University of Dodoma,Zanzibar,5,12699973
+a60a6330-c0d5-472b-a7bb-08402d01f345,Ronald Myers,Driving|Route Planning|Teaching|Dispatch,Transport,Master - Mzumbe University,Moshi,12,3599703
+2b8608ee-243e-427f-9f71-eea95b4815f5,Miranda Sanchez,Curriculum Design|Counseling|Teaching,Education,PhD - Mzumbe University,Mbeya,2,4029725
+39cc952b-392d-4a1b-a196-d01c2084c458,Samantha Garrett,Tour Guiding|Electrical Engineering|Maintenance|Livestock|Grid Management,Energy,Bachelor - Muhimbili University,Tanga,14,3013341
+81ef1e5d-4761-4298-b589-9c338e56beb4,Alexander Simpson,Tax|Accounting|Logistics|Auditing,Finance,Bachelor - Sokoine University,Tanga,0,13885952
+a7800acb-ab6c-4985-8664-3b60f2ddf559,Dylan Smith,Public Health|Electrical Engineering|Lab Work|Driving|Clinical Research,Healthcare,Bachelor - Sokoine University,Mbeya,8,12204972
+84449dc5-7199-49de-84a9-7c65d1166251,Samuel Gutierrez,Nursing|Special Needs|eLearning|SQL|React|Counseling,Education,Certificate - St. Augustine University,Kilimanjaro,13,8729690
+30b45b75-2123-41c6-9b5f-51b540fc9747,Christine Johnson,Counseling|Teaching|Curriculum Design|Fleet Management|Android,Education,Diploma - Ardhi University,Kilimanjaro,14,9274166
+42d0a4c4-56c3-4adb-8dc1-85a54ea816e0,Allison Ferrell,Tour Guiding|Hotel Management|Electrical Engineering|Agribusiness|Logistics|Event Planning,Tourism,Bachelor - Nelson Mandela Institute,Kilimanjaro,3,15312110
+0108c677-82d1-42db-9640-46685bb0d3fb,Michelle Evans MD,Python|Flutter|React|Maintenance|Curriculum Design,ICT,Bachelor - Sokoine University,Kilimanjaro,7,3139245
+507bad78-c017-48d7-b894-656ba4fbd455,Morgan Ochoa,Tax|Travel Planning|Customer Service|Tour Guiding,Tourism,Diploma - Ardhi University,Dar es Salaam,8,8411154
+0a095aa5-83a5-4cfb-9598-cac1f137cfa9,Clifford Robinson,Special Needs|Surveying|Agribusiness|Counseling|Teaching,Education,Certificate - Ardhi University,Mwanza,0,14304500
+ae3a8b86-3551-4718-add9-38dcc3869fc8,Chad Yoder,Nursing|Special Needs|Travel Planning|Tour Guiding|Event Planning|Livestock,Tourism,Diploma - University of Dodoma,Dodoma,6,12827591
+e523f679-254e-4102-8959-da4b064d2130,Miss Amanda Miller,Curriculum Design|Special Needs|Teaching,Education,Diploma - University of Dodoma,Mbeya,12,10755298
+548a95ba-4e99-48cc-a35b-4bb68278366e,Jeffrey Klein,Nursing|Public Health|Lab Work|Auditing|Fleet Management|Crop Science,Healthcare,Bachelor - Nelson Mandela Institute,Dodoma,3,13172573
+7271e724-d09a-49d7-b8d1-0bec95777ceb,Nathan Wolfe,Electrical Engineering|Maintenance|Grid Management|Teaching,Energy,Diploma - Ardhi University,Mbeya,5,3297585
+a0f223df-156c-4eab-a7d7-b583418c64f2,Edward Anderson,Accounting|Event Planning|Tour Guiding|Hotel Management,Tourism,PhD - Nelson Mandela Institute,Morogoro,3,9554294
+8b2a8a1d-c206-49b0-8cba-48cb69edf475,Ricky Stone,Route Planning|Curriculum Design|Special Needs|Teaching,Education,Bachelor - University of Dar es Salaam,Morogoro,4,4282340
+1cb616a5-5d78-423d-9cd7-0cd52f76409a,Mary Martin,Travel Planning|Python|Tour Guiding|Event Planning|Django,Tourism,Certificate - Mzumbe University,Mbeya,5,14159018
+69faa0ab-8deb-4593-bca5-7e1a8e383fe0,Cynthia Freeman,Safety Compliance|Route Planning|Driving|Teaching|Logistics,Transport,Bachelor - Sokoine University,Tanga,4,14246405
+62e3adec-7190-46ef-b641-4d6d10685675,Jessica Ford,Tax|Networking|Accounting|Lab Work|Auditing,Finance,Bachelor - St. Augustine University,Tanga,3,15669357
+533254e7-f500-4a4c-a6a3-7ebd3b0a6f98,Dr. Amy Smith,Curriculum Design|Soil Science|Counseling|Teaching,Education,Diploma - Sokoine University,Zanzibar,11,11842843
+f3dffc76-3701-4b4e-9111-3a9fd89302af,David Salas,Irrigation|Customer Service|React|Dispatch|Agribusiness|Crop Science,Agriculture,Master - Mzumbe University,Dar es Salaam,3,10502969
+955b50ed-abbd-45fe-9247-966063fd2826,Brendan Peterson,Networking|Accounting|Lab Work|React|Cloud,ICT,Certificate - University of Dar es Salaam,Tanga,13,3947034
+c88e7880-e05f-4423-8dba-4089d0caf292,Brent Lee,Curriculum Design|Special Needs|Teaching,Education,Master - University of Dodoma,Mbeya,15,3712270
+d2eb1712-7024-4fe7-bb06-4b798ab0d937,Jordan Walters,Route Planning|Travel Planning|Python|Driving|Curriculum Design|Logistics,Transport,Diploma - Sokoine University,Kilimanjaro,2,6684563
+aabc130b-d026-433a-a78d-b15030d05818,Corey Smith,Travel Planning|Tour Guiding|Hotel Management,Tourism,Certificate - Mzumbe University,Zanzibar,5,15456023
+f1cd1fbc-72b8-40d2-8380-ed520ab815e7,Joshua Simpson,Tax|Financial Analysis|Customer Service|Excel,Finance,Diploma - Sokoine University,Dar es Salaam,6,8539202
+7e53d63a-04bc-421c-8cb1-0615038680fb,Nicholas Edwards,Cloud|Flutter|Django,ICT,Diploma - St. Augustine University,Dar es Salaam,6,13083489
+8d027487-0c6c-477f-bf7c-6772d5069082,Andrew Marshall,Nursing|Patient Care|Customer Service|Excel|Clinical Research|Grid Management,Healthcare,Bachelor - St. Augustine University,Moshi,7,8274777
+e2384aa2-1848-4c3d-901d-2edd8a603573,Crystal Wise,Public Health|Soil Science|Dispatch|Financial Analysis|Livestock|Crop Science,Agriculture,Bachelor - St. Augustine University,Mwanza,8,16404343
+a480369b-bc07-4009-97e6-ea540bafcb08,Theresa Cannon,Cloud|Flutter|Fleet Management|Android,ICT,Bachelor - Mzumbe University,Moshi,6,10563747
+b69dc04e-0826-4a61-8601-e4c461d37ffc,Scott Smith,Dispatch|Route Planning|Fleet Management,Transport,Diploma - Sokoine University,Dar es Salaam,12,6645053
+8ac57fb6-036f-4ff6-938d-ec22ea41a7f4,Bruce Carroll,Django|Python|React,ICT,Master - University of Dodoma,Mwanza,10,16948624
+834d4781-cfac-4eb7-a086-d2a154a21e24,Rebecca Mcguire,Travel Planning|Hotel Management|Renewables|Curriculum Design|Event Planning,Tourism,Diploma - Muhimbili University,Morogoro,13,13898208
+98d88a37-f511-4cb8-a7d5-8cc3c81e1a2e,Gregory Lambert,Nursing|Public Health|Clinical Research|Cloud|AutoCAD|Livestock,Healthcare,Master - Nelson Mandela Institute,Mwanza,14,15067939
+8f25cfa7-dfbe-4848-9555-f00d89d7b8fa,David Simpson,Route Planning|Special Needs|Energy Auditing|Dispatch|Driving|Logistics,Transport,Diploma - Sokoine University,Tanga,14,9813686
+87a8ea39-5f1a-4061-82f0-c3119d50bc37,Andrew Ball,Tax|Special Needs|React|Django|Android,ICT,PhD - Muhimbili University,Dar es Salaam,9,7533064
+1eecad86-0c07-405d-96be-4cf72c7300ac,Heather Carey,Networking|Lab Work|Flutter|Counseling|Django|Android,ICT,Diploma - Sokoine University,Arusha,14,6179519
+417b7551-09b5-45cb-865a-61cd079bdf07,Marcus Reed,Tax|Auditing|Financial Analysis|AutoCAD|Curriculum Design|Crop Science,Finance,Bachelor - St. Augustine University,Arusha,13,14121611
+972901e3-b35c-4e77-8d8b-d802dc1da359,Jesus Arellano,Tour Guiding|React|Excel|Driving|Dispatch|Logistics,Transport,Certificate - Muhimbili University,Morogoro,4,11180729
+20986e1c-9ca3-41b5-9218-de1857376066,David Hardy,Django|Python|Android,ICT,Certificate - Muhimbili University,Mwanza,10,9130988
+48de1ba0-81fb-4a70-a1be-1e68dbbd1b91,Tracie Boone,Patient Care|Public Health|Lab Work|Financial Analysis|Android,Healthcare,Certificate - Nelson Mandela Institute,Mwanza,14,6102530
+28580043-8b56-43a9-8833-5a7391da1ea6,Amanda Brooks,Tax|Accounting|Excel,Finance,Diploma - St. Augustine University,Moshi,3,9187784
+324acbe3-3003-44b8-8511-16b6136c6505,Eric Turner,Tax|Public Health|Soil Science|Auditing|Financial Analysis|Civil Engineering,Finance,Certificate - University of Dar es Salaam,Arusha,6,6901586
+2eb7eacc-7d3d-4911-a2b2-f10a30300b0d,Veronica Morales,Safety Compliance|Route Planning|Dispatch|Linux|Logistics|Android,Transport,Certificate - University of Dar es Salaam,Dodoma,1,9621392
+cf28532c-ebba-4154-a707-06cade467a58,Amy Thomas,Tax|Financial Analysis|Auditing,Finance,Diploma - St. Augustine University,Arusha,5,5172711
+e621afad-e089-40e2-ba24-a32e6e1c572c,Stacey Green,Linux|Python|Android,ICT,Certificate - St. Augustine University,Mwanza,9,7088289
+06384f8a-c9c2-4d4c-a7e4-5cb0a8068c06,Cody Martinez,Tax|Financial Analysis|Accounting,Finance,Certificate - Mzumbe University,Dar es Salaam,4,12872947
+8ac6c238-14fc-4fab-bc02-ed9d2e6495d1,Jeffrey Lewis,Grid Management|Energy Auditing|Maintenance,Energy,Certificate - Ardhi University,Moshi,9,13566210
+d5432337-64a1-40d8-a427-aaa713b8ff74,Mackenzie Richards,Tax|Financial Analysis|Excel,Finance,Bachelor - Mzumbe University,Arusha,9,3151468
+ceaccb7d-b470-47f8-9027-a3d2bc62f7fd,Ashley Herrera,Special Needs|Maintenance|Teaching|Curriculum Design|Cloud,Education,Master - Nelson Mandela Institute,Tanga,5,8763502
+fecb3764-4e63-44af-81b0-63dcb2dbbe61,Caitlin Hanson,Python|Tour Guiding|Hotel Management|Customer Service|Auditing,Tourism,Diploma - University of Dodoma,Mbeya,7,15208297
+3f45cc7b-007e-4a61-afd2-653dec1897b7,Allen Baird,Lab Work|Livestock|Soil Science|Crop Science,Agriculture,Bachelor - University of Dodoma,Arusha,10,12027053
+41183e12-ebce-4531-a8a0-ea73cae53a22,Christopher Miranda,Site Management|Surveying|AutoCAD,Construction,Bachelor - Mzumbe University,Arusha,6,9485995
+469bbe17-226b-4728-bf2f-9366183605fa,Amanda Leach,Energy Auditing|Soil Science|Maintenance|Grid Management|Android,Energy,Certificate - Ardhi University,Morogoro,6,7100588
+ef1bb84a-31c4-46d3-b4bd-ad5e8fcc2336,Gary Abbott,Special Needs|Python|eLearning|Energy Auditing|Curriculum Design,Education,Bachelor - St. Augustine University,Mwanza,2,5609160
+a397fb80-5f88-4e9b-b65b-571bdebed062,Ethan Adams,Route Planning|Travel Planning|Hotel Management|Customer Service|Maintenance,Tourism,Certificate - Muhimbili University,Kilimanjaro,2,16733507
+7950bb66-e70e-4f28-acb0-ffb4b6fa1333,Johnny Combs,Special Needs|Counseling|Teaching,Education,Bachelor - Sokoine University,Mwanza,7,3498683
+6e5735bd-a8e1-4a73-9389-a213ed60d533,Nicholas Fischer,Nursing|Travel Planning|Lab Work|Public Health,Healthcare,Certificate - University of Dar es Salaam,Moshi,6,8272472
+2043b834-653d-4b26-b38a-5bb765db8d10,Michael Chapman,Electrical Engineering|Energy Auditing|Financial Analysis|Grid Management,Energy,Bachelor - Muhimbili University,Mbeya,9,6535644
+1b4e4b77-5e1d-46f5-bfca-499ecb250107,Johnny Smith,Networking|Lab Work|Energy Auditing|Renewables|Counseling|Maintenance,Energy,Certificate - Mzumbe University,Mwanza,0,4339434
+f87e4221-23fd-49a8-983f-8b1ac289b9b8,Evelyn Shea,Livestock|Soil Science|Agribusiness|Cloud|Django,Agriculture,Certificate - Nelson Mandela Institute,Tanga,3,10870232
+a9304b86-6401-4f26-9928-97a687c20c00,Erica Roberts,Patient Care|Electrical Engineering|Flutter|Clinical Research|Maintenance|Grid Management,Energy,Bachelor - Mzumbe University,Dodoma,10,6808288
+c576fc7f-d04b-41b9-9782-6e794b1d8173,Mrs. Brandy Hamilton,Accounting|Energy Auditing|Surveying|Civil Engineering|AutoCAD,Construction,Bachelor - University of Dodoma,Morogoro,11,13530637
+bfc7a35c-4fa4-428e-8259-543c405c1f36,Kimberly Terry,eLearning|Special Needs|Teaching,Education,Diploma - Muhimbili University,Kilimanjaro,8,15485429
+e8f9e3f7-c065-42ac-8f57-d13b9acce286,Aaron Gibson,eLearning|Curriculum Design|Counseling|Public Health,Education,Certificate - University of Dar es Salaam,Dodoma,13,3724149
+faf4ae5c-4706-44a7-9afd-c8cb15189160,Lauren Hoover,eLearning|Curriculum Design|Teaching,Education,Bachelor - University of Dar es Salaam,Arusha,5,16147178
+9b616084-1cfd-4e73-b5bd-8f1b9775249d,Paul Barnes,Curriculum Design|Counseling|Teaching,Education,Bachelor - St. Augustine University,Kilimanjaro,2,7331066
+7f777fd8-785c-4a63-9db3-3a14db9855fa,Alice Fisher,Site Management|Travel Planning|Hotel Management|Customer Service|Linux,Tourism,Bachelor - Mzumbe University,Moshi,5,7582109
+0b75e461-fa29-4909-abb9-1434008f7961,Tracy Sloan,Event Planning|Tour Guiding|Hotel Management,Tourism,Bachelor - University of Dar es Salaam,Zanzibar,9,11599338
+260580e0-ce55-40b0-a880-b4b22c30bddc,Vanessa Mendez MD,Accounting|Auditing|Excel|Public Health,Finance,Diploma - University of Dodoma,Arusha,2,9966844
+bca07e77-f914-4a26-8d63-235ad35bf2a8,Cesar Harris,eLearning|Curriculum Design|Counseling,Education,Bachelor - University of Dar es Salaam,Morogoro,13,8846736
+766e4da9-f55a-40e4-b93f-149f5610be00,Michael Vazquez,Safety Compliance|Python|Driving|Dispatch|Logistics|Fleet Management,Transport,Bachelor - Nelson Mandela Institute,Morogoro,13,6645099
+8d882402-2018-406e-b6d0-d1fc9e047477,Joseph Murphy DDS,Energy Auditing|Driving|Renewables|Agribusiness|Maintenance,Energy,Master - University of Dar es Salaam,Dodoma,5,14910688
+20bdf9dd-d332-48e1-aa8f-601c2d13dcf4,Gloria Chang,Renewables|Energy Auditing|Maintenance,Energy,Diploma - University of Dar es Salaam,Arusha,14,12177582
+b5882d4d-17ea-49eb-90a6-ec8f231ad2bc,Nancy Jackson,SQL|Surveying|Fleet Management|Energy Auditing|Maintenance|Grid Management,Energy,Bachelor - University of Dodoma,Tanga,14,13945382
+3d955244-d9f2-4f9e-8d23-df70556db0ba,Michael Jimenez,Nursing|Irrigation|AutoCAD|Livestock|Crop Science,Agriculture,Bachelor - Muhimbili University,Mbeya,11,13534897
+b6b11195-f469-41cb-a101-92d90b0f0f9a,Christie Martinez,Curriculum Design|Patient Care|Special Needs|Counseling,Education,Master - Ardhi University,Tanga,9,14612044
+50df436c-0543-4f4f-9b09-ca4a85e1bd75,Edwin Smith,Safety Compliance|Site Management|Surveying|Soil Science|Livestock,Construction,Master - Ardhi University,Mbeya,11,12916163
+160ce5ce-df7c-4122-ae1e-fe1a9b0f48c8,Lawrence Robinson,Site Management|Civil Engineering|AutoCAD,Construction,Diploma - Sokoine University,Tanga,13,3378259
+e451d081-4225-4986-b57f-f9081467033b,Erika Nelson,Route Planning|Driving|Dispatch|Logistics|Fleet Management,Transport,Bachelor - University of Dodoma,Arusha,7,11799415
+872a2958-3da8-4baf-925c-3e99e00a5800,Ryan Cobb,Networking|Dispatch|Python|Android,ICT,Bachelor - Mzumbe University,Morogoro,7,3246810
+a356c831-975f-45dc-8a9b-1ad24ef772fb,Paige Bullock,Python|SQL|React|Cloud|Django|Android,ICT,Diploma - University of Dar es Salaam,Moshi,14,16588230
+8fed56e3-1525-4f66-8aba-03d6f30d7b70,Matthew Reilly,Dispatch|Soil Science|Driving|Fleet Management,Transport,Certificate - St. Augustine University,Mwanza,9,7732659
+c1e5d80c-f75f-4b70-8669-1b80c01a9ab4,Jeffrey Thomas,Site Management|AutoCAD|Civil Engineering,Construction,Bachelor - Mzumbe University,Zanzibar,14,13153386
+f0e715b9-163b-4b61-8c02-fff38e8f6917,William Wright,Safety Compliance|Site Management|Driving|Civil Engineering|Fleet Management,Construction,Diploma - Nelson Mandela Institute,Mwanza,12,6908843
+dca7efe1-31f8-489b-a994-54374e94be57,Sarah Holland,Electrical Engineering|Agribusiness|Irrigation|Crop Science,Agriculture,Diploma - Mzumbe University,Kilimanjaro,12,16853837
+92510e76-cc72-4f11-93cb-28278934b20a,Alexis Fischer,Travel Planning|Python|Tour Guiding|Hotel Management|Financial Analysis|Event Planning,Tourism,Diploma - Nelson Mandela Institute,Moshi,15,3846913
+d98ddcf8-9d6f-4dfd-9713-4347c95fc6e7,Lisa Perkins,Networking|SQL|Flutter|Cloud|Android,ICT,Bachelor - Muhimbili University,Dar es Salaam,6,5378364
+7a3bd326-b263-470b-be59-4eb1392f039e,Melissa Pace,Driving|Route Planning|Logistics|Excel,Transport,Master - Ardhi University,Arusha,1,10974310
+cb735679-4ffa-4105-972f-3f056788cd3c,James Garcia,Nursing|Patient Care|Python|Public Health|Renewables|Teaching,Healthcare,Certificate - University of Dodoma,Mwanza,10,15777036
+158a6112-c485-4f9f-afab-83e9bbb8d404,Courtney Bryan,Route Planning|Tour Guiding|Dispatch|Fleet Management|Android,Transport,Master - University of Dar es Salaam,Zanzibar,9,3608566
+7f13f77d-044b-4cd9-a767-41ff8b627b47,Christopher Bennett,Travel Planning|Customer Service|Hotel Management,Tourism,Diploma - Nelson Mandela Institute,Mwanza,4,7728075
+e1d7ede8-fc18-4a7b-b3eb-aef95e3f85da,Kathleen Brock,Networking|Energy Auditing|Agribusiness|Linux|Logistics|Django,ICT,Bachelor - Nelson Mandela Institute,Morogoro,6,5342078
+6361ca22-e9f9-493b-86f1-82fc9e92a1e5,Andre Craig,Networking|SQL|Agribusiness|Financial Analysis|Linux,ICT,Certificate - Sokoine University,Moshi,7,16177254
+637a6cb6-4f5d-4f91-8362-6c28e06c6f4b,Maria Goodman,Safety Compliance|Site Management|Civil Engineering,Construction,Bachelor - St. Augustine University,Kilimanjaro,8,13256501
+2558b6b8-d6df-4502-9077-2b4153738d3a,Peter Cunningham,Networking|Django|React,ICT,Diploma - Mzumbe University,Dodoma,11,6475242
+106b4144-d79f-413b-9d16-18574acbd9be,Tyler Snyder,Irrigation|Lab Work|Android|Renewables|Agribusiness|Crop Science,Agriculture,Master - University of Dodoma,Mbeya,5,12350874
+e1567f8d-8240-4780-90ee-5a4de595dd2a,Desiree Fowler,Tax|SQL|Excel|Renewables|Auditing|Fleet Management,Finance,Master - University of Dar es Salaam,Moshi,7,5563373
+894be8d0-d746-4048-82aa-2608d34bc4e4,Jared Mills,Dispatch|Logistics|Fleet Management,Transport,Master - University of Dodoma,Moshi,6,17416089
+b0604731-3fd4-463f-99c0-c83d7dc5f00f,Debra Rivera,Networking|Python|SQL|React|Curriculum Design,ICT,Bachelor - Mzumbe University,Mwanza,11,6320073
+bde0c82a-e8b1-401e-bb0f-4a1ca8c41277,Sandra Thompson,Nursing|Patient Care|Public Health,Healthcare,Certificate - Muhimbili University,Mbeya,2,15336388
+8a2e4ca1-6f57-47ac-8989-4a3bd91ce997,Jeremy Davis,Site Management|Lab Work|Surveying|Civil Engineering|Fleet Management|Android,Construction,PhD - Sokoine University,Moshi,9,10499443
+9448a82e-2b65-4480-8929-8d10e0d990a8,Janet Evans,Travel Planning|Renewables|Maintenance|Grid Management|Android,Energy,Bachelor - Ardhi University,Dar es Salaam,1,8297022
+bbb392a2-700c-48b0-8e88-f368f486d090,David Taylor,Driving|Fleet Management|Dispatch,Transport,Bachelor - St. Augustine University,Zanzibar,15,4463099
+c74b3c51-7f87-4734-9edf-cb9f14d7fa29,Jeffrey Vasquez,Tax|Irrigation|Auditing|Financial Analysis|Django,Finance,Diploma - Ardhi University,Mbeya,5,3202515
+a5f0b4d0-3a56-4b04-81c2-f53e11892cc3,Jeanette Gomez,Safety Compliance|Patient Care|Special Needs|SQL|Linux|Android,ICT,Bachelor - Sokoine University,Arusha,4,16382964
+716a8faf-e96c-4baf-82c1-a0cc188732ee,Sean Jefferson,Agribusiness|Soil Science|Livestock|Grid Management,Agriculture,Certificate - Nelson Mandela Institute,Arusha,7,9110062
+a64405e0-2bbb-46a2-b9df-e4faf95120cf,Kristen Estes,Dispatch|Site Management|Logistics|Driving,Transport,Diploma - Muhimbili University,Mbeya,1,5039919
+cdca274f-47c8-4be4-b168-cff6f637160e,Maria Johnson,Dispatch|Route Planning|Logistics|Django,Transport,Bachelor - Nelson Mandela Institute,Dodoma,12,4519651
+30d4de0f-708a-4c4f-a4e6-886e713d93e0,Jessica Meyer,Route Planning|Soil Science|Livestock|Irrigation,Agriculture,Diploma - Nelson Mandela Institute,Mwanza,3,4519427
+37947b44-37d1-455d-9ec4-24bb6bf54295,Heidi Wade,Special Needs|Travel Planning|eLearning|Counseling|Logistics,Education,Bachelor - Ardhi University,Moshi,2,4019440
+52397e24-b327-4232-abf4-04b61b2a8289,Vincent Arnold,Curriculum Design|Special Needs|Teaching,Education,Diploma - Sokoine University,Dodoma,2,17927213
+531e35fc-8263-4ba6-81cc-2fa3c37630da,Robert Newman,Tax|Financial Analysis|Auditing,Finance,Certificate - University of Dodoma,Moshi,0,9852619
+92426f4f-2555-4941-a4fb-5055bc68c23f,Jason Freeman,Irrigation|Accounting|Clinical Research|Agribusiness|Crop Science,Agriculture,PhD - University of Dar es Salaam,Mbeya,6,9107511
+ba8acdbe-34aa-4963-a27f-2443a40f16d9,Ryan Williams,Travel Planning|Event Planning|Tour Guiding,Tourism,Certificate - Nelson Mandela Institute,Dar es Salaam,7,9888800
+968bb07a-cb76-43a9-b304-27278383bbac,Timothy Martin,Patient Care|Lab Work|Public Health,Healthcare,Diploma - St. Augustine University,Tanga,1,7456553
+440ad4a5-1033-4d30-9610-666859eab10f,Charles Butler,Nursing|Patient Care|Public Health|Civil Engineering|Grid Management,Healthcare,Diploma - University of Dodoma,Moshi,1,5389113
+e03fb65e-a686-4e18-83d0-98d0358f3cb0,Christopher Ray,Cloud|Python|Android,ICT,Certificate - Muhimbili University,Arusha,14,3330708
+02223e4e-cde0-444a-9cef-06bc5f03637e,Philip Dixon,Safety Compliance|Surveying|AutoCAD,Construction,Bachelor - Nelson Mandela Institute,Kilimanjaro,0,3260879
+7f8e2a14-d067-4b55-be6c-ec97fcc2e57a,Amanda Wagner,Networking|Nursing|Public Health|Lab Work|Counseling,Healthcare,Bachelor - Nelson Mandela Institute,Mwanza,0,17952853
+00b7ceb8-d9ba-4e3e-b9d3-776113494751,David Ross,Counseling|Flutter|React|Android,ICT,Bachelor - Mzumbe University,Morogoro,9,11051593
+79d777c8-ec14-4141-a14c-fe700ed853af,Kyle Schwartz,Patient Care|Travel Planning|Hotel Management|Customer Service|Clinical Research|AutoCAD,Tourism,Bachelor - Mzumbe University,Zanzibar,13,5467039
+13c6d0f2-493a-414f-9138-4943418048d6,Michael Rodriguez,Tax|Accounting|Surveying|Auditing|Financial Analysis,Finance,Diploma - Muhimbili University,Morogoro,2,7373872
+d31e32a2-753a-4a54-83e8-3a6e328f7edd,Matthew Montgomery,Travel Planning|Tour Guiding|Electrical Engineering|Surveying|Customer Service|Django,Tourism,Certificate - Sokoine University,Dodoma,11,13042692
+28348ebf-eb25-4c50-ae02-792bce6773a2,Brittney Fernandez,Special Needs|Irrigation|eLearning|Flutter|Curriculum Design|Event Planning,Education,Bachelor - Nelson Mandela Institute,Mbeya,13,9210018
+820bded6-4e65-4b41-ac15-efb6ac043ce8,Alex Anderson,Safety Compliance|eLearning|Counseling|Maintenance|Curriculum Design,Education,Bachelor - Nelson Mandela Institute,Mbeya,3,6354821
+19034cd2-8af1-4ba4-939f-7b114ad1660d,Mr. Jose White,Special Needs|Irrigation|Hotel Management|Soil Science|Crop Science,Agriculture,Diploma - St. Augustine University,Dar es Salaam,3,15225578
+ef5284df-1adb-43c9-8791-11c70cb016d7,James Garcia,Flutter|Livestock|Soil Science|Irrigation,Agriculture,Bachelor - Nelson Mandela Institute,Morogoro,9,11676996
+8182c00f-6e6f-4913-b49f-1e730ab3d764,Greg Pratt,Electrical Engineering|SQL|Renewables|Logistics|Grid Management|Android,Energy,Master - St. Augustine University,Mbeya,15,13998763
+abe3877a-e313-476b-9dbd-24e33389bc14,Cheryl Burnett,Surveying|Renewables|Financial Analysis|Logistics|Civil Engineering|AutoCAD,Construction,Diploma - Sokoine University,Tanga,15,13848879
+7728f12f-8ef5-47ce-9f69-6290b5248cd3,Mrs. Brandy Diaz,Electrical Engineering|Renewables|Grid Management,Energy,Diploma - Mzumbe University,Dar es Salaam,8,7168080
+7f7f340a-fa6b-4609-bb51-cef6d2614ee3,Morgan Meyers,Patient Care|Public Health|Soil Science|Clinical Research|Cloud,Healthcare,Diploma - Nelson Mandela Institute,Kilimanjaro,15,8938439
+1371c36a-eed1-470f-975c-e3df7747780a,Vincent Maddox,Electrical Engineering|Renewables|Linux|Grid Management,Energy,Bachelor - Muhimbili University,Kilimanjaro,11,9457130
+094f1758-ecff-4f0f-b3e8-0f1cbef1a68b,Donna Smith,Accounting|Financial Analysis|Excel,Finance,Certificate - St. Augustine University,Moshi,14,16464049
+b72e66ad-3127-4917-929f-d3a3a47baf92,Adrienne Macias,Nursing|Hotel Management|Customer Service|Clinical Research|Event Planning,Tourism,Master - Ardhi University,Zanzibar,13,4884363
+d7d09164-58f0-410d-97c2-c5818402296d,Darrell Cox,Lab Work|Soil Science|Agribusiness|Livestock|Grid Management,Agriculture,Bachelor - St. Augustine University,Moshi,6,16041264
+f70b20d8-10d3-4749-8c20-358b01e69cb8,Michael Ortiz MD,Safety Compliance|Surveying|AutoCAD|Livestock,Construction,Bachelor - Muhimbili University,Morogoro,8,16366631
+4f30efa6-6f81-4fb0-a89f-1ed100949598,Nicholas Jacobs,Excel|Agribusiness|Auditing|Financial Analysis|Crop Science,Finance,Bachelor - Muhimbili University,Moshi,4,4930539
+ba111d12-9b26-4663-92de-19444ea8d22b,John Nolan,Networking|Cloud|Flutter|eLearning,ICT,Certificate - University of Dar es Salaam,Tanga,12,8384239
+d6ceaa6e-e5ee-4957-8078-984fd81c6dd0,Nicole Rodriguez,eLearning|Special Needs|Counseling,Education,Bachelor - Sokoine University,Moshi,6,10068006
+265d4df2-43a5-46fa-ac9d-073f8a18eda9,Briana Riggs,Financial Analysis|Lab Work|Auditing|Excel,Finance,Certificate - Sokoine University,Tanga,13,5322920
+00a4e816-d32e-466e-92f8-255313a8c159,Matthew Little,Patient Care|Lab Work|Public Health,Healthcare,Bachelor - University of Dodoma,Arusha,6,10991197
+204a1734-fcbd-4588-9689-1bbe5632d668,Jody Evans,Curriculum Design|Special Needs|Counseling,Education,Bachelor - Muhimbili University,Kilimanjaro,1,10566018
+7d726901-24c3-461f-a91e-5976c936129f,Amber Thomas,Nursing|Irrigation|Accounting|Clinical Research|Agribusiness|Crop Science,Agriculture,Diploma - Sokoine University,Morogoro,7,6815270
+3ece8702-fa73-4749-b78e-6fec921adbe2,Daniel Patterson,Dispatch|Driving|Fleet Management,Transport,Bachelor - Ardhi University,Moshi,10,14522685
+0b97cc62-25ce-4693-bf75-d212d48a11b0,Dawn Wang,eLearning|Customer Service|Counseling|Agribusiness|Curriculum Design|Livestock,Education,Certificate - University of Dar es Salaam,Zanzibar,4,17562327
+32936d24-fd4a-41e6-8763-952fe04be2be,Anthony Ramos,Nursing|Lab Work|Public Health,Healthcare,Certificate - University of Dodoma,Dar es Salaam,4,5569659
+bf8c620b-cd47-442d-8382-336fe01780a1,Joshua Dunlap,Tax|Patient Care|Accounting|Counseling|Financial Analysis,Finance,Bachelor - Mzumbe University,Moshi,3,15214230
+73fdec29-193a-4b94-9825-183cce8260f1,Ryan Newton,Networking|Travel Planning|Hotel Management|Linux|Event Planning,Tourism,Diploma - Sokoine University,Mwanza,0,15480145
+1ddf84a8-a47e-4455-95ff-11e2e865559b,Allen Herrera,Special Needs|Flutter|Counseling|Agribusiness|Teaching|Grid Management,Education,Bachelor - University of Dar es Salaam,Dar es Salaam,5,5790672
+219b9606-d42f-4222-8ac5-aa9eafe40555,Matthew Parker MD,Route Planning|Surveying|Dispatch|Maintenance|Logistics,Transport,Diploma - University of Dodoma,Morogoro,14,10991030
+59d7aaab-142f-46ec-afd6-9610c4dac454,John Perez,SQL|Renewables|Energy Auditing|Grid Management,Energy,Diploma - University of Dodoma,Arusha,4,9309094
+ccbc0f9c-0c56-479b-86b0-662fed5ef99f,Lauren Brandt,Clinical Research|Nursing|Patient Care,Healthcare,Diploma - Sokoine University,Tanga,0,16010646
+ba7f8de4-3eda-483e-aa9e-b608d7597636,Benjamin Cortez,Irrigation|eLearning|Flutter|Agribusiness|Livestock,Agriculture,Diploma - St. Augustine University,Dodoma,4,5446770
+e7f434f4-fd70-4e2e-a9e4-cd4d541d9a61,Katelyn Adams,Tax|Networking|Accounting|Clinical Research|Financial Analysis|Fleet Management,Finance,PhD - Sokoine University,Dodoma,2,16105555
+3efb89f9-121e-4e89-947b-cab05c24ff24,Jessica Wallace,Dispatch|Route Planning|Tour Guiding|Fleet Management,Transport,Diploma - Mzumbe University,Morogoro,3,8661111
+8de3cbed-1902-41a1-ad1a-caf93027eec9,James Rose,Special Needs|eLearning|Accounting|Flutter|Counseling|Logistics,Education,Bachelor - Muhimbili University,Tanga,1,8126812
+d31ca9ce-aead-4082-828e-58d6bcad3119,Amy King,Flutter|React|Django,ICT,Bachelor - Ardhi University,Dar es Salaam,7,10820911
+f4471e65-d926-436d-834e-3a91e385d83f,George Donovan,Special Needs|Tour Guiding|eLearning|Soil Science|Curriculum Design,Education,PhD - Mzumbe University,Zanzibar,6,5034875
+5c65d6c5-914c-49b4-9e83-8977a282a373,Stephen Hernandez,Nursing|Electrical Engineering|Maintenance|Cloud|Grid Management|Crop Science,Energy,Master - St. Augustine University,Dar es Salaam,10,8954364
+7295c1b9-4491-4c43-9e78-50c84d956f0b,Eric Lewis,Safety Compliance|Electrical Engineering|Surveying|React|Civil Engineering|Logistics,Construction,PhD - Ardhi University,Mbeya,14,12686692
+e1f5bcfe-e701-40ed-b783-169057d6743c,Ronnie Guerra,Electrical Engineering|Renewables|Maintenance,Energy,Bachelor - Ardhi University,Mwanza,4,10400769
+bbf714ba-a236-4881-aed2-895f068bf19f,Kevin Smith,Route Planning|Nursing|Site Management|Customer Service|Driving|Fleet Management,Transport,Diploma - Ardhi University,Zanzibar,8,15023072
+5f00d135-8d5c-4579-8dd8-8bb7a67199ca,Madison Ruiz,Route Planning|Special Needs|Public Health|Counseling|Teaching,Education,Certificate - Muhimbili University,Mwanza,4,15412711
+883700ce-4514-46df-bfb2-ee2ea5ccc9ae,Mark Mills,Safety Compliance|Patient Care|Site Management|Surveying|Excel|Counseling,Construction,Diploma - Mzumbe University,Morogoro,10,13137420
+f5806160-f40b-4fc6-b61e-51b1d8674379,Taylor Stevenson,Dispatch|Route Planning|Fleet Management,Transport,Diploma - University of Dodoma,Kilimanjaro,7,6807945
+ae7e3285-2320-45fa-acee-d5d883a07d7b,Jeffrey Reeves,Patient Care|eLearning|Driving|Counseling|Teaching|Crop Science,Education,Diploma - Muhimbili University,Dodoma,11,14427746
+4790cdb8-c831-4262-9ece-cda58b185ac2,Audrey Brewer,Auditing|Soil Science|Irrigation|Crop Science,Agriculture,Certificate - Ardhi University,Dar es Salaam,10,4511633
+9405f2ef-6e92-46c6-8a5e-f68077c3b9a4,Alexis Pacheco,Clinical Research|Lab Work|Public Health,Healthcare,Bachelor - St. Augustine University,Dodoma,6,4126757
+f8417768-3c37-4f1a-a151-d1a25752c7e8,James Mitchell,Grid Management|Renewables|Maintenance,Energy,Diploma - Sokoine University,Dar es Salaam,1,8715670
+edeb47e6-8c1f-462d-bee7-3a75d4ee54b2,Mr. Kevin Perry,Tax|Curriculum Design|Special Needs|Teaching,Education,Bachelor - University of Dodoma,Dodoma,4,8542740
+108ddf95-1909-43db-9114-31e9aad89268,Amanda Lewis,Dispatch|Logistics|Fleet Management,Transport,Bachelor - University of Dodoma,Kilimanjaro,11,3654937
+921ead83-933a-484a-bd09-4e14a2a97d5f,Kathy Bryan,Safety Compliance|Site Management|eLearning|Surveying|Auditing|Civil Engineering,Construction,Diploma - Mzumbe University,Mwanza,12,3325790
+884088f2-9d7a-400c-9e49-8470b9e277cd,Samantha Noble,Safety Compliance|Surveying|AutoCAD|Python,Construction,Diploma - Sokoine University,Tanga,6,10763400
+f460ac9f-3f54-42e3-a901-b1e38f547acc,Michael Vasquez,Curriculum Design|Special Needs|Surveying|Teaching,Education,Certificate - Nelson Mandela Institute,Dar es Salaam,5,5453515
+d32292c7-de28-4672-9208-70d19cae0773,Rachel Reed,Nursing|Electrical Engineering|Dispatch|Maintenance|Cloud|Grid Management,Energy,Master - Sokoine University,Zanzibar,8,12318508
+e9c3a8cb-649e-4159-b370-56af39c5f176,Mark Woodard,Flutter|Django|Python,ICT,PhD - University of Dodoma,Arusha,15,17289129
+ded79177-a527-4af7-a602-f3a7989d7069,Kevin Alvarez,eLearning|Special Needs|Energy Auditing|Counseling,Education,Bachelor - Nelson Mandela Institute,Arusha,0,6582028
+d8e05506-02b3-4e69-b669-6b12c5e16d9b,Laura Garcia,Hotel Management|Accounting|Excel|Auditing|Livestock,Finance,Bachelor - University of Dodoma,Tanga,7,11206739
+19fdcb88-0ae1-499a-a276-f3392a0f615e,Kristy Henderson,Surveying|Civil Engineering|AutoCAD|Fleet Management,Construction,Diploma - Nelson Mandela Institute,Kilimanjaro,12,15378867
+b58ac258-9fb9-475b-ba0a-a18ee05eba31,Rachel Dixon,Accounting|Financial Analysis|Excel,Finance,Certificate - Sokoine University,Moshi,5,16248970
+aa105e90-3e68-49a2-bb22-86c358f98ff7,Marisa Stanley,Safety Compliance|Dispatch|Auditing|Logistics|Fleet Management,Transport,Diploma - St. Augustine University,Arusha,10,7013144
+e6a0d906-d599-4e23-a092-5be40f69c170,Savannah Reese,Python|SQL|React|Excel|Driving|Counseling,ICT,Bachelor - Ardhi University,Arusha,9,10262273
+d51b8f96-7899-48f9-ad49-c28d8e6f19b8,Vanessa James,Patient Care|Irrigation|Public Health|SQL|Lab Work|Excel,Healthcare,Bachelor - University of Dar es Salaam,Moshi,7,6867440
+5d47de53-9615-4569-a1bd-16e819724e13,Michele Smith,Surveying|Civil Engineering|AutoCAD,Construction,Certificate - Sokoine University,Dar es Salaam,9,9967184
+67f83b9a-5c1a-4af2-bbf3-9c8f326abfbc,Cory Ortiz,Patient Care|Special Needs|Irrigation|Public Health|Accounting|Clinical Research,Healthcare,Diploma - University of Dodoma,Dar es Salaam,6,11929403
+d28d84b6-2262-4678-bd83-4585ce43ebe9,Samantha Dominguez,Networking|Energy Auditing|Renewables|Maintenance|Livestock,Energy,Certificate - University of Dodoma,Dodoma,8,8901647
+052c67d6-334e-4559-954a-9dfdf1825718,Nathaniel Smith,Clinical Research|Nursing|Python|Public Health,Healthcare,Bachelor - Ardhi University,Kilimanjaro,15,13167576
+fa396007-ad56-443a-8432-f0363793b960,Colleen Burke,Networking|Django|React,ICT,Certificate - University of Dar es Salaam,Dodoma,12,4283044
+5e5ca4f2-244d-4a72-9983-f180b1755e0d,Jonathan Melendez,Customer Service|Soil Science|Excel|Agribusiness|Maintenance|Livestock,Agriculture,Diploma - Muhimbili University,Tanga,10,15034125
+3edc9b8a-10c3-4017-b71e-b9e048202501,Alexis Chapman,Tax|Financial Analysis|Auditing,Finance,Diploma - Sokoine University,Zanzibar,8,10694117
+77c37cc6-6252-47dd-a047-1fbd4ee3c5ec,Ashley Cortez,Tax|Driving|Auditing|Financial Analysis|Android,Finance,Certificate - Sokoine University,Moshi,3,3302718
+ecb31f60-5cb4-4501-9c23-4c6e3a555bb0,Heather Shaw,Clinical Research|Nursing|React|Patient Care,Healthcare,Master - University of Dodoma,Dar es Salaam,12,3349782
+49fb51df-1c55-47b0-8441-ea91e2d8f013,Yolanda Smith,Crop Science|Special Needs|Counseling|Teaching,Education,Diploma - University of Dodoma,Kilimanjaro,5,5850566
+1374b8c2-632a-4e36-8a2c-e68eed706eb1,James Holmes,Site Management|AutoCAD|Civil Engineering|Auditing,Construction,Bachelor - University of Dodoma,Mbeya,7,16045749
+b2124e80-de07-42e9-8db0-8d5fa6694adb,Roy Shaw,Travel Planning|Customer Service|Hotel Management,Tourism,Bachelor - Nelson Mandela Institute,Dar es Salaam,11,8745745
+56bcbea3-2ecb-4069-99ba-62eed59b36fe,Courtney Wang,Tax|Financial Analysis|Soil Science|Auditing,Finance,Bachelor - St. Augustine University,Morogoro,15,8147850
+866eba78-254a-42ac-a7b8-24d9919cc3a8,Erica Moore,Safety Compliance|Patient Care|Public Health|Lab Work|Android,Healthcare,Master - Mzumbe University,Moshi,13,10147662
+faba2953-afb1-48f9-a8f6-460ef4f68476,Heather Pierce,Site Management|AutoCAD|Civil Engineering,Construction,Diploma - University of Dar es Salaam,Zanzibar,3,8219679
+373c7713-f3c1-4899-9c59-91a1b0eec432,Robert Brown,Route Planning|Accounting|Customer Service|Dispatch|Agribusiness|Logistics,Transport,Bachelor - Muhimbili University,Moshi,3,6821577
+580811f7-4bdf-470f-82bd-376b7356f82e,Devin Duke,Tour Guiding|Irrigation|Soil Science|Agribusiness|Counseling,Agriculture,Bachelor - Mzumbe University,Zanzibar,9,3642687
+25c42680-d500-4ab2-b41f-04907575c342,Christy Price,Clinical Research|Patient Care|Public Health,Healthcare,Bachelor - Nelson Mandela Institute,Moshi,8,3720217
+39d61b8b-0aa9-4dba-b060-08df7c2295ba,Edgar Hernandez,Energy Auditing|Maintenance|Auditing|Grid Management,Energy,PhD - Nelson Mandela Institute,Moshi,7,15129267
+41f49023-e128-4fed-a20d-1aaa09486997,Deborah Reid,Nursing|Patient Care|Lab Work|Flutter|Fleet Management,Healthcare,Bachelor - University of Dodoma,Mbeya,9,9994030
+5d9b8d77-1088-4483-9a78-8046f3c40fa2,William Snyder,Clinical Research|Patient Care|Agribusiness|Public Health,Healthcare,Master - Ardhi University,Dodoma,1,10062285
+d2818932-f817-456e-818a-04dff93c4e70,Jessica Lopez,Travel Planning|Customer Service|Event Planning,Tourism,Certificate - Muhimbili University,Dar es Salaam,3,17420961
+32e05ee3-368d-40fb-965c-e7e6aa8255fe,Barbara Prince,Patient Care|Nursing|Travel Planning|Lab Work|Clinical Research|Fleet Management,Healthcare,Diploma - Ardhi University,Kilimanjaro,15,10657469
+19489f8d-e055-44ef-82cd-93ae93a64acc,Eric Huff,Nursing|Lab Work|Clinical Research|Counseling|Event Planning|Crop Science,Healthcare,Bachelor - Ardhi University,Tanga,8,4757786
+c806d1a3-0ab9-407d-a2c5-891ab2130412,Johnathan Watkins,Dispatch|Route Planning|Cloud|Fleet Management,Transport,Certificate - Ardhi University,Dodoma,12,6043213
+ca4aa39c-d7ab-46e6-b09d-c9cb46a5e1bb,Brandy Newman,Safety Compliance|Civil Engineering|Surveying|React,Construction,Master - University of Dodoma,Morogoro,8,16737295
+4c6ea901-0d82-4b67-9746-90960329d40d,Kelly Wu,Special Needs|Travel Planning|eLearning|Counseling|Event Planning|Django,Education,Diploma - University of Dar es Salaam,Dodoma,11,8227197
+18d076d5-e221-4240-8f0a-9e50a6fc3571,Kelly Simmons,Special Needs|Lab Work|Driving|Dispatch|Fleet Management,Transport,Bachelor - University of Dodoma,Tanga,12,16282340
+b3e60027-3aae-4b7b-985b-c4d7d8d2a5cf,Heidi Larson,Financial Analysis|Electrical Engineering|Auditing|Excel,Finance,Diploma - Nelson Mandela Institute,Zanzibar,12,11053564
+2de06ad3-dda5-4c3d-be9c-912bad86d506,Rachel Santos,Nursing|Patient Care|Public Health,Healthcare,Bachelor - Muhimbili University,Moshi,7,16160955
+d7f0d0a1-8423-4931-844a-118bce68b428,Noah Douglas,Renewables|Energy Auditing|Grid Management,Energy,PhD - Muhimbili University,Zanzibar,10,11254579
+fff9310b-33f7-4bd9-a1f2-5cf3ca8b8f62,Sharon Doyle,Clinical Research|Nursing|Public Health,Healthcare,Master - Nelson Mandela Institute,Arusha,2,17871966
+1317f79f-6776-4daf-9773-fd5e1779a440,Brian Miller,Site Management|Civil Engineering|Surveying,Construction,Certificate - University of Dodoma,Morogoro,12,8218057
+10715679-8d1c-4814-9c99-5bff58746c31,Anthony Baldwin,Hotel Management|SQL|React|Cloud|Android,ICT,Certificate - Ardhi University,Morogoro,12,11550902
+fb45a374-ff77-4684-bc55-84290656a37c,Kevin Trujillo,Travel Planning|Tour Guiding|Surveying|Event Planning|Crop Science,Tourism,Certificate - Sokoine University,Tanga,13,8440906
+9be17c8b-4eac-4466-a59d-a6806605bacb,Christine Romero,Python|Electrical Engineering|React|Django|Android,ICT,Diploma - Sokoine University,Arusha,9,13428241
+db997e9e-644a-46fc-9c5b-62da4d383257,John Snyder,Travel Planning|Tour Guiding|Hotel Management,Tourism,Diploma - Ardhi University,Dodoma,4,5057719
+2d9b3385-2384-4af4-96a5-332254bbb353,Anthony Smith,Tax|Nursing|Public Health|Lab Work|Cloud|Django,Healthcare,Bachelor - Mzumbe University,Morogoro,15,8468579
+d25b6148-8e7c-4658-86ea-36c0ea56faf0,Mark Williams,eLearning|Curriculum Design|Counseling,Education,Bachelor - University of Dar es Salaam,Tanga,3,16056903
+0ab23f04-32c2-402a-8d20-cb3c85ba509c,Tara Salazar,Tax|Travel Planning|Tour Guiding|Hotel Management|Cloud,Tourism,Diploma - Nelson Mandela Institute,Tanga,7,3645986
+ab1acbef-adea-4960-846f-7acb9c3eef6d,Michelle Bell,React|Agribusiness|Soil Science|Crop Science,Agriculture,Bachelor - Muhimbili University,Arusha,11,13218400
+f0867fd0-0e0f-422b-a117-1562a005d329,Nicholas Gamble,Patient Care|Nursing|Special Needs|Public Health,Healthcare,Diploma - University of Dar es Salaam,Tanga,10,17693179

@@ -1,0 +1,1001 @@
+job_id,title,recruiter_id,industry,requirements,location,experience_level,salary_min,salary_max
+728dd229-56d7-4973-b90e-99e066fb1b5a,Commissioning editor,688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,Curriculum Design|Counseling|Teaching,Arusha,ENTRY,8265165,8880848
+c9f3be42-3a54-4257-ab16-dd741f441a41,Legal secretary,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Special Needs|Counseling|Teaching,Tanga,SENIOR,8357941,9102763
+1b019610-019f-4483-b6a6-e23d8bc880df,Geochemist,3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Route Planning|Travel Planning|Accounting|Surveying|Dispatch|Fleet Management,Mwanza,ENTRY,10335561,12953965
+fe7700f2-0286-4bcf-97c4-bac90f7ab55b,Stage manager,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Flutter|Surveying|React|Soil Science|Civil Engineering|AutoCAD,Moshi,MID,6233479,8525627
+0d55b922-ea35-446c-816c-26dfd26e45d9,Environmental education officer,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Travel Planning|Event Planning|Hotel Management,Mwanza,ENTRY,14470510,16407402
+0cb8f62d-b997-49c7-aa69-fe9d24082f91,Medical physicist,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Networking|Customer Service|Tour Guiding|Hotel Management,Mwanza,ENTRY,7704312,12037517
+17059eed-aaf8-45ba-b8e8-04e7ee48d772,Visual merchandiser,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Travel Planning|Customer Service|Event Planning|AutoCAD,Mbeya,ENTRY,10590073,12165359
+80a885cd-6022-4d41-89ff-d06cf7cf568d,Systems developer,619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Route Planning|Travel Planning|Energy Auditing|Renewables|Django|Grid Management,Arusha,ENTRY,11579936,13168079
+a225c07d-a8ad-4b36-8ec0-cfccb1abd944,"Psychotherapist, dance movement",fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Special Needs|Agribusiness|Teaching,Tanga,MID,5089615,6594885
+292f5854-7ceb-4277-b34a-91a5d76e7a76,Hydrologist,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Irrigation|Public Health|Curriculum Design|Logistics|Livestock|Crop Science,Kilimanjaro,ENTRY,14017182,18768493
+b4e50640-cfcb-472d-bc7c-d8c3d683ce16,Chartered public finance accountant,f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,Route Planning|Special Needs|Flutter|Surveying|Counseling|Teaching,Morogoro,MID,8490166,9529237
+50ba8e92-a9d9-42ba-892b-266538dd6040,Agricultural consultant,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Tour Guiding|Hotel Management|Surveying|Customer Service|Logistics,Mbeya,SENIOR,13411663,15774432
+cfc24bf8-4640-4513-af97-d71649203106,Community development worker,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Route Planning|Electrical Engineering|Energy Auditing|Renewables|Maintenance|AutoCAD,Mwanza,SENIOR,6039109,7480604
+d94ae12b-fa81-4af5-939b-3b92ca951405,"Lecturer, higher education",84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Financial Analysis|Auditing|Android,Tanga,ENTRY,11855613,12385086
+e351d724-bddb-4a65-bc5c-b8fb078f89c2,Museum education officer,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Civil Engineering|Surveying|AutoCAD,Mwanza,SENIOR,14268034,15964098
+db59c9b4-09eb-46bc-8151-1341dd893e68,Sales promotion account executive,e18f92a0-b462-4ebc-828e-2b60d1443937,Finance,Tax|Accounting|Django|Auditing,Mwanza,MID,5527529,6476695
+3e3a432b-b7c9-479e-9e2a-d774f4be7bfc,Claims inspector/assessor,8f61b7f8-508b-43d4-b4cf-ae05ed6c2dcd,Finance,Financial Analysis|Auditing|Excel,Mbeya,MID,10333430,13454653
+1cd0ca03-3e83-4246-928f-c47e829c3aa7,"Clinical scientist, histocompatibility and immunogenetics",5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Electrical Engineering|Energy Auditing|Maintenance,Mwanza,ENTRY,9862159,11983025
+235882cf-be36-4a3b-9d2e-dc5b864fdc8e,Chartered certified accountant,a13f154d-0ea0-45fd-ad17-f220a884630d,Education,Special Needs|Excel|Counseling|Teaching|Livestock,Mbeya,ENTRY,7090641,10263083
+c34e90b9-fbaa-4a3a-a810-84afd6971f36,"Engineer, agricultural",ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Site Management|SQL|Excel|Civil Engineering|Django|Android,Morogoro,ENTRY,13743169,14502924
+9fcc5f59-9ff0-4084-8492-79579e9359aa,"Designer, graphic",a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Public Health|Nursing|Special Needs|Patient Care,Arusha,MID,3972632,6587002
+516d11c9-0ede-4d4d-9bc7-5c6883107cdf,"Sound technician, broadcasting/film/video",20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Tax|Python|Accounting|Excel|Auditing,Mbeya,SENIOR,7749699,9349759
+95c31fb2-5951-4cd5-9649-d2339560df2a,"Therapist, drama",688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,eLearning|Special Needs|Counseling|Teaching,Arusha,ENTRY,4813792,7928387
+ac4bcdac-2ee9-49e6-a8c3-4679c828b64e,"Scientist, product/process development",a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Clinical Research|Lab Work|Nursing,Arusha,SENIOR,8606915,10245737
+a86f70e4-26e3-4779-89d6-540b9a1f8f06,Product/process development scientist,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Python|eLearning|Electrical Engineering|Renewables|Teaching|Grid Management,Mwanza,SENIOR,5019514,8319670
+cec444e6-6999-47c5-a474-7164b5aac311,Contractor,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,eLearning|Site Management|Special Needs|Teaching,Arusha,ENTRY,13133211,17895561
+121cb6a1-6d7a-45b7-8e46-f1bc9511ec04,Radio broadcast assistant,ee3bc8a1-b665-4a98-8312-c01e6fd81286,Healthcare,Nursing|Special Needs|Public Health|Lab Work|Clinical Research,Kilimanjaro,ENTRY,8321626,12718788
+2a450be8-ff6a-4d72-aa40-199d6878dc41,Cabin crew,14c54684-7972-41c0-843a-d875ff497672,Construction,Site Management|Civil Engineering|Surveying,Arusha,MID,12518871,14169523
+a6519cc8-648e-40f0-acf3-cec18a9f3404,Ranger/warden,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Renewables|Maintenance|Grid Management,Mwanza,SENIOR,4107145,6172355
+ba0d1c6e-732e-4c9f-a87d-ac1f5f1c896e,"Development worker, international aid",fdcc0faa-81dd-49e5-a751-1add67b5037d,Tourism,Travel Planning|Tour Guiding|Irrigation|Dispatch|Cloud|Event Planning,Zanzibar,MID,3821532,8019068
+55603899-2a01-43ac-a092-917587c6c777,"Embryologist, clinical",9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Driving|Logistics|Fleet Management,Moshi,SENIOR,5955131,8803940
+7c240fa3-48f4-4b12-98da-0c9dfba74019,"Scientist, physiological",a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Nursing|Patient Care|Python|Public Health|Financial Analysis,Tanga,ENTRY,13432848,16454204
+1167515d-f0c2-41cd-aeec-beabd2048073,Ceramics designer,935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Route Planning|Logistics|React|Fleet Management,Arusha,MID,3081142,4611926
+e4e7318d-49ec-48a5-a017-b0b0d4b20d11,Building services engineer,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Site Management|Public Health|Accounting|Lab Work|Flutter|Clinical Research,Tanga,ENTRY,13343179,17948045
+4eba00f1-7e9e-4b84-a464-e12870de2d82,Trade mark attorney,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,eLearning|Customer Service|Renewables|Teaching|Curriculum Design|Civil Engineering,Tanga,MID,13068054,17925664
+4eefd45f-8cb6-4780-94cb-1debc9278376,Dramatherapist,4555d314-a979-4209-9f1e-fe1115327374,Energy,Patient Care|Irrigation|Energy Auditing|Driving|Maintenance|Grid Management,Mwanza,MID,3237473,8171870
+92a5f22e-6956-45b4-a0f6-aa3adcd90804,Advertising art director,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Networking|Python|eLearning|React|Curriculum Design,Arusha,MID,8764679,12294778
+ca4a7fc0-55db-4bed-8ae6-e19d7485d41a,Applications developer,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Nursing|Public Health|Excel|Clinical Research|Curriculum Design|Civil Engineering,Zanzibar,ENTRY,9257032,10305332
+a11fee57-2fb3-458f-9893-ed1933e4afa3,Food technologist,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Travel Planning|Customer Service|Tour Guiding,Moshi,MID,8614983,13499385
+dbdc733b-9dd2-4e64-98be-5bdd7717c792,"Clinical scientist, histocompatibility and immunogenetics",70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Site Management|Agribusiness|Curriculum Design|Civil Engineering|AutoCAD,Morogoro,ENTRY,3176877,5771584
+a61ac915-7336-4ec2-aef2-42cef5d5113f,Trading standards officer,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Fleet Management|Event Planning|Tour Guiding|Hotel Management,Mbeya,SENIOR,8680982,12946913
+7515f59b-b41b-4365-92df-f948a64535c6,Make,54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Nursing|Patient Care|Public Health,Morogoro,ENTRY,11820946,12975278
+4eba5a22-8057-4791-bfd2-1ba3e464c1f3,Technical sales engineer,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Financial Analysis|Special Needs|Auditing|Excel,Morogoro,ENTRY,9399621,14098908
+52ca0cbf-b121-44e9-9046-e0644b6399a8,Civil Service administrator,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Electrical Engineering|Maintenance|Grid Management,Morogoro,ENTRY,3798139,5384665
+a962823e-75c8-4faa-8611-15b32ea52420,"Teacher, secondary school",54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Nursing|Patient Care|Hotel Management|Clinical Research|Renewables,Morogoro,ENTRY,7949220,9321219
+c5c045a6-d649-4a4e-9c31-e5b4520f443c,"Journalist, magazine",d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Route Planning|Tour Guiding|Excel|Driving|Auditing|Financial Analysis,Dodoma,SENIOR,5434130,10430374
+c047a1f6-5436-424f-9307-a574f3c34a56,Public affairs consultant,785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Networking|Electrical Engineering|Energy Auditing|Grid Management,Morogoro,ENTRY,8883105,13026596
+97958aad-af80-449c-87b5-1dde448e550e,Computer games developer,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Travel Planning|Energy Auditing|Renewables|Grid Management|Android,Mwanza,ENTRY,3085292,5267888
+85579a8d-dcf3-4ed5-bb21-263f28a4bac4,"Administrator, local government",1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Electrical Engineering|Renewables|Maintenance,Mwanza,MID,10210597,14836363
+ee955705-c2ac-4534-a3a8-307086e37950,Public affairs consultant,4555d314-a979-4209-9f1e-fe1115327374,Energy,Grid Management|Energy Auditing|Renewables|Curriculum Design|Linux|Fleet Management,Mwanza,SENIOR,13224527,15400615
+505fcbdd-9323-4111-b77a-2ec8eddf9cd6,Fisheries officer,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,eLearning|Counseling|Teaching,Dodoma,SENIOR,14018394,16383543
+153df88c-358b-4880-9cb0-b54c33987aea,Farm manager,91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Auditing|Agribusiness|Irrigation|Crop Science,Moshi,MID,14424968,15288738
+d8972f0b-4061-4b07-ad51-0135427f1185,Armed forces technical officer,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Driving|Route Planning|Logistics|eLearning,Kilimanjaro,ENTRY,4528911,8885229
+4e781010-3e2b-4d3e-848a-84fae1547ac9,Cytogeneticist,6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,Curriculum Design|Special Needs|Counseling|Public Health,Morogoro,ENTRY,11402639,13254767
+a9e5a054-8d62-4318-b2fc-5a3e6dcede5f,"Engineer, automotive",42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Financial Analysis|Livestock|Auditing|Excel,Zanzibar,MID,9191746,12328896
+9e101c45-9e91-49c6-96b3-dd43c581289e,Charity fundraiser,5100c207-5cfc-47c4-9eee-5af3b00c3d84,Transport,Route Planning|Python|Excel|Dispatch|Logistics,Tanga,MID,12454476,13012111
+d382ed23-359c-481f-aa3d-1d549f86978c,Financial risk analyst,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Clinical Research|Nursing|Public Health,Arusha,ENTRY,9324236,13090373
+bd729348-5ece-48bc-b9ac-756c75d729a1,"Education officer, community",f7e79796-a8a2-49c5-985f-edd45eb03719,Education,eLearning|Special Needs|Counseling,Dodoma,ENTRY,5354074,8169499
+f2b50f72-b3e1-47eb-8eac-c9455105f66f,"Teacher, early years/pre",810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Travel Planning|Event Planning|Tour Guiding,Mwanza,MID,12103557,16719016
+435a417b-50f4-4c14-827d-1f6d2805e733,Osteopath,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,SQL|Linux|Surveying|React,Arusha,MID,4259177,8329465
+90f8dae0-7fef-4cae-abe3-5b9ba263336c,"Designer, furniture",79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Patient Care|Nursing|Logistics|Public Health,Dodoma,SENIOR,12118296,13560791
+06a0dfb7-8c3c-4eab-8c65-0aca95bd3258,Veterinary surgeon,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Nursing|Special Needs|Hotel Management|Counseling|Teaching|Linux,Dodoma,MID,8835926,10959574
+51b0fd1d-ac0d-4c8a-8ec3-cd4facf2ebdc,Chief Strategy Officer,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Grid Management|Patient Care|Lab Work|Public Health,Tanga,ENTRY,9494433,14037314
+0dd308e2-1536-4a96-ab21-71471a4ac55c,Textile designer,8f61b7f8-508b-43d4-b4cf-ae05ed6c2dcd,Finance,Nursing|Excel|Auditing|Financial Analysis|Django,Mbeya,ENTRY,5198551,9300470
+8196ab52-d1cf-49cd-93ed-383c77c12aba,"Editor, film/video",cb163982-3ecc-4953-9357-91af843b2dad,Construction,Site Management|Public Health|SQL|Surveying|AutoCAD,Mwanza,ENTRY,8446352,11093041
+1604c09a-6133-47f8-94f3-d90c440abc88,"Nurse, adult",d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Tour Guiding|Hotel Management|Electrical Engineering|Energy Auditing|Maintenance|Crop Science,Mwanza,ENTRY,8645404,9918631
+e131dab9-33db-4795-94a2-2e0ffda8a3c8,Research scientist (life sciences),03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Site Management|Civil Engineering|Surveying,Kilimanjaro,ENTRY,8373670,11197923
+04805eba-f4b2-4813-a938-d48a6676613f,Public relations account executive,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Electrical Engineering|Energy Auditing|Maintenance,Mwanza,MID,6383773,10399659
+aadd8b67-3776-44c1-8313-612668b072a1,Interpreter,56f04e2f-8346-486f-b150-65117682d795,Education,eLearning|Curriculum Design|Crop Science|Teaching,Dodoma,ENTRY,4384658,8834436
+1c5a8189-3e75-4b41-ada9-bfb432e0b6d5,Marketing executive,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Patient Care|Site Management|Public Health|Lab Work|Teaching,Dar es Salaam,ENTRY,10542205,15128326
+df95b4c4-2277-4ee2-89b3-f9119b25511b,Agricultural engineer,6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,Site Management|eLearning|Electrical Engineering|Energy Auditing|Counseling|Teaching,Morogoro,ENTRY,10149170,13366929
+a350ab50-b8f0-4847-a51e-bdacb2eec3d5,Ranger/warden,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Safety Compliance|Electrical Engineering|Renewables|Counseling|Maintenance,Mbeya,ENTRY,3706600,6433763
+4dac0511-2fe9-49df-90dc-135194602441,Seismic interpreter,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Electrical Engineering|Lab Work|Energy Auditing|Maintenance|Financial Analysis,Mbeya,ENTRY,9176612,12618079
+d0e6c130-e613-47b8-abb3-14ec5a132a5c,Automotive engineer,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,eLearning|Counseling|Teaching,Dodoma,ENTRY,4653023,6408817
+905bf35c-41aa-44fb-af4c-2885d7b73054,Therapeutic radiographer,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Cloud|Django|Python,Morogoro,MID,4807312,5772619
+bcc68df2-a158-47c0-96d8-a9a0ea0c2582,Musician,2ec248ab-3682-4af5-9751-94386caacad2,Energy,Tax|Route Planning|Energy Auditing|Soil Science|Renewables|Grid Management,Moshi,ENTRY,11755212,13852307
+af0488c3-217b-42ba-b263-d99f5abfe6dc,"Engineer, technical sales",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,eLearning|Special Needs|Teaching,Mbeya,MID,3961527,7264253
+bf121157-5bcd-4317-a595-b02ef95d6a80,Furniture conservator/restorer,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Route Planning|Logistics|Fleet Management,Dar es Salaam,ENTRY,14466174,17204908
+b75134b6-9aed-41a7-a0d3-5a096fc2962a,Television camera operator,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,eLearning|Counseling|Teaching,Tanga,ENTRY,10145104,11643275
+43529c2a-952d-4fce-a4c1-982492cda504,"Journalist, newspaper",278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Livestock|Agribusiness|Irrigation,Zanzibar,ENTRY,9663352,14238774
+c8461c20-19b0-452d-b74b-03119dbe0c65,Private music teacher,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Curriculum Design|Python|Teaching,Tanga,ENTRY,11169206,14790360
+edfdc742-3a47-4454-b7ed-952f07f1898b,Theatre manager,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Public Health|eLearning|Counseling|Teaching|Cloud,Morogoro,MID,4980835,7100201
+5aee6037-d59d-49a0-a1ac-1d6d2c46dcce,"Scientist, forensic",ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Tax|Electrical Engineering|Energy Auditing|Event Planning|Grid Management,Mbeya,MID,14832256,17682587
+25ffdaca-31e7-45eb-9725-89b5af7676e9,Ship broker,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,eLearning|Accounting|Counseling|Teaching,Dodoma,MID,13718010,15952969
+83ee2c47-8c18-44a4-bb29-0ace1974869e,Armed forces training and education officer,619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Tour Guiding|Energy Auditing|Renewables|Maintenance|Logistics|Grid Management,Arusha,ENTRY,13712418,18682998
+ef81ecc9-68db-4d38-a0f1-cd4d1e2c3e1a,Claims inspector/assessor,a13f154d-0ea0-45fd-ad17-f220a884630d,Education,Special Needs|Travel Planning|Counseling|Teaching|Cloud,Mbeya,ENTRY,3123819,4803275
+df62f2f7-9898-402f-8af5-6099f9e3b81d,Advertising account executive,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Tax|Safety Compliance|Python|Energy Auditing|Django|Android,Zanzibar,ENTRY,10451180,11397910
+b96cb16b-e6d3-4208-b143-5ed5be15b671,Agricultural consultant,c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Tax|Accounting|Renewables|Excel,Dar es Salaam,MID,9566585,12333813
+68287248-da37-4626-8342-fa9127e7abf8,Management consultant,c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Tax|Financial Analysis|Excel,Dar es Salaam,MID,6371106,8064813
+54e15a50-798a-4932-afb4-80fbd34265ec,Tax inspector,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Django|Soil Science|Agribusiness|Livestock|Crop Science,Zanzibar,ENTRY,10571247,13087901
+8149dbae-2335-42b8-8619-0be8f97e566c,Automotive engineer,7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Customer Service|Tour Guiding|Hotel Management,Dar es Salaam,ENTRY,14301313,15089189
+6986b144-e632-4263-b909-a2f53de59924,IT trainer,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Nursing|Special Needs|Hotel Management|Customer Service|Renewables|Event Planning,Dodoma,MID,13577655,16738508
+d8c0f523-94c7-4ed2-aeeb-6563a850b0a7,Marine scientist,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Cloud|Flutter|React|Tour Guiding,Mbeya,ENTRY,6126407,6918904
+909c042d-400a-42b9-83d9-ee4316ad1303,Environmental health practitioner,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Maintenance|Livestock|Agribusiness|Irrigation,Zanzibar,ENTRY,12732562,14986279
+780dfacd-1bae-4351-aaa3-2ae49a18d21b,"Engineer, mining",0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Site Management|Excel|Dispatch|Driving|Logistics,Dar es Salaam,ENTRY,3428617,5401326
+c51f4058-dd23-4634-b6dc-d714846af33b,Personnel officer,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Electrical Engineering|Renewables|Maintenance,Mwanza,SENIOR,8832788,9970640
+ad027e14-ca8a-41d4-9f4b-bdfb5897feea,Environmental manager,0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Route Planning|Travel Planning|Tour Guiding|Customer Service|Curriculum Design|Event Planning,Mbeya,MID,3664354,6294756
+9dfa452a-56b6-4a3c-a9b8-4c38a3d7cbeb,Materials engineer,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Auditing|Counseling|Financial Analysis|Livestock|Android,Tanga,ENTRY,6540622,9912132
+61e8bace-5e73-4c88-8501-51a774c7e6e9,"Engineer, technical sales",68fe134e-ee95-4d6c-af6c-b5f56e22392c,ICT,Accounting|Flutter|Linux|Cloud|Django,Dar es Salaam,ENTRY,3817581,7313564
+000d81cc-99ef-43c9-bc64-3ffdcd1417ab,"Education officer, community",70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Safety Compliance|Surveying|Dispatch|Civil Engineering|AutoCAD,Morogoro,ENTRY,13737320,18082448
+e6d24e25-0da3-432f-883e-7a1193f46cc8,Theatre director,785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Grid Management|Renewables|React|Maintenance,Morogoro,MID,4941698,6022951
+cfbcac13-6319-429c-8ede-1e8c3e5ba7e1,Sales promotion account executive,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Tax|Site Management|Driving|Linux|Cloud|Android,Kilimanjaro,ENTRY,9781417,12314116
+38696551-969d-4f1c-88a1-01fc67f0aa19,Communications engineer,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Irrigation|Electrical Engineering|Soil Science|Clinical Research|Agribusiness|Curriculum Design,Arusha,MID,8860036,10451371
+bf6e171a-13f3-4a86-bba1-52d944ce1916,Medical illustrator,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Networking|Patient Care|Django|Android,Morogoro,ENTRY,13786726,17812147
+65bad0b1-0eb8-4854-af00-d790a9ca74c4,Geoscientist,54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Nursing|Lab Work|Patient Care,Morogoro,ENTRY,10520448,12820951
+707b7bf5-9555-40ca-b01c-41b30d5da6a7,"Engineer, production",df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Route Planning|SQL|Soil Science|Dispatch|Logistics,Kilimanjaro,ENTRY,9873584,10851399
+072fa4fd-0253-4dfd-8438-329ec659394f,Administrator,68fe134e-ee95-4d6c-af6c-b5f56e22392c,ICT,Python|SQL|Flutter|React|Renewables,Dar es Salaam,ENTRY,11281390,12015569
+3fd718ae-397c-4206-a525-91d64358b4c5,Barrister,d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,Special Needs|Driving|Counseling|Teaching|Linux,Morogoro,ENTRY,11969769,15057883
+94db1238-affb-4163-b8af-050a8267f35a,"Surveyor, mining",a13f154d-0ea0-45fd-ad17-f220a884630d,Education,Tax|eLearning|Counseling|Teaching|Civil Engineering,Mbeya,SENIOR,7984921,8903258
+6249c74c-031d-46c6-92ac-4856941eff66,"Restaurant manager, fast food",8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Tax|Nursing|Auditing|Financial Analysis|Django,Morogoro,ENTRY,5304590,9865591
+2ef802f7-2bae-4950-aadb-7b321e287769,"Engineer, aeronautical",c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Tax|Accounting|Financial Analysis,Dar es Salaam,ENTRY,11530913,14550132
+70b11d92-f5f3-4250-a98d-a1f681f80d52,"Nurse, mental health",ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Electrical Engineering|Surveying|Renewables|Maintenance|Linux,Mbeya,ENTRY,12831947,14072888
+61fd3e63-e199-4c82-ad48-7787a6fcf1d3,Multimedia specialist,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Curriculum Design|Special Needs|Counseling,Tanga,SENIOR,13785654,15542677
+9689761e-9108-4b36-9901-5a86f88c3f66,Insurance broker,662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Nursing|Lab Work|Patient Care,Dar es Salaam,MID,12375419,14246396
+3d6a1360-8540-4733-be80-a56ebf6307a0,"Engineer, civil (contracting)",5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Tour Guiding|Counseling|Teaching|Curriculum Design|Event Planning|Livestock,Kilimanjaro,ENTRY,13777312,16532357
+5dfc5c22-1264-499b-a19c-e71962df27f3,Dramatherapist,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Nursing|Tour Guiding|Electrical Engineering|Lab Work|Clinical Research|AutoCAD,Mbeya,MID,6529746,8904876
+8b7cb0d1-7f59-4b14-9941-c05e0237a1bf,Special effects artist,662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Nursing|Public Health|Clinical Research|Agribusiness|Logistics|Android,Dar es Salaam,ENTRY,10098353,12354479
+af450b73-52fe-4c39-b545-f66a9214bf00,"Engineer, chemical",d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Electrical Engineering|Renewables|Logistics|Energy Auditing,Mwanza,ENTRY,6451509,10169721
+25861d68-db26-41f6-abd8-24218aab6c4c,Special effects artist,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Hotel Management|Linux|SQL|Android,Kilimanjaro,MID,14305111,15962516
+ad5d5ca3-ab82-43ea-b5ce-96343f0e8a9e,Publishing rights manager,9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Tax|Financial Analysis|Excel,Morogoro,ENTRY,13343496,15725329
+55ab0fb4-5c85-4788-aa08-c2b3e49a4503,"Accountant, chartered public finance",cb163982-3ecc-4953-9357-91af843b2dad,Construction,Surveying|Civil Engineering|AutoCAD,Mwanza,ENTRY,13609617,17646140
+b90ee2b0-2a93-4bd0-8c45-04aedf3fa89c,Tourism officer,b2ae4e0c-6b97-4854-97f7-2c9d9d131377,Healthcare,Clinical Research|Patient Care|Nursing,Moshi,MID,9261539,12661241
+ff9e5505-2bab-40a7-bf33-e7e5437a2f87,Race relations officer,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Livestock|Soil Science|Crop Science,Kilimanjaro,ENTRY,6068965,7041577
+d53bdf4c-3335-424e-8d4a-1166bf07dd67,Call centre manager,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Dispatch|Route Planning|Driving|React,Dar es Salaam,ENTRY,6017251,10975662
+c9bd3093-f3ad-465f-aa7f-7057ddba255c,Control and instrumentation engineer,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Accounting|Excel|Teaching|Financial Analysis|Event Planning|Livestock,Morogoro,MID,14726829,18936542
+b566f64a-3200-4bf4-9d83-de09afe1a438,Ergonomist,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Nursing|Lab Work|Public Health,Mbeya,MID,7220554,9306350
+36ce7cbc-54fa-4b9e-83d6-dee73b5bfea0,Clinical biochemist,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Patient Care|Public Health|Lab Work|Clinical Research|Teaching|Grid Management,Tanga,ENTRY,9255062,10500497
+79405f8e-59d2-4a4a-9ae0-6155f5ce62ec,Civil Service administrator,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Site Management|Surveying|Civil Engineering,Kilimanjaro,MID,12562775,14052895
+70cce908-a625-4181-ab8d-4d052e625852,Firefighter,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Route Planning|Logistics|Curriculum Design|Fleet Management,Kilimanjaro,MID,12161567,12915020
+7d322f91-897d-448e-b64b-fad6d014edef,"Accountant, chartered",fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Curriculum Design|Counseling|Excel|Teaching,Tanga,SENIOR,8067429,12345001
+75bfb6d0-f966-4949-9e49-eb0451ef792c,English as a second language teacher,54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Nursing|Patient Care|eLearning|Lab Work|Renewables|Teaching,Morogoro,MID,11117001,14651659
+5b74e874-7ef2-4148-abf1-af597633a663,Theatre manager,8b9b2373-fe87-42ab-9fef-e32d777f8688,Agriculture,Networking|Livestock|Agribusiness|Irrigation,Morogoro,MID,10635288,11629538
+43c80b7b-96c1-4bce-888b-0f970303ec01,Lawyer,2ec248ab-3682-4af5-9751-94386caacad2,Energy,Electrical Engineering|Accounting|Energy Auditing|Maintenance|Grid Management,Moshi,MID,5130977,8049083
+d2de13eb-947b-45e5-821c-afbf91be2728,Artist,9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Accounting|Financial Analysis|Soil Science|Excel,Morogoro,MID,9338630,11299236
+3baf663b-a8d4-42e9-a0ec-7c31670399c6,Translator,df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Route Planning|Nursing|eLearning|Soil Science|Driving|Dispatch,Kilimanjaro,MID,9343722,12362451
+a451ab2c-995c-46e2-82e1-95237f78129d,Catering manager,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Nursing|Lab Work|Public Health,Arusha,ENTRY,13088038,16636200
+b407b3bc-4534-46db-920d-9c0ca6986217,Land/geomatics surveyor,3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Route Planning|Tour Guiding|Driving|Logistics|Fleet Management,Mwanza,ENTRY,5794676,10468094
+c49a6068-1af8-4ee2-8762-90652095316c,Speech and language therapist,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Safety Compliance|Site Management|Surveying|Customer Service|Civil Engineering|Livestock,Kilimanjaro,MID,11316546,13509329
+84197d06-b6e8-4327-8ee9-0c581b5e6b1a,Stage manager,2ec248ab-3682-4af5-9751-94386caacad2,Energy,Patient Care|Travel Planning|Electrical Engineering|Energy Auditing|Logistics|Grid Management,Moshi,MID,3767955,7923742
+9d1d629b-17ab-4c8f-a855-ab2a65996e78,Cytogeneticist,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Tour Guiding|Customer Service|Clinical Research|Counseling|Event Planning,Mwanza,MID,13393605,15321467
+1e2fd487-7482-4204-b343-bc0273063505,Agricultural consultant,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Route Planning|eLearning|Dispatch|Counseling|Teaching|Fleet Management,Tanga,ENTRY,14322683,17987688
+382d9e09-5daf-4382-bc6e-3833c7ac1f55,"Scientist, research (maths)",1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Python|SQL|Energy Auditing|Clinical Research|Renewables|Grid Management,Mwanza,ENTRY,5415459,9088265
+364d80bd-442a-4fc9-9579-5163a7d8101c,Chartered public finance accountant,785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Patient Care|Energy Auditing|Renewables|Maintenance|Logistics|Grid Management,Morogoro,ENTRY,12314587,14551155
+88955613-0796-4575-887a-5d06f25b8773,"Producer, television/film/video",5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Nursing|Electrical Engineering|Fleet Management|Maintenance|Linux|Grid Management,Mwanza,SENIOR,10793408,11345178
+fa41a57c-0e13-4a36-9bd5-d16540b7ad97,Youth worker,4555d314-a979-4209-9f1e-fe1115327374,Energy,Tour Guiding|Hotel Management|Electrical Engineering|Energy Auditing|Maintenance,Mwanza,ENTRY,11580165,12711604
+e3598c24-fa2a-4b0c-92ce-7f4813a33bea,Investment analyst,14c54684-7972-41c0-843a-d875ff497672,Construction,Surveying|Site Management|AutoCAD|Curriculum Design,Arusha,MID,4112830,7228018
+4c033e6b-cd58-4b2f-8a33-fb9fc2405ff9,Environmental education officer,54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Patient Care|Public Health|Lab Work|Clinical Research|AutoCAD|Fleet Management,Morogoro,ENTRY,13526727,15199757
+2ed6cc8a-aaac-4923-a9d6-c0c3215b3fc8,Risk analyst,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Accounting|Linux|Flutter|SQL,Zanzibar,SENIOR,12441922,15531631
+489fe051-64af-405f-8754-051ed4f62735,"Designer, blown glass/stained glass",0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Driving|Route Planning|Dispatch,Dar es Salaam,ENTRY,13046642,16253042
+8de17a03-955e-479d-8e0a-8a3443d19973,Company secretary,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Accounting|Soil Science|Auditing|Excel,Dodoma,SENIOR,13706738,17782138
+2e4d41d6-5b1a-412d-9bf4-00d8310a094f,Rural practice surveyor,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Accounting|Counseling|Teaching|Curriculum Design|AutoCAD|Grid Management,Kilimanjaro,ENTRY,14857868,17819164
+8d28e049-e95e-4a55-87ae-8e0254405f6a,Teaching laboratory technician,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Route Planning|Nursing|Dispatch|Driving|Auditing|Curriculum Design,Dar es Salaam,ENTRY,7545149,8261900
+aa2b0c68-29bb-477a-af9b-a50c670a8468,Location manager,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Curriculum Design|Special Needs|Teaching,Kilimanjaro,SENIOR,11649326,15192629
+35070987-c91f-448b-ae45-5fe7859594b5,Herpetologist,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Irrigation|Accounting|Agribusiness|Linux|Crop Science,Arusha,SENIOR,11976369,13822657
+c54ad90e-6b84-4054-aa06-59f8d615e415,Financial manager,6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,eLearning|Agribusiness|Special Needs|Counseling,Morogoro,ENTRY,9456499,14094951
+fb9e367a-c243-4802-a5d9-560b544500d0,"Sound technician, broadcasting/film/video",dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Civil Engineering|Travel Planning|Customer Service|Tour Guiding,Mwanza,ENTRY,13093197,17205408
+deca7f91-273c-4e06-aeb5-03bdd5ce50bc,"Merchandiser, retail",8b9b2373-fe87-42ab-9fef-e32d777f8688,Agriculture,Safety Compliance|Nursing|Irrigation|SQL|Agribusiness|Crop Science,Morogoro,MID,9394067,12516882
+2029e505-0326-45ba-b638-de317f721048,Chartered management accountant,8f61b7f8-508b-43d4-b4cf-ae05ed6c2dcd,Finance,Accounting|Flutter|Auditing|Excel,Mbeya,MID,8679511,10096451
+7d1e01ae-c8c9-4849-9aaf-b0326e02b1d4,Community arts worker,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Special Needs|Counseling|Teaching|Cloud|Fleet Management,Kilimanjaro,ENTRY,8108062,10990679
+4e092344-dfee-4f00-9f75-91d45425ed83,Musician,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Networking|Django|SQL|Linux|Livestock|Android,Arusha,ENTRY,13092435,17932639
+af28d834-44f7-4604-8ac6-8a8606ccc3db,Warehouse manager,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Site Management|Excel|Civil Engineering|AutoCAD|Crop Science,Moshi,ENTRY,4571529,6057336
+368e0ef1-f453-4913-b8de-4fa80ded427c,Private music teacher,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Site Management|Travel Planning|Irrigation|Surveying|React|Civil Engineering,Mwanza,MID,10179175,11305523
+d3e53d66-79db-4883-bc50-8a2ae737645e,Tourist information centre manager,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Travel Planning|Event Planning|Tour Guiding,Moshi,ENTRY,3652523,8241009
+3552aea0-14fa-4e98-81f3-99856f68889b,Hotel manager,8f61b7f8-508b-43d4-b4cf-ae05ed6c2dcd,Finance,Python|Accounting|Excel|Dispatch|Counseling|Financial Analysis,Mbeya,MID,13568436,14146524
+3a751f3a-d5b2-4fa1-8409-425a4c10f1fc,Chemical engineer,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Public Health|Electrical Engineering|Lab Work|Clinical Research|Logistics,Tanga,ENTRY,12992912,16545095
+bf03c055-4974-46a0-82b6-94baf22a7a72,Minerals surveyor,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Safety Compliance|Route Planning|Site Management|Electrical Engineering|Driving|Logistics,Kilimanjaro,SENIOR,3573354,7723770
+05fb8895-2115-47cf-853c-09599ec452dd,Information systems manager,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Nursing|Civil Engineering|Lab Work|Public Health,Mbeya,ENTRY,10285150,13126117
+367eba25-8a4a-4af5-ac30-eb10ecac1a14,Barista,0fb01de0-a6ce-4ba3-9231-5c1f9e091875,Energy,Renewables|Energy Auditing|Grid Management,Moshi,ENTRY,3790567,4826946
+1d485c07-ba5e-4443-a1e9-cf4afa751533,Metallurgist,4555d314-a979-4209-9f1e-fe1115327374,Energy,Accounting|Electrical Engineering|Energy Auditing|Maintenance,Mwanza,ENTRY,6342776,10983016
+c23f3d23-97b2-4c95-8c2d-430a36fe5197,Proofreader,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Networking|Travel Planning|Tour Guiding|Accounting|Event Planning,Mwanza,ENTRY,12751256,14477526
+a6e52f54-9b9e-4f66-9ea0-f66a9923338d,Sub,3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,Special Needs|Travel Planning|Renewables|Counseling|Curriculum Design|Livestock,Dar es Salaam,ENTRY,4036476,6967354
+408e7bed-fd7f-4dfc-936c-73123d6cd6d3,Aeronautical engineer,4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Patient Care|Nursing|Lab Work|Public Health,Tanga,SENIOR,4070101,5561953
+bc59b3a6-eae4-406e-8e60-fe2306fd9eaf,"Surveyor, quantity",3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Route Planning|Logistics|Fleet Management,Mwanza,ENTRY,14289757,16665393
+8ff821c5-cb31-4135-b04e-dab57c235899,"Psychologist, clinical",18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Tax|Auditing|Excel,Kilimanjaro,ENTRY,4958897,7453351
+fb657fd1-aee1-45da-89da-e0ec60322f37,Soil scientist,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Electrical Engineering|Customer Service|Energy Auditing|AutoCAD|Grid Management,Mwanza,MID,7744490,9737512
+a156dbd8-d4e5-4fd9-a980-436dec47a168,"Accountant, chartered certified",84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Financial Analysis|Excel,Tanga,ENTRY,5277904,7223534
+2b3146ab-40f3-45b2-8ad2-bc7e285dbdd8,Occupational hygienist,662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Clinical Research|Lab Work|Patient Care,Dar es Salaam,SENIOR,9528351,12359324
+aaeccdd7-c71b-42f5-8516-45d9e31840a9,"Engineer, technical sales",1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Patient Care|Travel Planning|Tour Guiding|Hotel Management|Dispatch,Moshi,MID,14175051,16386700
+ce109fd1-e325-43da-875e-d874440a1074,Call centre manager,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Curriculum Design|Patient Care|Special Needs|Teaching,Tanga,MID,8266053,12456887
+00957218-d226-41f0-a63f-0ec297d3817f,Arts development officer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Renewables|Energy Auditing|Maintenance,Morogoro,ENTRY,6933320,9644376
+f12c7614-e10f-48e5-abef-504ff0029e41,Garment/textile technologist,f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,Special Needs|Customer Service|Energy Auditing|Counseling|Curriculum Design,Morogoro,SENIOR,13740599,16350712
+d357a351-4a8d-4b5c-a9fb-484d54cfe145,"Surveyor, building",4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Tour Guiding|Surveying|Driving|Civil Engineering|Livestock,Dodoma,ENTRY,6864926,8934689
+0f418f0b-945a-4680-b3c6-365df358ffc2,Jewellery designer,d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Route Planning|Accounting|Driving|Curriculum Design|Logistics,Mwanza,SENIOR,7152199,9033965
+f9c371aa-6147-4449-b09c-b54a0ac1a1a9,Television camera operator,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,React|Teaching|Django|Android,Zanzibar,MID,14113563,16889098
+3a081b00-311e-4594-8ef4-5d4a0399bf95,Music tutor,df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Safety Compliance|Dispatch|Agribusiness|Logistics|Fleet Management,Kilimanjaro,ENTRY,7886817,9659901
+265e8d73-4db1-460b-9997-d3aed9609aa7,Structural engineer,6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,Special Needs|eLearning|Teaching|Linux|AutoCAD,Morogoro,ENTRY,6137333,9154750
+79537da6-1f27-411a-ab81-ec8ace64c969,Medical technical officer,df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Driving|Route Planning|Maintenance|Fleet Management,Kilimanjaro,MID,8231588,9122657
+cf6fd5df-d574-4d96-aff2-f0fa6fa875f4,Research scientist (physical sciences),688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,Special Needs|Counseling|Teaching,Arusha,SENIOR,4793857,6480749
+84483896-151f-4056-9a10-58addc5bc410,"Education officer, community",f7e79796-a8a2-49c5-985f-edd45eb03719,Education,Networking|eLearning|React|Dispatch|Teaching|Curriculum Design,Dodoma,ENTRY,13598322,14675346
+d2154e39-ecb2-45b8-adaa-75f80b3611ec,Estate agent,42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Tax|Financial Analysis|Excel,Zanzibar,SENIOR,3443168,8305124
+03c03fd8-0f48-4da5-ae93-8d6c6464a9d5,Art therapist,4555d314-a979-4209-9f1e-fe1115327374,Energy,Electrical Engineering|Renewables|Energy Auditing|Curriculum Design,Mwanza,SENIOR,3544337,4673505
+391909e5-5c2c-48ae-b81c-9aae11f65816,"Lecturer, further education",84de95c3-ce38-491b-8744-0e62040bd430,Finance,Accounting|Energy Auditing|Excel|Auditing|Event Planning,Tanga,ENTRY,8772985,11980391
+c6cdc084-8b8b-40ba-ad4e-d0c25169bf29,"Engineer, drilling",68fe134e-ee95-4d6c-af6c-b5f56e22392c,ICT,Flutter|Travel Planning|Django|Android,Dar es Salaam,MID,6996531,9966602
+9d763af7-cdaa-4d84-960c-3edbdd16bc22,Musician,18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Accounting|Auditing|Excel,Kilimanjaro,MID,6498302,10466492
+6fbc3d12-4ebc-42c2-a7c3-f226c492d145,Dentist,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Python|Hotel Management|SQL|Renewables|Django,Morogoro,ENTRY,7234516,10569273
+f6322dfa-fe1e-4c85-9844-933e8db8477c,"Engineer, agricultural",5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Grid Management|Renewables|Maintenance,Mwanza,MID,6359330,10408772
+8b04e113-dfeb-4e24-ac5e-a51f685bf4db,"Runner, broadcasting/film/video",bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Tax|Public Health|React|Cloud|Event Planning|Android,Zanzibar,MID,4201316,9040891
+db63604a-c305-49c8-a36a-598524436831,Community arts worker,0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Tour Guiding|Hotel Management|eLearning|Soil Science|Financial Analysis|Event Planning,Mbeya,MID,8142516,11703705
+1e7f7ce1-3c4e-4823-bfba-188d1ff52efc,"Engineer, mining",92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Irrigation|Flutter|Soil Science|Agribusiness|Linux|Grid Management,Dodoma,MID,12009360,12979640
+fe5865d7-6cef-4383-8e8a-ee2cd04e4166,Personal assistant,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Irrigation|Soil Science|Dispatch|Livestock|Fleet Management,Zanzibar,MID,10779497,14900676
+7d4eee83-a14b-4b86-ba54-9640d9268098,Facilities manager,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,Special Needs|Auditing|Counseling|Teaching,Dodoma,MID,4476771,6858822
+afd9bbf5-8f78-403e-b6e4-d15fee12202b,Fashion designer,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Networking|Safety Compliance|SQL|Maintenance|AutoCAD|Android,Mbeya,ENTRY,4243307,9211481
+8734765a-cc6a-440a-b55d-c7c7ddd16b5c,"Surveyor, mining",a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Patient Care|Nursing|Public Health|SQL|Linux,Arusha,MID,14435252,18951203
+7ad27794-9914-4c58-91c3-14ee182f1481,Sales promotion account executive,e18f92a0-b462-4ebc-828e-2b60d1443937,Finance,Tax|Accounting|Livestock|Financial Analysis|Curriculum Design,Mwanza,ENTRY,3876291,5653387
+79797610-192e-4b8d-91ad-88dcd7b69f66,"Conservator, furniture",7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Safety Compliance|Route Planning|Site Management|AutoCAD,Moshi,ENTRY,5016621,8245147
+9fbcc70c-59d2-400b-98f2-c434b587bb86,Manufacturing engineer,68fe134e-ee95-4d6c-af6c-b5f56e22392c,ICT,Networking|Route Planning|SQL|Driving|Clinical Research|Cloud,Dar es Salaam,SENIOR,3808750,6704125
+21904cca-8a23-4791-815b-585a755b5b74,Photographer,b7333df4-453b-43e7-994a-4bb4d0475cf4,Construction,Safety Compliance|Site Management|Public Health|Customer Service|Civil Engineering,Mbeya,ENTRY,10934335,12705121
+72718797-11f5-4fce-9d9f-f77cf7538423,Cartographer,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Route Planning|Agribusiness|Event Planning|Livestock|Crop Science,Kilimanjaro,ENTRY,13926052,15731951
+3d7fb19f-1c7f-459c-9f5c-62c3a2ca18a2,Network engineer,14c54684-7972-41c0-843a-d875ff497672,Construction,Safety Compliance|Site Management|Civil Engineering|Fleet Management,Arusha,ENTRY,10408653,14418489
+4fb59ea2-f7a5-4fb7-80bd-438c9484357b,"Nurse, children's",f7e79796-a8a2-49c5-985f-edd45eb03719,Education,Patient Care|Special Needs|Teaching|Curriculum Design|AutoCAD|Livestock,Dodoma,SENIOR,12765195,14025253
+546f2aca-7878-4711-ac89-e37120e81cac,"Designer, multimedia",7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Safety Compliance|Site Management|Civil Engineering,Moshi,MID,4553502,9500676
+62005863-6f62-4906-b3e4-8b24afee1989,"Psychologist, prison and probation services",688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,eLearning|Special Needs|Fleet Management|Teaching,Arusha,ENTRY,10320048,13859053
+bc7714b9-d8a9-404f-b7af-e1d031f84d2c,Teaching laboratory technician,56f04e2f-8346-486f-b150-65117682d795,Education,Agribusiness|Curriculum Design|Counseling|Teaching,Dodoma,ENTRY,11289500,13930413
+ed0a10da-265f-4f95-ba88-3eb3a2e25dd7,Analytical chemist,c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Financial Analysis|Livestock|Auditing|Accounting,Dar es Salaam,SENIOR,11264305,13707076
+14ed5c1c-08e4-4f5a-ba50-d96129af28d9,Higher education careers adviser,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Patient Care|Site Management|Travel Planning|Surveying|Logistics|AutoCAD,Kilimanjaro,ENTRY,6823900,11497258
+70787298-ca92-4ad4-be66-2281b623b6fd,"Loss adjuster, chartered",5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Electrical Engineering|Renewables|Auditing|Maintenance,Mwanza,ENTRY,5891239,7686741
+42ebc59f-9f07-4e72-9e93-2c9ef427c0bf,"Programme researcher, broadcasting/film/video",5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Nursing|Electrical Engineering|Energy Auditing|Customer Service|Clinical Research|Maintenance,Mwanza,ENTRY,14258473,18883789
+f5aecec1-becb-4a48-a7a4-236e8f62c4ac,Clinical psychologist,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Nursing|Accounting|Excel|Auditing|Android,Morogoro,MID,12494207,13006190
+0e6cc3a6-2cc0-4bd6-a815-6913e73dc7d4,Herpetologist,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Safety Compliance|Surveying|Dispatch|Driving|Renewables|Logistics,Kilimanjaro,ENTRY,13799314,16532859
+35e3b21b-d438-4243-a01d-fe4f6f0403c2,Art gallery manager,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Nursing|Irrigation|Tour Guiding|Hotel Management|Customer Service,Mbeya,MID,9131665,11327722
+3ed6ee3d-7840-44fe-8677-ba1e5e1b0214,"Development worker, international aid",5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Electrical Engineering|Flutter|Auditing|Maintenance|Grid Management,Morogoro,MID,14884872,18124258
+8901e007-367a-4bf7-ad66-101e433e4514,Conference centre manager,e848bb32-c11b-4cac-9f35-135e418a509d,Construction,Safety Compliance|Cloud|Site Management|Surveying,Arusha,ENTRY,13539750,17492040
+9194c921-93a5-4452-9d7e-ed31895e575c,Psychiatric nurse,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Route Planning|Electrical Engineering|Energy Auditing|Driving|Maintenance|Logistics,Mwanza,SENIOR,5002795,6681163
+6b2a2e30-3b06-4a87-9ced-39cf023e605e,Agricultural consultant,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Linux|Python|Maintenance|SQL,Mbeya,ENTRY,10159894,10742492
+10055135-c1c3-46bb-bdb0-05ce130cd1b6,"Biochemist, clinical",d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Safety Compliance|Civil Engineering|AutoCAD,Dar es Salaam,SENIOR,9637734,13119801
+92cdf6e9-7eb1-461a-a406-005917104561,Clinical biochemist,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Site Management|eLearning|Counseling|Curriculum Design|Cloud|AutoCAD,Kilimanjaro,ENTRY,9042830,12151929
+78cb5200-18c7-4795-a69b-5f4f3a80cc0b,"Teacher, English as a foreign language",f4925905-a04b-44a5-858c-921074310b89,Agriculture,Soil Science|Fleet Management|Agribusiness|Irrigation,Arusha,ENTRY,8464218,12627911
+2ca5a541-6f3d-4d8d-a47e-9f5f82737f3a,Ceramics designer,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Special Needs|eLearning|Accounting|Counseling|Curriculum Design,Dodoma,SENIOR,12794702,14964113
+f4dc6211-0089-4bf5-b28f-428f2a34b09d,Maintenance engineer,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Networking|Site Management|Civil Engineering|AutoCAD|Crop Science,Moshi,MID,5654095,10248816
+89a55bf1-84a0-4f41-817b-78ff50cb0f1d,Management consultant,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Tax|Agribusiness|Auditing|Financial Analysis|Civil Engineering|Fleet Management,Morogoro,ENTRY,11469630,13643670
+875db04d-cbe9-440e-99de-134e4bb1911c,Press photographer,3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,Networking|Special Needs|Accounting|Counseling|Curriculum Design,Dar es Salaam,ENTRY,9300269,13952120
+a2fc344c-fd75-409d-8060-957b3c65ecf8,Systems developer,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Curriculum Design|Special Needs,Tanga,MID,6227105,8122069
+8ab87ca2-c4f2-4408-a04f-dbbef991be3e,Holiday representative,2ec248ab-3682-4af5-9751-94386caacad2,Energy,Renewables|Maintenance|Grid Management,Moshi,ENTRY,14320001,17358724
+a57fe22b-db6b-41a7-8923-f4c04c86bc10,Regulatory affairs officer,e6f2cfa0-6d9b-438c-b3f1-ab4e43752400,Healthcare,Tax|Nursing|Public Health|Lab Work|Excel|Clinical Research,Mbeya,MID,14686696,15594311
+fc0aaf42-a1fa-4feb-8b62-e2718def0676,Risk manager,615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Agribusiness|Irrigation|Crop Science,Kilimanjaro,MID,5942529,10778054
+15c1f299-62ce-450d-9f43-9af22064c3f2,Clinical molecular geneticist,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,SQL|Civil Engineering|Surveying|AutoCAD,Morogoro,MID,14791030,16594113
+cd6780e6-75d8-4fd6-9b2f-68072675b66b,Actuary,f30784ec-1a97-4abc-8441-5dc63bcb1f7b,Transport,Driving|Route Planning|Logistics|Networking,Morogoro,ENTRY,4202261,6666610
+4e1d2081-dc2c-428e-97ed-1d9d52985cc2,Health promotion specialist,ee3bc8a1-b665-4a98-8312-c01e6fd81286,Healthcare,Clinical Research|Patient Care|SQL|Public Health,Kilimanjaro,ENTRY,4837253,5635396
+33247cad-2136-49c5-8f9f-92cc7d18d27d,Public relations officer,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Networking|Flutter|Renewables|Maintenance|Cloud|Django,Arusha,ENTRY,5990564,8956911
+1be6e6b3-691b-446d-8a75-4fbe18e1f045,"Engineer, technical sales",959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Nursing|Patient Care|Lab Work|Dispatch|Financial Analysis|Grid Management,Zanzibar,SENIOR,13166877,14426941
+609bdb9e-47d3-4462-bbaf-f9043f4d1d4d,Medical secretary,688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,eLearning|Curriculum Design|Event Planning|Counseling,Arusha,ENTRY,4230834,8326359
+19048321-1ec4-4933-85d4-7361dfda9fa5,Information systems manager,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Accounting|Counseling|Teaching|Financial Analysis|AutoCAD,Tanga,ENTRY,7799666,10605979
+e47370a9-fbd0-4a00-be95-4c70e37c7dab,Aid worker,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Renewables|Energy Auditing|Maintenance,Morogoro,MID,9361166,11420268
+4f07cc5d-4dac-49ff-b462-5537b2a46652,"Nurse, learning disability",53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Fleet Management|Dispatch|Driving|Clinical Research|Logistics|Grid Management,Kilimanjaro,MID,4997294,9400646
+d9afccac-ae5a-487f-8d74-ed1685b696cd,Multimedia specialist,18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Tax|Networking|Accounting|Auditing|Linux,Kilimanjaro,ENTRY,8912488,11365570
+6f8bdf51-2008-4024-bac4-7f5077147ebe,Biomedical engineer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Electrical Engineering|Renewables|Grid Management,Morogoro,MID,5523451,8824782
+24261b42-6627-413f-aae6-8c95e851bb58,Product manager,f30784ec-1a97-4abc-8441-5dc63bcb1f7b,Transport,Driving|Route Planning|Electrical Engineering|Fleet Management,Morogoro,ENTRY,4819050,5587868
+1bc77a74-8a92-4a0c-b382-2e69aa9ccb92,Sales promotion account executive,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Route Planning|Travel Planning|Event Planning|Customer Service,Moshi,ENTRY,12807330,16282292
+98d67183-e82d-453c-9aab-96644a69600e,Tax adviser,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,Driving|Curriculum Design|Special Needs|Teaching,Dodoma,MID,10856244,11431568
+68eac4c6-dd15-4910-8efc-527d54fed0b6,Chiropractor,fdcc0faa-81dd-49e5-a751-1add67b5037d,Tourism,Route Planning|Customer Service|Tour Guiding|Hotel Management,Zanzibar,ENTRY,13919788,15967946
+a5b1b4dd-9a4c-4876-ac83-d3c5d789ba0a,Insurance broker,18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Accounting|Event Planning|Financial Analysis|Excel,Kilimanjaro,SENIOR,10126416,12507464
+31b89346-9238-4e59-9285-5ac92302ccca,"Teacher, English as a foreign language",f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,eLearning|Special Needs|Teaching,Morogoro,ENTRY,12030451,16255777
+d897033c-1dcf-4e0e-ac8e-82f05f3b7155,Water quality scientist,577282c8-e038-4d16-98ee-72983a3b9398,Transport,Route Planning|Nursing|React|Driving|Agribusiness|Fleet Management,Mbeya,MID,11535050,12231491
+c81a2b13-b9c0-4c89-8b53-c8e5d84025c6,"Teacher, early years/pre",7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Surveying|Site Management|AutoCAD,Moshi,MID,4126194,8309009
+a54f793d-1b77-476e-840a-791d409c6272,Chiropractor,935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Driving|Route Planning|Logistics,Arusha,ENTRY,4492502,7191101
+c2c5340c-176b-471e-9587-4082a9a7f913,Agricultural engineer,845d194d-ef62-46ff-a371-b7e698043b63,ICT,Networking|Cloud|Android,Moshi,MID,3114318,4763105
+005e1c49-d27d-4e50-802b-77fc65363082,Editorial assistant,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Financial Analysis|Auditing,Tanga,SENIOR,11381778,13631210
+99794af1-5244-4b8e-867e-7ebdaaf745f7,Brewing technologist,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Tax|Site Management|Accounting|Excel|Financial Analysis,Morogoro,ENTRY,7787664,11777227
+d0bbc46a-09a4-45ce-a11d-6e7f4193cbd1,Sports therapist,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Nursing|Patient Care|Lab Work,Dodoma,MID,11603100,12286857
+7d3bcf70-7fcc-4750-9531-3a9d2aacd600,Writer,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,Special Needs|Counseling|Teaching,Dodoma,MID,4799707,5511643
+966cb836-c139-4676-9493-976a1e35b2b0,Primary school teacher,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,eLearning|Curriculum Design|Special Needs|Event Planning,Arusha,MID,11585619,12231563
+ced469d9-cf43-4d3e-bce9-744f3b5559d2,Computer games developer,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,eLearning|Special Needs|Maintenance|Teaching,Morogoro,MID,8474004,13003278
+14c3ce21-cc4f-4cd0-971d-1ba19286cc62,Clinical embryologist,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Patient Care|Lab Work|Public Health,Zanzibar,ENTRY,6540523,10038794
+324fd374-4de3-4734-bd44-11386c493146,Arboriculturist,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Nursing|Patient Care|Curriculum Design|Lab Work,Tanga,MID,14673819,16405001
+639d9413-d2ca-42cd-8c54-a830af093273,"Buyer, industrial",03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Safety Compliance|Site Management|Special Needs|Public Health|Surveying|Event Planning,Kilimanjaro,ENTRY,10839939,14182135
+d4677a05-5c7e-4701-bc76-bc607617299f,Clinical molecular geneticist,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Route Planning|SQL|Accounting|Excel|Dispatch|Logistics,Dar es Salaam,ENTRY,13411951,15375652
+183889d6-caaf-4657-81e7-949bc9fb412d,"Teacher, special educational needs",d1bcf044-704c-40a5-9979-71e5bf13b6d7,Energy,Nursing|Special Needs|Energy Auditing|Renewables|Maintenance,Tanga,MID,4238142,7909993
+83587ede-bb19-4ef1-aeb0-209f20ddcf69,Chief Financial Officer,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Driving|Route Planning|Electrical Engineering|Fleet Management,Kilimanjaro,ENTRY,12306092,15028644
+05420055-f286-41d1-b03a-47b77082559f,Banker,fdcc0faa-81dd-49e5-a751-1add67b5037d,Tourism,Nursing|Travel Planning|Hotel Management|Electrical Engineering|Customer Service|Maintenance,Zanzibar,SENIOR,8854657,11158698
+6b668782-c40c-4660-a554-b875200d2770,"Engineer, manufacturing systems",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,eLearning|Curriculum Design|Special Needs|Counseling,Mbeya,MID,7543192,11857560
+345f81de-4447-4423-b6a1-b37c7ef19459,"Embryologist, clinical",c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Accounting|Financial Analysis|Route Planning|Auditing,Dar es Salaam,ENTRY,6400215,7400193
+8b05ff21-43af-4729-9b29-cc2f42ba27cc,Insurance account manager,845d194d-ef62-46ff-a371-b7e698043b63,ICT,Tax|Django|Python|Linux|Livestock,Moshi,MID,5665355,7104965
+0b98a950-32e3-4cf2-8085-4803d79f4a9d,Naval architect,d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Surveying|Site Management|AutoCAD,Dar es Salaam,ENTRY,10837018,13492418
+053c66a3-299b-4e6b-aed2-1916af7698f4,"Surveyor, building",0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Hotel Management|Electrical Engineering|Customer Service|Dispatch|Event Planning,Mbeya,MID,3821813,6443986
+7ce44c78-40aa-4d38-b31f-c6b5838f0ec8,Insurance account manager,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Nursing|Patient Care|Public Health,Mbeya,ENTRY,10562911,11274637
+cbdb1278-d092-4fbb-89a6-c69a191ad224,Soil scientist,a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Dispatch|Nursing|Patient Care|Clinical Research,Tanga,MID,12473714,14319160
+345bc502-e847-406c-955b-4203965544fc,Homeopath,5100c207-5cfc-47c4-9eee-5af3b00c3d84,Transport,Route Planning|Accounting|Surveying|Driving|Dispatch,Tanga,ENTRY,6101391,7502935
+0a90ed14-dbe7-486c-accf-9aba783b7d3a,"Teacher, special educational needs",b2ae4e0c-6b97-4854-97f7-2c9d9d131377,Healthcare,Clinical Research|Patient Care|Lab Work,Moshi,MID,6668742,10417962
+f7a4a535-f5b5-4807-a085-186cbd68715b,"Embryologist, clinical",278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Agribusiness|Livestock|Irrigation,Zanzibar,MID,10473542,14751944
+1417251d-6507-470e-916b-cc294944446d,Bookseller,ee3bc8a1-b665-4a98-8312-c01e6fd81286,Healthcare,eLearning|Clinical Research|Patient Care|Public Health,Kilimanjaro,MID,5083319,7811958
+6f9ef566-920b-49d2-afc9-6d82eb8f488b,Trade union research officer,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Safety Compliance|Site Management|Surveying,Moshi,ENTRY,5421060,8105289
+06cad604-8169-43fa-b7d2-3841a9338a64,Comptroller,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Travel Planning|Python|Electrical Engineering|Customer Service|Event Planning|Crop Science,Dodoma,MID,10080036,13559461
+c23c7643-72cb-420c-8c89-942f3f9f3121,Medical sales representative,d1bcf044-704c-40a5-9979-71e5bf13b6d7,Energy,Electrical Engineering|Renewables|Maintenance|Grid Management,Tanga,ENTRY,4013627,5579451
+4bc5caac-5b3f-4845-99f5-94f3b5265f25,Teaching laboratory technician,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Site Management|Special Needs|Surveying|Energy Auditing|Renewables|Maintenance,Mwanza,SENIOR,3798068,4672865
+d984249d-ae01-46f3-82b1-1fcdcef40c14,Oncologist,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Site Management|Special Needs|Lab Work|AutoCAD,Mwanza,ENTRY,14722240,15729124
+38fd56ec-afbc-4e71-9be2-ee8a45f5eec2,Charity fundraiser,b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Nursing|Patient Care|Lab Work,Kilimanjaro,ENTRY,10474518,14258377
+370ac1d1-4a73-4987-9421-53be2ce4ff80,Tax adviser,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Lab Work|Excel|Auditing|Financial Analysis|Crop Science,Morogoro,SENIOR,9669806,10588597
+5cc8dcc7-0585-43e1-ae9a-3d347cf473be,Equities trader,32e13d3e-a0fe-443e-b738-6d5cbc6e2bf1,ICT,Electrical Engineering|React|Linux|Django|Crop Science,Dar es Salaam,MID,10779452,13485640
+11717c8e-f893-4e8c-8193-7e03e3a99877,Administrator,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Curriculum Design|Special Needs|Counseling,Kilimanjaro,ENTRY,11905789,16308084
+d5de329b-3ce1-4be4-a1f1-4e022fd6bf2a,Company secretary,20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Tax|Tour Guiding|Excel|Renewables|Auditing|Civil Engineering,Mbeya,ENTRY,13927237,17930428
+74695947-7f95-41ef-a552-f52ba84ef0e8,Occupational therapist,577282c8-e038-4d16-98ee-72983a3b9398,Transport,Driving|Route Planning|Fleet Management,Mbeya,ENTRY,11670475,15956408
+7b822b0a-689e-4486-88b4-e19c3607fb79,Ergonomist,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Grid Management|Flutter|Energy Auditing|Maintenance,Mwanza,MID,13230405,16202762
+424da957-8fca-47b0-9e0e-9f7196c26d09,Radiation protection practitioner,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Patient Care|Special Needs|Public Health|Clinical Research|Event Planning,Mbeya,ENTRY,6886654,8323771
+e09546a3-86b5-4931-be98-483bf877bfb5,"Engineer, petroleum",ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Patient Care|Irrigation|eLearning|Soil Science|Agribusiness,Kilimanjaro,ENTRY,5664873,7457574
+77e6b7be-bc9a-411d-bb81-9eb92a9e8925,Agricultural consultant,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Clinical Research|Nursing|Patient Care,Dodoma,ENTRY,8645860,9976769
+2d698b07-f981-4a07-afbb-04ea6a02ac87,"Conservation officer, nature",789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Clinical Research|Patient Care|Public Health,Kilimanjaro,MID,9247535,9968853
+7756d397-3080-4691-8445-af6afe8a3ed2,Industrial buyer,0fb01de0-a6ce-4ba3-9231-5c1f9e091875,Energy,Renewables|Travel Planning|Energy Auditing|Grid Management,Moshi,ENTRY,6803794,7878477
+4b372bf1-7025-4fb7-8f2e-a0cd18f4f297,International aid/development worker,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Electrical Engineering|Energy Auditing|Maintenance,Mwanza,ENTRY,10218649,12467276
+23f81328-4222-4787-a274-bb9fbb176cfe,"Nurse, learning disability",615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Irrigation|Soil Science|Agribusiness|Cloud|Logistics,Kilimanjaro,MID,10188609,12923143
+be02aa71-4a0f-4454-9e8d-2e6510e59e13,Press photographer,91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Dispatch|Curriculum Design|Counseling|Teaching,Mbeya,MID,4610469,7209787
+4b1b63ec-c431-483b-b5aa-c0b1aa17aa7d,Information officer,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Civil Engineering|AutoCAD|Livestock,Morogoro,MID,9065211,13474857
+e8d30e4e-7e62-4c4a-84f1-6bf44779a030,Paediatric nurse,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Public Health|Lab Work|Excel|Patient Care,Kilimanjaro,MID,8123028,11894516
+cc961965-6242-479f-93bd-de08fcf2cda5,Holiday representative,4555d314-a979-4209-9f1e-fe1115327374,Energy,Renewables|Energy Auditing|Grid Management,Mwanza,ENTRY,14958256,16612026
+1321ed4f-3ad7-4418-a7dc-21080ad059b6,"Therapist, occupational",a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Public Health|Lab Work|Surveying|Clinical Research|Civil Engineering,Tanga,MID,14054651,17323563
+fe6ceaab-f342-4976-b358-727e552cdc9d,Chiropodist,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Site Management|Python|Surveying|Renewables|Livestock,Dodoma,ENTRY,4027904,6528256
+db341c9f-0e67-4a05-8eef-7a2ec89fd83d,Television/film/video producer,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Special Needs|Auditing|Excel,Tanga,ENTRY,14099548,15084375
+fee1e4ab-5160-4720-b08b-fc3dba86475f,Seismic interpreter,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Nursing|Lab Work|Clinical Research|Curriculum Design|Grid Management,Kilimanjaro,MID,11799378,15161956
+0d6fe72b-e202-4dfb-a99b-bc737ff19924,IT sales professional,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Event Planning|Tour Guiding|Hotel Management,Moshi,ENTRY,13873759,16706775
+6d7215a6-1102-4062-a778-94b94607c9ae,Illustrator,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Cloud|Flutter|React,Mbeya,SENIOR,12924101,14126087
+a082403e-d591-44f0-a442-527781865d05,Research scientist (maths),1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Grid Management|Electrical Engineering|Maintenance,Mwanza,ENTRY,7462532,8039139
+b95285e7-6749-4238-bb09-ff1e0fc11985,Oceanographer,f4925905-a04b-44a5-858c-921074310b89,Agriculture,Safety Compliance|Patient Care|Site Management|Soil Science|Agribusiness|Livestock,Arusha,ENTRY,14595903,18728539
+b6fbc8a3-c3fe-437b-af05-32cb528aea4a,General practice doctor,b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Patient Care|Public Health|Lab Work|Customer Service|Excel,Kilimanjaro,SENIOR,11777647,12863550
+2ca28686-c26c-4ffd-8c92-d856b62c97cd,"Scientist, clinical (histocompatibility and immunogenetics)",32e13d3e-a0fe-443e-b738-6d5cbc6e2bf1,ICT,Driving|SQL|React|Python,Dar es Salaam,MID,10420772,12773288
+4e508b4c-6b0b-4924-b30a-f1efd1a49465,Charity officer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Site Management|Hotel Management|Renewables|Maintenance|Grid Management,Morogoro,SENIOR,9621984,10555906
+6a7f8e57-5822-43cd-a169-63556fb62330,"Programmer, applications",a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Patient Care|Public Health|React|Clinical Research|Auditing|Curriculum Design,Arusha,MID,12944071,17378671
+9259a170-fc99-4a83-b76c-412d2d8f3c8e,Trading standards officer,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,eLearning|Curriculum Design|Financial Analysis|Teaching,Dodoma,ENTRY,9778946,11632946
+3fb1a57a-21b1-4cd4-8353-291c8767df32,Research scientist (maths),9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Tax|Soil Science|Excel|Clinical Research|Financial Analysis|Android,Morogoro,MID,11856900,14724742
+8db3edbf-a172-45d8-9318-6ce88a7ab3f6,Audiological scientist,d1bcf044-704c-40a5-9979-71e5bf13b6d7,Energy,Special Needs|Electrical Engineering|Energy Auditing|Renewables|Maintenance|Crop Science,Tanga,ENTRY,10007322,13488128
+e5ddfcbe-4778-4bb0-94d2-537779ff1f15,"Psychologist, educational",4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Surveying|Excel|Linux|AutoCAD,Dodoma,ENTRY,7091151,7924885
+4c4dba09-8415-483c-9cdf-b96f85765751,Biomedical engineer,9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Customer Service|Driving|Financial Analysis|Logistics|Fleet Management|Android,Moshi,MID,14251861,16548557
+054fd79b-0535-434d-b26c-0d766263a0ab,Chemical engineer,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Python|Financial Analysis|Linux|Fleet Management|Android,Zanzibar,SENIOR,3460832,4970363
+a685839e-0962-44db-ba00-bf827a98889a,Chief of Staff,f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,Safety Compliance|Special Needs|eLearning|Teaching|Curriculum Design,Morogoro,MID,8582338,12718872
+46eb0f88-0fbc-4dca-a487-5d1581f25941,Site engineer,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Nursing|Travel Planning|Tour Guiding|Hotel Management|Electrical Engineering,Mwanza,MID,7012125,11441174
+119487e8-f958-47b6-b443-c6ed9eb1c9a8,Insurance claims handler,c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Financial Analysis|Auditing|Excel,Dar es Salaam,ENTRY,8908490,12112851
+326aa771-dc16-4968-ae5e-8b75cc50d0eb,Air traffic controller,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Special Needs|Electrical Engineering|Energy Auditing|Logistics|Grid Management,Mwanza,MID,8512194,9724752
+f1b7aaf2-fed5-4454-945d-fae4d5c10521,Higher education lecturer,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Route Planning|Accounting|Energy Auditing|Excel|Auditing,Morogoro,ENTRY,10280665,13479599
+9551048f-2ea5-46f9-91c2-2d574cc1cd4c,IT sales professional,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Linux|Renewables|Energy Auditing|Grid Management,Mbeya,ENTRY,8609313,9197358
+01052b24-0dd6-4ff8-bbb2-720ef7027bd2,"Horticulturist, amenity",619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Irrigation|Electrical Engineering|Renewables|Teaching|Grid Management,Arusha,MID,13567903,15245125
+e6897176-6a51-4ef6-8c6d-e5b5eea86169,Regulatory affairs officer,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,Nursing|Special Needs|eLearning|SQL|Curriculum Design,Arusha,SENIOR,7097994,10981949
+1bda3fa5-403f-46e8-93eb-e0b9f3a7f52d,Architect,fc7b5617-f245-4fdb-964b-40cbd3fe9630,Finance,Tax|Financial Analysis|Electrical Engineering|Excel,Mbeya,MID,13208875,17433402
+48ab7354-8b20-4333-9050-e5b50ae143f6,"Presenter, broadcasting",dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Irrigation|Hotel Management|Tour Guiding|Customer Service|Financial Analysis|Event Planning,Mwanza,SENIOR,5166822,9853364
+da437c0b-bd6c-478e-b68a-4ac357824179,Medical technical officer,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Renewables|Maintenance|Grid Management,Mbeya,SENIOR,8938400,10799763
+004c20cc-dd42-4315-baa5-2c55943b63c4,Media planner,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Patient Care|Public Health|Soil Science|Clinical Research|Renewables|Event Planning,Dodoma,MID,11511007,12952844
+d795dff2-dfb0-47e8-acb0-5441f8f70318,Technical brewer,a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Public Health|Lab Work|Surveying|Clinical Research|Agribusiness,Tanga,ENTRY,13651336,14639358
+80468191-616a-45ea-8c5f-edd179da7682,Best boy,df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Dispatch|Logistics|Fleet Management,Kilimanjaro,MID,5143172,6084516
+2c9b6790-05c1-4fcd-ae92-0c7d3864f96e,"Geologist, engineering",e18f92a0-b462-4ebc-828e-2b60d1443937,Finance,Safety Compliance|Route Planning|Accounting|Excel|Auditing|Linux,Mwanza,ENTRY,6599256,9153783
+ff206fef-7c25-402b-82a6-f95f090dc016,Physiological scientist,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Accounting|Event Planning|Financial Analysis,Tanga,ENTRY,8403685,11439890
+28b931fd-817a-4a78-9f08-332b709505ba,Plant breeder/geneticist,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Hotel Management|eLearning|Soil Science|Agribusiness|Cloud|Crop Science,Arusha,MID,13182669,13729321
+d5b355e5-6181-432e-b822-40c3d0f06c7a,"Surveyor, quantity",d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Dispatch|Route Planning|Driving|React,Mwanza,ENTRY,5097056,9326036
+1cef7989-e9ea-4c40-809a-798dbbc260a3,Counselling psychologist,619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Renewables|Maintenance|Grid Management,Arusha,MID,12810745,15828626
+89d9b971-cd4c-4b1a-b2d1-010c2ebe6504,"Engineer, broadcasting (operations)",5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,eLearning|Curriculum Design|Special Needs,Tanga,ENTRY,6458339,9753964
+3c99c5b4-f0d1-43d0-9768-6a83eae1e7df,Occupational hygienist,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,eLearning|Counseling|Teaching,Dodoma,MID,6500977,8755667
+b533db60-df7f-4708-91b9-2bb9dde17f09,Retail buyer,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Nursing|Public Health|Accounting|Clinical Research|Curriculum Design|AutoCAD,Kilimanjaro,ENTRY,12441047,15041521
+da1d18b5-8263-4100-8894-8e8b78652fb1,Higher education careers adviser,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Nursing|Accounting|Lab Work|Android|Clinical Research|Crop Science,Kilimanjaro,ENTRY,8383072,12894345
+340a4b19-eb47-4090-9a21-6e19dbd486b0,Make,f30784ec-1a97-4abc-8441-5dc63bcb1f7b,Transport,Patient Care|Driving|Clinical Research|Logistics|Fleet Management,Morogoro,MID,4842457,8343500
+8de470a9-910c-4c46-9295-e9b1c1f516f5,Dietitian,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Linux|Cloud|Maintenance|Python,Zanzibar,MID,11839999,16532538
+d807393e-90c6-4951-9cad-99bd0b880d8a,Art therapist,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Dispatch|Route Planning|Lab Work|Driving,Kilimanjaro,ENTRY,5039851,6573550
+0d91ce1f-3b9f-4d19-94c6-6696ce0d2b8e,Office manager,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Electrical Engineering|Renewables|Maintenance|Livestock|Grid Management,Mbeya,MID,9125134,13288565
+1f7c16a0-7d03-478f-a84d-776bb68cb034,Civil Service fast streamer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Site Management|Renewables|Maintenance|Curriculum Design|Grid Management,Morogoro,ENTRY,10389890,12938149
+025d435b-7895-4151-a1f9-37b601bef9c0,Interior and spatial designer,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Nursing|Patient Care|Lab Work,Zanzibar,MID,10914366,12069092
+22d06d55-6044-448e-a60d-edfb8e05df33,Prison officer,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Travel Planning|Public Health|Hotel Management|Accounting|Event Planning,Dodoma,ENTRY,13515989,18238895
+e6b219c1-de2d-4378-8a1f-31f83e1d1910,"Pharmacist, community",662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Nursing|Patient Care|Clinical Research|Curriculum Design,Dar es Salaam,ENTRY,9052442,11428309
+ddc464fe-bffb-40f2-a05c-e1235282ef22,Learning mentor,56f04e2f-8346-486f-b150-65117682d795,Education,Patient Care|eLearning|Electrical Engineering|Teaching|Curriculum Design|Civil Engineering,Dodoma,ENTRY,9799758,11859414
+a8bb2dba-eb6d-48a8-8f14-312d4fd9c6ca,"Engineer, broadcasting (operations)",79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Patient Care|Nursing|Clinical Research|Agribusiness|Auditing,Dodoma,ENTRY,4203552,5871555
+90bb7449-be57-4717-ad0f-126b4bebe79d,Environmental education officer,0fb01de0-a6ce-4ba3-9231-5c1f9e091875,Energy,Electrical Engineering|Excel|Renewables|Maintenance|Django,Moshi,ENTRY,3459634,7343473
+1ed5260e-bd9f-42b9-8eb1-5f836573ceae,Advice worker,619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Electrical Engineering|Energy Auditing|Excel|Renewables|Cloud,Arusha,ENTRY,5227465,9189579
+0bd8197e-4d88-485e-808c-f40f59429c44,Ergonomist,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,eLearning|Counseling|Teaching,Dodoma,ENTRY,8984369,12929204
+967f8aed-efbb-404f-83ed-78ef7e8fd7b0,Probation officer,4555d314-a979-4209-9f1e-fe1115327374,Energy,Electrical Engineering|Renewables|Energy Auditing,Mwanza,ENTRY,8476251,12700745
+e9a24d07-85d2-4ea3-b18e-a9747cedc131,Retail manager,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Site Management|AutoCAD|Travel Planning,Morogoro,ENTRY,10922420,14498460
+53112cf1-7ec1-455d-82ee-9d9bc4368a26,"Merchandiser, retail",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Curriculum Design|Special Needs|Teaching,Mbeya,MID,5803223,7378233
+51602235-d0c9-4486-b7af-ff1c19c7e905,"Teacher, music",dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Event Planning|Customer Service|Tour Guiding,Mwanza,ENTRY,3892790,7465106
+67711603-ed2e-4b03-9c1e-7c3418acdcae,"Merchandiser, retail",cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Site Management|Civil Engineering|AutoCAD,Mwanza,MID,13476980,17058675
+de7c7c41-b1cf-470e-8069-0e3a8cae2a90,Financial planner,d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,eLearning|Special Needs|Teaching,Morogoro,MID,6294757,9881457
+d5ec8926-ba3a-4957-8179-2db7878a0e68,Actor,e6f2cfa0-6d9b-438c-b3f1-ab4e43752400,Healthcare,Clinical Research|Lab Work|Nursing,Mbeya,SENIOR,11609369,14070291
+bec29f9a-5138-4fc6-8a21-f89d081c88f8,"Psychologist, prison and probation services",b7333df4-453b-43e7-994a-4bb4d0475cf4,Construction,Curriculum Design|Site Management|Surveying|Civil Engineering,Mbeya,MID,14360429,17223925
+3ef7652e-b4b6-449f-b69a-cf9602bb1bc1,"Radiographer, diagnostic",3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,Safety Compliance|Special Needs|eLearning|Excel|Teaching,Dar es Salaam,MID,11183644,16012077
+a50548f7-c141-4fc1-9ef2-e5dcada8e03e,Fast food restaurant manager,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Networking|Nursing|Public Health|Clinical Research|AutoCAD|Grid Management,Kilimanjaro,SENIOR,14977434,18367369
+9b933294-5a5b-4481-b54d-dbac67879461,Artist,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Safety Compliance|Electrical Engineering|Lab Work|Surveying|Maintenance|Grid Management,Mbeya,ENTRY,11139381,14996119
+b2d116f5-a7c5-4074-b6d9-76862f9057ba,Social worker,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Safety Compliance|Special Needs|Site Management|Public Health|eLearning|Counseling,Tanga,ENTRY,6103878,10327728
+35f6e9c0-423a-4d51-b349-dbe9db593b06,Lexicographer,20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Tax|Accounting|Financial Analysis,Mbeya,MID,9029385,11150737
+5c1bb253-70db-4b55-917b-d80f8fbab0f8,Adult guidance worker,b2ae4e0c-6b97-4854-97f7-2c9d9d131377,Healthcare,Nursing|Patient Care|SQL|Lab Work|Dispatch,Moshi,MID,11477175,16122764
+435705b4-fc65-492e-ab51-ac8665ffc135,"Designer, exhibition/display",42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Tax|Financial Analysis|Grid Management|Excel,Zanzibar,SENIOR,10995204,14571865
+f43243a1-20a1-4343-996e-4c89ed61a582,Copy,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Clinical Research|Nursing|Customer Service|Public Health,Dar es Salaam,MID,5490992,10032525
+d7732a72-56b1-4a52-a618-be390daba07e,"Conservation officer, historic buildings",8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Tax|Excel|Maintenance|Financial Analysis|AutoCAD,Morogoro,MID,4677755,9255715
+d15e9577-9f03-4cd6-9f8c-1e23831c814f,"Scientist, audiological",14c54684-7972-41c0-843a-d875ff497672,Construction,Civil Engineering|Surveying|AutoCAD,Arusha,ENTRY,4852705,7655111
+55ed7a3f-920b-470c-b954-6441fb1b254a,Production engineer,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Tour Guiding|Customer Service|Event Planning,Mwanza,MID,5239039,7041033
+2adc6ccb-f5c8-488b-9b31-8589f05f2cb2,"Scientist, biomedical",577282c8-e038-4d16-98ee-72983a3b9398,Transport,Dispatch|Route Planning|Linux|Fleet Management,Mbeya,ENTRY,10015238,12999531
+e774d0c5-f460-41d4-a2dd-8e1521b89629,"Restaurant manager, fast food",f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,eLearning|Counseling|Dispatch|Teaching,Morogoro,ENTRY,13537897,15055451
+539ab444-68a0-4054-9046-64a4a8231473,Field trials officer,7498e94f-7bc2-4de1-b02d-3aafa17b693f,Healthcare,Safety Compliance|Route Planning|Nursing|Patient Care|Lab Work|Curriculum Design,Mbeya,SENIOR,13027471,16302298
+4d32a63f-5849-4002-97f3-91decd46b5a2,Newspaper journalist,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Tour Guiding|Accounting|Driving|Logistics|Fleet Management,Dar es Salaam,SENIOR,11546642,12702885
+e2d4a907-a89a-409d-8cae-b67b97d995c1,"Sales professional, IT",d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,Travel Planning|Public Health|Energy Auditing|Counseling|Teaching|Curriculum Design,Morogoro,MID,5260459,8934015
+8a8bf7e9-b8a0-42f0-bd99-95ee090015d7,Research scientist (maths),91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Special Needs|SQL|Counseling|Curriculum Design|Civil Engineering|Android,Mbeya,ENTRY,14510202,15744756
+1d789e3b-15c9-4f0e-8ad9-b9cef9f6cfad,Seismic interpreter,7c045c66-0459-46d2-a457-126735208b20,Agriculture,Agribusiness|Livestock|Soil Science,Arusha,ENTRY,13830090,18728141
+5c100962-d81e-454d-9057-5d85d539eca1,Mechanical engineer,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Patient Care|Nursing|Customer Service|Clinical Research|Counseling|Django,Tanga,MID,4160848,8224869
+a6aafe57-f47c-4c1c-b1e9-964a83823588,Banker,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Safety Compliance|Nursing|Special Needs|Lab Work|Clinical Research,Dodoma,MID,7314840,11824458
+34cd6901-8ea6-4a0c-b1ec-36c727fb0b3c,Community development worker,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Tax|Networking|Excel|Renewables|Financial Analysis|Django,Morogoro,MID,11717115,12756408
+7c2e3ffa-a3f6-4501-abe9-9db5b7f2b2af,Homeopath,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Site Management|Civil Engineering|Surveying|Energy Auditing,Dodoma,SENIOR,9568227,10332586
+d246956b-da43-4cfa-9012-ea66efa332d3,Comptroller,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Irrigation|Nursing|Lab Work|Public Health,Kilimanjaro,ENTRY,12672137,16700866
+d50b320c-5b53-4905-b5e7-b4d73b262450,Adult nurse,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Nursing|Patient Care|Python|Public Health|Clinical Research|Curriculum Design,Zanzibar,ENTRY,6052068,10260764
+ac249c91-04c7-444e-b065-b236a7fb5105,Information officer,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Irrigation|Public Health|Soil Science|Crop Science|Android,Zanzibar,SENIOR,3008774,3654318
+70993cb3-a096-459c-a6e9-4121423366b3,Accounting technician,3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Driving|Cloud|Fleet Management|Dispatch,Mwanza,SENIOR,3628004,4424289
+5ad07bfb-cbd6-4c5e-9534-31ebab9b55e9,Broadcast journalist,92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Agribusiness|Irrigation|Crop Science,Dodoma,MID,10501038,11732426
+29cfd90f-452b-4cd6-993f-78a572ba227f,Ophthalmologist,5100c207-5cfc-47c4-9eee-5af3b00c3d84,Transport,Driving|Logistics|Special Needs|Fleet Management,Tanga,ENTRY,7822133,8931345
+3558ba9d-6e56-4297-a90d-fdf33a4ace16,"Conservator, museum/gallery",615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Agribusiness|Livestock|Crop Science,Kilimanjaro,ENTRY,10851847,15096967
+e13dfda8-b37c-4f38-9a93-69e5c36892a7,Video editor,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Accounting|Travel Planning|Financial Analysis|Excel,Morogoro,MID,14437594,18444662
+1acf738e-ade3-4e79-9a57-e8667da18ecd,Social worker,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Route Planning|Public Health|Lab Work|Clinical Research|Counseling,Tanga,ENTRY,6984885,10682271
+2147be76-88b9-46a8-a27f-156b30fed6f7,Drilling engineer,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Networking|Python|Surveying|Soil Science|AutoCAD|Django,Zanzibar,ENTRY,13345689,16183031
+52119242-8ee7-455c-b01a-d216b327c222,English as a foreign language teacher,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Dispatch|Counseling|Teaching|Crop Science,Tanga,ENTRY,3001308,5388705
+d696750b-ddca-4368-8904-99754e878fff,Sales executive,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Patient Care|Accounting|Excel|Auditing|Cloud,Dodoma,ENTRY,12279007,15581311
+41f346cd-2d22-4fe9-92c7-cc063bb3c5fb,"Administrator, sports",810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Safety Compliance|Tax|Travel Planning|SQL|Customer Service|Event Planning,Mwanza,MID,10879398,14185470
+b4237ecb-d770-45d7-874a-97ac5ea52432,"Accountant, chartered management",df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Route Planning|Surveying|Agribusiness|Logistics|Fleet Management,Kilimanjaro,MID,10648095,14389945
+3f62bc07-a6c1-4597-9ce4-b22e9b91b366,Police officer,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|React|Excel|Dispatch|Auditing|Curriculum Design,Tanga,SENIOR,11728307,14611818
+c7ff2701-91e7-4ef7-bb7d-00d83018c37a,Paramedic,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Special Needs|Lab Work|Surveying|Event Planning|AutoCAD,Mwanza,MID,14524276,16067232
+440e8084-d889-40c7-a371-04c9d62ca94d,Higher education careers adviser,68fe134e-ee95-4d6c-af6c-b5f56e22392c,ICT,Python|Accounting|Flutter|Counseling|Event Planning|Android,Dar es Salaam,ENTRY,7530786,12260885
+a266332c-a1e3-4f58-9eae-025e7a12b459,Hydrologist,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,Special Needs|Counseling|Teaching,Arusha,ENTRY,13827235,16726637
+52444fca-fe6d-43ea-9f61-b4a539ef087f,Politician's assistant,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Curriculum Design|Special Needs|Counseling,Tanga,ENTRY,11600792,15042697
+f211d569-0ad8-48fc-ab57-56232267fa9f,"Designer, graphic",ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Grid Management|Energy Auditing|Maintenance,Mbeya,MID,3528506,8514568
+4dcc690e-402e-4010-869a-be734bcfab63,Clinical embryologist,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Networking|Route Planning|Nursing|Patient Care|Lab Work,Tanga,MID,6122376,7916777
+9c86ef6a-324e-4dab-b401-46d53f6606dd,Outdoor activities/education manager,4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Nursing|Python|Public Health|Lab Work|Cloud,Tanga,MID,5149374,8918216
+29bbebe8-e2e3-415d-998f-363d84d420c8,Sports development officer,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Clinical Research|Lab Work|Patient Care,Mbeya,ENTRY,6221568,9916840
+f1ea8931-9bd8-4334-bad3-9939f99322fe,"Conservation officer, nature",b2ae4e0c-6b97-4854-97f7-2c9d9d131377,Healthcare,Nursing|Travel Planning|Lab Work|Surveying|Clinical Research,Moshi,SENIOR,14899685,15515355
+bdfa0056-a113-41ec-8ba6-3cddfadafcf8,Publishing copy,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Renewables|Energy Auditing|Agribusiness|Maintenance,Mwanza,MID,3931835,7504602
+08d49adf-5f15-4124-9757-b372fc34026e,Civil Service fast streamer,70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Site Management|Public Health|Hotel Management|Excel|Civil Engineering|AutoCAD,Morogoro,SENIOR,3902094,6260769
+f7345302-b814-41cb-85cd-ce39f0570041,Warehouse manager,615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Nursing|Soil Science|Livestock|Crop Science,Kilimanjaro,MID,12472313,16867121
+e3f3fdff-87f6-4dbf-9f47-cfc07530db53,Landscape architect,f4925905-a04b-44a5-858c-921074310b89,Agriculture,Agribusiness|Irrigation|Crop Science,Arusha,MID,5422209,6199625
+1f009513-ce01-446b-9cf8-b5f97f22cb83,Training and development officer,92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Networking|Soil Science|React|Agribusiness|Crop Science,Dodoma,ENTRY,13475221,17790037
+156dbc98-8dd7-4bea-bd31-e95b7392acfb,Museum/gallery conservator,7c045c66-0459-46d2-a457-126735208b20,Agriculture,Agribusiness|Irrigation|Crop Science,Arusha,ENTRY,12936225,15309804
+c15ce778-acfc-4666-94d2-97d1fbe69d87,"Teacher, special educational needs",619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Linux|Renewables|Energy Auditing|Grid Management,Arusha,ENTRY,13513710,17222979
+6af73046-0c08-4f71-9c1f-b0862a8979ee,"Teacher, primary school",5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Cloud|Django|Python,Arusha,ENTRY,14346062,16658521
+164bf40c-48c4-4782-a783-7add4c86ecc3,Museum education officer,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Safety Compliance|Accounting|Soil Science|Agribusiness|Crop Science,Kilimanjaro,MID,8235703,10168141
+3f7d947e-5c4c-4a03-9775-52a18caa4151,Microbiologist,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Patient Care|Irrigation|SQL|Soil Science|Livestock,Zanzibar,ENTRY,5295399,10028056
+75625211-eea9-486d-93f7-bf6376d2a036,"Exhibitions officer, museum/gallery",5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Electrical Engineering|Energy Auditing|Maintenance,Morogoro,ENTRY,13418808,15896740
+ec13184d-86dd-401c-9343-fa0c57094b41,Patent attorney,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Tax|Route Planning|Energy Auditing|Renewables|Maintenance|Linux,Morogoro,ENTRY,12237604,14669943
+2cebbb42-cb4d-4655-8d98-4d283d7a004a,"Sales professional, IT",785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Tax|Accounting|Renewables|Maintenance|Django|Grid Management,Morogoro,MID,11487820,12158924
+89367096-b2b7-42bc-9c53-a6cebfb69d8c,Associate Professor,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Nursing|Lab Work|Surveying|Clinical Research|Renewables|Teaching,Arusha,ENTRY,13382133,15960991
+fe1f1571-e092-433a-86d5-9341a68fc7fd,Brewing technologist,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Fleet Management|Excel|Driving|Dispatch|Auditing|Grid Management,Dar es Salaam,ENTRY,4936128,8376953
+c8b2dc0e-ed63-4a99-8591-3e27467464f2,Clinical embryologist,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Safety Compliance|Patient Care|Nursing|Energy Auditing|Clinical Research,Mbeya,ENTRY,5862877,7836306
+f4652a89-e0c6-489a-a90f-ec98ef9ddfda,Adult nurse,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,SQL|Django|Android,Arusha,SENIOR,3323111,4702379
+9cb88460-8b87-4718-9132-2db0d043d624,Computer games developer,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,Special Needs|Counseling|Curriculum Design|Cloud|Crop Science,Arusha,SENIOR,8566268,11791309
+2bc74936-c273-494b-878e-2689ecb90d67,"Therapist, speech and language",4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Public Health|Lab Work|Flutter|Clinical Research|Crop Science,Tanga,ENTRY,5156884,9604739
+266a32bf-fe66-45de-a42b-cf873e59f4f5,Metallurgist,4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Patient Care|Nursing|Public Health|Lab Work|Customer Service|Logistics,Tanga,MID,4848697,6439395
+e8859658-3e67-479a-83b9-d11d6847abdb,"Psychologist, sport and exercise",7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Site Management|Travel Planning|Tour Guiding|Hotel Management|Grid Management,Dar es Salaam,SENIOR,8117580,12902441
+84521b34-257d-44f3-bce4-a737345a1cc4,"Production assistant, television",615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Livestock|Soil Science|Irrigation,Kilimanjaro,MID,6690785,9648403
+7ffed45a-9096-4a83-a038-ec74ba5a8ab5,Retail merchandiser,7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Site Management|Travel Planning|Tour Guiding|Hotel Management|Civil Engineering,Dar es Salaam,ENTRY,7654340,11527002
+fa6b07bd-5b04-4039-9e8d-a84993328ee2,"Engineer, manufacturing systems",0fb01de0-a6ce-4ba3-9231-5c1f9e091875,Energy,Public Health|SQL|Energy Auditing|Maintenance|Financial Analysis|Grid Management,Moshi,ENTRY,14038570,14648250
+2f6d44cf-8088-4fe8-9e65-c828c62bb710,Surgeon,c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Safety Compliance|Accounting|Auditing|Excel,Dar es Salaam,MID,12929047,15074830
+578e539d-78b9-439b-b94d-fe085781330a,"Engineer, maintenance (IT)",935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Driving|Electrical Engineering|Fleet Management|Dispatch,Arusha,MID,14091990,18275836
+a4f43233-495e-4205-9120-11cf63660793,Patent examiner,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,eLearning|Curriculum Design|Counseling,Dodoma,ENTRY,11981122,12895925
+52d03a32-f50a-4c11-b546-e4e2c7ef1279,Animator,845d194d-ef62-46ff-a371-b7e698043b63,ICT,Route Planning|Patient Care|Flutter|Linux|Cloud|Android,Moshi,MID,8753494,11484571
+54780fd3-9319-404b-a2f1-60d66f522074,"Teacher, secondary school",92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Soil Science|Surveying|Agribusiness|Irrigation,Dodoma,MID,12892259,15257882
+5acd8ca8-84c4-4038-b8f9-88490a99f7d8,Aeronautical engineer,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Customer Service|Tour Guiding|Hotel Management,Moshi,SENIOR,10825931,15695135
+e362829b-f052-47b3-86f4-fffbd6eed925,Solicitor,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Surveying|Civil Engineering|AutoCAD,Mwanza,ENTRY,10243199,11519575
+ed134a25-c88d-43a5-a2d2-e9f800a3e91c,Quality manager,f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,Hotel Management|SQL|Counseling|Teaching|Curriculum Design|Linux,Morogoro,SENIOR,14625949,16248259
+ffc6310e-4b0f-4457-b9f9-41884ec913d2,"Engineer, agricultural",70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Public Health|Surveying|Excel|Financial Analysis|Civil Engineering|AutoCAD,Morogoro,ENTRY,13124419,16837206
+ad7e3120-c330-4c7f-a2c3-d379907fdfde,Air traffic controller,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Livestock|Travel Planning|Customer Service|Tour Guiding,Mwanza,SENIOR,3622478,5954128
+07e385ba-435e-4415-8170-cc2d8da62ae3,Management consultant,c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Patient Care|Lab Work|Dispatch|Clinical Research|Cloud|Fleet Management,Mbeya,MID,12338804,15436222
+331f68c2-47c1-411b-9d60-3ebd711f6945,"Investment banker, corporate",3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Dispatch|Driving|Fleet Management,Mwanza,SENIOR,10920573,15343440
+5d041950-3b7d-445e-9a9e-6353083ca6ff,"Programmer, multimedia",935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Dispatch|Route Planning|Lab Work|Driving,Arusha,MID,9474462,12128221
+b9ae2f53-e274-41cd-979d-5549b113d136,"Civil engineer, contracting",5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,eLearning|Curriculum Design|Accounting|Teaching,Arusha,ENTRY,12931637,17513523
+e9abea64-6b91-41fe-9536-2424769361a2,Quality manager,70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Surveying|Site Management|AutoCAD,Morogoro,MID,4159141,7588961
+b0031fa5-cf56-417f-96ae-3acedf2d9810,Higher education careers adviser,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Special Needs|Agribusiness|Counseling|Teaching|Grid Management,Tanga,MID,7264005,12152102
+e0ed3832-be85-46c2-9e01-fa40a4fc6e66,Operations geologist,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Travel Planning|Hotel Management|eLearning|Flutter|Customer Service,Mwanza,MID,8201548,11253254
+ceded897-e947-4848-92c1-9c58deace500,Financial controller,e6f2cfa0-6d9b-438c-b3f1-ab4e43752400,Healthcare,Public Health|Lab Work|Clinical Research|Auditing|Logistics|Event Planning,Mbeya,MID,9473045,11617516
+299afdd1-21da-44a5-8cf1-65d83d163aa6,"Engineer, land",a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Clinical Research|Lab Work|Teaching|Patient Care,Tanga,SENIOR,5799374,8781488
+0acdb4f3-2b4c-47aa-9139-16966ce6690f,Financial planner,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Networking|Special Needs|Travel Planning|Accounting|Counseling|Teaching,Morogoro,ENTRY,4861327,6275048
+404d19cb-ccec-4e9f-aed5-c52891b00899,Retail merchandiser,d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,eLearning|Soil Science|Driving|Counseling|Curriculum Design,Morogoro,MID,3122482,4480621
+3fd7eb5c-9b42-47cf-bd5a-d8c951283063,Company secretary,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Site Management|Surveying|Auditing,Morogoro,MID,10529539,13342032
+ffc7a2dc-8ea7-4979-8b02-70c76884cc26,"Nurse, children's",2ec248ab-3682-4af5-9751-94386caacad2,Energy,Electrical Engineering|Energy Auditing|Grid Management|Crop Science,Moshi,ENTRY,7637872,9929268
+4ab86354-f4e1-4ed7-83d4-d477f304ed3c,Ecologist,fdcc0faa-81dd-49e5-a751-1add67b5037d,Tourism,Travel Planning|Tour Guiding|Excel|Linux|Event Planning,Zanzibar,MID,12997495,16490988
+555f3bf3-05b9-48f0-8cbe-82c300361e10,Writer,e848bb32-c11b-4cac-9f35-135e418a509d,Construction,Safety Compliance|Civil Engineering|AutoCAD|Android,Arusha,SENIOR,4869938,9588135
+edb9ed64-815a-45eb-b642-9c141cfedf0f,Regulatory affairs officer,b7333df4-453b-43e7-994a-4bb4d0475cf4,Construction,Safety Compliance|Site Management|Civil Engineering|AutoCAD,Mbeya,ENTRY,9904881,14280550
+29d3e775-db0f-458e-aa24-ddb6745641cd,Economist,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Tax|Public Health|Electrical Engineering|Energy Auditing|Django|Grid Management,Mwanza,ENTRY,8071610,11314838
+fe305cbb-601c-46e6-a40f-9c6fa67b88a9,Exhibition designer,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Patient Care|Irrigation|Agribusiness|AutoCAD|Crop Science,Kilimanjaro,ENTRY,8116062,9504045
+64b3152b-3fad-4fd5-bdd2-0e39bd99ce49,"Radiographer, diagnostic",70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Safety Compliance|Site Management|Surveying|Customer Service|Maintenance|Teaching,Morogoro,SENIOR,3926096,6892023
+3366627a-c662-4d41-9682-5edf34f508fc,IT sales professional,7c045c66-0459-46d2-a457-126735208b20,Agriculture,Irrigation|Public Health|Soil Science|Agribusiness|Teaching|Crop Science,Arusha,ENTRY,7735210,9242135
+9de927a2-b756-4562-8fb5-7c779c356740,Cytogeneticist,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Nursing|eLearning|Lab Work|Clinical Research|Logistics|Civil Engineering,Dodoma,MID,9429581,12240455
+186e57e1-a98f-4f46-8251-78b5327a1164,Barista,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,SQL|Accounting|Excel|Financial Analysis|Fleet Management,Dodoma,SENIOR,3188503,5282977
+e128cfb5-ae7f-492d-8115-a3cf967c3918,"Administrator, education",e848bb32-c11b-4cac-9f35-135e418a509d,Construction,eLearning|Surveying|Site Management|AutoCAD,Arusha,ENTRY,10610312,13748592
+a9a55392-2b7e-4a98-acbb-4cfce34b1b71,"Surveyor, building",42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Tax|Special Needs|Excel|Renewables|Auditing,Zanzibar,ENTRY,12389593,16388225
+142703bd-a4cf-416b-b481-38d35c754954,Trade mark attorney,5100c207-5cfc-47c4-9eee-5af3b00c3d84,Transport,Lab Work|Dispatch|Driving|Logistics|AutoCAD,Tanga,ENTRY,6467696,11453751
+7e008d60-a4fc-42da-8466-9217c950b310,Senior tax professional/tax inspector,9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Patient Care|Dispatch|Logistics|Livestock|Fleet Management,Moshi,ENTRY,13200410,15383787
+15fd4e65-6dcf-4254-856a-24984d148cd0,Chartered loss adjuster,7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Nursing|Travel Planning|Customer Service|Tour Guiding,Dar es Salaam,ENTRY,6016358,6710028
+c3de38b8-c9b2-4cff-8c58-d7b07bc6e4a6,Investment analyst,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Patient Care|Soil Science|Livestock|Grid Management|Crop Science,Zanzibar,MID,10432533,15122658
+6c2bc470-9577-444a-94b8-279a39a7baf2,Barista,df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Dispatch|Renewables|Logistics|Driving,Kilimanjaro,ENTRY,12461196,17367071
+cd3fa9b3-a64c-4e7e-af7b-a123ebb9bc54,Environmental health practitioner,935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Route Planning|Python|Maintenance|Logistics|AutoCAD|Fleet Management,Arusha,MID,6525973,10370718
+2f5dbde0-1422-4ea4-b430-79070ee57bb8,Diplomatic Services operational officer,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Nursing|Patient Care|Tour Guiding|Clinical Research|Livestock,Arusha,MID,6577593,9769894
+632beb4f-e5fb-40de-bdbf-57e0ccbfcdf8,Production engineer,d1bcf044-704c-40a5-9979-71e5bf13b6d7,Energy,Safety Compliance|Electrical Engineering|Renewables|Maintenance|Event Planning,Tanga,MID,6420996,10018606
+870d4fd5-a6d0-4d91-9bcb-37c39f78bd48,Systems analyst,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Civil Engineering|AutoCAD,Morogoro,MID,12127099,16461233
+8b86a81e-e076-4cad-95e1-3e0a8662b393,Theme park manager,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Linux|React|Android,Arusha,ENTRY,14631441,16953975
+b4d20cde-ea9c-489f-9942-d3c56e2a2838,Contractor,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Hotel Management|Customer Service|Renewables|Event Planning|Crop Science,Mwanza,ENTRY,9288045,12129703
+6c708826-3bb4-4ea2-b941-27e56293d787,Dramatherapist,3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Route Planning|Special Needs|Hotel Management|Counseling|Logistics|Fleet Management,Mwanza,ENTRY,10297474,13746808
+3ccd89f2-7619-4be9-bf17-7ed9f04fb71b,Child psychotherapist,3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,eLearning|Special Needs|Teaching,Dar es Salaam,SENIOR,14189042,14835586
+3546a73e-5e2b-4c91-bff6-20afb93b718a,Ambulance person,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Travel Planning|Event Planning|Tour Guiding,Mwanza,ENTRY,10581136,11300790
+ce9e44f6-3eee-4d78-a43f-7f8a296c203f,Quantity surveyor,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Travel Planning|Python|Hotel Management|Customer Service|React,Mbeya,ENTRY,5106319,6431890
+e918ee05-a085-4524-93f5-ed0f197bb4de,Oceanographer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,SQL|Renewables|Energy Auditing|Maintenance,Morogoro,ENTRY,13949018,15121014
+d1fafc34-e1b0-4eb3-8749-63c591409cda,Commissioning editor,fdcc0faa-81dd-49e5-a751-1add67b5037d,Tourism,Event Planning|Travel Planning|Tour Guiding|Crop Science,Zanzibar,MID,12097135,13117511
+c3aabab7-292e-4a03-bd48-47ebefb81d5e,Insurance risk surveyor,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Agribusiness|Special Needs|Soil Science|Crop Science,Arusha,MID,5268399,7124797
+46c8e4d4-a910-41ac-b9a4-7ebfafd1f495,Air traffic controller,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Livestock|Irrigation|Crop Science,Zanzibar,MID,5742370,7337135
+e1b91e75-f643-4bd7-bc69-ad4467a470c0,"Psychologist, educational",18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Tax|Accounting|Site Management|Excel,Kilimanjaro,ENTRY,11476491,15640404
+38b75b4e-31af-4bfd-8727-df10bdf634ad,Sub,20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Tax|Accounting|Excel|Agribusiness|AutoCAD|Django,Mbeya,SENIOR,8594446,12018434
+f40c93ee-425c-4767-b8d2-c42a5bcce900,Herpetologist,0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Tour Guiding|Hotel Management|Clinical Research|Event Planning|Livestock,Mbeya,ENTRY,9505319,10245528
+a6c4b9e9-5ad9-4d54-8e2a-2c630ba17f1c,"Runner, broadcasting/film/video",853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Civil Engineering|Surveying|eLearning,Morogoro,ENTRY,11891951,12976400
+711596bc-86c1-4c05-9583-6538f22c96a5,Games developer,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,eLearning|Counseling|Teaching,Dodoma,MID,10970709,13867812
+994f38a8-a07c-4b2b-ac33-50d49833e6e6,Actor,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Networking|Cloud|Python,Mbeya,MID,11199227,14470856
+2b440022-1137-4695-9b8a-cfbdeb282b70,Records manager,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Clinical Research|Auditing|Civil Engineering|AutoCAD|Android,Morogoro,MID,6526476,7119767
+bc060bc4-1846-4821-b33b-763676a302e1,Probation officer,d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,Site Management|Special Needs|eLearning|Excel|Counseling|Cloud,Morogoro,ENTRY,10250921,12248450
+8eaa2b57-c6f6-4198-9085-bac2e77bf520,Chief Strategy Officer,d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Safety Compliance|Site Management|Accounting|Surveying|Clinical Research,Dar es Salaam,SENIOR,9867489,13440709
+6489f5ca-b490-4523-9513-a06ffa685374,Nutritional therapist,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Soil Science|Livestock|Irrigation,Kilimanjaro,ENTRY,7253051,7957363
+11dc2a75-bca8-453f-bbc4-6b74032105e4,Air broker,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Site Management|Hotel Management|Lab Work|Civil Engineering|AutoCAD,Moshi,MID,9706285,13140127
+20d91c54-0fd2-4863-a879-a54ca0531132,Primary school teacher,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Travel Planning|Irrigation|Accounting|Auditing|Teaching|Financial Analysis,Dodoma,MID,10096124,11477117
+84db058f-a80a-4fa4-967d-2ac4ecb39f56,"Research officer, government",8f61b7f8-508b-43d4-b4cf-ae05ed6c2dcd,Finance,Accounting|Soil Science|React|Auditing|Financial Analysis,Mbeya,ENTRY,9721617,10936359
+34470ba9-7285-44e5-bbbd-b31677056844,Armed forces training and education officer,56f04e2f-8346-486f-b150-65117682d795,Education,eLearning|Curriculum Design|Special Needs,Dodoma,ENTRY,13272964,15379758
+e8970503-0f10-4b21-a793-8ec588f4baa0,Amenity horticulturist,b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Nursing|Patient Care|Lab Work|Surveying|React|Android,Kilimanjaro,ENTRY,14109925,16220774
+748d2947-5091-4637-bbad-84422fe8eea4,Early years teacher,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Travel Planning|Tour Guiding|Customer Service|Maintenance|Linux,Mwanza,ENTRY,6371086,8377072
+5df8635b-b43a-4ef5-8b33-63d4772d45e9,IT trainer,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Patient Care|Hotel Management|Public Health|Accounting|Lab Work|Teaching,Zanzibar,ENTRY,9924508,13507934
+255a1f74-4349-473d-8659-ef2bafc7c96c,"Teacher, English as a foreign language",ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Networking|Python|Lab Work|Surveying|Excel|Django,Morogoro,ENTRY,7643105,10131480
+34be76be-4721-44e7-a9e0-716c7813f752,Camera operator,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Customer Service|Surveying|Linux|Cloud|AutoCAD,Dodoma,ENTRY,12996020,16511388
+0ae826ec-9c92-4990-a487-f597c0a02d23,Advertising account executive,68fe134e-ee95-4d6c-af6c-b5f56e22392c,ICT,Django|React|Python,Dar es Salaam,ENTRY,12291410,12843802
+125ffd3b-45a1-4ba1-bbdf-a6a8549a92e7,Theatre manager,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Safety Compliance|Special Needs|Surveying|React|Excel|AutoCAD,Kilimanjaro,MID,11114522,13170619
+955bd868-8549-4c6d-998a-d7698bc400e9,Travel agency manager,4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Patient Care|Public Health|Lab Work|Excel|Logistics,Tanga,SENIOR,6766993,8475969
+bf0e691d-24ff-4217-93f4-a2302bac4b8a,Public affairs consultant,e6f2cfa0-6d9b-438c-b3f1-ab4e43752400,Healthcare,Patient Care|Special Needs|Lab Work|Clinical Research|AutoCAD,Mbeya,ENTRY,9078415,9920171
+91aa975e-5be9-47e4-9aa2-d18b09a5b9db,Barista,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Clinical Research|Patient Care|Soil Science|Public Health,Tanga,ENTRY,9891200,12377730
+584437a8-b7c1-4a8b-9de8-17b0f762614f,Advice worker,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Linux|Flutter|Curriculum Design|Android,Arusha,SENIOR,13174628,17916258
+db663f72-fae1-4448-876b-9ac57f3230b0,"Designer, television/film set",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Special Needs|Flutter|Counseling|Curriculum Design|Django,Mbeya,MID,4776009,8820774
+15b768d1-aa9f-4542-a1cb-72c0610e40c9,"Horticulturist, amenity",84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Financial Analysis|Accounting,Tanga,SENIOR,9704733,14490570
+973611aa-77d7-48ff-82b3-5a160a68f740,Quality manager,92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Livestock|Irrigation|Crop Science,Dodoma,MID,5285978,5791104
+a7679d96-ee78-4643-bb9e-28af5615b574,"Engineer, manufacturing",fdcc0faa-81dd-49e5-a751-1add67b5037d,Tourism,Travel Planning|Electrical Engineering|Surveying|Customer Service|Linux|Event Planning,Zanzibar,MID,13069870,18058964
+28a6d7c1-499f-4b48-b92b-04f5922c453c,Corporate investment banker,688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,eLearning|Curriculum Design|Teaching,Arusha,ENTRY,8093736,12404217
+3c85bbc8-ef48-4cc6-b692-4d8ab6f13c3b,"Surveyor, building",b7333df4-453b-43e7-994a-4bb4d0475cf4,Construction,Surveying|Civil Engineering|AutoCAD,Mbeya,MID,12168337,16017479
+66890f4b-73f6-457d-8010-4f87bb259995,"Nurse, learning disability",a13f154d-0ea0-45fd-ad17-f220a884630d,Education,eLearning|Electrical Engineering|Counseling|Teaching|Django,Mbeya,MID,12597206,14494248
+27d354e8-1198-4d57-8213-40e06ddac611,"Therapist, occupational",0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Patient Care|Travel Planning|Hotel Management|Customer Service|Teaching,Mbeya,SENIOR,4812515,7086419
+fb723ad5-05ac-46d1-8d1c-68f07354fa50,Advice worker,8f61b7f8-508b-43d4-b4cf-ae05ed6c2dcd,Finance,Tax|Financial Analysis|Excel,Mbeya,SENIOR,6093833,8925364
+3f941af3-629d-4e1d-a9cf-f3213ca814e7,Operational investment banker,615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Travel Planning|Energy Auditing|Soil Science|Agribusiness|Curriculum Design|Crop Science,Kilimanjaro,SENIOR,9991939,13920016
+f2f3098b-c8bf-478a-9510-f76950f23830,Recruitment consultant,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Cloud|Python|Android,Arusha,ENTRY,7768336,10510972
+2e707d34-4648-4883-8d77-bdedfde08541,"Accountant, chartered",70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Safety Compliance|Site Management|Civil Engineering,Morogoro,ENTRY,3712150,4993111
+a052605a-39c1-47c0-a032-a082239eb9f9,Glass blower/designer,9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Accounting|Customer Service|Agribusiness|Auditing|Financial Analysis,Morogoro,ENTRY,10056352,12303148
+16cb2238-8737-4034-be11-a9698b9d2add,Administrator,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Dispatch|Logistics|Fleet Management,Kilimanjaro,MID,13260227,15894099
+1d8ab30c-7aa9-4a5b-9f44-35eb58f1070a,"Engineer, communications",0fb01de0-a6ce-4ba3-9231-5c1f9e091875,Energy,Networking|Electrical Engineering|Energy Auditing|Renewables|Maintenance|Grid Management,Moshi,MID,13634472,18581449
+874a614d-ccb9-4ecc-aa68-17e5bd997332,Ecologist,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Tax|Accounting|Surveying|Excel|Driving|Financial Analysis,Dodoma,ENTRY,8241647,12836307
+ecc86f6c-d630-4ae1-8c90-0c49529d2ad8,"Scientist, research (medical)",6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Python|Energy Auditing|React|Financial Analysis|Cloud|Android,Mbeya,ENTRY,5623521,8781529
+caa687a3-94d2-4f4c-9cea-baffb52e09b3,Sports therapist,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Safety Compliance|Nursing|Civil Engineering|Surveying,Moshi,MID,9904400,11937393
+3830f8a8-7c66-4b6d-b28d-853f7fb02686,Contracting civil engineer,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Python|Maintenance|Energy Auditing|Grid Management,Mwanza,ENTRY,5221525,7031562
+3e4bd6a1-1b39-473f-a20b-297b2837dfc5,Retail merchandiser,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Renewables|Energy Auditing|Maintenance,Mwanza,ENTRY,13585304,16944448
+0c8d949c-0926-467a-b7d8-8fae449fe852,Haematologist,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Networking|Electrical Engineering|Energy Auditing|Maintenance|Fleet Management,Mwanza,ENTRY,6727803,7590684
+ef44dacc-fa05-4ed3-8c29-c5f3c22e159c,Housing manager/officer,70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Safety Compliance|Site Management|Travel Planning|Excel|Civil Engineering|Livestock,Morogoro,MID,10569997,12822315
+39f3dc6f-58f2-46c0-8707-734ed489b7ce,Personal assistant,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,Networking|Special Needs|eLearning|Accounting|Lab Work|Counseling,Arusha,MID,9623523,10703833
+b0e2bb83-a0d5-4cb2-bed1-e87732832b95,Chief Executive Officer,f30784ec-1a97-4abc-8441-5dc63bcb1f7b,Transport,Dispatch|Route Planning|Driving|Irrigation,Morogoro,ENTRY,12585871,13284011
+a26b3d82-ac4d-4dd1-bd21-90c746636976,Recycling officer,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Python|SQL|React|Clinical Research|Curriculum Design|Android,Zanzibar,ENTRY,11908166,14867088
+b677b167-5f59-4c85-a434-6c34da2c1474,Music therapist,32e13d3e-a0fe-443e-b738-6d5cbc6e2bf1,ICT,Networking|Travel Planning|React|Driving|Linux,Dar es Salaam,ENTRY,7654102,9695608
+bf4000ac-43cc-4235-8c10-aa75fad20385,Ceramics designer,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Renewables|Energy Auditing|Grid Management,Mwanza,SENIOR,13759533,14726725
+6188488d-f0e3-4165-97d3-d352cd0869d6,"Surveyor, rural practice",9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Networking|Site Management|Dispatch|Driving|Logistics|Event Planning,Moshi,ENTRY,14746484,18393000
+87bb30d9-f446-4e01-b296-5a2525c9f46a,"Producer, radio",91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Safety Compliance|Lab Work|Agribusiness|Livestock|Crop Science,Moshi,SENIOR,11111039,14745448
+bd1b627d-9d70-4c60-b4dd-06916868b76e,"Scientist, research (medical)",3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,Special Needs|Excel|Financial Analysis|Teaching|Curriculum Design,Dar es Salaam,ENTRY,6522794,10379879
+7528e42e-ee2a-4715-87f4-05b6cbb9230b,Sales executive,d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Safety Compliance|Site Management|Surveying|Financial Analysis|AutoCAD|Crop Science,Dar es Salaam,ENTRY,6416263,10095960
+42d998d8-28a7-4609-9776-d17537e7aad3,"Nurse, adult",df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Route Planning|Energy Auditing|Dispatch|Driving|Financial Analysis|Logistics,Kilimanjaro,ENTRY,7655374,11024603
+5bcf2578-c200-45c1-bb58-2be3f4d18415,Catering manager,3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,Special Needs|eLearning|Financial Analysis|Teaching|Curriculum Design,Dar es Salaam,MID,12705415,14868123
+4e5858ba-c6dc-4e8f-9697-77a76b3326f2,Printmaker,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Special Needs|Counseling|Teaching,Kilimanjaro,MID,8575871,10597776
+d3fbbad0-830c-4bdf-b656-50772776eee6,Product/process development scientist,91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Soil Science|Agribusiness|Irrigation,Moshi,ENTRY,11478341,13653995
+02313284-3d81-41b4-a7ab-a9cade82b43b,"Engineer, drilling",c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Clinical Research|Lab Work|Route Planning|Public Health,Mbeya,SENIOR,13074273,15378163
+dfc02670-2dd9-4c83-ac82-9c9d432ff6ca,Planning and development surveyor,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Clinical Research|Patient Care|Public Health,Tanga,SENIOR,11444896,15646638
+39724043-2373-4bd3-b5cf-fc46b55094fd,Biomedical scientist,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Networking|Cloud|Logistics|Django,Kilimanjaro,MID,13970298,15206949
+d129c90e-7d90-4947-9300-4fd3a3eebf2f,Arts administrator,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,SQL|Electrical Engineering|Flutter|Cloud|Android,Kilimanjaro,ENTRY,12141521,14708758
+144c25d6-5fd8-42a0-9537-dd5419904b57,"Engineer, technical sales",d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Electrical Engineering|Energy Auditing|Maintenance,Mwanza,ENTRY,6535666,10348085
+84e5a073-af94-4a44-b86c-f17ec6129f67,"Engineer, biomedical",c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Clinical Research|Lab Work|Patient Care,Mbeya,MID,11221991,16155713
+7801dc0d-5465-4ef5-aeb0-26fd78d96add,Lexicographer,7498e94f-7bc2-4de1-b02d-3aafa17b693f,Healthcare,Clinical Research|Nursing|Site Management|Patient Care,Mbeya,ENTRY,12823324,17701505
+fab683c7-d2e2-4918-bfa0-b0a295597374,Chief Executive Officer,6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,eLearning|Electrical Engineering|Special Needs|Counseling,Morogoro,ENTRY,7504830,8197909
+4e9c49df-f4fc-4401-8873-a0a8074ec528,Copy,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Safety Compliance|Civil Engineering|AutoCAD,Moshi,ENTRY,13096060,16714524
+92b828c3-98e9-4221-884c-c9062c92fa31,Purchasing manager,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Nursing|Python|Public Health|eLearning|Clinical Research,Tanga,ENTRY,10641645,15335857
+fc3a9519-c28b-4d52-8e15-1624f4526194,Water quality scientist,4555d314-a979-4209-9f1e-fe1115327374,Energy,Electrical Engineering|Renewables|Energy Auditing|Teaching,Mwanza,ENTRY,12641382,14748770
+5780c3ea-e959-4619-a4c1-594edd8026e0,"Programmer, applications",d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Tax|eLearning|Flutter|Excel|Financial Analysis,Dodoma,ENTRY,3894113,7598480
+f51489e8-557d-48fd-a547-44d0de56da1b,Fast food restaurant manager,7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Tour Guiding|Customer Service|Maintenance|Teaching|Linux|Event Planning,Dar es Salaam,MID,11439103,14934085
+57968e13-d8e7-476f-91a6-2e595c08dc5d,"Engineer, civil (consulting)",a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Patient Care|Nursing|Irrigation|Clinical Research|Financial Analysis,Tanga,SENIOR,9293655,10555973
+1785d7c5-ef1e-47cd-a1b9-7c5e0324de52,"Engineer, production",ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,React|Python|Android,Morogoro,ENTRY,13958343,15835701
+7629f150-2923-4168-b63a-bd47d92d476a,Accounting technician,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Travel Planning|eLearning|Customer Service|Energy Auditing|Excel|Event Planning,Mbeya,MID,6795235,8806156
+6363b144-011f-4dcc-93f7-61a89b8ea1e6,Banker,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Special Needs|eLearning|Counseling|Financial Analysis|Linux,Dodoma,ENTRY,10587941,15323519
+605f779d-1aa0-4b7c-a54c-0f009db387b0,"Teacher, primary school",6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Networking|Travel Planning|Customer Service|Soil Science|Cloud|Android,Mbeya,ENTRY,5793550,6903885
+61b25380-00a1-4618-ab7e-0e4caa72abcb,"Designer, industrial/product",7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Travel Planning|Irrigation|Hotel Management|SQL|Agribusiness|Event Planning,Dar es Salaam,SENIOR,10651880,11278507
+2025cbd7-105c-49b0-a6a8-130663f88387,Passenger transport manager,577282c8-e038-4d16-98ee-72983a3b9398,Transport,Electrical Engineering|Driving|Logistics|Fleet Management|Android,Mbeya,MID,11413999,12877262
+fec59a15-2c31-4dc8-b785-3fe19b745257,Fine artist,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Special Needs|eLearning|Counseling|Civil Engineering|Livestock|Android,Morogoro,SENIOR,12853213,15590684
+9debb8fa-a897-447c-a11e-125422377433,Occupational psychologist,91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Curriculum Design|Counseling|Teaching,Mbeya,ENTRY,4710246,5746771
+94d2442b-4469-47c4-85a5-8cde2bb112dd,Media planner,4555d314-a979-4209-9f1e-fe1115327374,Energy,Energy Auditing|Clinical Research|Renewables|Maintenance|Financial Analysis,Mwanza,MID,12011817,16221426
+9bcab903-ad1a-400d-8e08-232a4686021a,Passenger transport manager,91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Irrigation|React|Agribusiness|Financial Analysis|Livestock,Moshi,SENIOR,7118691,9063122
+552441a0-a25b-4dd5-84ae-6dad67d06477,"Editor, magazine features",53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Driving|Route Planning|Fleet Management|Networking,Kilimanjaro,MID,9816166,11098029
+7ac865f8-cd97-4922-8fcb-af50be21d538,Field seismologist,e848bb32-c11b-4cac-9f35-135e418a509d,Construction,Safety Compliance|Site Management|Surveying,Arusha,ENTRY,7653660,12351457
+11bfdfce-dcd9-4c92-9f44-c14a450c5da5,Paediatric nurse,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Travel Planning|Event Planning|Hotel Management,Dodoma,MID,3713902,7007254
+e681df54-5386-496e-bfa3-4ed28da5a3e1,Building surveyor,7498e94f-7bc2-4de1-b02d-3aafa17b693f,Healthcare,Clinical Research|Lab Work|Public Health,Mbeya,SENIOR,4482590,8195740
+ac20b598-dca7-4802-97c8-a88fbc6a0b0a,"Geologist, engineering",df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Route Planning|Irrigation|Energy Auditing|Driving|Clinical Research|Dispatch,Kilimanjaro,ENTRY,11386473,13490519
+3d194ce9-b7f7-4b53-aba0-28f6d03137b1,Paediatric nurse,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Dispatch|Logistics|Driving|Irrigation,Kilimanjaro,ENTRY,6137959,9807582
+293610d6-fac5-4e11-8df2-f88e4daa551f,"Conservation officer, historic buildings",845d194d-ef62-46ff-a371-b7e698043b63,ICT,Networking|Route Planning|React|Android,Moshi,SENIOR,14269664,15948386
+7e320b36-b342-435f-a85d-7ce5cba99f5f,Purchasing manager,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Public Health|eLearning|Customer Service|Linux|Cloud|Android,Zanzibar,ENTRY,9386779,14265092
+17bfe6b3-1f89-4763-af21-3c287d312e35,Musician,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Curriculum Design|Special Needs|Travel Planning|Counseling,Dodoma,ENTRY,5776835,7599551
+96f5ec0b-bc33-44a5-8170-d9e371fe6bbb,Oceanographer,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Networking|React|Linux|Logistics|Grid Management|Crop Science,Zanzibar,MID,12580591,14497196
+c1fe4b29-1854-4ac6-a402-432d384e5732,Airline pilot,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,eLearning|Special Needs|Counseling,Dodoma,ENTRY,6974837,8033447
+ec405e53-ba88-4e3b-815d-1da097bd9cd6,"Designer, industrial/product",84de95c3-ce38-491b-8744-0e62040bd430,Finance,Accounting|Financial Analysis|Auditing|Patient Care,Tanga,ENTRY,5571870,7253452
+eed4f639-83eb-4a3c-9fe8-1316c15a0ee0,"Merchandiser, retail",fc7b5617-f245-4fdb-964b-40cbd3fe9630,Finance,Tax|Accounting|Special Needs|Excel,Mbeya,ENTRY,8443171,12758462
+f19d6879-4f61-4de4-ae1d-17f3762f1aca,"Chemist, analytical",959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Public Health|Lab Work|eLearning|Patient Care,Zanzibar,MID,5069208,5680362
+53c8855d-d80c-446c-aed4-ac85f72576ca,"Therapist, nutritional",935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Dispatch|Logistics|Livestock|Fleet Management,Arusha,SENIOR,6122088,9553640
+e193b115-2c84-4474-aa3b-434df583fe8e,Forensic scientist,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Route Planning|Travel Planning|Excel|Driving|Fleet Management,Kilimanjaro,SENIOR,11295754,14728618
+8b034ebe-3f59-4e17-a338-ead0cb93f864,Learning disability nurse,785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Electrical Engineering|Energy Auditing|Grid Management,Morogoro,MID,14567042,18451407
+8ec18154-658f-4acf-bfad-b358b5811c9f,Audiological scientist,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Travel Planning|eLearning|Lab Work|Teaching|Curriculum Design,Morogoro,ENTRY,9454365,11084691
+0c3f6ce2-7362-453d-aa7d-017d53d6f28b,Data processing manager,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Travel Planning|Hotel Management|eLearning|Agribusiness|Teaching|Event Planning,Dodoma,ENTRY,13336051,17617554
+a92bb31f-1c57-4c2e-a77f-91e7c7191964,"Development worker, international aid",845d194d-ef62-46ff-a371-b7e698043b63,ICT,Soil Science|Flutter|Django|Python,Moshi,SENIOR,5261168,8324542
+90566a7a-6e21-4364-af12-c4ce8e24e4ee,Field seismologist,0fb01de0-a6ce-4ba3-9231-5c1f9e091875,Energy,Electrical Engineering|Civil Engineering|Energy Auditing|Grid Management,Moshi,ENTRY,3687264,6664548
+c865ec98-fa42-4a21-8818-f9d895fdb456,Production engineer,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Nursing|Python|SQL|Flutter|Dispatch|Agribusiness,Arusha,MID,8025678,9962444
+faad53a1-a236-4d7c-bb14-fa297fe72c89,Special effects artist,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Route Planning|Travel Planning|Customer Service|React|Maintenance|Event Planning,Mwanza,MID,8206391,10446475
+e276efc9-5182-404b-95c8-5b3dbb22ce19,Magazine features editor,845d194d-ef62-46ff-a371-b7e698043b63,ICT,Networking|React|Python,Moshi,SENIOR,8083006,9139312
+87c6fd8b-6bb1-420d-8435-8d8b141cb993,Insurance underwriter,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Patient Care|Excel|Renewables|Maintenance|Livestock|Grid Management,Mwanza,MID,3090356,4884814
+3fe8493c-ec00-4960-b1c7-ab6f6eaae0e9,Dispensing optician,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Special Needs|SQL|Driving|Dispatch|Cloud|Logistics,Dar es Salaam,ENTRY,9124256,9907150
+6dc14c0b-c6be-4e82-bec4-1f20335e2e50,Records manager,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Irrigation|Accounting|Surveying|Civil Engineering|AutoCAD,Moshi,MID,9833695,14434243
+8ec93b73-ed3b-43e6-a519-fb9ccd618787,Location manager,d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Dispatch|Route Planning|Driving|Grid Management,Mwanza,ENTRY,6108298,9255493
+1a685623-3465-4982-af03-94ae171802a9,"Designer, textile",5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Hotel Management|Energy Auditing|Renewables|Maintenance|Crop Science,Morogoro,SENIOR,5684223,10578694
+f0e83a8c-097b-4a7c-8d0a-6467d7a2db8b,Agricultural engineer,f30784ec-1a97-4abc-8441-5dc63bcb1f7b,Transport,Driving|Route Planning|Fleet Management,Morogoro,ENTRY,6549612,9897771
+7cbf8b29-6316-4640-b4e9-824c7dca42b9,Insurance underwriter,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Cloud|Python|Android,Arusha,MID,5605578,7974073
+0238a1cd-fc34-415d-b782-33b89bf06805,Editorial assistant,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Renewables|Maintenance|Agribusiness|Grid Management,Mwanza,SENIOR,10055598,10568903
+319c84c1-e0cb-4fe8-920d-8c0be7b8c11c,Actor,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Route Planning|Irrigation|Civil Engineering|AutoCAD|Livestock|Crop Science,Zanzibar,ENTRY,8979215,10403769
+37d9ac5a-4821-41ff-9da1-c28e1cf76eb1,Learning mentor,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Networking|Linux|Android,Morogoro,MID,8521527,12490397
+613f5295-c703-4c75-9754-dfe1dd66e283,Acupuncturist,615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Tax|Irrigation|Accounting|Soil Science|Crop Science,Kilimanjaro,ENTRY,10871838,11533460
+1ce7fbae-7a58-4676-94d4-875ad91b4bb7,Chartered legal executive (England and Wales),a13f154d-0ea0-45fd-ad17-f220a884630d,Education,eLearning|Counseling|Teaching,Mbeya,SENIOR,13920318,15925397
+d621eaf4-b3b2-4dd0-92c9-fec29d9a178a,Architectural technologist,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Networking|Nursing|Patient Care|Public Health|Energy Auditing,Kilimanjaro,ENTRY,9794506,12068986
+99831654-167a-444c-abe2-25bfcc1bcbe2,Ceramics designer,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Tax|Patient Care|Accounting|Excel|Agribusiness|Financial Analysis,Dodoma,MID,13110927,15860662
+5c0f33c3-7bf3-40c2-86b4-29e58306ead8,Technical brewer,70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Site Management|Surveying|Civil Engineering,Morogoro,MID,10253595,12062155
+871073dc-c765-4e4e-96fd-55b4e5bba735,Travel agency manager,18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Financial Analysis|Route Planning|Auditing|Excel,Kilimanjaro,ENTRY,5598032,7505273
+5dee6cd6-eb4e-44c6-9210-0c02e129c64d,Insurance account manager,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Networking|Nursing|Patient Care|Flutter|Excel|Cloud,Kilimanjaro,ENTRY,4364170,5280753
+66e42299-5047-434c-9235-ccb4079500da,Youth worker,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Site Management|Civil Engineering|Surveying|Hotel Management,Dodoma,MID,12484908,17365800
+773b4a7d-4c4f-4e2b-8f40-11cfa6a51d24,Licensed conveyancer,a13f154d-0ea0-45fd-ad17-f220a884630d,Education,Tax|Route Planning|Special Needs|Counseling|Agribusiness|Teaching,Mbeya,MID,5291609,6701016
+0787f999-1d14-4d82-bd80-bb9ff63f3559,Leisure centre manager,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Networking|Tour Guiding|eLearning|Teaching|Curriculum Design,Morogoro,ENTRY,5877397,8173610
+580311a9-7542-45a3-ab10-645da5492b45,Plant breeder/geneticist,d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,Special Needs|Tour Guiding|eLearning|Flutter|Counseling,Morogoro,ENTRY,4013014,8372742
+ec8cfc1c-d6f3-4436-a4bd-c6bec842726d,"Chemist, analytical",18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Tax|Financial Analysis|Excel,Kilimanjaro,SENIOR,14129403,16592566
+4e27cfa0-d476-4d93-a148-9ff3a6a9e0b5,Further education lecturer,615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Patient Care|Hotel Management|Agribusiness|Livestock|Grid Management|Crop Science,Kilimanjaro,ENTRY,7331534,8962826
+89fa220f-b4d7-4cc0-a77b-9caba9a27633,Financial controller,a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Nursing|AutoCAD|Lab Work|Public Health,Tanga,MID,5588925,9264504
+4cf93988-b2f6-4c82-95a7-eef65d2d6d98,Glass blower/designer,0fb01de0-a6ce-4ba3-9231-5c1f9e091875,Energy,Renewables|Energy Auditing|Maintenance,Moshi,ENTRY,3311595,6716667
+8f234826-5118-48d6-a039-68eacc1343bd,Barrister,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Nursing|Tour Guiding|Hotel Management|AutoCAD|Linux|Event Planning,Dodoma,MID,8913132,11291827
+b67cfeb8-4cf4-4949-a455-a70328100967,Volunteer coordinator,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Site Management|Lab Work|Surveying|Teaching|Civil Engineering,Kilimanjaro,MID,7028435,7766218
+803d485a-e508-4467-9fd8-407443b719a5,Civil Service administrator,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Safety Compliance|Site Management|SQL|Flutter|Android|Crop Science,Arusha,MID,5033777,6833734
+20cbbca9-f93b-46aa-ac54-daeec6d7e141,"Engineer, mining",ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Networking|Site Management|Tour Guiding|Energy Auditing|Renewables|Grid Management,Mbeya,ENTRY,6794015,8222418
+f671aa7c-a611-40d2-a241-bc38648071d1,"Engineer, electronics",fc7b5617-f245-4fdb-964b-40cbd3fe9630,Finance,Financial Analysis|Auditing|Excel,Mbeya,MID,3729447,5832864
+ef7d25de-4da8-4538-96b0-ac9160744861,Chartered loss adjuster,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Networking|Cloud|Flutter|Surveying,Arusha,MID,4276407,7020692
+a38cf9c8-9c39-445c-8cd6-4cd418651400,Senior tax professional/tax inspector,42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Tax|Patient Care|Accounting|Financial Analysis|Fleet Management,Zanzibar,ENTRY,11213731,14934002
+dd016950-80d3-4235-874b-6099d0d24f3c,Paediatric nurse,662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Patient Care|Nursing|Accounting|Excel|Driving|Clinical Research,Dar es Salaam,MID,5154058,5760274
+eed3ee5d-f6b7-418b-9c69-a599c85826ce,Make,f30784ec-1a97-4abc-8441-5dc63bcb1f7b,Transport,Route Planning|Public Health|SQL|Driving|Civil Engineering|Fleet Management,Morogoro,ENTRY,9383841,12478896
+eaa60d20-4f93-460d-bcdf-a2bcc5e9efc6,Trade mark attorney,e18f92a0-b462-4ebc-828e-2b60d1443937,Finance,Special Needs|Accounting|Excel|Auditing|Financial Analysis,Mwanza,ENTRY,10959894,13357254
+9d2c27e7-9c38-4a0c-9ba0-cb629e889552,Fish farm manager,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,SQL|Renewables|Energy Auditing|Grid Management,Morogoro,SENIOR,13580393,18171055
+407c5497-b1a7-42b6-94fb-0ee1d7857198,Toxicologist,fdcc0faa-81dd-49e5-a751-1add67b5037d,Tourism,Travel Planning|Event Planning|Customer Service|Hotel Management,Zanzibar,SENIOR,10556764,14893830
+2605eca2-343b-481e-9d4d-1b54467b0dee,Corporate treasurer,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Clinical Research|Patient Care|Surveying|Public Health,Tanga,ENTRY,3363689,4714082
+89153a83-7bfc-4a06-b35b-06560f6f0754,Chief Marketing Officer,9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Dispatch|Route Planning|Fleet Management,Moshi,MID,12503123,14605638
+cf1517b3-ced1-41ba-b6ea-8c3037f733d8,Management consultant,8b9b2373-fe87-42ab-9fef-e32d777f8688,Agriculture,SQL|Soil Science|Agribusiness|Teaching|Crop Science,Morogoro,ENTRY,14282747,18911805
+63ae3fba-b7b3-4251-bd09-b51373c84291,Armed forces technical officer,688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,Patient Care|Special Needs|Irrigation|eLearning|Counseling,Arusha,ENTRY,9382100,13075071
+6fbabcc3-ea4c-45ea-80d3-4ae18d38f974,Trading standards officer,845d194d-ef62-46ff-a371-b7e698043b63,ICT,Networking|Route Planning|Python|Accounting|Flutter|Energy Auditing,Moshi,ENTRY,4096729,4630966
+4a01f2d6-49d0-48be-b172-90eb5830abda,"Horticulturist, commercial",df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Hotel Management|Energy Auditing|Dispatch|Driving|Logistics,Kilimanjaro,SENIOR,11986832,15675953
+87c79608-9a6e-4658-9e39-69efcf80eff3,Health and safety adviser,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Excel|Nursing|Lab Work|Public Health,Tanga,MID,10341302,14439554
+b47fda54-5808-4f29-9547-365cb4110c76,"Engineer, manufacturing systems",f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,Special Needs|Surveying|Counseling|Curriculum Design|Cloud,Morogoro,ENTRY,9143197,13438429
+96c61b67-7bdf-495e-8577-307ea911d6ff,Economist,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Safety Compliance|Public Health|Lab Work|Clinical Research|Auditing,Kilimanjaro,ENTRY,5877264,10665965
+8ed5f171-5631-445f-99f1-bee985ba7747,Health service manager,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Patient Care|Site Management|Tour Guiding|Hotel Management|Lab Work|Event Planning,Mwanza,MID,6691833,11094634
+7f5aaaa5-e705-4d36-ad72-2246619d41c9,"Nurse, children's",20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Tax|Hotel Management|Accounting|Dispatch|Financial Analysis|Crop Science,Mbeya,ENTRY,13278624,14908311
+19048f02-98c1-4aba-af95-dcda1db20216,Insurance risk surveyor,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,eLearning|Accounting|SQL|Cloud|Django|Android,Arusha,MID,5731913,6663945
+a6dd15a5-0e53-4d9f-ab04-b0c49a0fa808,Cytogeneticist,935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Hotel Management|Customer Service|Dispatch|Driving|Curriculum Design|Logistics,Arusha,MID,7313940,10089276
+88d8439e-85a4-4cf1-822f-6c0e75355157,Hospital pharmacist,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,eLearning|Curriculum Design|Lab Work|Special Needs,Arusha,ENTRY,6513315,8347339
+64f37e5b-2337-4ef6-9011-5e387076df8f,Horticultural consultant,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Renewables|Energy Auditing|Maintenance|Irrigation,Morogoro,ENTRY,12585096,15325950
+262531f8-715e-4423-9bcd-8d818f418da3,Production engineer,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Safety Compliance|Special Needs|Irrigation|Soil Science|Financial Analysis|Crop Science,Arusha,MID,6458519,9495135
+556ced2b-4187-4d44-b1f5-cafdf39570f5,Solicitor,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Networking|Python|Flutter|Driving|Maintenance|Django,Kilimanjaro,ENTRY,11118902,14742702
+6ac0d7a3-7db7-4943-b907-982c1962f2b7,Charity fundraiser,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Energy Auditing|Driving|Renewables|Maintenance|AutoCAD,Mwanza,ENTRY,4625069,6628870
+df20e614-8998-455f-80af-fddf94c645bb,Air cabin crew,a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Tax|Safety Compliance|Patient Care|Nursing|Clinical Research,Tanga,MID,7061868,9040957
+8b4b8194-de5a-4ea8-aaf4-2f5b775cb796,"Therapist, horticultural",ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Linux|Cloud|Flutter|Travel Planning,Morogoro,ENTRY,10663678,12933941
+a44ca723-d43f-4614-aa32-41d67c87689e,"Education officer, environmental",10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Networking|Django|Android,Kilimanjaro,ENTRY,4540856,9087552
+15daacb3-5694-4064-9962-ce5e04e96591,Restaurant manager,18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Accounting|Financial Analysis|Counseling|Auditing,Kilimanjaro,ENTRY,11461207,14043343
+a529c7ee-da36-4721-b4a5-0d532d80d2ee,Learning disability nurse,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Route Planning|Patient Care|Public Health|SQL|Lab Work,Kilimanjaro,MID,9339155,11524994
+9e74e516-e5d8-4fef-bbb1-70450f54d557,"Conservation officer, nature",d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Safety Compliance|Site Management|Civil Engineering,Dar es Salaam,MID,12798492,16017339
+722cd05a-45fd-4ea4-bb84-92a881413324,Clinical molecular geneticist,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Financial Analysis|Customer Service|Event Planning|Hotel Management,Mbeya,ENTRY,13112039,17861512
+202c532f-fd75-46fd-838f-59169ae23391,Chartered certified accountant,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Electrical Engineering|Renewables|Energy Auditing|Tour Guiding,Mwanza,ENTRY,14573138,15898141
+dc85c119-c660-4756-b150-6c6232b54dc0,Legal executive,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Electrical Engineering|Energy Auditing|Dispatch|Counseling|Maintenance|Financial Analysis,Mwanza,MID,5510511,7733398
+1b631e84-a924-499b-bda7-1496ad9830e6,"Engineer, agricultural",92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Tour Guiding|Python|Soil Science|Clinical Research|Agribusiness|Livestock,Dodoma,ENTRY,14213745,17856145
+a7a7b57c-3edf-448d-9706-8710dd618ea8,"Engineer, communications",d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Surveying|Renewables|Energy Auditing|Maintenance,Mwanza,MID,5063748,6545522
+b10d926d-9b99-4d25-99a7-afe74da1ac0a,"Horticulturist, commercial",810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Event Planning|Tour Guiding|Hotel Management,Mwanza,ENTRY,10630144,12951945
+156dd628-5245-42d0-b9e1-8d015521437e,Press photographer,fc7b5617-f245-4fdb-964b-40cbd3fe9630,Finance,Tax|Nursing|Accounting|Soil Science|Excel|Financial Analysis,Mbeya,ENTRY,6104714,10269477
+efa6eb1a-1dc3-4af5-8610-d50986e422c9,Clinical embryologist,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Flutter|React|Android,Kilimanjaro,ENTRY,10221973,12103866
+663ff738-5177-40fe-809d-5e7b282ba16f,"Therapist, art",53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Dispatch|Route Planning|Logistics,Kilimanjaro,MID,11530875,16483858
+cea37f74-ac71-4e22-9af6-c3d2b1da7435,Commercial horticulturist,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Site Management|Civil Engineering,Morogoro,SENIOR,5132980,5987058
+012953f7-ee46-49a1-9a4e-0f2b4c560b31,Soil scientist,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Special Needs|Travel Planning|eLearning|Curriculum Design|Fleet Management,Tanga,MID,10739634,13999102
+6825f076-3e38-4db7-a796-02bad549b562,Local government officer,18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Tax|Accounting|Financial Analysis|Dispatch,Kilimanjaro,ENTRY,10214806,12653419
+b17aa8dc-18bc-4011-ac1c-6c76bae7e71b,Research scientist (life sciences),91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Nursing|Public Health|eLearning|Agribusiness|Counseling|Curriculum Design,Mbeya,MID,3333267,4961218
+0775df69-5b69-4af6-9d75-2df1d365f3d7,Systems analyst,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Site Management|Tour Guiding|Hotel Management|Event Planning|Livestock,Mwanza,ENTRY,12102443,13708056
+1ce8f099-1d7b-4363-9646-ed06adb04ba9,Veterinary surgeon,619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Renewables|Energy Auditing|AutoCAD|Grid Management,Arusha,SENIOR,7224006,8810399
+19778429-4e88-48e5-841e-56744acd0f9a,Private music teacher,a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Nursing|Patient Care|Public Health|eLearning|Lab Work,Tanga,MID,4942822,6947699
+2c55b67e-2711-42d0-8756-e7544590b6be,Artist,91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Curriculum Design|Auditing|Counseling|Teaching,Mbeya,ENTRY,7734235,9924239
+a5fd7efd-923b-4a50-97f4-175c56006b25,Administrator,a13f154d-0ea0-45fd-ad17-f220a884630d,Education,Networking|Special Needs|Irrigation|Counseling|Teaching,Mbeya,ENTRY,12659162,16695131
+51d05de2-2f04-4456-afa1-3ec38e7204b1,Homeopath,54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Clinical Research|Lab Work|Accounting|Patient Care,Morogoro,ENTRY,8853056,11445050
+e3f6990c-d8de-4070-84cb-be945b7e1e76,Consulting civil engineer,d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Driving|Route Planning|Fleet Management,Mwanza,ENTRY,7369284,10283646
+ad48a4fd-f1db-4deb-9d08-c739a479f629,Amenity horticulturist,2ec248ab-3682-4af5-9751-94386caacad2,Energy,Travel Planning|Electrical Engineering|React|Renewables|Grid Management,Moshi,ENTRY,3724876,5788676
+951e28d3-d74f-4fdf-a9ad-b075e698e665,Theatre director,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Surveying|Dispatch|Renewables|Civil Engineering|Logistics|AutoCAD,Kilimanjaro,ENTRY,8048873,11640476
+fa85b3fb-7512-4b78-8481-278b7fdf49e7,Museum/gallery exhibitions officer,91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Special Needs|Customer Service|Renewables|Counseling|Curriculum Design,Mbeya,ENTRY,8688317,9709987
+bfadef9d-e87e-49a3-a42a-fc2912a19838,Make,0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Networking|Travel Planning|Surveying|Customer Service|Curriculum Design|Event Planning,Mbeya,MID,3977882,6610243
+58e3d38d-1d83-4781-9aaa-cda9b1f56777,Database administrator,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Travel Planning|Hotel Management|Lab Work|Auditing|Logistics|Event Planning,Dodoma,ENTRY,4138965,8188233
+69c2c2b8-7145-4bd5-9832-8e54736f59a6,"Programme researcher, broadcasting/film/video",dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Event Planning|Tour Guiding|Hotel Management,Mwanza,ENTRY,10859537,14050042
+4ba8a3b6-9b4e-4325-91cd-56dc5557ebdd,Legal executive,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Nursing|Patient Care|Lab Work,Arusha,ENTRY,13259921,14164149
+ed973c99-d15b-441f-a9fa-ed261b2dae86,Secondary school teacher,91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Irrigation|Electrical Engineering|Surveying|Agribusiness|Livestock,Moshi,SENIOR,11307986,15711270
+9dca8d28-7519-4521-b1f9-d3be0b5fa04b,Environmental consultant,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Nursing|Patient Care|Public Health,Arusha,ENTRY,3639332,4677261
+50e94c5e-78bb-4f66-871a-21449b84e076,International aid/development worker,935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Flutter|React|Driving|Dispatch|Logistics,Arusha,ENTRY,10891811,12234684
+1c924799-740f-4565-8d9d-74e5f0d98519,Occupational psychologist,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Special Needs|Irrigation|SQL|Counseling|Teaching|Curriculum Design,Morogoro,ENTRY,10692863,13442737
+b8bfb286-33ed-4a19-b3c1-5757bd174613,Animator,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Travel Planning|Customer Service|Hotel Management,Dodoma,ENTRY,12958048,17285600
+2917664b-561f-45c6-adfe-27426c0ee597,"Buyer, retail",1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Travel Planning|Customer Service|Event Planning,Moshi,MID,5293470,6830376
+cc5907f8-308b-4173-b6f3-8074a22cfbce,Building surveyor,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Curriculum Design|Special Needs|Python,Tanga,ENTRY,8323075,12386449
+67b3d1bb-cff2-4768-a35a-663842fa4ec4,Theatre director,785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Networking|Electrical Engineering|Customer Service|Soil Science|Maintenance|Grid Management,Morogoro,MID,11250785,12625671
+b71443c2-a0c2-4528-affa-c4974b073b05,"Journalist, broadcasting",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Curriculum Design|Special Needs|Counseling|Linux,Mbeya,SENIOR,6083967,6764845
+48d89e41-9d31-479e-a330-17f509b69872,Illustrator,92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Agribusiness|Soil Science|Irrigation,Dodoma,ENTRY,5852005,6802380
+0cb999bd-3d75-4d0c-bba8-18da410885e0,Armed forces technical officer,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Nursing|Patient Care|Python|Lab Work|Auditing,Zanzibar,ENTRY,7542960,11316721
+fa4e4519-4dd6-4a6d-ac7b-9fc01034a6e9,Interpreter,9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Tax|Driving|Auditing|Financial Analysis|Cloud|Android,Morogoro,ENTRY,8447785,9377386
+78e1d961-cfab-4918-9e04-27b4859439a8,"Surveyor, building",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Tour Guiding|Hotel Management|eLearning|Agribusiness|Teaching|Curriculum Design,Mbeya,SENIOR,7208097,8090211
+4024be8e-eb11-4766-9d51-e921f82927bd,"Psychologist, counselling",ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Safety Compliance|Nursing|Irrigation|Soil Science|Agribusiness,Kilimanjaro,ENTRY,13941376,14562906
+6b541ca4-5d49-406d-968c-c14501caedd5,Archivist,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Special Needs|React|Excel|Teaching|Curriculum Design|Linux,Dodoma,MID,9858308,13714321
+1ef2c402-2219-4700-b0fa-1fbe3fd28241,"Horticulturist, amenity",d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,SQL|Driving|Teaching|Logistics|Fleet Management|Android,Mwanza,MID,4139400,6166285
+b788b06a-c06c-43a7-9a06-e2b442a9204d,Product manager,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Public Health|Lab Work|Clinical Research|Agribusiness|Maintenance,Tanga,ENTRY,5488067,9091613
+d7ca14e7-21e0-4290-be50-adfec8fe9675,"Programme researcher, broadcasting/film/video",92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Agribusiness|Soil Science|Livestock,Dodoma,ENTRY,3622228,5683231
+f1e7f227-f92a-42fa-a480-811079dcd7ac,Engineering geologist,f4925905-a04b-44a5-858c-921074310b89,Agriculture,Agribusiness|Livestock|Crop Science,Arusha,SENIOR,10844554,14651820
+b40a51b3-45aa-4047-8ba3-44690c66e17a,Adult nurse,d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Driving|Logistics|React|Fleet Management,Mwanza,ENTRY,13991742,18594100
+aa600217-16ea-4003-8f85-8d6907ec9a4a,"Psychologist, sport and exercise",cb163982-3ecc-4953-9357-91af843b2dad,Construction,Site Management|Accounting|Surveying|Agribusiness|AutoCAD,Mwanza,ENTRY,4787150,6746530
+fcee5767-87bf-4cb7-b6b9-622d9547c390,"Engineer, materials",bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Networking|Curriculum Design|Cloud|Python,Zanzibar,MID,4419493,8909408
+2ecf6fec-82f6-44b1-b13a-dca7e4ec8ddc,"Psychologist, counselling",70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Site Management|Electrical Engineering|Flutter|Surveying|AutoCAD,Morogoro,SENIOR,7637427,10466613
+d6bde0af-8d14-4bd2-9df7-17621f4022d9,Fast food restaurant manager,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Nursing|Accounting|Soil Science|Livestock|Crop Science,Arusha,ENTRY,5488754,7793893
+34d13234-2b42-44cb-af0d-4982cea45741,"Librarian, academic",14c54684-7972-41c0-843a-d875ff497672,Construction,Safety Compliance|Nursing|Site Management|Civil Engineering,Arusha,SENIOR,6903485,10449752
+1cf70891-3981-4de4-b8d2-cdc2605da0a7,Commissioning editor,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Travel Planning|SQL|React|Counseling|Cloud,Zanzibar,MID,6791094,8337679
+90a160ab-e661-4f90-a0a6-164808228342,"Lecturer, further education",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Special Needs|Hotel Management|Counseling|Maintenance|Teaching|Logistics,Mbeya,MID,8699909,13003199
+52f8c153-08fd-43fb-960d-672590a4e9c7,Intelligence analyst,f7e79796-a8a2-49c5-985f-edd45eb03719,Education,Patient Care|Auditing|Counseling|Teaching|Curriculum Design,Dodoma,ENTRY,3813732,8564162
+4d3d1b68-e0d9-47fa-aba4-0d1c37b89408,Careers information officer,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Networking|Route Planning|Tour Guiding|Dispatch|Event Planning|Fleet Management,Kilimanjaro,ENTRY,10328718,11268599
+325ef949-b0c7-4fc6-b624-51104f2cd1ba,Chartered management accountant,b2ae4e0c-6b97-4854-97f7-2c9d9d131377,Healthcare,Clinical Research|Patient Care|Public Health,Moshi,ENTRY,10580911,13678196
+e0a798bf-3be8-4ddb-aa49-0a1123eb24f7,Educational psychologist,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Clinical Research|Lab Work|Public Health,Dar es Salaam,MID,9867772,12995361
+ba7f7a5f-06e0-485c-9910-538b9c215518,Product manager,935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Customer Service|Dispatch|Maintenance|Logistics|AutoCAD|Fleet Management,Arusha,MID,10170153,13277047
+24dc90c5-3a67-408e-8637-d4d1f90989e7,Call centre manager,42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Tax|Nursing|Excel|Financial Analysis|Curriculum Design,Zanzibar,ENTRY,9726811,11292083
+24c2d333-b651-42cb-b25d-4cea1421cca4,Printmaker,d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Safety Compliance|Site Management|Civil Engineering,Dar es Salaam,MID,4217728,6302565
+0ddd04d0-544f-45e7-803c-1635a907b54d,Dance movement psychotherapist,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Tax|Route Planning|Excel|Financial Analysis|Curriculum Design,Dodoma,MID,5211739,7054296
+b8d21c22-fbd2-4a87-9d3f-b19e3e947923,Ophthalmologist,6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,eLearning|Counseling|Teaching,Morogoro,MID,13116513,15404692
+cf092509-372d-4c91-80f2-c13b2b7049ea,Airline pilot,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,Electrical Engineering|Renewables|Grid Management,Mwanza,SENIOR,14970596,18298817
+a18e262b-727d-41f0-9be9-bb1206245b0d,"Designer, multimedia",7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Safety Compliance|Site Management|Irrigation|Surveying|Dispatch,Moshi,SENIOR,5470177,7601266
+8e1fda93-6d9c-4876-ae2a-daa6b8eca48e,Accounting technician,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Nursing|Patient Care|Public Health|Excel|Counseling,Dar es Salaam,ENTRY,13231649,16551117
+3c67764d-61a9-4443-9585-69ae58e4746e,Physiotherapist,b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Nursing|Patient Care|Lab Work|Agribusiness|Grid Management,Kilimanjaro,ENTRY,3030141,7766897
+db536db2-9934-4a1d-80a3-7fd51af3fcd6,"Engineer, civil (contracting)",4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Nursing|Patient Care|Energy Auditing|Public Health,Tanga,MID,5357197,6630273
+c0c9ac8b-b8d3-4d5e-82f4-f7f7b181defb,Art gallery manager,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Renewables|Special Needs|Energy Auditing|Maintenance,Mbeya,SENIOR,3819257,6801008
+16bafa64-b7bf-4366-a1c5-2fedd257ae1f,Podiatrist,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Nursing|Patient Care|Lab Work|Driving|Clinical Research|Maintenance,Zanzibar,MID,4188285,5575749
+1378fe26-004e-4594-8e61-981cfc40035f,"Engineer, water",9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Tax|Route Planning|Accounting|Excel|Civil Engineering|Fleet Management,Morogoro,MID,14261846,16489626
+5e513618-0810-4239-9739-1d0acb4a020d,Production engineer,ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Electrical Engineering|Renewables|Energy Auditing|React,Mbeya,ENTRY,10145681,11226964
+949a6b7d-16e8-4858-bfe6-c264374c9523,"Engineer, energy",9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Tax|Financial Analysis|Auditing,Morogoro,ENTRY,14669727,17806972
+97a392f0-54be-452b-a929-50b605aae280,Quality manager,785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Irrigation|Renewables|Maintenance|Livestock|Grid Management,Morogoro,ENTRY,11455073,14660602
+86329a89-2f8c-46a5-ae17-2e1931e57e5e,Chartered management accountant,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Renewables|Energy Auditing|Grid Management,Mwanza,MID,11882151,13873082
+bd3b7dd8-cba3-4461-b970-cf9efd41812e,Manufacturing engineer,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Site Management|Energy Auditing|AutoCAD|Grid Management,Mwanza,ENTRY,5694180,6592500
+f7565d5f-ae74-492b-989c-7aa54476c644,Higher education lecturer,b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Patient Care|Irrigation|Public Health|Customer Service|Clinical Research|AutoCAD,Kilimanjaro,MID,6449315,7634006
+37adf0c8-983e-4f97-b843-92b510821151,Operations geologist,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Safety Compliance|Accounting|Financial Analysis|Django|Fleet Management,Tanga,MID,11947575,16022917
+6f72f21c-250f-44b1-83ff-169cbd5deacf,Health service manager,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Patient Care|Lab Work|Public Health,Arusha,ENTRY,10646533,14969611
+ae6ffb27-2729-4b57-9dc7-5f03a3d493f9,"Civil engineer, contracting",5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,eLearning|Special Needs|Tour Guiding|Teaching,Tanga,ENTRY,13652478,17090011
+18246179-07ff-43d4-9942-1dd666e2dcf7,"Scientist, research (life sciences)",f4925905-a04b-44a5-858c-921074310b89,Agriculture,Soil Science|Agribusiness|Financial Analysis|Civil Engineering|Crop Science,Arusha,ENTRY,7084820,9061310
+fc819fdd-1414-49d6-a2f8-186de8a503f2,Chartered public finance accountant,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Public Health|Electrical Engineering|Lab Work|React|Clinical Research,Tanga,MID,14677380,18533998
+e24a3965-2e33-4c23-9df1-7034b5dca921,"Research officer, government",dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Travel Planning|Event Planning|Hotel Management,Mwanza,MID,3097970,4799666
+452d274e-5f90-421f-b2ff-153d262bb584,Administrator,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Irrigation|Soil Science|Agribusiness|Civil Engineering|Django,Kilimanjaro,MID,9834150,12644075
+df6e8dcb-c9ff-4874-b49b-66f697e57814,Special effects artist,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Safety Compliance|Accounting|Excel|Auditing|Financial Analysis,Dodoma,ENTRY,12129812,15273537
+b0061009-49ba-4c48-b35c-cd2725293c97,"Psychologist, sport and exercise",a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Networking|Nursing|Public Health|Lab Work|Flutter|Curriculum Design,Tanga,ENTRY,5198782,8616962
+84582c13-861f-4150-8a49-22447d8bc62b,Lawyer,4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Clinical Research|Nursing|Surveying|Public Health,Tanga,SENIOR,4121553,4837371
+6bb5787a-5a05-4678-a10c-ca15d1c5f8f1,Futures trader,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Safety Compliance|Patient Care|Lab Work|Energy Auditing|Clinical Research,Dar es Salaam,ENTRY,14093339,17683509
+35a12274-192a-462f-91d5-1a9bfac713fd,Marine scientist,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Python|SQL|Flutter|Clinical Research|Curriculum Design,Morogoro,MID,12985375,13538221
+f86fec9f-5950-4c37-9a57-204a08a96211,Tourist information centre manager,4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Patient Care|Lab Work|Public Health,Tanga,SENIOR,13130849,15548962
+4e84fed5-c759-49a4-97e5-408d9492ae4e,Oceanographer,845d194d-ef62-46ff-a371-b7e698043b63,ICT,Flutter|React|Linux|Cloud|Django,Moshi,ENTRY,13544163,17462181
+b8e8d382-24a3-4b0a-8dca-fe8800123922,"Administrator, Civil Service",853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Civil Engineering|Surveying,Morogoro,ENTRY,3085854,6175264
+b08a975a-5aa8-49ca-9206-65d6e9acad0c,"Librarian, public",4b666496-c479-4dd7-835a-752902fc625b,Healthcare,Patient Care|Site Management|Lab Work|Surveying|Clinical Research,Tanga,ENTRY,8564491,9435288
+e29ea55e-d6ec-4a73-8379-9599faa28a26,"Accountant, chartered",54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Patient Care|Public Health|eLearning|Soil Science|Clinical Research|Counseling,Morogoro,ENTRY,14865886,15808750
+7f80fb8f-5c38-4504-a1da-8e030836a265,Control and instrumentation engineer,91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,eLearning|Special Needs|Python|Teaching,Mbeya,ENTRY,5040637,9599099
+c7038586-ff29-42f3-9bec-e4e64fae0d7d,"Education officer, community",615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Financial Analysis|Soil Science|Irrigation|Crop Science,Kilimanjaro,MID,5536708,6410237
+1f6bb49c-ca10-4a16-a062-10d4191e34f0,Educational psychologist,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Civil Engineering|Surveying,Mwanza,ENTRY,9167607,10447056
+257928ae-b08b-4a8c-96e0-e6172b6fde11,Insurance claims handler,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Nursing|SQL|Linux|Grid Management|Android,Kilimanjaro,ENTRY,13825805,17956849
+c1e33718-8442-4b62-a86f-f67300c8d3c5,Lexicographer,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Travel Planning|Customer Service|Irrigation|Hotel Management,Mwanza,ENTRY,4871249,5564901
+74718f80-7d04-447e-bf96-db5869da8be1,Industrial buyer,5100c207-5cfc-47c4-9eee-5af3b00c3d84,Transport,Driving|Route Planning|Maintenance|Dispatch,Tanga,ENTRY,11402409,12571211
+0424ac9a-02ca-4529-bb0f-80899e1cce1f,"Surveyor, minerals",4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Special Needs|eLearning|SQL|Counseling|Teaching|Logistics,Morogoro,ENTRY,4366137,7622573
+29ea4af0-812d-4598-87ec-25c43473d67c,Location manager,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Travel Planning|SQL|Energy Auditing|Renewables|Grid Management|Crop Science,Mwanza,ENTRY,4223946,7049051
+6903a260-fdd8-4b80-9834-fb4a23f43933,Lobbyist,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Networking|Irrigation|React|Auditing|Agribusiness|Livestock,Zanzibar,ENTRY,9149501,11669545
+2f6255d8-26f7-45f8-b414-16d4eada4c6b,Charity fundraiser,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Patient Care|Hotel Management|Civil Engineering|AutoCAD,Dodoma,SENIOR,8365931,11256573
+5a05a032-493d-4a2f-b77a-65e0c3314d4a,Oceanographer,7498e94f-7bc2-4de1-b02d-3aafa17b693f,Healthcare,Patient Care|Nursing|Public Health|Maintenance|Teaching,Mbeya,ENTRY,8751176,10515831
+07a7650f-2ca4-4195-9fa1-912679993080,"Lecturer, higher education",7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Surveying|Travel Planning|Event Planning|Hotel Management,Dar es Salaam,ENTRY,8390769,10014901
+f51d443a-45a7-4da2-9106-d8a7c32b09bd,Diagnostic radiographer,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Site Management|Civil Engineering|Surveying|Counseling,Mwanza,MID,8450874,12034595
+45d2880a-361d-4c34-b2d3-ad300efa6168,Housing manager/officer,615d763f-7e30-4e23-a838-fac14c551a3d,Agriculture,Financial Analysis|Livestock|Irrigation|Crop Science,Kilimanjaro,MID,3459362,5463651
+686f4283-71b4-4053-b443-d8268d8e3cdf,Microbiologist,ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Soil Science|Livestock|Crop Science,Kilimanjaro,SENIOR,6528534,10317207
+f991388d-236f-404d-97c8-a3525b0096f1,"Conservator, furniture",70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Safety Compliance|Civil Engineering|Surveying,Morogoro,ENTRY,6312142,8946078
+77af1ebe-cba1-48dc-9546-0f8a8195cd23,Private music teacher,d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Site Management|Civil Engineering|AutoCAD|Maintenance,Dar es Salaam,ENTRY,12146598,14001963
+439aa1df-bce9-4e38-a019-940d008957dc,Video editor,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Public Health|Nursing|Patient Care,Kilimanjaro,ENTRY,3487600,7975565
+20b7fcc4-a1d2-4bff-b2cc-a0bbcc1dc99d,"Designer, television/film set",ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Python|Counseling|Teaching|Cloud|Android,Morogoro,MID,13762998,18244347
+68733693-6f05-44db-b479-47e2fadc7d6a,Water engineer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Maintenance|Energy Auditing|Grid Management,Morogoro,SENIOR,5805310,7196429
+4a67a93e-df43-4f27-8d31-49231930547d,"Clinical scientist, histocompatibility and immunogenetics",4555d314-a979-4209-9f1e-fe1115327374,Energy,Electrical Engineering|Renewables|Maintenance,Mwanza,ENTRY,7027541,11573781
+e1cceeb6-add8-4c9a-9e69-f51acbb4522d,"Designer, graphic",8b9b2373-fe87-42ab-9fef-e32d777f8688,Agriculture,Travel Planning|Irrigation|SQL|Soil Science|Agribusiness|Teaching,Morogoro,MID,6360939,7924670
+ab726bcf-4a02-45a7-9e77-cf0ca84e72ff,"Education officer, museum",0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Travel Planning|Teaching|Tour Guiding|Hotel Management,Mbeya,MID,8307710,12880155
+e456e4d8-9751-451a-b40d-03dab9b5e777,Lobbyist,7cd8132e-7fb9-4e57-8232-0118b57fbb67,Construction,Site Management|Civil Engineering|Surveying,Moshi,ENTRY,13615569,18455329
+bc1495fd-7f8f-46ba-a84f-b9f93a0ad75b,Landscape architect,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,eLearning|Curriculum Design|Tax|Teaching,Kilimanjaro,MID,12342062,13683792
+945d1767-c7ee-4c9e-b9b4-63040f30a496,"Journalist, magazine",2ec248ab-3682-4af5-9751-94386caacad2,Energy,Renewables|Energy Auditing|Grid Management,Moshi,SENIOR,7522250,8131565
+52010b95-d27a-4360-bd07-60c72b199c69,Paediatric nurse,853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Surveying|Soil Science|Teaching|AutoCAD,Morogoro,SENIOR,7152727,11993865
+860509fc-7ed0-4f45-895a-1eb128c9c3d6,"Engineer, broadcasting (operations)",9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Driving|Route Planning|Logistics|Electrical Engineering,Moshi,ENTRY,10381194,11494263
+fef682fb-9e05-4b48-90b3-ec50e9ec3eaa,Medical physicist,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Linux|Flutter|Android,Morogoro,ENTRY,12712935,15263474
+d2277349-9fe6-49e0-97c1-e07a4fdcf3cf,Systems developer,8b9b2373-fe87-42ab-9fef-e32d777f8688,Agriculture,Agribusiness|Irrigation|Crop Science,Morogoro,ENTRY,14336544,16535492
+35be3bd0-ab19-4114-a455-bea007943ea6,"Engineer, civil (contracting)",959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Patient Care|Lab Work|Clinical Research|Auditing|Cloud,Zanzibar,ENTRY,14757111,15451484
+a3a6c87e-2ceb-49f2-a9fd-edfd41f59747,"Engineer, aeronautical",a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Clinical Research|Patient Care|Lab Work,Arusha,ENTRY,10387906,15191370
+9f5ba8d2-b9fd-41eb-887f-ebcfe5d23ae3,Housing manager/officer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Python|Electrical Engineering|Flutter|Maintenance|Logistics|Grid Management,Morogoro,MID,14604650,19092504
+b20f66e6-d622-4c21-b738-32dff299f7f2,Quality manager,ee3bc8a1-b665-4a98-8312-c01e6fd81286,Healthcare,Clinical Research|Nursing|Patient Care,Kilimanjaro,MID,14536848,15423285
+a84af26f-7c19-48c2-b184-65eb7b0380f5,"Editor, film/video",b7333df4-453b-43e7-994a-4bb4d0475cf4,Construction,Safety Compliance|Site Management|Surveying,Mbeya,ENTRY,5352697,8780043
+e6d27207-00e5-4360-83dd-0bda9a6bad9f,Haematologist,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Agribusiness|Counseling|Teaching|Curriculum Design|Logistics,Tanga,ENTRY,7156682,12094959
+5d74a703-fec6-4e93-81b5-8c5d74e4b95b,Product manager,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Safety Compliance|Surveying|AutoCAD,Kilimanjaro,SENIOR,9520855,10653516
+7bf0579c-c15f-4136-b8d8-e73480ff9866,Social researcher,577282c8-e038-4d16-98ee-72983a3b9398,Transport,Route Planning|Logistics|Fleet Management,Mbeya,ENTRY,7880125,12052281
+5f9773e9-e967-4f69-a4c3-d3873036a1ce,Writer,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Site Management|Irrigation|Driving|Civil Engineering,Dodoma,ENTRY,3105226,5642431
+5e65f309-bfa4-4157-be21-4a807d00edbf,Field seismologist,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Public Health|Lab Work|Energy Auditing|Clinical Research|Renewables,Dodoma,ENTRY,10286019,12815592
+a800dd00-0382-4b07-a5c4-f52c459dfe61,Theatre manager,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Linux|React|Android,Morogoro,MID,12581432,15910658
+834f2071-6722-4979-8252-3586799c625a,Product designer,8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Accounting|Auditing|Excel,Morogoro,ENTRY,6496817,11454957
+39f791fd-a170-46c9-af48-dedba95bfd0a,Chemical engineer,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Tax|Nursing|Energy Auditing|Renewables|Event Planning|Grid Management,Mwanza,ENTRY,10549375,15312641
+e7655f51-4cf0-4ab8-9830-73fbb750dae6,Publishing rights manager,662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Clinical Research|Patient Care|Nursing|Renewables,Dar es Salaam,ENTRY,6207859,7265496
+09794670-7b35-426e-a376-4b858f4c9d44,Environmental health practitioner,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Surveying|Excel|Agribusiness|Cloud|Django|Android,Kilimanjaro,SENIOR,10716561,15652084
+6435f488-8aef-4daf-ac5b-56a80631dfd5,Medical physicist,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Route Planning|Patient Care|Dispatch|Teaching|Logistics,Kilimanjaro,ENTRY,5790807,7424977
+30a3ca66-bd4b-4980-a1ef-cad1bd0a5545,"Engineer, electrical",fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Curriculum Design|Special Needs,Tanga,ENTRY,9344317,11101666
+68989a91-8ab3-49b4-8de2-d8b3e10cf7a4,Conference centre manager,577282c8-e038-4d16-98ee-72983a3b9398,Transport,Dispatch|Route Planning|Logistics,Mbeya,MID,6767805,9493460
+72c52377-20d0-4204-8d24-4a600b8df9a6,"Programmer, multimedia",6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,Curriculum Design|Special Needs|Energy Auditing|Counseling,Morogoro,ENTRY,3990830,8008253
+da287bd7-3879-41aa-908f-ebe138194cb9,Quantity surveyor,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Safety Compliance|Patient Care|Public Health|Lab Work|Energy Auditing|Teaching,Arusha,ENTRY,6196415,7867125
+1eed52f0-b481-4790-ab60-cd69f629efe8,Homeopath,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Special Needs|React|Counseling|Teaching|Financial Analysis|Django,Dodoma,ENTRY,12277045,15132131
+aad73ded-2a88-4068-ad31-0288aa57cdb3,"Production assistant, radio",cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Site Management|Surveying|Customer Service,Mwanza,MID,14353711,17484030
+331377fd-9fca-40c6-a5f2-dfd91d23afde,Interpreter,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Nursing|Patient Care|Lab Work|Auditing|Event Planning,Dar es Salaam,ENTRY,9556785,14186018
+edcda599-ccaa-4459-92b4-7553c613be39,Solicitor,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Nursing|Tour Guiding|Flutter|Customer Service|Event Planning,Mwanza,ENTRY,5995914,8222189
+8f03208c-ad87-4106-923c-64b7ede3cd52,Conference centre manager,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Site Management|Travel Planning|Tour Guiding|Hotel Management|Surveying,Mwanza,ENTRY,13734174,15191652
+dc0d8cd1-d3c9-4125-b84d-847300be0d76,"Designer, exhibition/display",fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Curriculum Design|Special Needs|Counseling|React,Tanga,ENTRY,14746180,19073501
+ecdf596c-674b-45e2-bfc7-7abbac302f91,Chemical engineer,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Python|React|Auditing|Cloud|Android,Mbeya,MID,14086938,15623637
+7076b976-86c2-4632-913f-a31e93d5e4e7,Museum/gallery exhibitions officer,935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Surveying|Dispatch|Driving|Counseling|Linux|Logistics,Arusha,SENIOR,9348422,14047180
+9981ed9a-af24-4284-b00a-03c0d6df517c,Printmaker,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Networking|Accounting|Flutter|Agribusiness|Cloud,Mbeya,MID,13289036,14321351
+98b67362-156b-41da-addf-5b24d262483d,"Programmer, applications",10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Accounting|Linux|Event Planning|Django|Android,Kilimanjaro,ENTRY,10030798,13127152
+3d7a3dba-7a0c-455f-b4bb-8d8a64e0f476,Sports therapist,fc7b5617-f245-4fdb-964b-40cbd3fe9630,Finance,Accounting|Renewables|Auditing|Financial Analysis|Civil Engineering|Event Planning,Mbeya,ENTRY,4583157,5825194
+f1071f51-d669-40f6-b00d-318b732283e5,Applications developer,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Flutter|Django|Python,Zanzibar,MID,7133748,8159424
+bf8e6a23-edf6-43bc-a8f7-b176567d96d4,Exercise physiologist,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Clinical Research|Nursing|AutoCAD|Public Health,Dodoma,MID,6169629,6725661
+936c9102-386e-4ef0-88ea-fb461c7eb4a3,Public affairs consultant,9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Driving|Logistics|Dispatch,Moshi,ENTRY,11322181,12198280
+4ad22429-b42f-4fc3-8aee-ec1f497228c0,"Designer, graphic",278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Nursing|Accounting|Surveying|Soil Science|Livestock|Crop Science,Zanzibar,MID,12435400,13808595
+c589b470-b1db-4245-abc8-5a3f26dc3569,Commercial art gallery manager,9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Tax|Financial Analysis|Auditing,Morogoro,MID,10068400,14930978
+c5d0a165-506a-45d3-9214-da1e98d52db6,Retail merchandiser,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,eLearning|Counseling|Irrigation|Teaching,Kilimanjaro,ENTRY,5232161,9360804
+3d10af61-10ef-4810-9f88-8a48145df8b1,Multimedia programmer,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Tax|Safety Compliance|Patient Care|Nursing|Clinical Research|Django,Dodoma,ENTRY,4914326,8286899
+8ca2a77d-3209-476e-a095-ad9c3dd80cb5,Materials engineer,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Patient Care|React|Lab Work|Public Health,Kilimanjaro,SENIOR,11152862,16001958
+0d8f8362-0170-441f-9b87-57936fd89783,"Social research officer, government",c832a6fc-ba23-45c8-a256-9353024c2351,Healthcare,Clinical Research|Patient Care|Lab Work|Crop Science,Mbeya,ENTRY,5568047,7164621
+0dac84fb-172d-4609-bae7-a6c846f25e6b,Special effects artist,8f61b7f8-508b-43d4-b4cf-ae05ed6c2dcd,Finance,Tax|Tour Guiding|Accounting|Financial Analysis|Event Planning,Mbeya,MID,3786625,6663443
+2b0d56b0-ab35-40ac-8ce9-024f9c1bf854,Interior and spatial designer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Grid Management|Renewables|Maintenance|Hotel Management,Morogoro,SENIOR,10089494,12050501
+98855096-5f38-4589-a8bf-f0506b2d4fe6,Homeopath,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Tour Guiding|Hotel Management|Irrigation|Electrical Engineering|Cloud|Event Planning,Moshi,SENIOR,8786522,10060665
+e856fd41-b9c8-48b4-ac39-2d6d1a2a229b,"Scientist, water quality",20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Accounting|Financial Analysis|Excel,Mbeya,MID,7196019,9819726
+e900fd06-0670-49c6-96d8-de4bcf680765,"Embryologist, clinical",a57e02f0-003d-4305-ade2-09ba92978ded,Healthcare,Public Health|Nursing|Patient Care,Tanga,ENTRY,9686231,10687658
+de31bc6e-022c-4881-8c67-151480e8ed9d,Music tutor,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Patient Care|Nursing|Customer Service|Clinical Research|Renewables|Cloud,Dar es Salaam,ENTRY,4787394,6513870
+e0f4d672-ea2c-4589-b325-faa02326c100,Minerals surveyor,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Travel Planning|Customer Service|Tour Guiding,Moshi,MID,13695561,16676897
+dabe6d96-4050-4d7d-8700-1d12ff3cd1f0,Paramedic,f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,Special Needs|Travel Planning|eLearning|Agribusiness|Curriculum Design|Linux,Morogoro,ENTRY,6363825,7320317
+e558ed70-9c26-4816-b5a8-f92402dbcca8,Chief Operating Officer,3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Dispatch|Site Management|Logistics|Fleet Management,Mwanza,MID,13264580,16293524
+69b89de7-623d-41f9-a935-a8e0297c9b27,"Therapist, nutritional",0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Dispatch|Logistics|Customer Service|Fleet Management,Dar es Salaam,MID,11099009,12820020
+e05e1545-18b1-4e6b-a332-92ec17b43898,"Development worker, international aid",ac0b8d36-c8bd-4c7f-ac4e-23602819990c,Agriculture,Agribusiness|Special Needs|Soil Science|Crop Science,Kilimanjaro,MID,11348266,15687878
+7d662f1b-9a16-4ef5-ad0d-f506b384dc90,Energy manager,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Networking|Cloud|React|Excel,Arusha,ENTRY,7942005,9221999
+16367692-221b-4475-8020-15dd6a6cfdf5,Therapeutic radiographer,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Soil Science|Dispatch|Logistics|Civil Engineering|Livestock|Crop Science,Arusha,ENTRY,14332426,15993017
+9b72f1a7-5282-41c5-b6df-d19397dc1c09,"Civil engineer, consulting",5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Curriculum Design|Special Needs|Teaching,Kilimanjaro,ENTRY,13810337,16062687
+cb383871-0c52-4177-8da1-39d89b171ff1,"Engineer, manufacturing systems",e848bb32-c11b-4cac-9f35-135e418a509d,Construction,Site Management|Surveying|AutoCAD|Excel,Arusha,ENTRY,8688361,11707740
+657e4758-44f2-40a7-b492-0a75d9d2bc86,Radio producer,f4925905-a04b-44a5-858c-921074310b89,Agriculture,Irrigation|eLearning|Soil Science|Teaching|Livestock,Arusha,MID,12057858,13854556
+5e2d5966-71a1-4c60-8c67-76ca6c219285,Commercial/residential surveyor,92476997-1b7a-4264-bbd7-d55603f7a1fd,Agriculture,Tax|Irrigation|Flutter|Agribusiness|Fleet Management|Crop Science,Dodoma,MID,10452871,11107725
+647c319f-2925-4417-9b06-20725968ae41,Illustrator,df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Route Planning|Agribusiness|Logistics|Event Planning|Fleet Management,Kilimanjaro,ENTRY,13150387,14339952
+fa24d7b5-1c57-46a3-8b1e-f5fa0e93c326,"Geneticist, molecular",18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Accounting|Flutter|Excel|Dispatch|Auditing,Kilimanjaro,ENTRY,11677703,13977584
+4547c680-5477-4a4f-91f3-95b3c7b503f2,Media buyer,7498e94f-7bc2-4de1-b02d-3aafa17b693f,Healthcare,Networking|Patient Care|Public Health|Lab Work|Clinical Research,Mbeya,MID,5966327,10934866
+2efa57e7-8e36-4f77-947d-742e5dee66d4,Museum/gallery curator,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Networking|Patient Care|Irrigation|Lab Work|Clinical Research|Logistics,Dar es Salaam,SENIOR,6642938,8644939
+8e8c67b6-4a7d-4970-b430-4139c6dde96a,Veterinary surgeon,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Networking|Irrigation|Hotel Management|Accounting|Agribusiness|Crop Science,Zanzibar,MID,5793646,7418273
+5fffc8de-2fa8-43dd-bad3-79d6bca0b517,Chief Strategy Officer,91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Curriculum Design|Special Needs|Teaching,Mbeya,ENTRY,7686383,8474079
+8ce982f4-89c9-4bd7-8298-053fe37f8daf,Human resources officer,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Safety Compliance|Tour Guiding|Customer Service|Event Planning|Grid Management,Mbeya,ENTRY,7804233,11770205
+17ee8c0e-2f6d-4292-9009-28dd193d9b13,Personnel officer,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Grid Management|Energy Auditing|Maintenance,Mwanza,ENTRY,5844788,6895368
+4080d408-5310-49b4-817b-404533b16f16,Psychiatric nurse,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Route Planning|Excel|Teaching|Logistics|Fleet Management,Kilimanjaro,ENTRY,6990782,10647338
+7d83317c-f780-4b89-9c4a-81f4107da693,Occupational psychologist,1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Lab Work|Soil Science|Clinical Research|Agribusiness|Counseling|Crop Science,Arusha,MID,5659413,6723471
+4e3617e4-84e1-4af1-b8f7-891d98ac82bc,Early years teacher,b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Nursing|Patient Care|Public Health,Kilimanjaro,SENIOR,13718361,18371804
+a4f90050-276e-409f-860d-bda70da27e18,"Surveyor, insurance",8b9b2373-fe87-42ab-9fef-e32d777f8688,Agriculture,Irrigation|Lab Work|Civil Engineering|Livestock|Crop Science,Morogoro,MID,8002465,10713219
+01ec7515-1dc6-4712-a5a0-0d304061e46b,"Engineer, civil (consulting)",91be57b6-1c98-4fcb-b3eb-8b02d29ee1ae,Education,Special Needs|eLearning|Maintenance|Curriculum Design|Event Planning|Android,Mbeya,ENTRY,14256678,15829650
+7490f8c5-77a9-4446-8189-c7e2a7de80d6,Consulting civil engineer,f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,Curriculum Design|Clinical Research|Special Needs|Counseling,Morogoro,SENIOR,13893545,18709907
+33cc4016-8ed8-460c-8016-5a1dc9eb4f9a,Acupuncturist,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,Special Needs|eLearning|Flutter|Soil Science|Maintenance|Curriculum Design,Arusha,ENTRY,6913733,10458930
+de1118dc-53b9-4b14-9290-9a29ba57cd8e,Medical laboratory scientific officer,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Tour Guiding|Hotel Management|Irrigation|React|Cloud|Android,Arusha,MID,4648468,7908475
+1719e332-c31d-4ac8-8b0d-3b56aaece4fb,Print production planner,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Nursing|Django|Patient Care|Clinical Research|Livestock,Dar es Salaam,MID,8429539,10192084
+06d52c38-a720-4ea3-9680-90ab868031eb,Personal assistant,ee3bc8a1-b665-4a98-8312-c01e6fd81286,Healthcare,Patient Care|Electrical Engineering|Lab Work|Public Health,Kilimanjaro,SENIOR,11123355,12250148
+6d8c4306-bc24-4728-8c02-60036f324687,Microbiologist,d81fb6c1-7a01-4ffc-b79d-cee5489c3e23,Energy,eLearning|Maintenance|Energy Auditing|Grid Management,Mwanza,MID,11063136,12887896
+2e54c437-3b23-4dba-be1e-dbf539d447fe,Insurance account manager,e848bb32-c11b-4cac-9f35-135e418a509d,Construction,Safety Compliance|Patient Care|Python|Civil Engineering|AutoCAD|Django,Arusha,SENIOR,11005563,12744656
+189b575a-1032-493c-8464-73d16560938e,Fitness centre manager,845d194d-ef62-46ff-a371-b7e698043b63,ICT,SQL|Cloud|React,Moshi,MID,10542473,11243097
+3eb789e5-f2c8-41cd-8571-b40f2b6c7907,Higher education lecturer,7ed816aa-e4a2-48e0-8922-4717bca153ce,ICT,Networking|Flutter|Travel Planning|React,Arusha,ENTRY,12536995,16100154
+bcaa899b-112e-4f1e-8ac5-b3c2b36e6623,"Surveyor, land/geomatics",cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Special Needs|Site Management|Soil Science|AutoCAD,Mwanza,MID,8404640,11977921
+fe3c5321-914f-4b54-9f13-51cbb46111eb,Contracting civil engineer,1a010c19-9c5b-4da9-b29a-ecfd134aa98b,Energy,Renewables|Energy Auditing|Auditing|Maintenance,Mwanza,ENTRY,11753381,15874952
+5f7a123a-5edf-487c-a77f-9f0862b4a622,Estate manager/land agent,fc7b5617-f245-4fdb-964b-40cbd3fe9630,Finance,Tax|Financial Analysis|Excel,Mbeya,ENTRY,3690348,6134519
+7e50f670-6725-416a-a6fe-08dc216e0ae5,Radio broadcast assistant,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Route Planning|Nursing|Public Health|Lab Work|Linux,Tanga,MID,6737399,10634964
+f80305ac-0a77-4437-903f-e0311cb5ce04,Armed forces logistics/support/administrative officer,959582da-28a0-4a8c-b245-ca942ab7e376,Healthcare,Nursing|Lab Work|Excel|Public Health,Zanzibar,MID,13121826,16352445
+6e55b21f-36f8-491c-bfe3-839b6fdeda16,"Designer, television/film set",1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Electrical Engineering|Livestock|Agribusiness|Irrigation,Arusha,MID,5688867,7685122
+13cbc76b-e2ca-4e41-9ba8-695efd650cca,"Surveyor, insurance",b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Patient Care|Tour Guiding|Lab Work|Public Health,Kilimanjaro,SENIOR,8437207,12521939
+f4475da4-5101-470c-bac0-c8865878b0c9,Technical brewer,d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Site Management|AutoCAD|Civil Engineering,Dar es Salaam,ENTRY,11774027,14078787
+9ac77fb6-f2ce-48d5-8293-8a8dd5168ad3,Adult guidance worker,c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Tax|Accounting|Auditing,Dar es Salaam,ENTRY,9828170,10724643
+13059ada-2b36-4dec-9d33-c7fd5f3b4814,Accounting technician,4e690701-93d5-49ec-8f2b-f8196544ae43,Education,Tax|eLearning|Maintenance|Teaching|Curriculum Design|Django,Morogoro,ENTRY,11324794,16190704
+cf078255-0420-4a9c-8a7a-96ae2581a14f,Banker,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Customer Service|Event Planning|Hotel Management,Mwanza,SENIOR,14986106,16971600
+3d7f206d-f37e-4004-bc32-3c3ccc92c463,Water engineer,3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,eLearning|Nursing|Special Needs|Teaching,Dar es Salaam,ENTRY,9976446,12726198
+d87e4c3f-41c2-406e-8f28-e41158054708,"Administrator, local government",619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Electrical Engineering|Energy Auditing|SQL|Maintenance,Arusha,MID,10155317,11972905
+e6e4dc44-ac9b-4683-af7e-d772663623f6,Camera operator,91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Agribusiness|Soil Science|Crop Science,Moshi,ENTRY,4062127,8481834
+ac1b2da4-10fb-42bb-8d3c-4dc6509fb7f0,Archaeologist,79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Clinical Research|Lab Work|Nursing,Dodoma,ENTRY,3002680,5903034
+5bc75564-11af-4fe4-bd75-e27089e5dc08,English as a second language teacher,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Site Management|Python|eLearning|Maintenance|Teaching|Curriculum Design,Tanga,SENIOR,9034932,11724600
+455cdeff-2d94-4131-92d0-409059e934eb,Television/film/video producer,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Financial Analysis|Excel,Tanga,ENTRY,4344540,9180069
+1c55744d-df4c-4b11-a6d2-c0cf7114f71e,"Engineer, materials",c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Accounting|Auditing|Excel,Dar es Salaam,MID,7865797,12108284
+a70305f4-12a8-4c51-8c0a-b91cfdf52a15,Training and development officer,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Django|React|Python,Arusha,ENTRY,5352864,8769157
+665a0e6f-cfe1-4178-a244-edba6246f9b0,"Engineer, energy",16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Nursing|Site Management|Lab Work|Clinical Research|Grid Management,Dar es Salaam,MID,7299849,12134410
+30339d5a-38bb-462c-9a36-69a6b148f8ff,"Accountant, chartered certified",9de29478-d2ef-4cf3-8881-5316123e35de,Transport,Route Planning|Public Health|eLearning|Soil Science|Driving|Logistics,Moshi,MID,9541384,10958684
+e622e9c0-02a3-4338-aad9-1f678e95d5ea,Copy,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,SQL|Cloud|Django,Kilimanjaro,SENIOR,14993540,18688377
+64d7d520-823d-476b-9228-ef54226d1a25,Careers information officer,4555d314-a979-4209-9f1e-fe1115327374,Energy,Energy Auditing|Maintenance|Grid Management,Mwanza,ENTRY,8935046,10804014
+6a415552-117f-456e-a0ea-959492a6b3b1,"Pharmacist, hospital",c26fad26-5b1b-4f67-ad35-74bd8a0e9946,Finance,Patient Care|Hotel Management|Accounting|SQL|Auditing|Financial Analysis,Dar es Salaam,ENTRY,11834483,14288116
+78d2f7ae-6254-42ea-8ae5-4cc9cfa0dc67,Television production assistant,b5055950-1432-489f-b3f6-af927f38463a,Healthcare,Patient Care|Public Health|Lab Work|Soil Science|Grid Management,Kilimanjaro,MID,6842071,8808349
+ba5e929a-cd50-420c-ae40-c285bd77ce9d,Hydrogeologist,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Safety Compliance|Travel Planning|Hotel Management|SQL|Customer Service,Dodoma,SENIOR,7671294,10048582
+eff81e6f-e592-4fa4-be01-73dc3195c260,Surgeon,5bfc6877-2057-4f41-aa29-91380b903e62,ICT,Python|eLearning|Linux|Cloud|Android,Arusha,SENIOR,11761155,13163877
+1e65715d-5156-43cf-8e24-41e9c770adf2,Magazine journalist,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Safety Compliance|Energy Auditing|Renewables|Maintenance|Django,Mwanza,MID,4854981,8550878
+6af626c1-dd4a-4003-a147-267dc679eaea,Statistician,54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Clinical Research|Nursing|Public Health,Morogoro,MID,14846231,17012298
+180504a7-8a12-446a-896a-0955f039a944,Civil Service administrator,0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Travel Planning|Hotel Management|SQL|Electrical Engineering|Customer Service,Mbeya,ENTRY,7320324,11271635
+86efe102-cf24-4774-96f9-fa2ccc1ca541,Risk manager,0911bdea-4d96-424d-b852-a0430c2ccad2,Transport,Dispatch|Site Management|Logistics|Fleet Management,Dar es Salaam,ENTRY,8723669,13121047
+bac88cba-78e9-4e7b-a631-b64be71535cf,Human resources officer,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Site Management|AutoCAD|Android,Dodoma,MID,10528114,12754742
+c2be98b4-7906-452a-ab66-f8ff32e5a1b4,Intelligence analyst,42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Tax|Renewables|Auditing|Excel,Zanzibar,MID,11335392,11993601
+07bbf0f1-511c-440f-b93e-5f649e8aca9d,"Conservator, furniture",7c6ea258-3ff3-4233-b6d8-940a8fa8f24b,Tourism,Route Planning|Travel Planning|Customer Service|Tour Guiding,Dar es Salaam,ENTRY,4058144,8424864
+1fed1aeb-73c7-4cb9-addc-cdd95a91a911,Building services engineer,5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Electrical Engineering|Accounting|Energy Auditing|Soil Science|Clinical Research|Renewables,Morogoro,ENTRY,6688637,8739380
+c023c038-53e2-45bc-a44b-8deaeb358fd6,Sales executive,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Route Planning|Special Needs|eLearning|Curriculum Design|Livestock,Dodoma,MID,14278137,19089764
+3287c9eb-ee93-4f34-ad55-c14c3b0e3f06,"Conservation officer, nature",54de95f9-6e3a-438c-9d25-20d4d03134d3,Healthcare,Public Health|Lab Work|Energy Auditing|Excel|Clinical Research|Civil Engineering,Morogoro,MID,6860654,9959524
+bd23571d-8afe-493b-bdfd-02e979b1f358,Herpetologist,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Special Needs|eLearning|Electrical Engineering|Surveying|Counseling|Auditing,Tanga,SENIOR,3423464,6162391
+e731ef2c-c9ec-4eb7-a095-9c59d6e7e004,Clinical biochemist,80143d38-70d1-400a-9e3d-18e8913e5977,Healthcare,Nursing|Site Management|Patient Care|Clinical Research|AutoCAD,Tanga,MID,6242011,8613920
+57e752cd-aba1-4d31-bea7-83c66da52f3b,Public relations officer,9127bf7a-5546-4800-9c69-586279f9aff2,Finance,Tax|Excel|Maintenance|Financial Analysis|Fleet Management,Morogoro,ENTRY,5671095,8518295
+cd60f473-4302-4247-af80-c93a3ce397c2,Best boy,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Patient Care|Counseling|Teaching|Curriculum Design|Civil Engineering,Tanga,MID,13436790,15080649
+9ee417b4-63a0-4312-b71a-95182effbebe,"Engineer, building services",ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Grid Management|Accounting|Energy Auditing|Maintenance,Mbeya,ENTRY,13567520,18280234
+916e9c27-f4fc-4de1-8ab8-145e0b45d24e,Amenity horticulturist,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,Safety Compliance|Patient Care|Site Management|Dispatch|Civil Engineering|AutoCAD,Dodoma,MID,13469265,15735601
+564b4a2b-8b18-4692-ba04-22dc6118d55b,Intelligence analyst,e6f2cfa0-6d9b-438c-b3f1-ab4e43752400,Healthcare,Patient Care|Lab Work|Public Health,Mbeya,ENTRY,8362069,12993666
+6bdaf125-ca05-4716-877d-ac0e4dae048d,Claims inspector/assessor,619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Electrical Engineering|Energy Auditing|Customer Service|Maintenance|Livestock|Grid Management,Arusha,ENTRY,11376738,12968112
+77a9278d-6771-4358-8c20-ddf66d2bdc7b,Equities trader,577282c8-e038-4d16-98ee-72983a3b9398,Transport,Driving|Logistics|Fleet Management,Mbeya,MID,10867883,12243256
+6c123a95-5b7c-40b1-b0d4-7cc4fb325454,Textile designer,577282c8-e038-4d16-98ee-72983a3b9398,Transport,Dispatch|Logistics|Driving|Fleet Management,Mbeya,ENTRY,7460863,11406628
+a26e599f-c2f2-4cfc-9ac0-8d358d801cab,Surgeon,619bd277-3a5b-4072-a873-9995e9c0ccb1,Energy,Grid Management|Electrical Engineering|Maintenance,Arusha,ENTRY,6511902,8903557
+3a4093ae-e930-4fc9-b679-aa8ad47c546d,Acupuncturist,20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Driving|Accounting|Financial Analysis|Auditing,Mbeya,MID,12007447,14019993
+7aff215c-5b3e-4cdb-935e-2d1fe48e73f3,Clinical biochemist,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Public Health|Electrical Engineering|Lab Work|Clinical Research|Counseling|Civil Engineering,Arusha,ENTRY,9083467,14014102
+433d8a7c-358c-4aca-8e41-6a2c71ef8e69,Learning disability nurse,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,Special Needs|eLearning|Renewables|Counseling|Teaching|Android,Kilimanjaro,SENIOR,3353629,4045992
+48a30926-3597-43e0-b013-834a41a31d8d,Acupuncturist,e2ede0e4-f67e-42bc-a36c-be2a4c03d6e9,Education,Networking|Special Needs|Counseling|Teaching,Dodoma,ENTRY,13774913,14800016
+1830753b-b188-4dc0-bb20-ea044eb84fa5,"Designer, exhibition/display",0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Tour Guiding|Hotel Management|Customer Service|Clinical Research|Grid Management,Mbeya,ENTRY,9443721,12774443
+1d89a3cb-dbf9-4166-a58a-0f97db51f1df,Copy,662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Safety Compliance|Public Health|Lab Work|Surveying|Clinical Research|Fleet Management,Dar es Salaam,SENIOR,12952939,14621393
+131cbc50-ef07-4b50-b69a-3b1cb680fc76,Science writer,6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,eLearning|Special Needs|Teaching,Morogoro,ENTRY,10466337,12976887
+2cd649ca-096f-47da-b3dc-211f24ed9ac3,Operations geologist,91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Travel Planning|Tour Guiding|Agribusiness|Cloud|Livestock|Crop Science,Moshi,MID,7022827,10814595
+01bde721-2666-4bd9-87ef-a8c998a8cb4a,Financial trader,d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Dispatch|Route Planning|Logistics,Mwanza,ENTRY,9879557,10843046
+1ac2069d-d04e-4e42-8667-f23af8b65a75,Toxicologist,4b3fdb38-d33d-4a9a-ab34-8f1f3d5b4f4b,Construction,eLearning|Surveying|Soil Science|Civil Engineering|AutoCAD,Dodoma,ENTRY,13020173,15660227
+f28da28d-27c3-43f1-9f14-1c3881b0e25d,Chief of Staff,278e3ae5-b473-4a81-9502-63fc4a205b5e,Agriculture,Agribusiness|Irrigation|Crop Science,Zanzibar,MID,10797567,12400459
+1795aa10-6f5e-4cb2-a5a5-95680ac47abc,"Sales professional, IT",d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Driving|Route Planning|Logistics|Curriculum Design,Mwanza,ENTRY,4294175,9085068
+518b4fe3-232c-41c9-a9da-ecee7f2ad4ff,Sports coach,84de95c3-ce38-491b-8744-0e62040bd430,Finance,Special Needs|Accounting|Excel|Auditing|Teaching|Android,Tanga,SENIOR,11473253,15529347
+79cce044-7fbb-4000-9e6f-5eddff8bc13a,"Programme researcher, broadcasting/film/video",bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,SQL|Flutter|Event Planning|Python,Zanzibar,ENTRY,11616315,13545898
+92a8c3f0-981e-4496-9ab3-a734aa1b45b4,Pharmacologist,6ceec89d-88ce-410c-9a1b-9537d79c506a,Tourism,Travel Planning|Tour Guiding|Customer Service|Renewables|Counseling,Dodoma,MID,4107288,6709706
+e868aa25-72d4-4787-b366-31f29a256379,Secondary school teacher,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Nursing|Public Health|Lab Work|React|Linux,Tanga,MID,6587631,10562785
+6b826e6f-7763-44cc-a969-3c9778eeb3e7,Microbiologist,662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Python|Public Health|Accounting|Lab Work|Clinical Research,Dar es Salaam,ENTRY,13402711,18135305
+9fbce180-da9b-4b1c-914a-9e019fa3d8fd,Arts administrator,cb163982-3ecc-4953-9357-91af843b2dad,Construction,Safety Compliance|Site Management|Lab Work|Surveying|Civil Engineering,Mwanza,MID,6270155,11251836
+f5cb0856-dd74-4b28-943e-14fe87920902,"Designer, interior/spatial",810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Tax|Networking|Tour Guiding|Hotel Management|Customer Service,Mwanza,MID,9709161,10900410
+beb6eb15-5bd7-447f-87d0-484806f17c67,"Nurse, learning disability",853f8c74-9c64-4c23-92c0-25b33d1370a7,Construction,Safety Compliance|Site Management|Auditing|Civil Engineering|Livestock,Morogoro,ENTRY,10258964,10872532
+78f41c46-dbd7-49cd-bdd9-1f22c91c21b2,"Accountant, chartered",5bd64a20-14f7-495b-a4c1-bbb072e7bed9,Energy,Grid Management|Electrical Engineering|Maintenance,Morogoro,MID,12898678,16149725
+891372e3-3630-45b6-82f6-f9c0bd065d8a,Research scientist (physical sciences),789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Nursing|Patient Care|Python|SQL|Lab Work|Surveying,Kilimanjaro,ENTRY,12563886,17293129
+333ed115-2513-4d01-92f7-640102125140,Public house manager,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Safety Compliance|Site Management|Surveying|Android,Kilimanjaro,ENTRY,7995640,9573789
+941abdfa-65f0-45cf-8cf4-57ec7bc1f335,Cartographer,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Clinical Research|Nursing|Excel|Patient Care,Kilimanjaro,SENIOR,5456477,9733561
+143dd2fd-efe5-4b29-aaf8-7d1cacab8a44,International aid/development worker,d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,eLearning|Curriculum Design|Special Needs,Morogoro,ENTRY,11881800,14770224
+9cfbfe29-8161-4c70-9a30-fcbca1ac850a,"Scientist, product/process development",8d2067d2-5cc1-4367-afed-9340b66a2cb5,Finance,Tax|Financial Analysis|Lab Work|Auditing,Morogoro,MID,7629400,9649053
+74b9b2ba-d4bd-4d83-afbd-c343f5554cb3,Public house manager,e848bb32-c11b-4cac-9f35-135e418a509d,Construction,Surveying|Civil Engineering|AutoCAD,Arusha,MID,7748514,11775383
+565ad42d-5d43-4537-a91e-436f5be9b020,"Chemist, analytical",84de95c3-ce38-491b-8744-0e62040bd430,Finance,Tax|Excel|Maintenance|Financial Analysis|AutoCAD,Tanga,MID,13609944,16505871
+a848183a-d64b-4c8a-91b8-42bb8566f25b,"Psychotherapist, child",ef047dd2-932c-41c4-93c8-43b14653ddf2,Energy,Grid Management|Renewables|Travel Planning|Maintenance,Mbeya,MID,3551312,6784254
+dab88ffc-6b8c-40e2-985f-1a79400172d1,Geophysicist/field seismologist,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Travel Planning|Tour Guiding|Irrigation|Customer Service|Event Planning|Android,Mwanza,ENTRY,11764389,16079516
+cf262a7d-ca64-4f47-bf93-6342fccbdced,Child psychotherapist,6566355a-b293-4682-bbc8-71c157280d7f,Healthcare,Clinical Research|Patient Care|Public Health,Tanga,ENTRY,11022965,14393190
+72f36469-ea1c-4ffb-9c84-36c5fc39428c,"Investment banker, corporate",16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Nursing|Lab Work|Patient Care,Dar es Salaam,SENIOR,8828795,9337022
+d1b1b29b-31bf-4d55-bd7e-e76c9c12e521,Surgeon,5e5a2f4f-7ab2-48a3-b1f8-92ddf03b5570,Education,eLearning|Agribusiness|Counseling|Teaching,Kilimanjaro,ENTRY,8411614,9830953
+8c99f03d-9bc5-4cd6-b27f-ec84f5ad4764,"Engineer, broadcasting (operations)",df8d2ff8-21ce-464b-9822-1523863fa1ee,Transport,Public Health|Driving|Agribusiness|Logistics|Fleet Management,Kilimanjaro,MID,11865708,12629823
+61f9974a-df73-4193-91ca-24571d316468,Equities trader,5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,eLearning|Special Needs|Counseling,Tanga,MID,14658554,16395780
+8a3e991a-475b-4c8f-90e6-95e2bf69aabf,Data scientist,a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Clinical Research|Lab Work|Nursing|Accounting,Arusha,ENTRY,12567607,14505077
+0d9ecf44-d438-4733-a8a5-4886387261a1,IT technical support officer,ba1c103e-ae78-475e-b98e-4628f2cd99bb,ICT,Networking|Python|SQL|Driving|Civil Engineering,Morogoro,ENTRY,11195781,14879836
+8ceebfe7-76ad-403d-9c26-4dc1fd2d6cad,Translator,56f04e2f-8346-486f-b150-65117682d795,Education,Irrigation|Public Health|eLearning|Counseling|Teaching,Dodoma,ENTRY,11409578,12668208
+75893820-770a-44b5-839c-b08594a295b4,Historic buildings inspector/conservation officer,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Special Needs|Flutter|Counseling|Teaching|Curriculum Design,Tanga,MID,6136077,9849186
+7ede52ad-fdc6-42c5-ad42-56f857ac63b8,Television/film/video producer,845d194d-ef62-46ff-a371-b7e698043b63,ICT,Python|Irrigation|SQL|Electrical Engineering|Django,Moshi,ENTRY,10869956,13700483
+ebe03457-fc34-4ea2-bd8c-835fbf189998,"Scientist, marine",d6abfc94-1ea1-42b6-8b85-3e42fd93cda3,Transport,Networking|Route Planning|Driving|Fleet Management|Android,Mwanza,SENIOR,4358713,6437750
+8c923105-0b01-40a6-b77c-5ec4a812e147,Health and safety adviser,d5c99fca-f0d3-4931-bb89-5ccd11441385,Education,Route Planning|Special Needs|Energy Auditing|Counseling|Curriculum Design,Morogoro,MID,14990516,18353138
+2379d9fb-0a99-4382-88df-f006af101d2e,Exhibition designer,785f4fde-fa9e-42e3-8247-19a14196f367,Energy,Electrical Engineering|Energy Auditing|React|Grid Management,Morogoro,ENTRY,9753197,10589690
+f59ff7eb-1aaa-4915-a713-5288bc9d479a,Event organiser,20ec925f-3085-4d6e-84bd-478d0c2d4afc,Finance,Tax|Financial Analysis|Customer Service|Accounting,Mbeya,MID,5409217,10090766
+91df98c0-726b-4a2f-b6bb-3728c3db6264,Soil scientist,70244441-258e-4cd3-8c04-b36c2921d89e,Construction,Surveying|Clinical Research|Civil Engineering|AutoCAD|Livestock,Morogoro,SENIOR,7837861,10375836
+10be105c-77e3-4b88-a595-1dff1327c5a8,Public relations officer,3f1b037a-488d-49c3-8e8c-733c5b61a71d,Education,eLearning|Curriculum Design|Teaching,Dar es Salaam,MID,5251029,6825939
+92efd4ef-ef49-4a7a-bf48-1375eb91803b,Osteopath,0e10baea-b67f-4b55-8650-e95c344afbb6,Tourism,Public Health|Travel Planning|Event Planning|Hotel Management,Mbeya,MID,12812826,16739767
+7c7e534d-5bcf-4e66-b8e2-af7e0bbd877a,"Copywriter, advertising",a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Nursing|Patient Care|Lab Work|Maintenance|Grid Management,Arusha,MID,6790765,8275609
+02216501-2afe-4cc4-a8fd-791247d3fbb4,"Engineer, civil (contracting)",91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Soil Science|Travel Planning|Livestock|Irrigation,Moshi,SENIOR,12932741,15952804
+6914bec9-1dd8-4046-a01b-5bca41c9d885,Aeronautical engineer,789e4d5a-3c83-48d7-9b80-25ffb62e3ed3,Healthcare,Clinical Research|Lab Work|Public Health,Kilimanjaro,MID,5122520,9937774
+9dcc6368-fd37-4beb-991d-30453dab2990,"Lecturer, further education",a5f3b3d7-294a-4b72-9b08-f61cb88b571b,Healthcare,Clinical Research|Nursing|Event Planning|Patient Care,Arusha,ENTRY,11862886,14128285
+a6feed4d-96f7-486d-b32e-2682e91c1bfc,Theatre director,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,eLearning|Flutter|Crop Science|Linux|Django|Android,Mbeya,ENTRY,11833533,12514137
+b733b14f-4026-44e6-9790-9c8d73cf65ed,"Editor, film/video",79dbf2ce-0b5e-4366-9dab-5bb502af6b3b,Healthcare,Clinical Research|Nursing|Auditing|Lab Work,Dodoma,SENIOR,3741105,7151747
+5effbaf9-a1a7-4d80-a287-a51a66aced19,Land,16fe2211-dae4-4dd8-8488-00feaa7ea7fd,Healthcare,Nursing|Patient Care|Lab Work|Renewables|Logistics,Dar es Salaam,ENTRY,3853535,7455627
+9c0feb19-61ee-444a-8856-f1e3cb60eb41,Firefighter,d1157b2d-af8b-431b-bacb-bcf733c5e8ff,Construction,Safety Compliance|Site Management|Surveying|AutoCAD,Dar es Salaam,ENTRY,7363936,9993493
+d8606338-ad5c-43a0-89b7-e26e5e7ed7b8,"Surveyor, mining",d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Tax|Customer Service|Soil Science|Excel|Financial Analysis,Dodoma,ENTRY,3417268,8003423
+88310b18-4813-414c-b0ce-4ebc260c989f,General practice doctor,dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Customer Service|Tour Guiding|Hotel Management,Mwanza,SENIOR,5852338,7466973
+6ed4af74-f5af-4175-9ad0-d5585390e336,Mechanical engineer,5f54a9ea-ebbd-488f-a28b-c62c60549c5f,Energy,Electrical Engineering|Energy Auditing|Maintenance,Mwanza,SENIOR,12441080,14800462
+490088e4-7b4f-422e-b145-2dafe48b0d80,Adult nurse,f40d1917-9ca2-4eee-bdad-5083c4ea9924,Education,eLearning|Curriculum Design|Site Management|Special Needs,Morogoro,MID,11097198,15307901
+54280c07-81cc-4373-85db-fdd77fafe9c0,Proofreader,688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,Tax|Special Needs|eLearning|SQL|Counseling,Arusha,ENTRY,5567392,8265443
+c7ce3525-8451-47f2-be34-fe468f38ce4e,Materials engineer,f4925905-a04b-44a5-858c-921074310b89,Agriculture,Irrigation|Hotel Management|eLearning|Soil Science|Maintenance|Livestock,Arusha,ENTRY,8673515,9469180
+693d1b5c-095e-49af-85b0-d25cb8308cd6,Actor,c58b87c4-cbee-4be4-a3d6-0755728f3a69,Tourism,Travel Planning|Customer Service|Tour Guiding,Mbeya,ENTRY,11575187,15291142
+203f2c55-50c8-47d4-9dc8-f009bf963509,Leisure centre manager,42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Accounting|Financial Analysis|Excel,Zanzibar,SENIOR,4136153,5348213
+7b547b22-85b7-4702-bbd1-1a9005297e85,Legal executive,18b234ac-c031-4e00-94e0-c8c4865d3250,Finance,Tax|Accounting|Excel,Kilimanjaro,ENTRY,3215603,4968164
+a8c0c031-6b94-45af-a5c5-e450033d80ac,Podiatrist,810f53ff-1fe2-4f98-b708-303f24f11fae,Tourism,Customer Service|Tour Guiding|Hotel Management,Mwanza,ENTRY,11877213,15486091
+5b655748-f754-4dca-b8b8-2d517d9bae9b,"Education officer, community",56f04e2f-8346-486f-b150-65117682d795,Education,eLearning|Special Needs|Public Health|Teaching,Dodoma,ENTRY,11965955,15825634
+543ead4a-fef9-492c-92f3-c471d6cc5ee0,Broadcast presenter,03e33634-d9db-4718-9d7b-77bcba1da2f2,Construction,Site Management|Irrigation|Public Health|Surveying|Linux|Civil Engineering,Kilimanjaro,ENTRY,7601024,11216574
+3f9b125c-0dc8-4a03-936a-33f4bb6010a4,"Education officer, museum",6fbfb1c7-2e08-463e-aebd-d7aff6a982d7,Education,eLearning|Accounting|Counseling|Teaching,Morogoro,ENTRY,8092902,11611829
+eb3a078c-ebfa-4a78-a79d-6c3d55068777,"Administrator, charities/voluntary organisations",91291ad4-ac3c-4cd8-9e2c-1e751ac61d3c,Agriculture,Patient Care|Irrigation|Lab Work|Excel|Agribusiness|Livestock,Moshi,MID,12042677,16014612
+f63e32b9-4b80-4aed-9444-917faf2ae9b2,Psychiatrist,3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Safety Compliance|Route Planning|Surveying|Driving|Fleet Management,Mwanza,ENTRY,3166478,5953407
+a855146c-fd59-4e94-9910-63e90cb8e4ed,General practice doctor,5503e3b9-de68-4602-b6ff-fff3ff2d6769,Education,Special Needs|eLearning|SQL|Lab Work|Counseling,Arusha,MID,9910040,13124462
+331d156e-39b0-45cb-9ce3-70f2a39768af,"Therapist, drama",662cee6b-c43f-4bc6-a2a8-3eef7a9283f6,Healthcare,Nursing|Python|Accounting|Lab Work|Soil Science|Clinical Research,Dar es Salaam,SENIOR,10078063,11358308
+e8fea687-e3c6-4825-9a84-d15e9b1078b8,"Designer, fashion/clothing",5f159f0e-a8c7-4c38-9e37-412ac3171a73,Education,Special Needs|eLearning|Excel|Clinical Research|Counseling|Curriculum Design,Tanga,SENIOR,14252332,19159972
+6b271374-2de1-49fb-84d5-882447153f2d,"Designer, jewellery",935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Route Planning|Dispatch|Logistics|AutoCAD|Fleet Management,Arusha,MID,5406826,9496897
+61820351-fe87-407c-8f49-cc94447c6b5b,"Designer, textile",1ad2b0c7-c86e-48a0-8402-5b5cffe19bd5,Agriculture,Agribusiness|Livestock|Irrigation,Arusha,SENIOR,5238461,6836453
+4e94b3dc-cc28-40e5-b305-3128f41d926d,Garment/textile technologist,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,eLearning|Curriculum Design|Counseling,Tanga,MID,6316707,9186941
+ad2d9f92-386b-4bec-90ac-bc55f604ff64,Clinical research associate,53dd3ba1-c0b8-44ac-90c9-827d31a880c4,Transport,Driving|Tour Guiding|Fleet Management|Dispatch,Kilimanjaro,ENTRY,11093725,14406615
+0c838630-e51d-4cc9-8f1e-9191d3853db3,Freight forwarder,688f9cd0-f735-4045-a725-b5ed5d6dfd21,Education,Special Needs|eLearning|Renewables|Teaching|Event Planning,Arusha,MID,3431650,5852790
+07f5a30a-d1ca-4f03-9219-3e7766bcf733,"Surveyor, commercial/residential",e6f2cfa0-6d9b-438c-b3f1-ab4e43752400,Healthcare,Clinical Research|Patient Care|Public Health,Mbeya,ENTRY,8406998,11310896
+801c06af-7056-4c43-8c6a-6c97c9ef0473,"Engineer, chemical",dac75e69-d30a-40ad-af6a-b86eb179c74d,Tourism,Curriculum Design|Travel Planning|Tour Guiding|Hotel Management,Mwanza,MID,7881786,8974632
+f633ac28-8f4e-4916-a763-f4471f4fd9b7,Cartographer,14c54684-7972-41c0-843a-d875ff497672,Construction,Patient Care|Site Management|Surveying|Civil Engineering,Arusha,SENIOR,10371529,11862333
+10f99d82-f193-4893-9dce-4fa16a24b25e,Stage manager,fc88a23d-71d1-4a72-ab49-83595a131b3a,Education,Dispatch|Curriculum Design|Counseling|Teaching,Tanga,ENTRY,12082044,13967341
+84b655b0-8590-473a-ade2-93f4d338c1cf,Set designer,1515a8a8-522d-4e36-9ca9-e56a4f8dbe4e,Tourism,Safety Compliance|Event Planning|Customer Service|Hotel Management,Moshi,ENTRY,4787829,7425991
+b6b03d25-da6c-4f5e-be87-62e95489e2f6,Site engineer,d0c52e26-b216-4a7b-9a3e-605b7c36aa4f,Finance,Tax|Excel|Financial Analysis|Grid Management|Crop Science,Dodoma,ENTRY,3008270,7715800
+6ce44162-4a7a-4ad3-93d0-f4d040aa2a15,General practice doctor,6faab0d9-d9a2-433e-951e-8c2adddb57d2,ICT,Python|React|Maintenance|AutoCAD|Django|Android,Mbeya,ENTRY,7356756,9585032
+6c441bbb-9d39-48dd-9111-42f8056ace7b,Public affairs consultant,bf0881fd-7c22-496f-ae7a-7ab7a4c7bf6a,ICT,Networking|Special Needs|React|Python,Zanzibar,ENTRY,7463987,11590002
+dbf83d62-ed48-479c-a5db-81919e3ac865,"Administrator, local government",935f5971-1e3f-492e-869c-a61d43b20ecb,Transport,Route Planning|Tour Guiding|Dispatch|Linux|Fleet Management,Arusha,ENTRY,14680651,15802548
+68775b87-fc60-41b1-8068-79d502ef5049,Clinical psychologist,56f04e2f-8346-486f-b150-65117682d795,Education,eLearning|Special Needs|Energy Auditing|Counseling,Dodoma,ENTRY,5483258,8659136
+425b06a6-5761-4fc3-9650-fb91bcf2157f,Geophysicist/field seismologist,42c8f869-a450-47e5-9bb3-efb89635903f,Finance,Tax|Route Planning|Excel|Clinical Research|Financial Analysis|Django,Zanzibar,MID,8227222,12372542
+b0b3a19c-edea-4a59-a543-7b27f7f6bc46,Town planner,10fdee54-ddb5-4a12-ae98-32d1bcf4959e,ICT,Networking|Python|Public Health|Flutter|Android,Kilimanjaro,MID,14707417,17249739
+f14d20e0-6d11-40d5-bc60-57f6acc32b6e,Actuary,3122ec9d-4032-49a8-9169-3c0129d811cf,Transport,Driving|Route Planning|Logistics|Maintenance,Mwanza,SENIOR,11809671,13956805
+6028fdb7-0c2a-479c-b185-34b88faad4e4,Building surveyor,2ec248ab-3682-4af5-9751-94386caacad2,Energy,Renewables|Energy Auditing|Cloud|Maintenance,Moshi,MID,4657869,9295788
