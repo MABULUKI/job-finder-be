@@ -64,12 +64,13 @@ class JobRecommendationView(generics.GenericAPIView):
         print(f"[DEBUG] Recommended job IDs: {[job.id for job in recommended]}")
         # Check if model is being used: print top scores
         import numpy as np
-        features = [__import__('core.ai.job_recommendation').ai.job_recommendation.extract_features(user.seeker_profile, job) for job in jobs]
+        from core.ai.job_recommendation import extract_job_features
+        features = [extract_job_features(user.seeker_profile, job) for job in jobs]
         if features:
             X = np.stack(features)
             from catboost import CatBoostClassifier
             import os
-            model_path = os.path.join(os.path.dirname(__file__), 'ai/models/job_catboost_model.cbm')
+            model_path = os.path.join(os.path.dirname(__file__), 'ai/models/job_recommendation_model.cbm')
             catboost_model = CatBoostClassifier()
             catboost_model.load_model(model_path)
             scores = catboost_model.predict_proba(X)[:, 1]
@@ -83,13 +84,14 @@ class CandidateRecommendationView(generics.GenericAPIView):
 
     def get(self, request, job_id):
         user = request.user
-        if not hasattr(user, 'recruiter'):
+        if not hasattr(user, 'recruiter_profile'):
             return Response({'detail': 'Only recruiters can get candidate recommendations.'}, status=403)
         try:
-            job = Job.objects.get(id=job_id, recruiter=user)
+            job = Job.objects.get(id=job_id, recruiter=user.recruiter_profile)
         except Job.DoesNotExist:
             return Response({'detail': 'Job not found or not owned by recruiter.'}, status=404)
-        seekers = JobSeeker.objects.all()
+        from authentication.models import JobSeekerProfile
+        seekers = JobSeekerProfile.objects.all()
         recommended = get_candidate_recommendations_for_job(job, seekers)
         serializer = self.get_serializer(recommended, many=True)
         return Response(serializer.data)

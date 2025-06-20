@@ -5,28 +5,43 @@ import numpy as np
 import os
 from catboost import CatBoostClassifier
 
-MODEL_PATH = os.path.join(os.path.dirname(__file__), 'models/candidate_catboost_model.cbm')
-catboost_model = CatBoostClassifier()
-catboost_model.load_model(MODEL_PATH)
+MODEL_PATH = os.path.join(os.path.dirname(__file__), 'models/candidate_recommendation_model.cbm')
+candidate_catboost_model = CatBoostClassifier()
+candidate_catboost_model.load_model(MODEL_PATH)
 
 
-def extract_candidate_features(job, seeker):
-    seeker_skills = set(seeker.skills or [])
-    job_skills = set(job.requirements or [])
-    skill_match_score = len(seeker_skills & job_skills) / max(1, len(job_skills))
-    salary_match = int((job.salary_min or 0) >= (seeker.salary_expectation or 0))
-    location_match = int((job.location or '').lower() == (seeker.location or '').lower())
-    seeker_exp = sum([e.get('years', 0) for e in (seeker.experience or [])])
-    job_exp_level = getattr(job, 'experience_level', 'ENTRY')
-    experience_match = int(seeker_exp >= (2 if job_exp_level == 'MID' else 5 if job_exp_level == 'SENIOR' else 0))
-    return np.array([skill_match_score, salary_match, location_match, experience_match])
+from core.ai.feature_extraction import extract_features
+
+FEATURE_ORDER = [
+    "skills_jaccard",
+    "skills_overlap",
+    "education_match",
+    "experience_years",
+    "job_experience_required",
+    "experience_gap",
+    "preferred_job_type_match",
+    "location_match",
+    "salary_within_range",
+    "seeker_rating",
+    "is_available",
+]
+
+from core.ai.feature_extraction import as_dict_job_seeker, as_dict_job
+
+def extract_candidate_features(seeker, job):
+    features = extract_features(as_dict_job_seeker(seeker), as_dict_job(job))
+    return [features.get(f, 0) for f in FEATURE_ORDER]
 
 
-def get_candidate_recommendations_for_job(job, seekers, top_n=10):
-    features = [extract_candidate_features(job, seeker) for seeker in seekers]
+def get_candidate_recommendations_for_job(job, seekers, top_n=10, score_threshold=0.25, explain=False):
+    # Input: job, list of seeker profiles
+    # Output: ranked list of seekers (optionally with score breakdown)
+    features = [extract_candidate_features(seeker, job) for seeker in seekers]
     if not features:
         return []
     X = np.stack(features)
-    scores = catboost_model.predict_proba(X)[:, 1]
-    ranked = sorted(zip(seekers, scores), key=lambda x: x[1], reverse=True)
-    return [seeker for seeker, _ in ranked[:top_n]]
+    scores = candidate_catboost_model.predict_proba(X)[:, 1]
+    scored = list(zip(scores, seekers))
+    scored.sort(reverse=True, key=lambda x: x[0])
+    recommended = [seeker for score, seeker in scored[:top_n] if score >= score_threshold]
+    return recommended

@@ -39,11 +39,8 @@ media/
 *.svg
 
 # Models
-*.cbm
-*.txt
-models/
-core/ai/models/
 
+ml_training/
 # Misc
 *.bak
 *.swp
