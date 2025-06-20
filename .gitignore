@@ -40,7 +40,7 @@ media/
 
 # Models
 
-ml_training/
+
 # Misc
 *.bak
 *.swp
