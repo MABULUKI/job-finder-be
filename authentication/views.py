@@ -11,6 +11,39 @@ from .serializers import RecruiterProfileSerializer, JobSeekerProfileSerializer,
 
 # Create your views here.
 
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from .models import RecruiterProfile, JobSeekerProfile
+
+class MarkRecruiterProfileUpdatedView(APIView):
+    """
+    POST /auth/recruiter/mark-profile-updated/
+    Marks the authenticated recruiter's profile as updated (profile_updated=True).
+    """
+    permission_classes = [IsAuthenticated]
+    def post(self, request):
+        if hasattr(request.user, 'recruiter_profile'):
+            profile = request.user.recruiter_profile
+            profile.profile_updated = True
+            profile.save()
+            return Response({'profile_updated': True})
+        return Response({'error': 'No recruiter profile'}, status=400)
+
+class MarkJobSeekerProfileUpdatedView(APIView):
+    """
+    POST /auth/seeker/mark-profile-updated/
+    Marks the authenticated job seeker's profile as updated (profile_updated=True).
+    """
+    permission_classes = [IsAuthenticated]
+    def post(self, request):
+        if hasattr(request.user, 'seeker_profile'):
+            profile = request.user.seeker_profile
+            profile.profile_updated = True
+            profile.save()
+            return Response({'profile_updated': True})
+        return Response({'error': 'No job seeker profile'}, status=400)
+
 class RecruiterSignupView(APIView):
     def post(self, request):
         data = request.data
@@ -47,6 +80,15 @@ class RecruiterProfileUpdateView(generics.UpdateAPIView):
             return user.recruiter_profile
         raise NotFound('Recruiter profile does not exist for this user.')
 
+    def update(self, request, *args, **kwargs):
+        response = super().update(request, *args, **kwargs)
+        # Mark profile_updated True on any update
+        profile = self.get_object()
+        if not profile.profile_updated:
+            profile.profile_updated = True
+            profile.save(update_fields=["profile_updated"])
+        return response
+
 class JobSeekerProfileUpdateView(generics.UpdateAPIView):
     queryset = JobSeekerProfile.objects.all()
     serializer_class = JobSeekerProfileSerializer
@@ -58,6 +100,15 @@ class JobSeekerProfileUpdateView(generics.UpdateAPIView):
         if hasattr(user, 'seeker_profile'):
             return user.seeker_profile
         raise NotFound('Job seeker profile does not exist for this user.')
+
+    def update(self, request, *args, **kwargs):
+        response = super().update(request, *args, **kwargs)
+        # Mark profile_updated True on any update
+        profile = self.get_object()
+        if not profile.profile_updated:
+            profile.profile_updated = True
+            profile.save(update_fields=["profile_updated"])
+        return response
 
 class SeekerFeedbackCreateView(generics.CreateAPIView):
     serializer_class = SeekerFeedbackSerializer
@@ -102,3 +153,21 @@ class LoginView(APIView):
             'email': user.email,
             'user_type': user_type
         }, status=status.HTTP_200_OK)
+
+class LogoutView(APIView):
+    """
+    POST /auth/logout/
+    Blacklists the refresh token (if provided) and logs out the user.
+    """
+    permission_classes = [IsAuthenticated]
+    def post(self, request):
+        from rest_framework_simplejwt.tokens import RefreshToken, TokenError
+        refresh_token = request.data.get('refresh')
+        if not refresh_token:
+            return Response({'error': 'Refresh token required.'}, status=400)
+        try:
+            token = RefreshToken(refresh_token)
+            token.blacklist()
+        except TokenError:
+            return Response({'error': 'Invalid or expired token.'}, status=400)
+        return Response({'detail': 'Logout successful.'}, status=200)

@@ -46,6 +46,7 @@ class RecruiterProfile(models.Model):
     phone = models.CharField(max_length=20, blank=True)
     address = models.TextField(blank=True)
     logo = models.ImageField(upload_to='recruiter_logos/', blank=True, null=True)
+    profile_updated = models.BooleanField(default=False)
 
     def __str__(self):
         return f"RecruiterProfile({self.user.email})"
@@ -62,6 +63,7 @@ class JobSeekerProfile(models.Model):
     location = models.CharField(max_length=100, blank=True)
     willing_to_relocate = models.BooleanField(default=False)
     is_available = models.BooleanField(default=True)
+    profile_updated = models.BooleanField(default=False)
 
     # Aggregate rating for seeker
     @property
