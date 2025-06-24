@@ -204,36 +204,15 @@ class LogoutView(APIView):
     permission_classes = [IsAuthenticated]
     def post(self, request):
         from rest_framework_simplejwt.tokens import RefreshToken, TokenError
-        from rest_framework_simplejwt.token_blacklist.models import BlacklistedToken, OutstandingToken
-        
         refresh_token = request.data.get('refresh')
         if not refresh_token:
             return Response({'error': 'Refresh token required.'}, status=400)
-        
         try:
-            # Try the newer method first
             token = RefreshToken(refresh_token)
-            try:
-                # For newer versions of djangorestframework-simplejwt
-                token.blacklist()
-            except AttributeError:
-                # For older versions, manually blacklist the token
-                jti = token.get('jti')
-                if jti:
-                    # Get or create the outstanding token
-                    outstanding_token, _ = OutstandingToken.objects.get_or_create(
-                        jti=jti,
-                        user=request.user,
-                        token=refresh_token
-                    )
-                    # Blacklist the token
-                    BlacklistedToken.objects.get_or_create(token=outstanding_token)
-                
-            return Response({'detail': 'Logout successful.'}, status=200)
+            token.blacklist()
         except TokenError:
             return Response({'error': 'Invalid or expired token.'}, status=400)
-        except Exception as e:
-            return Response({'error': f'Logout failed: {str(e)}'}, status=500)
+        return Response({'detail': 'Logout successful.'}, status=200)
 
 class JobSeekerProfilePictureView(APIView):
     permission_classes = [permissions.IsAuthenticated]

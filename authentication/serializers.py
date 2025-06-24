@@ -7,7 +7,7 @@ class RecruiterProfileSerializer(serializers.ModelSerializer):
         model = RecruiterProfile
         fields = [
             'id', 'company_name', 'email', 'company_description', 'industry', 'company_size',
-            'website', 'phone', 'address', 'logo'
+            'website', 'phone', 'address', 'logo', 'profile_updated'
         ]
         read_only_fields = ['id', 'email', 'company_name']
 
@@ -26,8 +26,8 @@ class JobSeekerProfileSerializer(serializers.ModelSerializer):
     class Meta:
         model = JobSeekerProfile
         fields = [
-            'id', 'user', 'full_name', 'email', 'skills', 'education', 'experience', 'resume',
-            'preferred_job_types', 'salary_expectation', 'location', 'willing_to_relocate', 'is_available',
+            'id', 'user', 'full_name', 'email', 'phone', 'linkedin', 'profile_picture', 'skills', 'education', 'experience', 'resume',
+            'preferred_job_types', 'salary_expectation', 'location', 'willing_to_relocate', 'is_available', 'profile_updated',
             'average_rating', 'feedback_count', 'feedbacks'
         ]
-        read_only_fields = ['id', 'email', 'full_name', 'average_rating', 'feedback_count', 'feedbacks']
+        read_only_fields = ['id', 'user', 'email', 'average_rating', 'feedback_count', 'feedbacks']

@@ -6,7 +6,20 @@ INDUSTRY_CHOICES = [
     ('IT', 'Information Technology'),
     ('FINANCE', 'Finance'),
     ('HEALTHCARE', 'Healthcare'),
-    # Add more as needed
+    ('EDUCATION','Education'),
+    ('CONSTRUCTION', 'Construction'),
+    ('MANUFACTURING','Manufacturing'),
+    ('RETAIL','Retail'),
+    ('AGRICULTURE','Agriculture'),
+    ('TRANSPORT','Transport'),
+    ('HOSPITALITY','Hospitality'),
+    ('ENERGY','Energy'),
+    ('TELECOMMUNICATION','Telecommunications'),
+    ('MEDIA','Media'),
+    ('LEGAL','Legal'),
+    ('GOVERNMENT','Government'),
+    ('OTHER','Other')
+   
 ]
 
 COMPANY_SIZE_CHOICES = [
@@ -71,6 +84,7 @@ class Job(models.Model):
     benefits = models.JSONField(default=list, blank=True)
     recruiting_size = models.PositiveIntegerField(default=1, help_text="Number of positions open for this job")
     next_step = models.CharField(max_length=20, choices=NEXT_STEP_CHOICES, default='INTERVIEW', help_text="Next step for applicants: Direct Hire or Interview")
+    skills = models.JSONField(default=list, blank=True, help_text="List of skills required for the job")
 
 class Application(models.Model):
     job = models.ForeignKey(Job, on_delete=models.CASCADE)
@@ -89,3 +103,9 @@ class Application(models.Model):
     next_step_status = models.CharField(max_length=20, choices=NEXT_STEP_STATUS_CHOICES, blank=True, null=True)
     applicant_approved = models.BooleanField(default=False)
     job_duration_days = models.PositiveIntegerField(blank=True, null=True, help_text="Job duration in days for direct hire")
+    
+    class Meta:
+        # Ensure a job seeker can only apply once to a specific job
+        unique_together = ('job', 'seeker')
+        verbose_name = 'Application'
+        verbose_name_plural = 'Applications'
