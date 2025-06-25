@@ -15,6 +15,7 @@ from rest_framework.views import APIView
 from django.utils import timezone
 from datetime import timedelta
 from rest_framework.exceptions import PermissionDenied
+from django.http import JsonResponse
 
 # Create your views here.
 
@@ -530,3 +531,8 @@ class ApplicationFeedbackView(APIView):
         feedbacks = Feedback.objects.filter(application=application)
         serializer = FeedbackSerializer(feedbacks, many=True)
         return Response(serializer.data)
+
+
+
+def home(request):
+    return JsonResponse({"message": "Welcome to the Job Portal API"})
