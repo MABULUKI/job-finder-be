@@ -1,11 +1,9 @@
 FROM python:3.11-slim-bullseye
 
-# Environment variables
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     PORT=8000
 
-# Set working directory
 WORKDIR /app
 
 # Install system dependencies
@@ -20,18 +18,21 @@ RUN pip install --upgrade pip \
     && pip install -r requirements.txt \
     && pip install gunicorn
 
-# Copy app files
+# Copy project files
 COPY . .
 
 # Static/media dirs
 RUN mkdir -p /app/static /app/media
 
-# Add a non-root user for better security
+# Copy and allow execution of start script
+COPY start.sh /app/start.sh
+RUN chmod +x /app/start.sh
+
+# Create non-root user
 RUN useradd -m appuser && chown -R appuser /app
 USER appuser
 
-# Expose the correct port
 EXPOSE 8000
 
-# Start server using environment PORT (Render requires it)
-CMD gunicorn job_portal_backend.wsgi:application --bind 0.0.0.0:$PORT --workers 3
+# Run the start script
+CMD ["/bin/bash", "/app/start.sh"]
