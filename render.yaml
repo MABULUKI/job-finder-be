@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: job-portal-backend
+    env: docker
+    region: oregon
+    plan: free
+    dockerContext: .
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: DJANGO_ENV
+        value: production
+      - key: SECRET_KEY
+        value: render-production-secret
+      - key: DB_NAME
+        fromDatabase:
+          name: render-db
+          property: database
+      - key: DB_USER
+        fromDatabase:
+          name: render-db
+          property: user
+      - key: DB_PASSWORD
+        fromDatabase:
+          name: render-db
+          property: password
+      - key: DB_HOST
+        fromDatabase:
+          name: render-db
+          property: host
+      - key: DB_PORT
+        value: 5432
+      - key: ALLOWED_HOSTS
+        value: job-portal-backend.onrender.com
