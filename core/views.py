@@ -1,11 +1,12 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from rest_framework import generics, permissions
 from rest_framework.response import Response
 from rest_framework import status
-from .models import Job, Application
+from .models import Job, Application, Feedback
 from .serializers import (
     JobSerializer,
-    ApplicationSerializer
+    ApplicationSerializer,
+    FeedbackSerializer
 )
 from authentication.serializers import JobSeekerProfileSerializer
 from .ai.job_recommendation import get_job_recommendations_for_seeker
@@ -418,3 +419,114 @@ class EmployerJobsView(generics.ListAPIView):
         
         # Return all jobs posted by this recruiter
         return Job.objects.filter(recruiter=user.recruiter_profile).order_by('-posted_at')
+
+
+class SeekerFeedbackView(APIView):
+    """View to retrieve all feedback for a job seeker"""
+    permission_classes = [permissions.IsAuthenticated]
+    
+    def get(self, request, profile_id):
+        # Get all feedback for this seeker from both models
+        from authentication.models import SeekerFeedback
+        
+        # Get the seeker profile
+        from authentication.models import JobSeekerProfile
+        seeker = get_object_or_404(JobSeekerProfile, id=profile_id)
+        
+        # Combine feedback from both models
+        application_feedbacks = Feedback.objects.filter(profile=seeker)
+        seeker_feedbacks = SeekerFeedback.objects.filter(seeker=seeker)
+        
+        # Serialize the feedback
+        app_serializer = FeedbackSerializer(application_feedbacks, many=True)
+        
+        # Create a custom response for seeker feedbacks
+        seeker_feedback_data = [{
+            'id': feedback.id,
+            'rating': float(feedback.rating),
+            'comment': feedback.comment,
+            'created_at': feedback.created_at.strftime('%Y-%m-%d'),
+            'recruiter_name': feedback.recruiter.company_name if feedback.recruiter else 'Unknown',
+            'source': 'general_feedback'
+        } for feedback in seeker_feedbacks]
+        
+        # Add source to application feedbacks
+        app_feedback_data = app_serializer.data
+        for feedback in app_feedback_data:
+            feedback['source'] = 'application_feedback'
+        
+        # Combine both types of feedback
+        all_feedback = list(app_feedback_data) + seeker_feedback_data
+        
+        # Sort by created_at (most recent first)
+        all_feedback.sort(key=lambda x: x['created_at'], reverse=True)
+        
+        return Response({
+            'profile_id': profile_id,
+            'feedbacks': all_feedback,
+            'average_rating': seeker.average_rating or 0.0,
+            'feedback_count': len(all_feedback)
+        })
+
+
+class ApplicationFeedbackView(APIView):
+    """View to create and retrieve feedback for an application"""
+    permission_classes = [permissions.IsAuthenticated]
+    
+    def post(self, request, pk):
+        # Check if user is a recruiter
+        if not hasattr(request.user, 'recruiter_profile'):
+            return Response(
+                {'detail': 'Only recruiters can provide feedback.'}, 
+                status=status.HTTP_403_FORBIDDEN
+            )
+        
+        # Get the application
+        application = get_object_or_404(Application, pk=pk)
+        
+        # Check if the recruiter owns the job associated with this application
+        if application.job.recruiter != request.user.recruiter_profile:
+            return Response(
+                {'detail': 'You can only provide feedback for applications to your own jobs.'}, 
+                status=status.HTTP_403_FORBIDDEN
+            )
+        
+        # Check if the application has been approved (selected for next step)
+        if not application.selected_for_next_step or application.next_step_status != 'APPROVED':
+            return Response(
+                {'detail': 'You can only provide feedback for approved applications.'}, 
+                status=status.HTTP_400_BAD_REQUEST
+            )
+        
+        # Create feedback data
+        feedback_data = {
+            'application': application.id,
+            'profile': request.data.get('profile_id'),
+            'rating': request.data.get('rating'),
+            'comment': request.data.get('comment', '')
+        }
+        
+        # Validate and save feedback
+        serializer = FeedbackSerializer(data=feedback_data, context={'request': request})
+        if serializer.is_valid():
+            serializer.save()
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+    
+    def get(self, request, pk):
+        # Get the application
+        application = get_object_or_404(Application, pk=pk)
+        
+        # Check if the user is authorized to view this feedback
+        user = request.user
+        if (hasattr(user, 'recruiter_profile') and application.job.recruiter != user.recruiter_profile) and \
+           (hasattr(user, 'seeker_profile') and application.seeker != user.seeker_profile):
+            return Response(
+                {'detail': 'You are not authorized to view this feedback.'}, 
+                status=status.HTTP_403_FORBIDDEN
+            )
+        
+        # Get all feedbacks for this application
+        feedbacks = Feedback.objects.filter(application=application)
+        serializer = FeedbackSerializer(feedbacks, many=True)
+        return Response(serializer.data)

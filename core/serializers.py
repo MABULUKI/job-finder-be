@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Job, Application
+from .models import Job, Application, Feedback
 from django.utils import timezone
 
 
@@ -24,30 +24,40 @@ class JobSerializer(serializers.ModelSerializer):
 
 class ApplicationSerializer(serializers.ModelSerializer):
     seeker_details = serializers.SerializerMethodField()
+    feedbacks = serializers.SerializerMethodField()
     
     class Meta:
         model = Application
-        fields = ['id', 'job', 'seeker', 'status', 'applied_at', 'cover_letter', 'seeker_details']
-        read_only_fields = ['seeker']
+        fields = ['id', 'job', 'seeker', 'status', 'applied_at', 'cover_letter', 'seeker_details', 
+                 'selected_for_next_step', 'next_step_type', 'next_step_status', 'feedbacks']
+        read_only_fields = ['seeker', 'feedbacks']
+        
+    def get_feedbacks(self, obj):
+        # Get all feedbacks for this application
+        feedbacks_queryset = Feedback.objects.filter(application=obj)
+        if not feedbacks_queryset.exists():
+            return []
+            
+        return [
+            {
+                'id': feedback.id,
+                'rating': float(feedback.rating),
+                'comment': feedback.comment,
+                'created_at': feedback.created_at.strftime('%Y-%m-%d'),
+                'recruiter_name': feedback.recruiter.company_name
+            } for feedback in feedbacks_queryset
+        ]
         
     def get_seeker_details(self, obj):
         seeker = obj.seeker
-        # Try to get feedback data if available
-        feedbacks = []
-        try:
-            from feedback.models import Feedback
-            feedbacks_queryset = Feedback.objects.filter(recipient=seeker.user)
-            feedbacks = [
-                {
-                    'rating': feedback.rating,
-                    'comment': feedback.comment,
-                    'created_at': feedback.created_at.strftime('%Y-%m-%d'),
-                    'provider_name': feedback.provider.get_full_name() if feedback.provider else 'Anonymous'
-                } for feedback in feedbacks_queryset
-            ]
-        except ImportError:
-            # Feedback module might not be available
-            pass
+        # Get all feedbacks for this seeker
+        feedbacks_queryset = Feedback.objects.filter(profile=seeker)
+        
+        # Calculate average rating
+        average_rating = 0.0
+        if feedbacks_queryset.exists():
+            total_rating = sum(float(feedback.rating) for feedback in feedbacks_queryset)
+            average_rating = total_rating / feedbacks_queryset.count()
             
         return {
             'id': seeker.id,
@@ -63,7 +73,29 @@ class ApplicationSerializer(serializers.ModelSerializer):
             'location': seeker.location,
             'willing_to_relocate': seeker.willing_to_relocate,
             'salary_expectation': seeker.salary_expectation,
-            'average_rating': seeker.average_rating or 0.0,  # Default to 0.0 if None
-            'feedback_count': seeker.feedback_count or 0,
-            'feedbacks': feedbacks,
+            'average_rating': round(average_rating, 1),
+            'feedback_count': feedbacks_queryset.count(),
         }
+
+
+class FeedbackSerializer(serializers.ModelSerializer):
+    recruiter_name = serializers.SerializerMethodField()
+    
+    class Meta:
+        model = Feedback
+        fields = ['id', 'application', 'profile', 'rating', 'comment', 'created_at', 'recruiter_name']
+        read_only_fields = ['recruiter', 'created_at', 'recruiter_name']
+    
+    def get_recruiter_name(self, obj):
+        return obj.recruiter.company_name if obj.recruiter else 'Unknown'
+    
+    def create(self, validated_data):
+        # Get the recruiter from the request
+        request = self.context.get('request')
+        if not request or not hasattr(request, 'user') or not hasattr(request.user, 'recruiter_profile'):
+            raise serializers.ValidationError("Only recruiters can provide feedback.")
+        
+        # Add the recruiter to the validated data
+        validated_data['recruiter'] = request.user.recruiter_profile
+        
+        return super().create(validated_data)

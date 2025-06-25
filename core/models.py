@@ -109,3 +109,18 @@ class Application(models.Model):
         unique_together = ('job', 'seeker')
         verbose_name = 'Application'
         verbose_name_plural = 'Applications'
+
+
+class Feedback(models.Model):
+    """Model to store feedback and ratings for job seekers after they've been approved for a job"""
+    application = models.ForeignKey(Application, on_delete=models.CASCADE, related_name='feedbacks')
+    profile = models.ForeignKey('authentication.JobSeekerProfile', on_delete=models.CASCADE, related_name='received_feedbacks')
+    recruiter = models.ForeignKey('authentication.RecruiterProfile', on_delete=models.CASCADE, related_name='application_feedbacks')
+    rating = models.DecimalField(max_digits=3, decimal_places=1, help_text="Rating from 1.0 to 5.0")
+    comment = models.TextField(blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    
+    class Meta:
+        verbose_name = 'Feedback'
+        verbose_name_plural = 'Feedbacks'
+        ordering = ['-created_at']

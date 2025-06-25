@@ -7,15 +7,14 @@ ENV DJANGO_ENV=production
 ENV DEBUG=False
 ENV ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0
 
-# Set work directory
+# Set working directory
 WORKDIR /app
 
 # Install system dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     libpq-dev \
-    && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Install Python dependencies
 COPY requirements.txt /app/
@@ -29,26 +28,26 @@ COPY . /app/
 # Create static and media directories
 RUN mkdir -p /app/static /app/media
 
-# Collect static files
-RUN python manage.py collectstatic --noinput
+# Create non-root user for security
+RUN useradd -m appuser && chown -R appuser:appuser /app
 
-# Run as non-root user for better security
-RUN useradd -m appuser
-RUN chown -R appuser:appuser /app
+# Set up startup script as root
+USER root
+RUN printf '#!/bin/bash\n\
+echo "Applying database migrations..."\n\
+python manage.py migrate\n\
+echo "Collecting static files..."\n\
+python manage.py collectstatic --noinput\n\
+echo "Starting Gunicorn..."\n\
+exec gunicorn job_portal_backend.wsgi:application --bind 0.0.0.0:$PORT --workers 3\n' > /app/start.sh
+
+RUN chmod +x /app/start.sh
+
+# Switch to app user
 USER appuser
 
 # Expose port
 EXPOSE 8000
-
-# Create a startup script
-USER root
-RUN echo '#!/bin/bash\n\
-# Apply database migrations\necho "Applying database migrations..."\npython manage.py migrate\n\
-# Collect static files\necho "Collecting static files..."\npython manage.py collectstatic --noinput\n\
-# Start Gunicorn\necho "Starting Gunicorn..."\nexec gunicorn job_portal_backend.wsgi:application --bind 0.0.0.0:8000 --workers 3' > /app/start.sh
-
-RUN chmod +x /app/start.sh
-USER appuser
 
 # Start the application
 CMD ["/bin/bash", "/app/start.sh"]

@@ -14,7 +14,9 @@ from .views import (
     DashboardStatsView,
     RecruiterDashboardStatsView,
     EmployerJobsView,
-    JobApplicantsView
+    JobApplicantsView,
+    ApplicationFeedbackView,
+    SeekerFeedbackView
 )
 
 urlpatterns = [
@@ -33,4 +35,6 @@ urlpatterns = [
     path('seeker/toggle-availability/', ToggleAvailabilityView.as_view(), name='toggle-availability'),
     path('dashboard/stats/', DashboardStatsView.as_view(), name='dashboard-stats'),
     path('dashboard/recruiter-stats/', RecruiterDashboardStatsView.as_view(), name='recruiter-dashboard-stats'),
+    path('applications/<int:pk>/feedback/', ApplicationFeedbackView.as_view(), name='application-feedback'),
+    path('seekers/<int:profile_id>/feedback/', SeekerFeedbackView.as_view(), name='seeker-feedback'),
 ]
