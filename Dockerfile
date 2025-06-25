@@ -1,8 +1,8 @@
 FROM python:3.11-slim-bullseye
 
+# Environment setup
 ENV PYTHONDONTWRITEBYTECODE=1 \
-    PYTHONUNBUFFERED=1 \
-    PORT=8000
+    PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
@@ -24,7 +24,7 @@ COPY . .
 # Static/media dirs
 RUN mkdir -p /app/static /app/media
 
-# Copy and allow execution of start script
+# Start script
 COPY start.sh /app/start.sh
 RUN chmod +x /app/start.sh
 
@@ -32,7 +32,8 @@ RUN chmod +x /app/start.sh
 RUN useradd -m appuser && chown -R appuser /app
 USER appuser
 
+# Let Render know the port is open (but don't hardcode it!)
 EXPOSE 8000
 
-# Run the start script
+# Run start script
 CMD ["/bin/bash", "/app/start.sh"]
