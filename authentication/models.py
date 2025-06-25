@@ -40,7 +40,7 @@ class RecruiterProfile(models.Model):
     user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='recruiter_profile')
     company_name = models.CharField(max_length=100)
     company_description = models.TextField(blank=True)
-    industry = models.CharField(max_length=50, choices=INDUSTRY_CHOICES, blank=True)
+    industry = models.CharField(max_length=50, blank=True)
     company_size = models.CharField(max_length=20, choices=COMPANY_SIZE_CHOICES, blank=True)
     website = models.URLField(blank=True)
     phone = models.CharField(max_length=20, blank=True)

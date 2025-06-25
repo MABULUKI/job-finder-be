@@ -79,7 +79,15 @@ class ApplicationCreateView(generics.CreateAPIView):
     
     def perform_create(self, serializer):
         user = self.request.user
-        serializer.save(seeker=user.seeker_profile)
+        application = serializer.save(seeker=user.seeker_profile)
+        
+        # Create notifications for both seeker and recruiter
+        try:
+            from notifications.services import create_application_notification
+            create_application_notification(application)
+        except ImportError:
+            # Handle case where notifications app is not available
+            pass
 
 class ApplicationListView(generics.ListAPIView):
     serializer_class = ApplicationSerializer
@@ -124,7 +132,7 @@ class JobRecommendationView(generics.GenericAPIView):
 class CandidateRecommendationView(generics.GenericAPIView):
     serializer_class = JobSeekerProfileSerializer
     permission_classes = [permissions.IsAuthenticated]
-
+    
     def get(self, request, job_id):
         user = request.user
         if not hasattr(user, 'recruiter_profile'):
@@ -133,11 +141,40 @@ class CandidateRecommendationView(generics.GenericAPIView):
             job = Job.objects.get(id=job_id, recruiter=user.recruiter_profile)
         except Job.DoesNotExist:
             return Response({'detail': 'Job not found or not owned by recruiter.'}, status=404)
+            
         from authentication.models import JobSeekerProfile
-        seekers = JobSeekerProfile.objects.all()
+        
+        # Get all job seekers but filter out those without key profile data
+        seekers = JobSeekerProfile.objects.filter(is_available=True)
+        print(f"[DEBUG] Total available job seekers: {seekers.count()}")
+        
+        # Get job details for debugging
+        print(f"[DEBUG] Job ID: {job.id}, Title: {job.title}")
+        print(f"[DEBUG] Job Skills: {job.skills}")
+        print(f"[DEBUG] Job Description Length: {len(job.description) if job.description else 0}")
+        
+        # Get recommendations
         recommended = get_candidate_recommendations_for_job(job, seekers)
+        print(f"[DEBUG] Recommended candidates count: {len(recommended)}")
+        print(f"[DEBUG] Recommended candidate IDs: {[seeker.id for seeker in recommended]}")
+        
+        # Enhance response with match scores
         serializer = self.get_serializer(recommended, many=True)
-        return Response(serializer.data)
+        data = serializer.data
+        
+        # Add match score to each candidate
+        for i, candidate in enumerate(data):
+            # Calculate a simple match score based on skills overlap
+            job_skills = set(skill.lower() for skill in job.skills) if job.skills else set()
+            candidate_skills = set(skill.lower() for skill in candidate.get('skills', []))
+            
+            if job_skills and candidate_skills:
+                match_score = len(job_skills.intersection(candidate_skills)) / len(job_skills) * 100
+                candidate['match_score'] = round(match_score, 1)
+            else:
+                candidate['match_score'] = 50.0  # Default score
+        
+        return Response(data)
 
 
 class JobApplicantsView(APIView):
@@ -160,18 +197,35 @@ class JobApplicantsView(APIView):
         serialized_applications = []
         for application in applications:
             app_data = ApplicationSerializer(application).data
-            # Add additional user details if needed
-            app_data['user'] = {
-                'id': application.seeker.user.id,
-                'name': f"{application.seeker.user.first_name} {application.seeker.user.last_name}",
-                'email': application.seeker.user.email,
-                'phone': application.seeker.phone,  # Fixed: changed from phone_number to phone
-                'skills': application.seeker.skills,
-                'education': application.seeker.education,
+            
+            # Extract seeker details from the serializer
+            seeker_details = app_data.pop('seeker_details', {})
+            
+            # Format the application data for the frontend
+            formatted_app = {
+                'application_id': app_data['id'],
+                'status': app_data['status'],
+                'applied_at': app_data['applied_at'],
+                'cover_letter': app_data['cover_letter'],
+                'name': seeker_details.get('full_name', 'Unknown'),
+                'email': seeker_details.get('email', ''),
+                'phone': seeker_details.get('phone', ''),
+                'skills': seeker_details.get('skills', []),
+                'education': seeker_details.get('education', []),
+                'experience': seeker_details.get('experience', []),
+                'resume_url': seeker_details.get('resume_url'),
+                'profile_picture': seeker_details.get('profile_picture'),
+                'linkedin': seeker_details.get('linkedin', ''),
+                'location': seeker_details.get('location', ''),
+                'willing_to_relocate': seeker_details.get('willing_to_relocate', False),
+                'salary_expectation': seeker_details.get('salary_expectation'),
+                'profile_id': seeker_details.get('id'),
+                'rating': seeker_details.get('average_rating', 0) or 0.0,  # Default to 0.0 if None
+                'feedback_count': seeker_details.get('feedback_count', 0),
+                'feedbacks': seeker_details.get('feedbacks', []),
             }
-            # Calculate match score (placeholder - in production this would use AI model)
-            app_data['match_score'] = 4.0  # Placeholder score between 0-5
-            serialized_applications.append(app_data)
+            
+            serialized_applications.append(formatted_app)
             
         return Response({
             'job_id': job.id,
@@ -210,7 +264,7 @@ class ApplicationNextStepView(APIView):
             return Response({'detail': 'Invalid next_step_type.'}, status=status.HTTP_400_BAD_REQUEST)
         application.selected_for_next_step = True
         application.next_step_type = next_step_type
-        application.next_step_status = 'PENDING'
+        application.next_step_status = 'APPROVED'
         if next_step_type == 'DIRECT_HIRE' and job_duration_days:
             application.job_duration_days = job_duration_days
         application.save()

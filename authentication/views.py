@@ -208,7 +208,8 @@ class LogoutView(APIView):
         
         refresh_token = request.data.get('refresh')
         if not refresh_token:
-            return Response({'error': 'Refresh token required.'}, status=400)
+            # Allow logout even without refresh token
+            return Response({'detail': 'Logged out without token blacklisting.'}, status=200)
         
         try:
             # Try the newer method first
@@ -218,22 +219,29 @@ class LogoutView(APIView):
                 token.blacklist()
             except AttributeError:
                 # For older versions, manually blacklist the token
-                jti = token.get('jti')
-                if jti:
-                    # Get or create the outstanding token
-                    outstanding_token, _ = OutstandingToken.objects.get_or_create(
-                        jti=jti,
-                        user=request.user,
-                        token=refresh_token
-                    )
-                    # Blacklist the token
-                    BlacklistedToken.objects.get_or_create(token=outstanding_token)
+                try:
+                    jti = token.get('jti')
+                    if jti:
+                        # Get or create the outstanding token
+                        outstanding_token, _ = OutstandingToken.objects.get_or_create(
+                            jti=jti,
+                            user=request.user,
+                            token=refresh_token
+                        )
+                        # Blacklist the token
+                        BlacklistedToken.objects.get_or_create(token=outstanding_token)
+                except Exception as inner_e:
+                    # Log the error but still allow logout
+                    print(f"Error blacklisting token: {str(inner_e)}")
                 
             return Response({'detail': 'Logout successful.'}, status=200)
         except TokenError:
-            return Response({'error': 'Invalid or expired token.'}, status=400)
+            # Still allow logout even with invalid token
+            return Response({'detail': 'Logged out. Token was invalid or expired.'}, status=200)
         except Exception as e:
-            return Response({'error': f'Logout failed: {str(e)}'}, status=500)
+            print(f"Logout error: {str(e)}")
+            # Still allow logout even if blacklisting fails
+            return Response({'detail': 'Logged out, but token blacklisting failed.'}, status=200)
 
 class JobSeekerProfilePictureView(APIView):
     permission_classes = [permissions.IsAuthenticated]

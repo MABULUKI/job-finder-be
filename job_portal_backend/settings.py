@@ -16,17 +16,18 @@ import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ddgz3nn#)%f$7!vxum1f22rmwd%usu*i8gcgpv6nnyze2u296+'
+# For development, using a hardcoded key. In production, use environment variable
+SECRET_KEY = os.environ.get('SECRET_KEY', 'test-key')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('DEBUG', 'True').lower() == 'true'
 
-ALLOWED_HOSTS = ['*']  # For development only
+# ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', 'localhost,127.0.0.1,0.0.0.0').split(',')
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -42,6 +43,7 @@ INSTALLED_APPS = [
     'core',
     'authentication',
     'corsheaders',
+    'notifications',
 ]
 
 MIDDLEWARE = [
@@ -78,15 +80,15 @@ AUTH_USER_MODEL = 'authentication.User'
 
 # Database
 # Switch between SQLite (dev) and PostgreSQL (prod)
-if os.environ.get('DJANGO_ENV') == 'production':
+if os.environ.get('DJANGO_ENV', 'development') == 'production':
     DATABASES = {
         'default': {
-            'ENGINE': 'django.db.backends.postgresql',
-            'NAME': 'job_portal_db',
-            'USER': 'postgres',
-            'PASSWORD': 'postgres',
-            'HOST': 'localhost',
-            'PORT': '5432',
+            'ENGINE': os.environ.get('DB_ENGINE', 'django.db.backends.postgresql'),
+            'NAME': os.environ.get('DB_NAME', 'job_portal_db'),
+            'USER': os.environ.get('DB_USER', 'postgres'),
+            'PASSWORD': os.environ.get('DB_PASSWORD', ''),
+            'HOST': os.environ.get('DB_HOST', 'db'),
+            'PORT': os.environ.get('DB_PORT', '5432'),
         }
     }
 else:
@@ -132,11 +134,12 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = os.environ.get('STATIC_URL', 'static/')
+STATIC_ROOT = os.environ.get('STATIC_ROOT', os.path.join(BASE_DIR, 'static'))
 
 # Media files (Uploads)
-MEDIA_URL = '/'
-MEDIA_ROOT = os.path.join(BASE_DIR, '')
+MEDIA_URL = os.environ.get('MEDIA_URL', '/media/')
+MEDIA_ROOT = os.environ.get('MEDIA_ROOT', os.path.join(BASE_DIR, 'media'))
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
@@ -153,8 +156,8 @@ REST_FRAMEWORK = {
 from datetime import timedelta
 
 SIMPLE_JWT = {
-    'ACCESS_TOKEN_LIFETIME': timedelta(hours=1),  # Set access token to expire after 1 hour
-    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),  # Refresh token lasts 1 day
+    'ACCESS_TOKEN_LIFETIME': timedelta(hours=int(os.environ.get('JWT_ACCESS_TOKEN_LIFETIME', 1))),
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=int(os.environ.get('JWT_REFRESH_TOKEN_LIFETIME', 1))),
     'ROTATE_REFRESH_TOKENS': False,
     'BLACKLIST_AFTER_ROTATION': True,
     'UPDATE_LAST_LOGIN': False,
@@ -169,14 +172,11 @@ SIMPLE_JWT = {
 
 
 # CORS Settings
-CORS_ALLOW_ALL_ORIGINS = True  # For development only
-
-# For production, you would specify allowed origins like this:
-# CORS_ALLOWED_ORIGINS = [
-#     "http://localhost:8000",
-#     "http://127.0.0.1:8000",
-#     "http://192.168.137.7:8000"  # Your local IP
-# ]
+if DEBUG:
+    CORS_ALLOW_ALL_ORIGINS = True  # For development only
+else:
+    default_origins = "http://localhost:8000,http://127.0.0.1:8000"
+    CORS_ALLOWED_ORIGINS = os.environ.get('CORS_ALLOWED_ORIGINS', default_origins).split(',')
 
 # Allow credentials if needed
 CORS_ALLOW_CREDENTIALS = True

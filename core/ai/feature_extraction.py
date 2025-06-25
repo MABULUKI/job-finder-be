@@ -24,12 +24,14 @@ def as_dict_job_seeker(seeker):
 
 def as_dict_job(job):
     return {
-        "skills": getattr(job, "requirements", []),
+        "skills": getattr(job, "skills", []),  # Fixed: use skills field instead of requirements
+        "requirements": getattr(job, "requirements", []),  # Added: keep requirements separate
         "education": getattr(job, "education", []),
         "location": getattr(job, "location", None),
         "job_type": getattr(job, "job_type", None),
         "salary_min": getattr(job, "salary_min", 0),
         "salary_max": getattr(job, "salary_max", 0),
+        "min_experience": getattr(job, "min_experience", 0),  # Added: explicit min_experience
         "experience_level": getattr(job, "experience_level", None),
         "next_step": getattr(job, "next_step", None),
     }
