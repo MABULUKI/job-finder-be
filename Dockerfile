@@ -34,4 +34,4 @@ USER appuser
 EXPOSE 8000
 
 # Start server using environment PORT (Render requires it)
-CMD ["gunicorn", "job_portal_backend.wsgi:application", "--bind", "0.0.0.0:$PORT", "--workers", "3"]
+CMD gunicorn job_portal_backend.wsgi:application --bind 0.0.0.0:$PORT --workers 3
