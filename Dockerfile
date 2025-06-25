@@ -1,13 +1,14 @@
 FROM python:3.11-slim-bullseye
 
 # Environment variables
-ENV PYTHONDONTWRITEBYTECODE=1
-ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PORT=8000
 
-# Working directory
+# Set working directory
 WORKDIR /app
 
-# System dependencies
+# Install system dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     libpq-dev \
@@ -19,18 +20,18 @@ RUN pip install --upgrade pip \
     && pip install -r requirements.txt \
     && pip install gunicorn
 
-# Copy project files
+# Copy app files
 COPY . .
 
-# Static/media dirs (optional)
+# Static/media dirs
 RUN mkdir -p /app/static /app/media
 
-# Add non-root user (for Render and security)
+# Add a non-root user for better security
 RUN useradd -m appuser && chown -R appuser /app
 USER appuser
 
-# Expose port
+# Expose the correct port
 EXPOSE 8000
 
-# Startup script
-CMD ["gunicorn", "job_portal_backend.wsgi:application", "--bind", "0.0.0.0:8000", "--workers", "3"]
+# Start server using environment PORT (Render requires it)
+CMD ["gunicorn", "job_portal_backend.wsgi:application", "--bind", "0.0.0.0:$PORT", "--workers", "3"]
