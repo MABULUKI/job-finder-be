@@ -29,7 +29,8 @@ class ApplicationSerializer(serializers.ModelSerializer):
     class Meta:
         model = Application
         fields = ['id', 'job', 'seeker', 'status', 'applied_at', 'cover_letter', 'seeker_details', 
-                 'selected_for_next_step', 'next_step_type', 'next_step_status', 'feedbacks']
+                 'selected_for_next_step', 'next_step_type', 'next_step_status', 'applicant_approved',
+                 'recruiter_notes', 'feedbacks']
         read_only_fields = ['seeker', 'feedbacks']
         
     def get_feedbacks(self, obj):

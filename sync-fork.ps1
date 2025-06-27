@@ -1,5 +1,5 @@
 # Change directory to your local repo
-Set-Location -Path "D:\DEPLOYMENT\pro\job-finder-be"
+Set-Location -Path "D:\DEPLOYMENT\GROUP 13 SE\job-recommender-backend"
 
 # Fetch updates from the upstream remote
 git fetch upstream
