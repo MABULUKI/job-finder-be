@@ -8,8 +8,8 @@ from .views import (
     LogoutView,
     RecruiterSignupView,
     JobSeekerSignupView,
-    SeekerFeedbackCreateView,
-    SeekerFeedbackListView,
+    SeekerFeedbackCreateView,  # Now uses FeedbackRating model
+    SeekerFeedbackListView,    # Now uses FeedbackRating model
     MarkRecruiterProfileUpdatedView,
     MarkJobSeekerProfileUpdatedView,
     JobSeekerProfilePictureView,

@@ -13,5 +13,6 @@ git merge upstream/main
 # Push the updated main branch to your origin remote (your fork)
 git push origin main
 
-# Set-ExecutionPolicy Bypass -Scope Process
-# .\sync-fork.ps1
+Set-ExecutionPolicy Bypass -Scope Process
+.\sync-fork.ps1
+

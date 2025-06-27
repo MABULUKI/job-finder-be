@@ -2,11 +2,11 @@ from django.shortcuts import render, get_object_or_404
 from rest_framework import generics, permissions
 from rest_framework.response import Response
 from rest_framework import status
-from .models import Job, Application, Feedback
+from .models import Job, Application, FeedbackRating
 from .serializers import (
     JobSerializer,
     ApplicationSerializer,
-    FeedbackSerializer
+    FeedbackRatingSerializer
 )
 from authentication.serializers import JobSeekerProfileSerializer
 from .ai.job_recommendation import get_job_recommendations_for_seeker
@@ -298,6 +298,43 @@ class ApplicationNextStepView(APIView):
         # Save recruiter notes if provided
         if recruiter_notes:
             application.recruiter_notes = recruiter_notes
+
+
+class ApplicationStatusUpdateView(APIView):
+    """View to update application status directly (for interview completion)"""
+    permission_classes = [permissions.IsAuthenticated]
+    
+    def patch(self, request, pk):
+        try:
+            application = Application.objects.get(pk=pk)
+        except Application.DoesNotExist:
+            return Response({'detail': 'Application not found.'}, status=status.HTTP_404_NOT_FOUND)
+        
+        # Check permissions - only the job's recruiter can update status
+        user = request.user
+        if not hasattr(user, 'recruiter_profile') or application.job.recruiter != user.recruiter_profile:
+            return Response({'detail': 'Permission denied.'}, status=status.HTTP_403_FORBIDDEN)
+        
+        # Get the new status from request data
+        new_status = request.data.get('status')
+        
+        # Validate the status
+        if not new_status or new_status not in dict(Application._meta.get_field('status').choices):
+            return Response({'detail': 'Invalid status value.'}, status=status.HTTP_400_BAD_REQUEST)
+        
+        # Update the application status
+        application.status = new_status
+        
+        # If status is HIRED or REJECTED, we're completing an interview
+        if new_status in ['HIRED', 'REJECTED']:
+            # Log the interview completion
+            print(f"Interview completed for application {pk}: {new_status}")
+        
+        # Save the application
+        application.save()
+        
+        # Return the updated application data
+        return Response(ApplicationSerializer(application).data, status=status.HTTP_200_OK)
             
         application.save()
         return Response(ApplicationSerializer(application).data, status=status.HTTP_200_OK)
@@ -457,46 +494,56 @@ class SeekerFeedbackView(APIView):
     permission_classes = [permissions.IsAuthenticated]
     
     def get(self, request, profile_id):
-        # Get all feedback for this seeker from both models
-        from authentication.models import SeekerFeedback
-        
-        # Get the seeker profile
+        # Get the job seeker profile
         from authentication.models import JobSeekerProfile
-        seeker = get_object_or_404(JobSeekerProfile, id=profile_id)
+        profile = get_object_or_404(JobSeekerProfile, pk=profile_id)
         
-        # Combine feedback from both models
-        application_feedbacks = Feedback.objects.filter(profile=seeker)
-        seeker_feedbacks = SeekerFeedback.objects.filter(seeker=seeker)
+        # Check if the user is authorized to view this feedback
+        user = request.user
+        if (hasattr(user, 'seeker_profile') and user.seeker_profile.id != profile_id) and \
+           not hasattr(user, 'recruiter_profile'):
+            return Response(
+                {'detail': 'You are not authorized to view this feedback.'}, 
+                status=status.HTTP_403_FORBIDDEN
+            )
         
-        # Serialize the feedback
-        app_serializer = FeedbackSerializer(application_feedbacks, many=True)
+        # Get all feedbacks for this job seeker using the unified model
+        all_feedbacks = []
+        feedbacks = FeedbackRating.objects.filter(profile=profile).order_by('-created_at')
         
-        # Create a custom response for seeker feedbacks
-        seeker_feedback_data = [{
-            'id': feedback.id,
-            'rating': float(feedback.rating),
-            'comment': feedback.comment,
-            'created_at': feedback.created_at.strftime('%Y-%m-%d'),
-            'recruiter_name': feedback.recruiter.company_name if feedback.recruiter else 'Unknown',
-            'source': 'general_feedback'
-        } for feedback in seeker_feedbacks]
-        
-        # Add source to application feedbacks
-        app_feedback_data = app_serializer.data
-        for feedback in app_feedback_data:
-            feedback['source'] = 'application_feedback'
-        
-        # Combine both types of feedback
-        all_feedback = list(app_feedback_data) + seeker_feedback_data
-        
-        # Sort by created_at (most recent first)
-        all_feedback.sort(key=lambda x: x['created_at'], reverse=True)
+        for feedback in feedbacks:
+            feedback_data = {
+                'id': feedback.id,
+                'recruiter_id': feedback.recruiter.id,
+                'recruiter_name': feedback.recruiter.company_name,
+                'rating': float(feedback.rating),
+                'comment': feedback.comment,
+                'created_at': feedback.created_at.strftime('%Y-%m-%d'),
+                'type': feedback.feedback_type.lower()
+            }
+            
+            # Add application details if this is application feedback
+            if feedback.application:
+                feedback_data.update({
+                    'application_id': feedback.application.id,
+                    'job_id': feedback.application.job.id,
+                    'job_title': feedback.application.job.title
+                })
+            else:
+                feedback_data.update({
+                    'application_id': None,
+                    'job_id': None,
+                    'job_title': None
+                })
+                
+            all_feedbacks.append(feedback_data)
         
         return Response({
-            'profile_id': profile_id,
-            'feedbacks': all_feedback,
-            'average_rating': seeker.average_rating or 0.0,
-            'feedback_count': len(all_feedback)
+            'profile_id': profile.id,
+            'full_name': profile.full_name,
+            'average_rating': profile.average_rating,
+            'feedback_count': profile.feedback_count,
+            'feedbacks': all_feedbacks
         })
 
 
@@ -568,13 +615,14 @@ class ApplicationFeedbackView(APIView):
         # Create feedback data
         feedback_data = {
             'application': application.id,
-            'profile': request.data.get('profile_id'),
+            'profile': application.seeker.id,  # Use the seeker from the application
             'rating': request.data.get('rating'),
-            'comment': request.data.get('comment', '')
+            'comment': request.data.get('comment', ''),
+            'feedback_type': 'APPLICATION'  # Specify this is application feedback
         }
         
         # Validate and save feedback
-        serializer = FeedbackSerializer(data=feedback_data, context={'request': request})
+        serializer = FeedbackRatingSerializer(data=feedback_data, context={'request': request})
         if serializer.is_valid():
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
@@ -594,8 +642,8 @@ class ApplicationFeedbackView(APIView):
             )
         
         # Get all feedbacks for this application
-        feedbacks = Feedback.objects.filter(application=application)
-        serializer = FeedbackSerializer(feedbacks, many=True)
+        feedbacks = FeedbackRating.objects.filter(application=application, feedback_type='APPLICATION')
+        serializer = FeedbackRatingSerializer(feedbacks, many=True)
         return Response(serializer.data)
 
 

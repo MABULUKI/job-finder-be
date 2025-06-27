@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Job, Application, Feedback
+from .models import Job, Application, FeedbackRating
 from django.utils import timezone
 
 
@@ -35,7 +35,7 @@ class ApplicationSerializer(serializers.ModelSerializer):
         
     def get_feedbacks(self, obj):
         # Get all feedbacks for this application
-        feedbacks_queryset = Feedback.objects.filter(application=obj)
+        feedbacks_queryset = FeedbackRating.objects.filter(application=obj, feedback_type='APPLICATION')
         if not feedbacks_queryset.exists():
             return []
             
@@ -45,20 +45,16 @@ class ApplicationSerializer(serializers.ModelSerializer):
                 'rating': float(feedback.rating),
                 'comment': feedback.comment,
                 'created_at': feedback.created_at.strftime('%Y-%m-%d'),
-                'recruiter_name': feedback.recruiter.company_name
+                'recruiter_name': feedback.recruiter.company_name,
+                'feedback_type': feedback.feedback_type
             } for feedback in feedbacks_queryset
         ]
         
     def get_seeker_details(self, obj):
         seeker = obj.seeker
-        # Get all feedbacks for this seeker
-        feedbacks_queryset = Feedback.objects.filter(profile=seeker)
-        
-        # Calculate average rating
-        average_rating = 0.0
-        if feedbacks_queryset.exists():
-            total_rating = sum(float(feedback.rating) for feedback in feedbacks_queryset)
-            average_rating = total_rating / feedbacks_queryset.count()
+        # Use the property methods from JobSeekerProfile to get ratings
+        average_rating = seeker.average_rating or 0.0
+        feedback_count = seeker.feedback_count
             
         return {
             'id': seeker.id,
@@ -74,21 +70,28 @@ class ApplicationSerializer(serializers.ModelSerializer):
             'location': seeker.location,
             'willing_to_relocate': seeker.willing_to_relocate,
             'salary_expectation': seeker.salary_expectation,
-            'average_rating': round(average_rating, 1),
-            'feedback_count': feedbacks_queryset.count(),
+            'average_rating': average_rating,
+            'feedback_count': feedback_count,
         }
 
 
-class FeedbackSerializer(serializers.ModelSerializer):
+class FeedbackRatingSerializer(serializers.ModelSerializer):
     recruiter_name = serializers.SerializerMethodField()
     
     class Meta:
-        model = Feedback
-        fields = ['id', 'application', 'profile', 'rating', 'comment', 'created_at', 'recruiter_name']
+        model = FeedbackRating
+        fields = ['id', 'application', 'profile', 'rating', 'comment', 'created_at', 
+                 'recruiter_name', 'feedback_type']
         read_only_fields = ['recruiter', 'created_at', 'recruiter_name']
     
     def get_recruiter_name(self, obj):
         return obj.recruiter.company_name if obj.recruiter else 'Unknown'
+    
+    def validate_rating(self, value):
+        """Ensure rating doesn't exceed 5.0"""
+        if value > 5.0:
+            return 5.0
+        return value
     
     def create(self, validated_data):
         # Get the recruiter from the request
@@ -98,5 +101,13 @@ class FeedbackSerializer(serializers.ModelSerializer):
         
         # Add the recruiter to the validated data
         validated_data['recruiter'] = request.user.recruiter_profile
+        
+        # Set default feedback type if not provided
+        if 'feedback_type' not in validated_data:
+            # If application is provided, it's an application feedback
+            if validated_data.get('application'):
+                validated_data['feedback_type'] = 'APPLICATION'
+            else:
+                validated_data['feedback_type'] = 'PROFILE'
         
         return super().create(validated_data)

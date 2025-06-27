@@ -1,5 +1,6 @@
 from rest_framework import serializers
-from .models import RecruiterProfile, JobSeekerProfile, SeekerFeedback
+from .models import RecruiterProfile, JobSeekerProfile
+from core.models import FeedbackRating
 
 class RecruiterProfileSerializer(serializers.ModelSerializer):
     email = serializers.EmailField(source='user.email', read_only=True)
@@ -11,18 +12,18 @@ class RecruiterProfileSerializer(serializers.ModelSerializer):
         ]
         read_only_fields = ['id', 'email', 'company_name']
 
-class SeekerFeedbackSerializer(serializers.ModelSerializer):
+class FeedbackRatingSerializer(serializers.ModelSerializer):
     recruiter = serializers.StringRelatedField(read_only=True)
     class Meta:
-        model = SeekerFeedback
-        fields = ['id', 'seeker', 'recruiter', 'rating', 'comment', 'created_at']
+        model = FeedbackRating
+        fields = ['id', 'profile', 'recruiter', 'rating', 'comment', 'created_at', 'feedback_type', 'application']
         read_only_fields = ['recruiter', 'created_at']
 
 class JobSeekerProfileSerializer(serializers.ModelSerializer):
     email = serializers.EmailField(source='user.email', read_only=True)
     average_rating = serializers.FloatField(read_only=True)
     feedback_count = serializers.IntegerField(read_only=True)
-    feedbacks = SeekerFeedbackSerializer(many=True, read_only=True)
+    feedbacks = FeedbackRatingSerializer(source='all_feedbacks', many=True, read_only=True)
     class Meta:
         model = JobSeekerProfile
         fields = [

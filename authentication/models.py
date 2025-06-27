@@ -68,28 +68,32 @@ class JobSeekerProfile(models.Model):
     is_available = models.BooleanField(default=True)
     profile_updated = models.BooleanField(default=False)
 
-    # Aggregate rating for seeker
+    # Aggregate rating for seeker using the unified feedback system
     @property
     def average_rating(self):
-        ratings = self.feedbacks.all().values_list('rating', flat=True)
-        return round(sum(ratings) / len(ratings), 2) if ratings else None
+        ratings = self.all_feedbacks.all().values_list('rating', flat=True)
+        if not ratings:
+            return None
+        # Calculate average but ensure it doesn't exceed 5.0
+        avg = sum(ratings) / len(ratings)
+        return min(round(avg, 2), 5.0)
 
     @property
     def feedback_count(self):
-        return self.feedbacks.count()
+        return self.all_feedbacks.count()
+        
+    @property
+    def application_feedbacks(self):
+        """Get only feedbacks related to applications"""
+        return self.all_feedbacks.filter(feedback_type='APPLICATION')
+    
+    @property
+    def profile_feedbacks(self):
+        """Get only general profile feedbacks"""
+        return self.all_feedbacks.filter(feedback_type='PROFILE')
 
     def __str__(self):
         return f"JobSeekerProfile({self.user.email})"
 
-class SeekerFeedback(models.Model):
-    seeker = models.ForeignKey('JobSeekerProfile', on_delete=models.CASCADE, related_name='feedbacks')
-    recruiter = models.ForeignKey('RecruiterProfile', on_delete=models.CASCADE, related_name='given_feedbacks')
-    rating = models.PositiveSmallIntegerField()
-    comment = models.TextField(blank=True)
-    created_at = models.DateTimeField(auto_now_add=True)
-
-    class Meta:
-        unique_together = ('seeker', 'recruiter')
-
-    def __str__(self):
-        return f"Feedback({self.seeker.user.email}, {self.recruiter.user.email}, {self.rating})"
+# SeekerFeedback model has been moved to core.models.FeedbackRating
+# This provides a unified feedback system for both application-specific and general profile feedback
