@@ -111,16 +111,50 @@ class Application(models.Model):
         verbose_name_plural = 'Applications'
 
 
-class Feedback(models.Model):
-    """Model to store feedback and ratings for job seekers after they've been approved for a job"""
-    application = models.ForeignKey(Application, on_delete=models.CASCADE, related_name='feedbacks')
-    profile = models.ForeignKey('authentication.JobSeekerProfile', on_delete=models.CASCADE, related_name='received_feedbacks')
-    recruiter = models.ForeignKey('authentication.RecruiterProfile', on_delete=models.CASCADE, related_name='application_feedbacks')
+class FeedbackRating(models.Model):
+    """
+    Unified model to store all types of feedback and ratings in the system.
+    This can be linked to either an Application or directly to a JobSeekerProfile.
+    """
+    # The job seeker who is receiving the feedback
+    profile = models.ForeignKey('authentication.JobSeekerProfile', on_delete=models.CASCADE, related_name='all_feedbacks')
+    
+    # The recruiter giving the feedback
+    recruiter = models.ForeignKey('authentication.RecruiterProfile', on_delete=models.CASCADE, related_name='given_feedbacks')
+    
+    # Optional link to a specific application (can be null for general profile feedback)
+    application = models.ForeignKey(Application, on_delete=models.CASCADE, related_name='feedbacks', null=True, blank=True)
+    
+    # Rating is limited to 5.0 max
     rating = models.DecimalField(max_digits=3, decimal_places=1, help_text="Rating from 1.0 to 5.0")
+    
+    # Feedback content
     comment = models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
     
+    # Feedback type to distinguish between application feedback and general profile feedback
+    FEEDBACK_TYPE_CHOICES = [
+        ('APPLICATION', 'Application Feedback'),
+        ('PROFILE', 'Profile Feedback'),
+    ]
+    feedback_type = models.CharField(max_length=20, choices=FEEDBACK_TYPE_CHOICES, default='APPLICATION')
+    
     class Meta:
-        verbose_name = 'Feedback'
-        verbose_name_plural = 'Feedbacks'
+        verbose_name = 'Feedback & Rating'
+        verbose_name_plural = 'Feedback & Ratings'
         ordering = ['-created_at']
+        # Ensure a recruiter can only give one feedback per application
+        # But can give multiple general feedbacks over time
+        constraints = [
+            models.UniqueConstraint(
+                fields=['recruiter', 'application'],
+                condition=models.Q(application__isnull=False),
+                name='unique_application_feedback'
+            )
+        ]
+    
+    def save(self, *args, **kwargs):
+        # Ensure rating doesn't exceed 5.0
+        if self.rating > 5.0:
+            self.rating = 5.0
+        super().save(*args, **kwargs)

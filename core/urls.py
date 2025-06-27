@@ -17,7 +17,8 @@ from .views import (
     JobApplicantsView,
     ApplicationFeedbackView,
     SeekerFeedbackView,
-    ApplicationDetailView
+    ApplicationDetailView,
+    ApplicationStatusUpdateView
 )
 
 urlpatterns = [
@@ -33,6 +34,7 @@ urlpatterns = [
     path('jobs/<int:job_id>/applicants/', JobApplicantsView.as_view(), name='job-applicants'),
     path('applications/<int:pk>/next-step/', ApplicationNextStepView.as_view(), name='application-next-step'),
     path('applications/<int:pk>/approve-next-step/', ApplicationApproveNextStepView.as_view(), name='application-approve-next-step'),
+    path('applications/<int:pk>/status/', ApplicationStatusUpdateView.as_view(), name='application-status-update'),
     path('seeker/toggle-availability/', ToggleAvailabilityView.as_view(), name='toggle-availability'),
     path('dashboard/stats/', DashboardStatsView.as_view(), name='dashboard-stats'),
     path('dashboard/recruiter-stats/', RecruiterDashboardStatsView.as_view(), name='recruiter-dashboard-stats'),

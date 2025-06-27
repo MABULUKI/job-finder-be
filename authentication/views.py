@@ -6,8 +6,9 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from django.contrib.auth.hashers import check_password
 from rest_framework import generics, permissions
 from rest_framework.exceptions import NotFound
-from .models import User, RecruiterProfile, JobSeekerProfile, SeekerFeedback
-from .serializers import RecruiterProfileSerializer, JobSeekerProfileSerializer, SeekerFeedbackSerializer
+from .models import User, RecruiterProfile, JobSeekerProfile
+from core.models import FeedbackRating
+from .serializers import RecruiterProfileSerializer, JobSeekerProfileSerializer, FeedbackRatingSerializer
 from rest_framework.permissions import IsAuthenticated
 
 # Create your views here.
@@ -153,22 +154,37 @@ class JobSeekerProfileUpdateView(generics.UpdateAPIView):
         return response
 
 class SeekerFeedbackCreateView(generics.CreateAPIView):
-    serializer_class = SeekerFeedbackSerializer
+    serializer_class = FeedbackRatingSerializer
     permission_classes = [permissions.IsAuthenticated]
-
+    
     def perform_create(self, serializer):
-        recruiter = self.request.user.recruiter_profile
-        seeker_id = self.request.data.get('seeker')
-        seeker = JobSeekerProfile.objects.get(id=seeker_id)
-        serializer.save(recruiter=recruiter, seeker=seeker)
+        user = self.request.user
+        if not hasattr(user, 'recruiter_profile'):
+            raise NotFound('Only recruiters can provide feedback.')
+        
+        # Get the profile ID from the request data
+        profile_id = self.request.data.get('profile')
+        if not profile_id:
+            raise serializers.ValidationError({'profile': 'Profile ID is required'})
+            
+        try:
+            profile = JobSeekerProfile.objects.get(id=profile_id)
+            serializer.save(
+                recruiter=user.recruiter_profile,
+                profile=profile,
+                feedback_type='PROFILE',
+                application=None
+            )
+        except JobSeekerProfile.DoesNotExist:
+            raise NotFound(f'Job seeker profile with ID {profile_id} not found')
 
 class SeekerFeedbackListView(generics.ListAPIView):
-    serializer_class = SeekerFeedbackSerializer
+    serializer_class = FeedbackRatingSerializer
     permission_classes = [permissions.IsAuthenticated]
-
+    
     def get_queryset(self):
-        seeker_id = self.kwargs['seeker_id']
-        return SeekerFeedback.objects.filter(seeker_id=seeker_id).order_by('-created_at')
+        seeker_id = self.kwargs.get('seeker_id')
+        return FeedbackRating.objects.filter(profile_id=seeker_id, feedback_type='PROFILE').order_by('-created_at')
 
 class LoginView(APIView):
     def post(self, request):
