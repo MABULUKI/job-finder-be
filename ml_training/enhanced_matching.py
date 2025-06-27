@@ -217,13 +217,13 @@ def extract_experience_years(experience_list: List[Dict[str, Any]]) -> float:
     
     return round(total_years, 1)
 
-def education_level_score(seeker_education: List[Dict[str, Any]], job_requirements: List[str]) -> float:
+def education_level_score(seeker_education: List[Dict[str, Any]], job_requirements: List[Dict[str, Any]]) -> float:
     """
-    Calculate education match score based on job requirements
+    Calculate education match score based on structured job requirements
     
     Args:
         seeker_education: List of education dictionaries from seeker profile
-        job_requirements: List of job requirement strings
+        job_requirements: List of requirement dictionaries from job posting
         
     Returns:
         Education match score between 0.0 and 1.0
@@ -231,100 +231,194 @@ def education_level_score(seeker_education: List[Dict[str, Any]], job_requiremen
     if not job_requirements:
         return 1.0  # No specific requirements
     
-    # Extract education levels from seeker
-    seeker_levels = []
-    for edu in seeker_education:
-        level = edu.get('level', '').lower()
-        field = edu.get('field', '').lower()
-        type_val = edu.get('type', '').lower()
-        
-        if level:
-            seeker_levels.append(level)
-        if 'bachelor' in type_val or 'degree' in type_val:
-            seeker_levels.append('bachelor')
-        elif 'master' in type_val:
-            seeker_levels.append('masters')
-        elif 'phd' in type_val or 'doctorate' in type_val:
-            seeker_levels.append('phd')
-        elif 'diploma' in type_val:
-            seeker_levels.append('diploma')
-    
-    # Check if job requires specific education
-    required_education = []
-    required_fields = []
-    
-    for req in job_requirements:
-        req_lower = req.lower()
-        
-        # Check for education level requirements
-        if 'bachelor' in req_lower or 'degree' in req_lower:
-            required_education.append('bachelor')
-        elif 'master' in req_lower:
-            required_education.append('masters')
-        elif 'phd' in req_lower or 'doctorate' in req_lower:
-            required_education.append('phd')
-        elif 'diploma' in req_lower:
-            required_education.append('diploma')
-        
-        # Check for field requirements
-        fields = ['engineering', 'computer science', 'it', 'software', 
-                 'business', 'marketing', 'finance', 'accounting', 
-                 'medicine', 'healthcare', 'data science']
-        
-        for field in fields:
-            if field in req_lower:
-                required_fields.append(field)
-    
     # Define education level rankings
     education_rank = {
-        'certificate': 1,
-        'diploma': 2,
-        'bachelor': 3, 
-        'degree': 3,
-        'masters': 4,
-        'phd': 5,
-        'doctorate': 5
+        'no education': 0,
+        'ordinary levels': 1,
+        'certificate': 2,
+        'diploma': 3,
+        'bachelor': 4, 
+        'degree': 4,
+        'masters': 5,
+        'phd': 6,
+        'doctorate': 6
     }
     
-    # Find seeker's highest education level
-    seeker_highest = 0
-    for level in seeker_levels:
-        for key, rank in education_rank.items():
-            if key in level:
-                seeker_highest = max(seeker_highest, rank)
+    # Extract education requirements that are specifically of type 'education'
+    education_requirements = []
+    for req in job_requirements:
+        if isinstance(req, dict) and req.get('type') == 'education':
+            education_requirements.append(req)
     
-    # Find job's required education level
-    required_highest = 0
-    for level in required_education:
-        required_highest = max(required_highest, education_rank.get(level, 0))
-    
-    # Calculate level match score
-    if required_highest == 0:
-        level_score = 1.0  # No specific level requirement
-    elif seeker_highest >= required_highest:
-        level_score = 1.0  # Meets or exceeds requirements
-    elif seeker_highest > 0:
-        level_score = seeker_highest / required_highest  # Partial match
-    else:
-        level_score = 0.0  # No match
-    
-    # Check field match if required
-    field_score = 1.0
-    if required_fields:
-        has_field_match = False
+    # If no specific education requirements found, check legacy format
+    if not education_requirements:
+        # Legacy format handling
+        required_education = []
+        required_fields = []
+        
+        for req in job_requirements:
+            if isinstance(req, str):
+                req_lower = req.lower()
+                
+                # Check for education level requirements
+                if 'bachelor' in req_lower or 'degree' in req_lower:
+                    required_education.append('bachelor')
+                elif 'master' in req_lower:
+                    required_education.append('masters')
+                elif 'phd' in req_lower or 'doctorate' in req_lower:
+                    required_education.append('phd')
+                elif 'diploma' in req_lower:
+                    required_education.append('diploma')
+                
+                # Check for field requirements
+                fields = ['engineering', 'computer science', 'it', 'software', 
+                         'business', 'marketing', 'finance', 'accounting', 
+                         'medicine', 'healthcare', 'data science']
+                
+                for field in fields:
+                    if field in req_lower:
+                        required_fields.append(field)
+        
+        # Legacy scoring
+        if not required_education and not required_fields:
+            return 1.0
+            
+        # Extract seeker education levels for legacy format
+        seeker_levels = []
+        seeker_fields = []
         for edu in seeker_education:
-            edu_field = edu.get('field', '').lower()
-            for req_field in required_fields:
-                if req_field in edu_field:
-                    has_field_match = True
+            level = edu.get('level', '').lower()
+            field = edu.get('field', '').lower()
+            type_val = edu.get('type', '').lower()
+            
+            if level:
+                seeker_levels.append(level)
+            if field:
+                seeker_fields.append(field)
+                
+            # Map education types to standard levels
+            if 'bachelor' in type_val or 'degree' in type_val:
+                seeker_levels.append('bachelor')
+            elif 'master' in type_val:
+                seeker_levels.append('masters')
+            elif 'phd' in type_val or 'doctorate' in type_val:
+                seeker_levels.append('phd')
+            elif 'diploma' in type_val:
+                seeker_levels.append('diploma')
+        
+        # Find seeker's highest education level
+        seeker_highest = 0
+        for level in seeker_levels:
+            for key, rank in education_rank.items():
+                if key in level:
+                    seeker_highest = max(seeker_highest, rank)
+        
+        # Find job's required education level
+        required_highest = 0
+        for level in required_education:
+            required_highest = max(required_highest, education_rank.get(level, 0))
+        
+        # Calculate level match score
+        if required_highest == 0:
+            level_score = 1.0  # No specific level requirement
+        elif seeker_highest >= required_highest:
+            level_score = 1.0  # Meets or exceeds requirements
+        elif seeker_highest > 0:
+            level_score = seeker_highest / required_highest  # Partial match
+        else:
+            level_score = 0.0  # No match
+        
+        # Check field match if required
+        field_score = 1.0
+        if required_fields:
+            has_field_match = False
+            for field in seeker_fields:
+                for req_field in required_fields:
+                    if req_field in field:
+                        has_field_match = True
+                        break
+                if has_field_match:
                     break
-            if has_field_match:
+            
+            field_score = 1.0 if has_field_match else 0.0  # Stricter field matching
+        
+        # Combine scores (field is now equally important)
+        return level_score * 0.5 + field_score * 0.5
+    
+    # New structured education matching
+    # For each job education requirement, find if the seeker has a matching education
+    requirement_scores = []
+    
+    for job_edu in education_requirements:
+        job_level = job_edu.get('level', '').lower()
+        job_field = job_edu.get('field', '').lower()
+        
+        # Skip if no level or field specified
+        if not job_level or not job_field:
+            continue
+            
+        # Get the required education rank
+        required_rank = 0
+        for key, rank in education_rank.items():
+            if key in job_level:
+                required_rank = rank
                 break
         
-        field_score = 1.0 if has_field_match else 0.5
+        # Check each of seeker's education entries
+        best_match_score = 0.0
+        
+        for seeker_edu in seeker_education:
+            seeker_level = seeker_edu.get('level', '').lower()
+            seeker_field = seeker_edu.get('field', '').lower()
+            
+            # Skip if no level or field specified
+            if not seeker_level or not seeker_field:
+                continue
+                
+            # Get seeker education rank
+            seeker_rank = 0
+            for key, rank in education_rank.items():
+                if key in seeker_level:
+                    seeker_rank = rank
+                    break
+            
+            # Calculate level match
+            if seeker_rank >= required_rank:
+                level_score = 1.0  # Meets or exceeds requirements
+            elif seeker_rank > 0 and required_rank > 0:
+                level_score = seeker_rank / required_rank  # Partial match
+            else:
+                level_score = 0.0  # No match
+            
+            # Calculate field match - exact match required
+            # Normalize fields by removing spaces and converting to lowercase
+            norm_seeker_field = seeker_field.replace(' ', '').lower()
+            norm_job_field = job_field.replace(' ', '').lower()
+            
+            # Check for exact match or if one contains the other
+            if norm_seeker_field == norm_job_field:
+                field_score = 1.0  # Exact match
+            elif norm_seeker_field in norm_job_field or norm_job_field in norm_seeker_field:
+                field_score = 0.8  # Partial match
+            else:
+                field_score = 0.0  # No match
+            
+            # Calculate combined score for this education entry
+            # Field matching is now MORE important (60%) than level (40%)
+            match_score = level_score * 0.4 + field_score * 0.6
+            
+            # Keep track of best match
+            best_match_score = max(best_match_score, match_score)
+        
+        requirement_scores.append(best_match_score)
     
-    # Combine scores (level is more important)
-    return level_score * 0.7 + field_score * 0.3
+    # If no valid requirements were processed, return neutral score
+    if not requirement_scores:
+        return 0.5
+    
+    # Return average score across all requirements
+    # This ensures ALL education requirements must be satisfied for a high score
+    return sum(requirement_scores) / len(requirement_scores)
 
 def job_type_match(seeker_preferences: List[str], job_type: str) -> float:
     """

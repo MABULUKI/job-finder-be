@@ -208,6 +208,9 @@ class JobApplicantsView(APIView):
                 'status': app_data['status'],
                 'applied_at': app_data['applied_at'],
                 'cover_letter': app_data['cover_letter'],
+                'selected_for_next_step': app_data.get('selected_for_next_step', False),
+                'next_step_type': app_data.get('next_step_type', ''),
+                'next_step_status': app_data.get('next_step_status', ''),
                 'name': seeker_details.get('full_name', 'Unknown'),
                 'email': seeker_details.get('email', ''),
                 'phone': seeker_details.get('phone', ''),
@@ -259,15 +262,42 @@ class ApplicationNextStepView(APIView):
         user = request.user
         if not hasattr(user, 'recruiter_profile') or application.job.recruiter != user.recruiter_profile:
             return Response({'detail': 'Permission denied.'}, status=status.HTTP_403_FORBIDDEN)
+        
         next_step_type = request.data.get('next_step_type')
         job_duration_days = request.data.get('job_duration_days')
-        if next_step_type not in dict(Application._meta.get_field('next_step_type').choices):
+        recruiter_notes = request.data.get('recruiter_notes')
+        
+        # Validate next_step_type
+        if next_step_type not in dict(Application._meta.get_field('next_step_type').choices) and next_step_type != 'REJECTED':
             return Response({'detail': 'Invalid next_step_type.'}, status=status.HTTP_400_BAD_REQUEST)
+        
+        # Handle rejection case
+        if next_step_type == 'REJECTED':
+            application.status = 'REJECTED'
+            if recruiter_notes:
+                application.recruiter_notes = recruiter_notes
+            application.save()
+            return Response(ApplicationSerializer(application).data, status=status.HTTP_200_OK)
+        
+        # Handle normal next step flow
         application.selected_for_next_step = True
         application.next_step_type = next_step_type
         application.next_step_status = 'APPROVED'
+        
+        # Update application status based on next_step_type
+        if next_step_type == 'DIRECT_HIRE':
+            application.status = 'HIRED'
+        elif next_step_type == 'INTERVIEW':
+            application.status = 'INTERVIEW'
+            
+        # Set job duration for direct hires
         if next_step_type == 'DIRECT_HIRE' and job_duration_days:
             application.job_duration_days = job_duration_days
+            
+        # Save recruiter notes if provided
+        if recruiter_notes:
+            application.recruiter_notes = recruiter_notes
+            
         application.save()
         return Response(ApplicationSerializer(application).data, status=status.HTTP_200_OK)
 
@@ -467,6 +497,42 @@ class SeekerFeedbackView(APIView):
             'average_rating': seeker.average_rating or 0.0,
             'feedback_count': len(all_feedback)
         })
+
+
+class ApplicationDetailView(APIView):
+    """View to retrieve application details including approval status and notes"""
+    permission_classes = [permissions.IsAuthenticated]
+    
+    def get(self, request, pk):
+        # Get the application
+        application = get_object_or_404(Application, pk=pk)
+        
+        # Check if the user is authorized to view this application
+        user = request.user
+        if (hasattr(user, 'recruiter_profile') and application.job.recruiter != user.recruiter_profile) and \
+           (hasattr(user, 'seeker_profile') and application.seeker != user.seeker_profile):
+            return Response(
+                {'detail': 'You are not authorized to view this application.'}, 
+                status=status.HTTP_403_FORBIDDEN
+            )
+        
+        # Return application details including approval status and notes
+        data = {
+            'id': application.id,
+            'job': application.job.id,
+            'job_title': application.job.title,
+            'seeker': application.seeker.id,
+            'seeker_name': f"{application.seeker.user.first_name} {application.seeker.user.last_name}",
+            'status': application.status,
+            'applied_at': application.applied_at,
+            'selected_for_next_step': application.selected_for_next_step,
+            'next_step_type': application.next_step_type,
+            'next_step_status': application.next_step_status,
+            'applicant_approved': application.applicant_approved,
+            'recruiter_notes': application.recruiter_notes
+        }
+        
+        return Response(data)
 
 
 class ApplicationFeedbackView(APIView):
