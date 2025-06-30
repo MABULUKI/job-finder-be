@@ -297,6 +297,10 @@ class ApplicationNextStepView(APIView):
         # Save recruiter notes if provided
         if recruiter_notes:
             application.recruiter_notes = recruiter_notes
+            
+        # Save the application and return response
+        application.save()
+        return Response(ApplicationSerializer(application).data, status=status.HTTP_200_OK)
 
 
 class ApplicationStatusUpdateView(APIView):
@@ -333,9 +337,6 @@ class ApplicationStatusUpdateView(APIView):
         application.save()
         
         # Return the updated application data
-        return Response(ApplicationSerializer(application).data, status=status.HTTP_200_OK)
-            
-        application.save()
         return Response(ApplicationSerializer(application).data, status=status.HTTP_200_OK)
 
 class ApplicationApproveNextStepView(APIView):

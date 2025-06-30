@@ -1,4 +1,4 @@
-"""Gunicorn configuration file for the Job Finder application."""
+"""Gunicorn configuration file for the Job RS application."""
 import multiprocessing
 
 # Bind to this socket
