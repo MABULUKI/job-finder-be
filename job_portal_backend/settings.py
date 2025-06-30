@@ -124,12 +124,13 @@ SIMPLE_JWT = {
 }
 
 # CORS
-if DEBUG:
-    CORS_ALLOW_ALL_ORIGINS = True
-else:
-    default_origins = "http://localhost:8000,http://127.0.0.1:8000"
-    CORS_ALLOWED_ORIGINS = os.environ.get('CORS_ALLOWED_ORIGINS', default_origins).split(',')
+# if DEBUG:
+#     CORS_ALLOW_ALL_ORIGINS = True
+# else:
+#     default_origins = "http://localhost:8000,http://127.0.0.1:8000"
+#     CORS_ALLOWED_ORIGINS = os.environ.get('CORS_ALLOWED_ORIGINS', default_origins).split(',')
 
 CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_HEADERS = ['*']
 CORS_ALLOW_METHODS = ['*']
