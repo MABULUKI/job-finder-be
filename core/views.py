@@ -19,6 +19,40 @@ from django.http import JsonResponse
 
 # Create your views here.
 
+class JobInviteApplicantView(APIView):
+    permission_classes = [permissions.IsAuthenticated]
+
+    def post(self, request, job_id):
+        seeker_id = request.data.get('seeker_id')
+        message = request.data.get('message', '')
+        if not seeker_id:
+            return Response({'detail': 'Missing seeker_id.'}, status=status.HTTP_400_BAD_REQUEST)
+        try:
+            job = Job.objects.get(pk=job_id)
+        except Job.DoesNotExist:
+            return Response({'detail': 'Job not found.'}, status=status.HTTP_404_NOT_FOUND)
+        user = request.user
+        if not hasattr(user, 'recruiter_profile') or job.recruiter != user.recruiter_profile:
+            return Response({'detail': 'Permission denied.'}, status=status.HTTP_403_FORBIDDEN)
+        try:
+            from authentication.models import JobSeekerProfile
+            seeker = JobSeekerProfile.objects.get(pk=seeker_id)
+        except JobSeekerProfile.DoesNotExist:
+            return Response({'detail': 'Seeker not found.'}, status=status.HTTP_404_NOT_FOUND)
+        # Check if application already exists
+        if Application.objects.filter(job=job, seeker=seeker).exists():
+            return Response({'detail': 'Application already exists.'}, status=status.HTTP_400_BAD_REQUEST)
+        # Create application with INVITED status
+        app = Application.objects.create(
+            job=job,
+            seeker=seeker,
+            status='INVITED',
+            recruiter_notes=message
+        )
+        serializer = ApplicationSerializer(app)
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+
 
 class JobCreateView(generics.CreateAPIView):
     queryset = Job.objects.all()
@@ -160,23 +194,38 @@ class CandidateRecommendationView(generics.GenericAPIView):
         print(f"[DEBUG] Recommended candidates count: {len(recommended)}")
         print(f"[DEBUG] Recommended candidate IDs: {[seeker.id for seeker in recommended]}")
         
-        # Enhance response with match scores
+        # Enhance response with match scores and application status
         serializer = self.get_serializer(recommended, many=True)
         data = serializer.data
-        
-        # Add match score to each candidate
+
+        # Preload all applications for this job in one query
+        applications = Application.objects.filter(job=job)
+        seeker_to_app = {app.seeker_id: app for app in applications}
+
         for i, candidate in enumerate(data):
             # Calculate a simple match score based on skills overlap
             job_skills = set(skill.lower() for skill in job.skills) if job.skills else set()
             candidate_skills = set(skill.lower() for skill in candidate.get('skills', []))
-            
             if job_skills and candidate_skills:
                 match_score = len(job_skills.intersection(candidate_skills)) / len(job_skills) * 100
                 candidate['match_score'] = round(match_score, 1)
             else:
                 candidate['match_score'] = 50.0  # Default score
-        
+
+            # Attach application info if exists
+            seeker_id = candidate.get('id') or candidate.get('profile_id')
+            app = seeker_to_app.get(seeker_id)
+            if app:
+                candidate['has_applied'] = True
+                candidate['application_id'] = app.id
+                candidate['application_status'] = app.status
+            else:
+                candidate['has_applied'] = False
+                candidate['application_id'] = None
+                candidate['application_status'] = None
+
         return Response(data)
+
 
 
 class JobApplicantsView(APIView):

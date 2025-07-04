@@ -50,6 +50,7 @@ APPLICATION_STATUS_CHOICES = [
     ('INTERVIEW', 'Interview'),
     ('HIRED', 'Hired'),
     ('REJECTED', 'Rejected'),
+    ('INVITED', 'Invited'),
 ]
 
 NEXT_STEP_CHOICES = [
